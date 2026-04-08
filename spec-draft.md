@@ -3,6 +3,7 @@
 - **Trịnh Đắc Phú (2A202600322)**
 - **Nguyễn Thị Cẩm Nhung (2A202600208)**
 - **Trịnh Minh Công Tuyền (2A202600324)**
+- **Trần Hữu Gia Huy (2A202600426)**
 
 ## Track: A - VinFast
 
