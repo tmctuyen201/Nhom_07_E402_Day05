@@ -60,13 +60,15 @@ def get_pgvector_store(collection_name: str) -> PGVector:
     print("Connecting to PGvector...")
 
     db_user = os.getenv("POSTGRES_USER")
-    db_password = quote_plus(os.getenv("POSTGRES_PASSWORD"))
+    raw_password = os.getenv("POSTGRES_PASSWORD")
     db_name = os.getenv("POSTGRES_DB")
     db_host = os.getenv("POSTGRES_HOST")
     db_port = os.getenv("POSTGRES_PORT")
     print(db_host)
-    if not all([db_user, db_password, db_name]):
+    if not all([db_user, raw_password, db_name]):
         raise ValueError("Pls provide POSTGRES_USER, POSTGRES_PASSWORD, POSTGRES_DB in .env")
+
+    db_password = quote_plus(raw_password)
 
     connection_string = f"postgresql+psycopg://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}?sslmode=require&connect_timeout=10"
     print(f"Connecting to PGvector with database '{db_name}'...")
@@ -80,7 +82,7 @@ def get_pgvector_store(collection_name: str) -> PGVector:
         vector_store = PGVector(
             embeddings=embedding_model,
             collection_name=collection_name,
-            connection_string=connection_string,
+            connection=connection_string,
         )
         print("✅ Connection and PGVector store initialization successful!")
         return vector_store
@@ -118,11 +120,13 @@ def query_similar_vectors_from_pgvector(
 ) -> List[Document]:
     """
     Truy vấn các document tương tự từ PGvector.
+    Embedding query tự động via LangChain.
     """
     try:
-        # Sử dụng similarity_search_with_score để tìm kiếm
+        print(f"🔍 Embedding query: '{query[:50]}...'")
+        # LangChain tự động embedding query bằng embedding_model rồi search
         results_with_scores = vector_store.similarity_search_with_score(query=query, k=top_k)
-        # print(f"✅ Tìm thấy {len(results_with_scores)} kết quả.")
+        print(f"✅ Found {len(results_with_scores)} similar chunks from DB")
         return results_with_scores
     except Exception as e:
         print(f"❌ Error querying vector: {e}")

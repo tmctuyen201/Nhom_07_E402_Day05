@@ -11,7 +11,7 @@ ANTHROPIC_KEY  = os.getenv("ANTHROPIC_API_KEY", "")
 
 # ── RAG config ──────────────────────────────────────────────
 EMBEDDING_MODEL     = os.getenv("EMBEDDING_MODEL", "text-embedding-3-small")
-TOP_K               = int(os.getenv("TOP_K", "5"))
+TOP_K               = int(os.getenv("TOP_K", "3"))  # Return top-3 chunks to synthesize
 SIMILARITY_THRESHOLD = float(os.getenv("SIMILARITY_THRESHOLD", "0.3"))
 MAX_TOKENS          = int(os.getenv("MAX_TOKENS", "800"))
 
