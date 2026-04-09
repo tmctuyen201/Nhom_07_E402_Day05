@@ -15,7 +15,7 @@ Web chatbot hỗ trợ chủ xe VinFast VF8/VF9 tra cứu Manual, tính phạm v
 
 - **GitHub repo nhóm:** https://github.com/tmctuyen201/Nhom_07_E402_Day05
 - **Source code:** `vinfast-assistant/` trong repo
-- **Demo video (backup):**
+- **Demo video (backup):** https://drive.google.com/file/d/10ZqMe9msVKw-13TTz8feLmDA2Ikvg1_3/view?usp=sharing
 
 ## Tools
 
