@@ -70,10 +70,22 @@ def get_pgvector_store(collection_name: str) -> PGVector:
 
     db_password = quote_plus(raw_password)
 
-    connection_string = f"postgresql+psycopg://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}?sslmode=require&connect_timeout=10"
+    # Resolve hostname to IP first to avoid DNS issues
+    import socket
+    try:
+        ip_address = socket.getaddrinfo(db_host, int(db_port), socket.AF_INET)[0][4][0]
+        print(f"✅ Resolved {db_host} → {ip_address}")
+        connection_host = ip_address
+    except Exception as dns_err:
+        print(f"⚠️ DNS resolution failed: {dns_err}, using hostname directly")
+        connection_host = db_host
+    
+    connection_string = f"postgresql+psycopg://{db_user}:{db_password}@{connection_host}:{db_port}/{db_name}?sslmode=require&connect_timeout=30&keepalives=1&keepalives_idle=30"
     print(f"Connecting to PGvector with database '{db_name}'...")
 
     try:
+        from langchain_huggingface import HuggingFaceEmbeddings
+        
         embedding_model = HuggingFaceEmbeddings(
             model_name=os.getenv("MODEL_NAME_EMBED"),
             model_kwargs={'device': 'cpu'}

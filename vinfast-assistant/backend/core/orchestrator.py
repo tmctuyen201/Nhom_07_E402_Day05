@@ -1,4 +1,4 @@
-"""Main orchestrator: safety → RAG retrieve → LLM synthesize."""
+"""Main orchestrator: safety → RAG retrieve (PGVector + Rerank) → LLM synthesize."""
 import re
 import logging
 from typing import Optional
@@ -6,7 +6,6 @@ from typing import Optional
 from .types import SynthesisResult
 from .safety import check as safety_check
 from .prompts import OFF_TOPIC_MSG, LOW_CONTEXT_MSG
-from ..rag.db import retrieve_from_db
 from ..config import LLM_PROVIDER
 
 logger = logging.getLogger("vinfast")
@@ -60,7 +59,7 @@ async def run_orchestrator(
 ) -> SynthesisResult:
     history = conversation_history or []
 
-    # 1. Safety
+    # 1. Safety check
     safety = safety_check(query, session_id)
     if not safety.is_safe:
         logger.warning(f"[{session_id}] Blocked: {safety.reason or 'off-topic'}")
@@ -72,33 +71,47 @@ async def run_orchestrator(
     # 2. RAG retrieve — skip for pure conversational queries
     if _is_conversational(query):
         logger.info(f"[{session_id}] Conversational query — skipping RAG")
-        chunks = []
-    else:
-        chunks = retrieve_from_db(query, car_model=car_model, top_k=5, threshold=0.05)
-        if not chunks:
-            logger.warning(f"[{session_id}] No chunks retrieved")
-            return SynthesisResult(
-                answer=LOW_CONTEXT_MSG, sources=[], confidence=0.0, car_model=car_model,
+        # For conversational queries, use LLM directly without RAG
+        if LLM_PROVIDER == "anthropic":
+            from ..llm.anthropic import synthesize
+        else:
+            from ..llm.openai import synthesize
+        
+        try:
+            result = await synthesize(
+                query=query,
+                context_chunks=[],  # No RAG context
+                car_model=car_model,
+                conversation_history=history,
+                api_key=api_key,
+                user_profile=user_profile,
             )
-        logger.info(f"[{session_id}] {len(chunks)} chunks (top={chunks[0][1]:.3f})")
+            return result
+        except Exception as e:
+            logger.error(f"[{session_id}] Synthesize error: {e}")
+            return SynthesisResult(answer=f"Lỗi: {e}", sources=[], confidence=0.0, car_model=car_model)
 
-    # 3. LLM synthesize
-    if LLM_PROVIDER == "anthropic":
-        from ..llm.anthropic import synthesize
-    else:
-        from ..llm.openai import synthesize
-
+    # 3. Use new RAG flow: PGVector + Reranking + GPT-4o
     try:
-        result = await synthesize(
+        from ..rag.embeddings import search_and_answer
+        
+        logger.info(f"[{session_id}] Using PGVector + Reranking flow")
+        result = await search_and_answer(
             query=query,
-            context_chunks=chunks,
             car_model=car_model,
             conversation_history=history,
             api_key=api_key,
-            user_profile=user_profile,
+            top_k=3,  # Rerank to top-3
+            threshold=0.1,
+            use_rerank=True
         )
+        
         logger.info(f"[{session_id}] Done conf={result.confidence:.2f} cat={result.category}")
         return result
+        
     except Exception as e:
-        logger.error(f"[{session_id}] Synthesize error: {e}")
-        return SynthesisResult(answer=f"Lỗi: {e}", sources=[], confidence=0.0, car_model=car_model)
+        logger.error(f"[{session_id}] RAG flow error: {e}")
+        return SynthesisResult(
+            answer=f"Xin lỗi, đã xảy ra lỗi khi xử lý câu hỏi của bạn: {str(e)}",
+            sources=[], confidence=0.0, car_model=car_model
+        )

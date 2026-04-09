@@ -27,6 +27,27 @@ from .tools.location import find_nearby_stations
 app = FastAPI(title="VinFast Car Assistant API", version="2.0.0")
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
+# ── Startup: Pre-load PGVector + Embedding Model ─────────────
+@app.on_event("startup")
+async def startup_event():
+    """Pre-load PGVector connection and embedding model to avoid cold start."""
+    logger.info("🚀 Starting up: Pre-loading PGVector connection and embedding model...")
+    try:
+        from .rag.embeddings import _get_vector_store, _get_embedding_model
+        
+        # Pre-load embedding model
+        _get_embedding_model()
+        logger.info("✅ Embedding model pre-loaded")
+        
+        # Pre-load PGVector connection
+        _get_vector_store()
+        logger.info("✅ PGVector connection pre-loaded")
+        
+        logger.info("🎉 Startup complete! Ready to serve requests.")
+    except Exception as e:
+        logger.error(f"⚠️ Startup warning: {e}")
+        logger.info("Server will continue but first request may be slower.")
+
 # ── Models ────────────────────────────────────────────────────
 class AgentRequest(BaseModel):
     query: str = Field(..., min_length=1, max_length=500)
