@@ -1,6 +1,6 @@
 # User Manual VinFast VF8 - 25 pages | manualsFile
 
-- URL: https://manualsfile.com/product/k4nzb77w4ar.html#p23
+- URL:
 - Published date: N/A
 - Fetched at: 2026-04-09T09:28:53
 
@@ -10,9 +10,9 @@ VinFast VF8 Manual Online. Download or read online manual, installation instruct
 
 ## Content
 
-1. [Home](https://manualsfile.com/ "ManualsFile")
-2. [VinFast](https://manualsfile.com/brand/b0t6hijifv/)
-3. [VinFast VF8 User Manual](https://manualsfile.com/product/k4nzb77w4ar.html)
+1. Home
+2. VinFast
+3. VinFast VF8 User Manual
 
 # VinFast VF8 Ev Suv
 
@@ -22,54 +22,54 @@ Below are documents related to this product, you can read online or download:
 
 **User Manual**
 
-- First Responder Guide - (English) [Read Online](https://manualsfile.com/product/k4nzb77w4ar.html#readOnline "Read Online") \| [Download pdf](https://manualsfile.com/download/k4nzb77w4ar.html "Download pdf")
-- Owner's Manual VinFast VF8 2025 - (English) [Download](https://manualsfile.com/download/k4nzb77w4ar/1.html "Download")
+- First Responder Guide - (English) Read Online \| Download pdf
+- Owner's Manual VinFast VF8 2025 - (English) Download
 
 **Specification**
 
-- Specifications - (English) [Download](https://manualsfile.com/download/k4nzb77w4ar/0.html "Download")
+- Specifications - (English) Download
 
-[Specification](https://manualsfile.com/product/k4nzb77w4ar.html#specifications "Read the Specifications") [Questions and answers](https://manualsfile.com/product/k4nzb77w4ar.html#questions-and-answers "The product's questions and answers")
+Specification Questions and answers
 
-![VF8 photo](https://manualsfile.com/images/appliances/k4/nz/k4nzb77w4ar_0_1718086802_thumbnail.webp)
+VF8 photo
 
 ### First Responder Guide
 
 This is the main product document for model **VF8**.
 
-The file format is pdf, 25 pages, you can [download this manual here](https://manualsfile.com/download/k4nzb77w4ar.html "Download the file").
+The file format is pdf, 25 pages, you can download this manual here.
 
-[Give Review](https://manualsfile.com/product/k4nzb77w4ar.html#giveFeedback)
+Give Review
 
-- [Warnings](https://manualsfile.com/product/k4nzb77w4ar.html#p4 "Page 4")
-- [0\. Rescue Sheet](https://manualsfile.com/product/k4nzb77w4ar.html#p5 "Page 5")
-- [1\. Vehicle Identification](https://manualsfile.com/product/k4nzb77w4ar.html#p6 "Page 6")
-- [2\. Stabilizing & Lifting](https://manualsfile.com/product/k4nzb77w4ar.html#p8 "Page 8")
-- [3\. Disable Direct Hazards](https://manualsfile.com/product/k4nzb77w4ar.html#p10 "Page 10")
-- [4\. Access to the Occupants](https://manualsfile.com/product/k4nzb77w4ar.html#p13 "Page 13")
-- [5\. Stored Energy](https://manualsfile.com/product/k4nzb77w4ar.html#p17 "Page 17")
-- [6\. In Case of Fire](https://manualsfile.com/product/k4nzb77w4ar.html#p20 "Page 20")
-- [7\. In Case of Submersion](https://manualsfile.com/product/k4nzb77w4ar.html#p21 "Page 21")
-- [8\. Towing, Transportation, Storage](https://manualsfile.com/product/k4nzb77w4ar.html#p22 "Page 22")
-- [9\. Important Additional Information](https://manualsfile.com/product/k4nzb77w4ar.html#p24 "Page 24")
+- Warnings
+- 0\. Rescue Sheet
+- 1\. Vehicle Identification
+- 2\. Stabilizing & Lifting
+- 3\. Disable Direct Hazards
+- 4\. Access to the Occupants
+- 5\. Stored Energy
+- 6\. In Case of Fire
+- 7\. In Case of Submersion
+- 8\. Towing, Transportation, Storage
+- 9\. Important Additional Information
 
-- [20/25](https://manualsfile.com/product/k4nzb77w4ar.html#)
+- 20/25
 
-- [Table of Contents](https://manualsfile.com/product/k4nzb77w4ar.html#tableOfContents "Table of Contents")
-- [Table of Contents](https://manualsfile.com/product/k4nzb77w4ar.html#tableOfContents "Table of Contents")
-- [Search in the document](https://manualsfile.com/product/k4nzb77w4ar.html#searchInDocument "Search in the document")
-- [Search](https://manualsfile.com/product/k4nzb77w4ar.html#searchInDocument "Search in the document")
-- [Save Bookmark](https://manualsfile.com/product/k4nzb77w4ar.html#bookmarks "Save Bookmark")
-- [Save](https://manualsfile.com/product/k4nzb77w4ar.html#bookmarks "Save Bookmark")
-- [To top page](https://manualsfile.com/product/k4nzb77w4ar.html#toTop "To top page")
+- Table of Contents
+- Table of Contents
+- Search in the document
+- Search
+- Save Bookmark
+- Save
+- To top page
 
-![background](https://files.manualsfile.com/42401949-vf8/bg1.png)
+background
 
 VinFast VF8 EV SUV
 
 First Responder Guide
 
-![background](https://files.manualsfile.com/42401949-vf8/bg2.png)
+background
 
 Legal notice:
 
@@ -99,7 +99,7 @@ Legal
 
 2
 
-![background](https://files.manualsfile.com/42401949-vf8/bg3.png)
+background
 
 Contents
 
@@ -145,7 +145,7 @@ Warnings4
 
 3
 
-![background](https://files.manualsfile.com/42401949-vf8/bg4.png)
+background
 
 Warnings
 
@@ -207,7 +207,7 @@ or component damage.
 
 4
 
-![background](https://files.manualsfile.com/42401949-vf8/bg5.png)
+background
 
 0\. Rescue Sheet
 
@@ -291,7 +291,7 @@ Loading page 11...
 
 Loading page 12...
 
-![background](https://files.manualsfile.com/42401949-vf8/bgd.png)
+background
 
 4\. Access to the Occupants
 
@@ -315,7 +315,7 @@ Accessing the Vehicle
 
 13
 
-![background](https://files.manualsfile.com/42401949-vf8/bge.png)
+background
 
 4\. Access to the Occupants
 
@@ -325,7 +325,7 @@ Opening the Hood
 
 14
 
-![background](https://files.manualsfile.com/42401949-vf8/bgf.png)
+background
 
 4\. Access to the Occupants
 
@@ -341,7 +341,7 @@ Opening the Tailgate
 
 15
 
-![background](https://files.manualsfile.com/42401949-vf8/bg10.png)
+background
 
 4\. Access to the Occupants
 
@@ -369,7 +369,7 @@ Powerful cutting equipment must be used to cut or crush these areas.
 
 16
 
-![background](https://files.manualsfile.com/42401949-vf8/bg11.png)
+background
 
 5\. Stored Energy
 
@@ -409,7 +409,7 @@ HV current can cause serious injury or death.
 
 17
 
-![background](https://files.manualsfile.com/42401949-vf8/bg12.png)
+background
 
 5\. Stored Energy
 
@@ -437,7 +437,7 @@ Failure to do so can result in injury or death due to electric shock.
 
 18
 
-![background](https://files.manualsfile.com/42401949-vf8/bg13.png)
+background
 
 5\. Stored Energy
 
@@ -465,7 +465,7 @@ and out of the HV battery. When the 12V battery is disconnected, HV current cann
 
 19
 
-![background](https://files.manualsfile.com/42401949-vf8/bg14.png)
+background
 
 6.In Case of Fire
 
@@ -531,7 +531,7 @@ until it is completely burned out.
 
 20
 
-![background](https://files.manualsfile.com/42401949-vf8/bg15.png)
+background
 
 7\. In Case of Submersion
 
@@ -559,7 +559,7 @@ Submersion
 
 21
 
-![background](https://files.manualsfile.com/42401949-vf8/bg16.png)
+background
 
 DANGER
 
@@ -609,7 +609,7 @@ with HV current can cause serious injury or death.
 
 22
 
-![background](https://files.manualsfile.com/42401949-vf8/bg17.png)
+background
 
 8\. Towing, Transportation, Storage
 
@@ -661,40 +661,40 @@ Pages: 25
 
 Author: VinFast
 
-Published: [2024-06-11](https://manualsfile.com/sitemap/2024/06/11/ "Published by date")
+Published: 2024-06-11
 
 Updated: 2024-06-11
 
 Source: Directly manufacturer
 
-Download: [Save file](https://manualsfile.com/download/k4nzb77w4ar.html "Download file pdf manual")
+Download: Save file
 
 ## Specifications
 
-Brand: [VinFast](https://manualsfile.com/brand/b0t6hijifv/ "VinFast Use Manuals")
+Brand: VinFast
 
 Model: VF8
 
 ## VinFast VF8 Questions and Answers
 
-[Find answers or ask new question.](https://manualsfile.com/questions/k4nzb77w4ar.html "Ask a Question")
+Find answers or ask new question.
 
-[![Questions and Answers](https://manualsfile.com/images/question-answer.webp)](https://manualsfile.com/questions/k4nzb77w4ar.html "Ask a question")
+Questions and Answers
 
 Related Products
 
-- [Jeep® 2025 JEEP COMPASS](https://manualsfile.com/product/k4vn8eal5fm.html "Jeep 2025 JEEP COMPASS")
-- [BOYO VTC164M](https://manualsfile.com/product/k4c37spouid.html "BOYO VTC164M")
-- [BOYO VTC175M](https://manualsfile.com/product/k46blzqiwkg.html "BOYO VTC175M")
-- [BOYO VTC307M](https://manualsfile.com/product/k41vjvsp3ea.html "BOYO VTC307M")
-- [BOYO VTC1743M](https://manualsfile.com/product/k4wm0t6mfeh.html "BOYO VTC1743M")
-- [PAC GMK343](https://manualsfile.com/product/k41qumc01gd.html "PAC GMK343")
-- [Jeep® 2022 JEEP WAGONEER](https://manualsfile.com/product/k48oj2ojv9r.html "Jeep 2022 JEEP WAGONEER")
-- [Jeep® 2024 JEEP WAGONEER](https://manualsfile.com/product/k40flo1a1iv.html "Jeep 2024 JEEP WAGONEER")
-- [Dodge 2025 DODGE DURANGO](https://manualsfile.com/product/k4qrhtg9c3j.html "Dodge 2025 DODGE DURANGO")
-- [COSTWAY AP2198](https://manualsfile.com/product/k4v1k5ee5lu.html "COSTWAY AP2198")
-- [COSTWAY AP2197](https://manualsfile.com/product/k4bu17k6j34.html "COSTWAY AP2197")
-- [COSTWAY AP2199](https://manualsfile.com/product/k4w44lxd68a.html "COSTWAY AP2199")
-- [COSTWAY TY327424RE](https://manualsfile.com/product/k4pm9i50czd.html "COSTWAY TY327424RE")
-- [PAC GMK333](https://manualsfile.com/product/k4u2cfvbkrj.html "PAC GMK333")
-- [PAC GMT333](https://manualsfile.com/product/k42ehmov08p.html "PAC GMT333")
+- Jeep® 2025 JEEP COMPASS
+- BOYO VTC164M
+- BOYO VTC175M
+- BOYO VTC307M
+- BOYO VTC1743M
+- PAC GMK343
+- Jeep® 2022 JEEP WAGONEER
+- Jeep® 2024 JEEP WAGONEER
+- Dodge 2025 DODGE DURANGO
+- COSTWAY AP2198
+- COSTWAY AP2197
+- COSTWAY AP2199
+- COSTWAY TY327424RE
+- PAC GMK333
+- PAC GMT333
