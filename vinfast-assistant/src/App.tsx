@@ -9,7 +9,10 @@ import { MaintenanceTracker } from './components/MaintenanceTracker';
 import { SessionHistory } from './components/SessionHistory';
 import { ChargingStationFinder } from './components/ChargingStationFinder';
 import { UserProfileSetup } from './components/UserProfileSetup';
+import { WakeWordIndicator } from './components/WakeWordIndicator';
 import { loadUserProfile, type UserProfile } from './lib/memory/userProfile';
+import { useVoiceInput } from './hooks/useVoiceInput';
+import { useWakeWord } from './hooks/useWakeWord';
 import type { AgentMessage } from './types/agent';
 import type { ChatSession } from './lib/memory/sessions';
 
@@ -223,12 +226,47 @@ export default function App() {
   const [expandedSources, setExpandedSources] = useState<Set<string>>(new Set());
   const [imageData, setImageData] = useState<string | undefined>();
   const [currentCategory, setCurrentCategory] = useState<string | undefined>();
+  // Voice state
+  const [wakeWordEnabled, setWakeWordEnabled] = useState(false);
+  const [voiceState, setVoiceState] = useState<'idle' | 'wake-listening' | 'recording'>('idle');
 
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const chatAreaRef = useRef<HTMLDivElement>(null);
 
   const { messages, isLoading, error, rateLimitCountdown, sessionId, sendMessage, clearChat, runChargingStationTool, runPlaceSearchTool, runDirectionsTool } =
     useAgent({ apiKey, carModel });
+
+  // ── Voice hooks ───────────────────────────────────────────
+  const { isListening, interim, start: startListening, stop: stopListening, isSupported: voiceSupported } = useVoiceInput({
+    lang: 'vi-VN',
+    onTranscript: (text) => {
+      setVoiceState('idle');
+      handleSend(text);
+    },
+    onError: () => setVoiceState(wakeWordEnabled ? 'wake-listening' : 'idle'),
+  });
+
+  const { isActive: wakeActive, isSupported: wakeSupported } = useWakeWord({
+    enabled: wakeWordEnabled && !isListening,
+    onWake: () => {
+      _playBeep();
+      setVoiceState('recording');
+      startListening();
+    },
+  });
+
+  // Sync voiceState with actual hook states
+  React.useEffect(() => {
+    if (isListening) { setVoiceState('recording'); return; }
+    if (wakeWordEnabled && wakeActive) { setVoiceState('wake-listening'); return; }
+    setVoiceState('idle');
+  }, [isListening, wakeActive, wakeWordEnabled]);
+
+  const handleVoiceClick = React.useCallback(() => {
+    if (isListening) { stopListening(); return; }
+    setVoiceState('recording');
+    startListening();
+  }, [isListening, stopListening, startListening]);
 
   // Persist API key in sessionStorage
   useEffect(() => {
@@ -375,8 +413,15 @@ export default function App() {
             </div>
           </div>
 
-          {/* Profile button */}
-          <button
+          {/* Wake word indicator */}
+          <WakeWordIndicator
+            isActive={wakeActive}
+            isSupported={wakeSupported}
+            enabled={wakeWordEnabled}
+            onToggle={() => setWakeWordEnabled(v => !v)}
+          />
+
+          {/* Profile button */}          <button
             style={settingsBtnStyle}
             onClick={() => setShowProfile(v => !v)}
             title={userProfile?.name ? `Hồ sơ: ${userProfile.name}` : 'Thiết lập hồ sơ'}
@@ -575,6 +620,9 @@ export default function App() {
         onImageSelect={setImageData}
         disabled={!hasApiKey}
         isLoading={isLoading}
+        voiceState={voiceState}
+        onVoiceClick={voiceSupported ? handleVoiceClick : undefined}
+        interimTranscript={interim}
       />
 
       {/* ── Settings Panel ──────────────────────────────── */}
@@ -612,4 +660,20 @@ export default function App() {
       )}
     </div>
   );
+}
+
+// ── Beep sound for wake word trigger ─────────────────────────
+function _playBeep() {
+  try {
+    const ctx = new AudioContext();
+    const osc = ctx.createOscillator();
+    const gain = ctx.createGain();
+    osc.connect(gain);
+    gain.connect(ctx.destination);
+    osc.frequency.value = 880;
+    gain.gain.setValueAtTime(0.3, ctx.currentTime);
+    gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + 0.15);
+    osc.start(ctx.currentTime);
+    osc.stop(ctx.currentTime + 0.15);
+  } catch { /* ignore */ }
 }

@@ -1,10 +1,16 @@
 import React, { useState, useRef, useCallback } from 'react';
+import { VoiceButton } from './VoiceButton';
+
+type VoiceState = 'idle' | 'wake-listening' | 'recording' | 'speaking';
 
 interface ChatInputProps {
   onSend: (query: string, imageData?: string) => void;
   onImageSelect: (dataUrl: string) => void;
   disabled?: boolean;
   isLoading?: boolean;
+  voiceState?: VoiceState;
+  onVoiceClick?: () => void;
+  interimTranscript?: string;
 }
 
 const MAX_CHARS = 500;
@@ -14,6 +20,9 @@ export const ChatInput: React.FC<ChatInputProps> = ({
   onImageSelect,
   disabled = false,
   isLoading = false,
+  voiceState = 'idle',
+  onVoiceClick,
+  interimTranscript = '',
 }) => {
   const [value, setValue] = useState('');
   const [imagePreview, setImagePreview] = useState<string | null>(null);
@@ -267,22 +276,32 @@ export const ChatInput: React.FC<ChatInputProps> = ({
         {/* Text area */}
         <textarea
           ref={textareaRef}
-          value={value}
-          onChange={handleChange}
+          value={interimTranscript ? interimTranscript : value}
+          onChange={interimTranscript ? undefined : handleChange}
           onKeyDown={handleKeyDown}
-          placeholder="Hỏi về xe của bạn... (VD: Cách sạc pin VF8?)"
-          disabled={disabled || isLoading}
+          placeholder={voiceState === 'recording' ? '🎙️ Đang nghe...' : 'Hỏi về xe của bạn... (VD: Cách sạc pin VF8?)'}
+          disabled={disabled || isLoading || !!interimTranscript}
           rows={1}
           style={{
             ...textareaStyle,
             cursor: disabled || isLoading ? 'not-allowed' : 'text',
+            color: interimTranscript ? '#8899b4' : '#f0f4ff',
+            fontStyle: interimTranscript ? 'italic' : 'normal',
           }}
           aria-label="Nhập câu hỏi của bạn"
         />
 
+        {/* Voice button */}
+        {onVoiceClick && (
+          <VoiceButton
+            state={voiceState}
+            onClick={onVoiceClick}
+            disabled={disabled && voiceState === 'idle'}
+          />
+        )}
+
         {/* Clear button */}
-        {value.length > 0 && (
-          <button
+        {value.length > 0 && (          <button
             style={{
               background: 'transparent',
               border: 'none',

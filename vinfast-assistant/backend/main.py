@@ -83,6 +83,10 @@ class SearchPlacesRequest(BaseModel):
 class DirectionsRequest(BaseModel):
     destination: str = Field(..., min_length=1, max_length=200)
 
+class TTSRequest(BaseModel):
+    text: str = Field(..., min_length=1, max_length=1000)
+    voice: str = Field(default="nova")  # nova | shimmer | alloy | echo | fable | onyx
+
 class FeedbackRequest(BaseModel):
     message_id: str
     query: str
@@ -174,6 +178,95 @@ async def directions_endpoint(req: DirectionsRequest):
     logger.info(f"POST /api/directions | destination='{req.destination}'")
     result = await geocode_destination(req.destination)
     return result
+
+
+@app.post("/api/tts")
+async def tts_endpoint(req: TTSRequest, authorization: Optional[str] = Header(None)):
+    """Convert text to speech using OpenAI TTS API. Returns audio/mpeg."""
+    import os
+    import httpx
+    from fastapi.responses import Response
+    api_key = (authorization.replace("Bearer ", "") if authorization else os.getenv("OPENAI_API_KEY", "")).strip()
+    if not api_key:
+        raise HTTPException(401, "API key required.")
+
+    clean = _clean_for_tts(req.text)
+    if not clean:
+        raise HTTPException(400, "No speakable text after cleaning.")
+
+    logger.info(f"POST /api/tts | voice={req.voice} len={len(clean)}")
+
+    async with httpx.AsyncClient(timeout=30.0) as client:
+        resp = await client.post(
+            "https://api.openai.com/v1/audio/speech",
+            headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
+            json={"model": "tts-1-hd", "input": clean, "voice": req.voice, "response_format": "mp3"},
+        )
+        if not resp.is_success:
+            logger.error(f"TTS error {resp.status_code}: {resp.text[:200]}")
+            raise HTTPException(resp.status_code, "TTS failed")
+
+    return Response(content=resp.content, media_type="audio/mpeg")
+
+
+def _clean_for_tts(text: str) -> str:
+    """Clean text for natural Vietnamese TTS output."""
+    import re
+
+    # Remove markdown formatting
+    t = re.sub(r'\*\*([^*]+)\*\*', r'\1', text)   # **bold**
+    t = re.sub(r'\*([^*]+)\*', r'\1', t)           # *italic*
+    t = re.sub(r'`[^`]+`', '', t)                  # `code`
+    t = re.sub(r'#{1,6}\s+', '', t)                # headings
+    t = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', t) # [link](url)
+    t = re.sub(r'https?://\S+', '', t)             # bare URLs
+
+    # Remove emoji (Unicode ranges)
+    t = re.sub(
+        r'[\U0001F300-\U0001FFFF'
+        r'\U00002600-\U000027BF'
+        r'\U0000FE00-\U0000FE0F'
+        r'\u2600-\u27BF]+',
+        '', t, flags=re.UNICODE
+    )
+
+    # Expand common abbreviations for better pronunciation
+    replacements = {
+        r'\bkm\b': 'ki-lô-mét',
+        r'\bkW\b': 'ki-lô-oát',
+        r'\bkWh\b': 'ki-lô-oát giờ',
+        r'\bPSI\b': 'P S I',
+        r'\bkPa\b': 'ki-lô Pa-xcan',
+        r'\bABS\b': 'A B S',
+        r'\bACC\b': 'A C C',
+        r'\bAEB\b': 'A E B',
+        r'\bLKA\b': 'L K A',
+        r'\bBSM\b': 'B S M',
+        r'\bADAS\b': 'A-đát',
+        r'\bRAG\b': 'R A G',
+        r'\bGPS\b': 'G P S',
+        r'\bAPI\b': 'A P I',
+        r'\bVF8\b': 'VF tám',
+        r'\bVF9\b': 'VF chín',
+        r'\bVF7\b': 'VF bảy',
+        r'1900\s*232\s*389': 'một chín không không, hai ba hai, ba tám chín',
+    }
+    for pattern, replacement in replacements.items():
+        t = re.sub(pattern, replacement, t, flags=re.IGNORECASE)
+
+    # Remove bullet/list markers
+    t = re.sub(r'^[-•*]\s+', '', t, flags=re.MULTILINE)
+    t = re.sub(r'^\d+\.\s+', '', t, flags=re.MULTILINE)
+
+    # Collapse whitespace and newlines into natural pauses
+    t = re.sub(r'\n{2,}', '. ', t)
+    t = re.sub(r'\n', ', ', t)
+    t = re.sub(r'\s{2,}', ' ', t)
+
+    # Remove leftover special chars
+    t = re.sub(r'[_~|<>{}\\]', '', t)
+
+    return t.strip()[:900]  # OpenAI TTS max ~4096 chars, keep reasonable
 
 
 @app.post("/api/feedback")
