@@ -5,7 +5,13 @@ import { ChatInput } from './components/ChatInput';
 import { CarModelSelector } from './components/CarModelSelector';
 import { QuickActions } from './components/QuickActions';
 import { SettingsPanel } from './components/SettingsPanel';
+import { MaintenanceTracker } from './components/MaintenanceTracker';
+import { SessionHistory } from './components/SessionHistory';
+import { ChargingStationFinder } from './components/ChargingStationFinder';
+import { UserProfileSetup } from './components/UserProfileSetup';
+import { loadUserProfile, type UserProfile } from './lib/memory/userProfile';
 import type { AgentMessage } from './types/agent';
+import type { ChatSession } from './lib/memory/sessions';
 
 // ── Inline Styles ─────────────────────────────────────────────
 const appStyle: React.CSSProperties = {
@@ -210,6 +216,10 @@ export default function App() {
   });
   const [carModel, setCarModel] = useState<string>('VF8');
   const [showSettings, setShowSettings] = useState(false);
+  const [showMaintenance, setShowMaintenance] = useState(false);
+  const [showChargingFinder, setShowChargingFinder] = useState(false);
+  const [showProfile, setShowProfile] = useState(false);
+  const [userProfile, setUserProfile] = useState<UserProfile | null>(() => loadUserProfile());
   const [expandedSources, setExpandedSources] = useState<Set<string>>(new Set());
   const [imageData, setImageData] = useState<string | undefined>();
   const [currentCategory, setCurrentCategory] = useState<string | undefined>();
@@ -217,7 +227,7 @@ export default function App() {
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const chatAreaRef = useRef<HTMLDivElement>(null);
 
-  const { messages, isLoading, error, rateLimitCountdown, sessionId, sendMessage, clearChat } =
+  const { messages, isLoading, error, rateLimitCountdown, sessionId, sendMessage, clearChat, runChargingStationTool, runPlaceSearchTool, runDirectionsTool } =
     useAgent({ apiKey, carModel });
 
   // Persist API key in sessionStorage
@@ -317,6 +327,11 @@ export default function App() {
             >
               {hasApiKey ? 'Online' : 'Chưa kết nối'}
             </span>
+            {userProfile?.name && (
+              <span style={{ fontSize: '0.72rem', color: '#a78bfa', fontWeight: 600, marginLeft: '4px' }}>
+                · {userProfile.name}
+              </span>
+            )}
 
             {/* Session info chip */}
             <div
@@ -360,6 +375,62 @@ export default function App() {
             </div>
           </div>
 
+          {/* Profile button */}
+          <button
+            style={settingsBtnStyle}
+            onClick={() => setShowProfile(v => !v)}
+            title={userProfile?.name ? `Hồ sơ: ${userProfile.name}` : 'Thiết lập hồ sơ'}
+            onMouseOver={e => {
+              (e.currentTarget as HTMLButtonElement).style.background = 'rgba(167,139,250,0.1)';
+              (e.currentTarget as HTMLButtonElement).style.color = '#a78bfa';
+              (e.currentTarget as HTMLButtonElement).style.borderColor = 'rgba(167,139,250,0.3)';
+            }}
+            onMouseOut={e => {
+              (e.currentTarget as HTMLButtonElement).style.background = 'rgba(255,255,255,0.04)';
+              (e.currentTarget as HTMLButtonElement).style.color = '#8899b4';
+              (e.currentTarget as HTMLButtonElement).style.borderColor = 'rgba(255,255,255,0.08)';
+            }}
+          >
+            {userProfile?.name ? '👤' : '👤'}
+          </button>
+
+          {/* Maintenance button */}
+          <button
+            style={settingsBtnStyle}
+            onClick={() => setShowMaintenance(v => !v)}
+            title="Bảo dưỡng"
+            onMouseOver={e => {
+              (e.currentTarget as HTMLButtonElement).style.background = 'rgba(0,212,255,0.1)';
+              (e.currentTarget as HTMLButtonElement).style.color = '#00d4ff';
+              (e.currentTarget as HTMLButtonElement).style.borderColor = 'rgba(0,212,255,0.3)';
+            }}
+            onMouseOut={e => {
+              (e.currentTarget as HTMLButtonElement).style.background = 'rgba(255,255,255,0.04)';
+              (e.currentTarget as HTMLButtonElement).style.color = '#8899b4';
+              (e.currentTarget as HTMLButtonElement).style.borderColor = 'rgba(255,255,255,0.08)';
+            }}
+          >
+            🔧
+          </button>
+
+          {/* Charging station finder button */}
+          <button
+            style={settingsBtnStyle}
+            onClick={() => setShowChargingFinder(v => !v)}
+            title="Tìm trạm sạc"
+            onMouseOver={e => {
+              (e.currentTarget as HTMLButtonElement).style.background = 'rgba(0,230,118,0.1)';
+              (e.currentTarget as HTMLButtonElement).style.color = '#00e676';
+              (e.currentTarget as HTMLButtonElement).style.borderColor = 'rgba(0,230,118,0.3)';
+            }}
+            onMouseOut={e => {
+              (e.currentTarget as HTMLButtonElement).style.background = 'rgba(255,255,255,0.04)';
+              (e.currentTarget as HTMLButtonElement).style.color = '#8899b4';
+              (e.currentTarget as HTMLButtonElement).style.borderColor = 'rgba(255,255,255,0.08)';
+            }}
+          >
+            ⚡
+          </button>
           {/* Settings button */}
           <button
             style={settingsBtnStyle}
@@ -455,6 +526,13 @@ export default function App() {
             onFeedback={handleFeedback}
             showSources={expandedSources.has(msg.id)}
             onToggleSources={() => handleToggleSources(msg.id)}
+            onRetryTool={id => {
+              const m = messages.find(m => m.id === id);
+              if (!m?.toolCall) return;
+              if (m.toolCall.tool === 'find_charging_stations') runChargingStationTool(id, m.toolCall.stationType ?? 'charging');
+              if (m.toolCall.tool === 'search_nearby_places') runPlaceSearchTool(id, m.toolCall.keyword ?? '', 5);
+              if (m.toolCall.tool === 'get_directions') runDirectionsTool(id, m.toolCall.destination ?? '');
+            }}
           />
         ))}
 
@@ -505,6 +583,31 @@ export default function App() {
           apiKey={apiKey}
           onApiKeyChange={setApiKey}
           onClose={() => setShowSettings(false)}
+        />
+      )}
+
+      {/* ── Maintenance Tracker ─────────────────────────── */}
+      {showMaintenance && (
+        <MaintenanceTracker
+          carModel={carModel}
+          onClose={() => setShowMaintenance(false)}
+          onAskAI={q => handleSend(q)}
+        />
+      )}
+
+      {/* ── User Profile Setup ───────────────────────────── */}
+      {showProfile && (
+        <UserProfileSetup
+          initial={userProfile}
+          onSave={p => setUserProfile(p)}
+          onClose={() => setShowProfile(false)}
+        />
+      )}
+
+      {/* ── Charging Station Finder ──────────────────────── */}
+      {showChargingFinder && (
+        <ChargingStationFinder
+          onClose={() => setShowChargingFinder(false)}
         />
       )}
     </div>
