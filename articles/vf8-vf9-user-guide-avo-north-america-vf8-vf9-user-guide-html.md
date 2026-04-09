@@ -1,6 +1,6 @@
 # VF8 & VF9 User Guide | AVO North America
 
-- URL: https://vinfastowners.org/vf8-vf9-user-guide.html?utm_source=chatgpt.com
+- URL:
 - Published date: N/A
 - Fetched at: 2026-04-09T09:37:34
 
@@ -36,16 +36,16 @@ Ce guide est basé sur un document évolutif qui peut recevoir des mises à jour
 
 ## 📋 Table of Contents📋 Table des matières
 
-- [I. VF8/VF9 Startup ProcedureI. Procédure de démarrage VF8/VF9](https://vinfastowners.org/vf8-vf9-user-guide.html#section-1)
-- [II. "Wrench 10 Universal Fix" Hotfix ProcedureII. Procédure de correctif "Clé universelle 10"](https://vinfastowners.org/vf8-vf9-user-guide.html#section-2)
-- [III. 12V Battery Sensor ResetIII. Réinitialisation du capteur de batterie 12V](https://vinfastowners.org/vf8-vf9-user-guide.html#section-3)
-- [IV. Actions Causing 12V Battery DepletionIV. Actions causant l'épuisement de la batterie 12V](https://vinfastowners.org/vf8-vf9-user-guide.html#section-4)
-- [V. Common Operating Errors (14 Issues)V. Erreurs courantes de fonctionnement (14 problèmes)](https://vinfastowners.org/vf8-vf9-user-guide.html#section-5)
-- [VI. Hardware Issues (7 Problems)VI. Problèmes matériels (7 problèmes)](https://vinfastowners.org/vf8-vf9-user-guide.html#section-6)
-- [VII. Charging Issues (3 Problems)VII. Problèmes de charge (3 problèmes)](https://vinfastowners.org/vf8-vf9-user-guide.html#section-7)
-- [VIII. YouTube Viewing via Android AutoVIII. Visionnement YouTube via Android Auto](https://vinfastowners.org/vf8-vf9-user-guide.html#section-8)
-- [IX. LFP 12V Battery Parallel InstallationIX. Installation parallèle de batterie LFP 12V](https://vinfastowners.org/vf8-vf9-user-guide.html#section-9)
-- [X. Recommended AccessoriesX. Accessoires recommandés](https://vinfastowners.org/vf8-vf9-user-guide.html#section-10)
+- I. VF8/VF9 Startup ProcedureI. Procédure de démarrage VF8/VF9
+- II. "Wrench 10 Universal Fix" Hotfix ProcedureII. Procédure de correctif "Clé universelle 10"
+- III. 12V Battery Sensor ResetIII. Réinitialisation du capteur de batterie 12V
+- IV. Actions Causing 12V Battery DepletionIV. Actions causant l'épuisement de la batterie 12V
+- V. Common Operating Errors (14 Issues)V. Erreurs courantes de fonctionnement (14 problèmes)
+- VI. Hardware Issues (7 Problems)VI. Problèmes matériels (7 problèmes)
+- VII. Charging Issues (3 Problems)VII. Problèmes de charge (3 problèmes)
+- VIII. YouTube Viewing via Android AutoVIII. Visionnement YouTube via Android Auto
+- IX. LFP 12V Battery Parallel InstallationIX. Installation parallèle de batterie LFP 12V
+- X. Recommended AccessoriesX. Accessoires recommandés
 
 ## I. VF8/VF9 Startup ProcedureI. Procédure de démarrage VF8/VF9
 
@@ -187,9 +187,9 @@ Installer les fichiers dans l'ordre suivant :
 2. Use Kinginstaller to install additional apps (Files 2-3)Utiliser Kinginstaller pour installer les applications supplémentaires (Fichiers 2-3)
 3. Connect your device to the vehicle via Android AutoConnecter votre appareil au véhicule via Android Auto
 
-**Download Link:** [Google Drive Folder](https://drive.google.com/drive/folders/1-EKYN3nxxN9-ENXHSPXk1HikPIIQIxoD)
+**Download Link:** Google Drive Folder
 
-**Lien de téléchargement :** [Dossier Google Drive](https://drive.google.com/drive/folders/1-EKYN3nxxN9-ENXHSPXk1HikPIIQIxoD)
+**Lien de téléchargement :** Dossier Google Drive
 
 ## IX. LFP 12V Battery Parallel InstallationIX. Installation parallèle de batterie LFP 12V
 
@@ -269,7 +269,7 @@ Le guide original inclut 17 accessoires recommandés avec des liens d'achat. Com
 
 **Original Source:** This guide is translated from the Vietnamese community resource "Cẩm nang sử dụng xe điện Vinfast VF8/VF9"**Source originale :** Ce guide est traduit de la ressource communautaire vietnamienne "Cẩm nang sử dụng xe điện Vinfast VF8/VF9"
 
-**Editor:** Thích Xe \| **YouTube:** [Thích Xe Channel](https://www.youtube.com/channel/UCIHR-OeB10voVDaIeQhgkHg) \| **Hotline:** 0986666351**Éditeur :** Thích Xe \| **YouTube :** [Chaîne Thích Xe](https://www.youtube.com/channel/UCIHR-OeB10voVDaIeQhgkHg) \| **Ligne directe :** 0986666351
+**Editor:** Thích Xe \| **YouTube:** Thích Xe Channel \| **Hotline:** 0986666351**Éditeur :** Thích Xe \| **YouTube :** Chaîne Thích Xe \| **Ligne directe :** 0986666351
 
 **Translation & Adaptation:** VinFast Owners Association (AVO) \| Community effort to make Vietnamese knowledge accessible to English and French speaking owners**Traduction et adaptation :** Association des propriétaires VinFast (AVO) \| Effort communautaire pour rendre les connaissances vietnamiennes accessibles aux propriétaires anglophones et francophones
 

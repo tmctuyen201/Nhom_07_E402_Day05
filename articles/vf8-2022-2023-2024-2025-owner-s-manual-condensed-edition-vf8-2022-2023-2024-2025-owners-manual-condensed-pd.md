@@ -1,6 +1,6 @@
 # VF8 ['2022', '2023', '2024', '2025'] Owner's Manual - Condensed Edition
 
-- URL: https://vinfastowners.org/manuals/VF8_2022-2023-2024-2025_Owners_Manual_Condensed.pdf?utm_source=chatgpt.com
+- URL:
 - Published date: N/A
 - Fetched at: 2026-04-09T09:24:02
 
@@ -323,7 +323,7 @@ delivery including applications embedded in the infotainment system or the VinFa
 refined and software updates will often be released to improve the user experience and functionality of your vehicle.
 
 Any major updates made after the print deadline will be reflected in the digital Owner’s Manual that can be accessed and
-viewed at [https://om.vinfastauto.com/](https://om.vinfastauto.com/)
+viewed at
 
 The illustrations and images provided in this manual are for demonstration purposes only. Depending on the vehicle
 variant, customization options, software version and market region, the information displayed on the touchscreen in your
@@ -432,7 +432,7 @@ Interior Overview
 
 * * *
 
-![The image is a car interior diagram labeled with numbers 1 to 18, showing various parts of the car's dashboard and center console.](https://vinfastowners.org/manuals/VF8_2022-2023-2024-2025_Owners_Manual_Condensed.pdf?utm_source=chatgpt.com)
+The image is a car interior diagram labeled with numbers 1 to 18, showing various parts of the car's dashboard and center console.
 
 * * *
 
@@ -553,7 +553,6 @@ unlocked using key fob.
 3. Toggle door unlock when vehicle unlock. Tap to Driver
    door/All doors.
 
-
 * * *
 
 NOTE
@@ -600,7 +599,6 @@ automatically.
 
 2. Tap Settings
 
-
 km/h).
 
 Walk Away lock (if available):
@@ -611,7 +609,6 @@ from the vehicle with the key fob.
 1. Tap App Library
 
 2. Tap Settings
-
 
 How It Works
 
@@ -660,7 +657,6 @@ Automatic re-lock function
 1. Tap App Library
 
 2. Tap Settings
-
 
 Within 30 seconds of being unlocked, the vehicle will
 automatically lock all its doors if a door has not been
@@ -780,7 +776,6 @@ from the fob.
 5. Reinstall the back internal battery cover, press down and rotate clockwise to lock.
 
 6. Reinstall the key fob back cover ensuring it clicks into place.
-
 
 * * *
 
@@ -945,7 +940,6 @@ from the key fob.
 
 4. Press the brake pedal to disarm the anti theft alarm (if available).
 
-
 CAUTION
 
 When the mechanical key is used to unlock the vehicle, the anti-theft alarm will trigger immediately.
@@ -954,7 +948,6 @@ To lock the vehicle with the mechanical key:
 1. Insert the key into the key cylinder of the driver door
 
 2. Rotate clockwise to lock the door
-
 
 3.2. Doors
 
@@ -1074,7 +1067,6 @@ To activate Child Rear Door Lock on Right Hand Side door
 
 3. Locate the child door lock positioned inboard of the right hand side door latch
 
-
 * * *
 
 3. Insert the mechanical key in the lock
@@ -1090,7 +1082,6 @@ To activate Child Rear Door Lock on Left Hand Side door
 1. Open the rear door.
 
 2. Locate the child door lock positioned inboard of the left hand side door latch
-
 
 inline Rectangle
 
@@ -1203,7 +1194,6 @@ inline Rectangle
 
 3. Carefully step back to allow the liftgate to open or close.
 
-
 inline Rectangle
 
 NOTE
@@ -1273,7 +1263,6 @@ To adjust height of power liftgate:
 
 2. Press and hold the liftgate switch
 
-
 for 3 seconds until a beep is heard.
 
 3. Set the liftgate to the desired height.
@@ -1289,7 +1278,6 @@ for 3 seconds until a beep is heard.
 8. The liftgate will then open to the set position.
 
 9. The liftgate will then open to the set position.
-
 
 WARNING
 
@@ -1342,7 +1330,6 @@ on the back of the liftgate.
 
 2. Push the white tab with force, as shown above
 
-
 * * *
 
 NOTE
@@ -1374,7 +1361,6 @@ To open the front hood via the touchscreen (if equipped):
 4. When standing in front of the vehicle, lift the hood up to
    open it.
 
-
 To open the front hood via manual release:
 
 * * *
@@ -1388,7 +1374,6 @@ To open the front hood via manual release:
 
 3. When standing in front of the vehicle, lift the hood up to
    open it.
-
 
 * * *
 
@@ -1410,7 +1395,6 @@ To close the front hood:
 
 2. Push down on the hood to engaged the second stage lock.
 
-
 CAUTION
 
 Do not install accessories other than original VinFast products on the hood. This may increase the weight of the hood, and
@@ -1425,7 +1409,6 @@ Ensure all obstructions are removed before closing hood.To prevent damage:
 - Do not apply pressure to the front edge of the hood. It may crease the edge.
 
 - To avoid scratches, make sure your hands are empty while closing hood.
-
 
 3.4. Windows
 
@@ -1466,7 +1449,6 @@ or passenger side doors
 3. Pull the window switch up slightly to CLOSE
 
 4. Release the switch at any time to stop window travel
-
 
 Windows can also be opened or closed using the key fob.
 This feature is helpful to ventilate the vehicle before entering
@@ -1534,7 +1516,6 @@ To initialize windows:
 4. Close the window completely and keep the switch pulled for an additional 2 seconds.
 
 5. Repeat for each window.
-
 
 WARNING
 
@@ -1627,7 +1608,6 @@ To access Glass Roof and Sunshade Controls:
 
 4. The Sunroof control card will open.
 
-
 Operating the Sunshade
 
 To open or close the sunshade:
@@ -1637,7 +1617,6 @@ From the sunroof control card:
 1. Drag the Shade slider downwards to open the sunshade.
 
 2. Drag the Shade slider upwards to close the sunshade.
-
 
 Operating the Glass Roof
 
@@ -1650,13 +1629,11 @@ To open or close the Glass Roof:
 3. Tap on Vent to vent the glass roof. When the glass roof and sunshade are both closed tapping Vent opens the shade
    about 10-15cm and lifts the glass up.
 
-
 To open or close both Glass Roof and Sunshade:
 
 1. Tap Open All to fully open the Glass Roof and Sunshade.
 
 2. Tap Close All to fully close Glass Roof and Sunshade.
-
 
 inline Rectangle
 
@@ -1698,7 +1675,6 @@ inline Rectangle
 6. Release Calibrate to commence recalibration.
 
 7. After successful recalibration, a message will be displayed on screen .
-
 
 inline Rectangle
 
@@ -1802,12 +1778,11 @@ inline Rectangle
 
 2. Pull the armrest cover upwards
 
-
 inline Rectangle
 
 * * *
 
-![The image is a blank page with a yellow border and no text or images. It appears to be a cover page for a manual titled "Owner's Manual - Condensed Edition."](https://vinfastowners.org/manuals/VF8_2022-2023-2024-2025_Owners_Manual_Condensed.pdf?utm_source=chatgpt.com)
+The image is a blank page with a yellow border and no text or images. It appears to be a cover page for a manual titled "Owner's Manual - Condensed Edition."
 
 * * *
 
@@ -1879,7 +1854,6 @@ To access Rear Cup Holders:
 
 2. Push the cup holders inwards
    inline Rectangle
-
 
 The cup-holders will then slide out in the direction shown inline Rectangle
 
@@ -1975,7 +1949,6 @@ To remove the rear parcel shelf:
 
 4. Slide the parcel shelf upwards to remove.
 
-
 To Install Parcel Shelf:
 
 1. Fold both rear seats forward. See > Seat Adjustment > Rear Seat Fold
@@ -1988,7 +1961,6 @@ To Install Parcel Shelf:
 4. Pull shelf outwards to lock in place.
 
 5. Attach the two drawstrings of the parcel shelf to either sides.
-
 
 * * *
 
@@ -2095,7 +2067,6 @@ feedback.
 1. Tap App Library
 
 2. Tap Settings
-
 
 time anti-theft indicator will be flashing.
 
@@ -2272,7 +2243,7 @@ Front Seat Adjustment (12 Way)
 
 * * *
 
-![The image is a page from a manual titled "Owner's Manual - Condensed Edition" with the date "11/22/25, 6:58 PM" at the top. It features four diagrams showing different ways to adjust the seat in a vehicle. Diagram 1 shows a circular motion around a seat. Diagram 2 shows a linear motion around a seat. Diagram 3 shows a diagonal motion around a seat. Diagram 4 shows a horizontal motion around a seat. Diagram 5 shows a curved motion around a seat.](https://vinfastowners.org/manuals/VF8_2022-2023-2024-2025_Owners_Manual_Condensed.pdf?utm_source=chatgpt.com)
+The image is a page from a manual titled "Owner's Manual - Condensed Edition" with the date "11/22/25, 6:58 PM" at the top. It features four diagrams showing different ways to adjust the seat in a vehicle. Diagram 1 shows a circular motion around a seat. Diagram 2 shows a linear motion around a seat. Diagram 3 shows a diagonal motion around a seat. Diagram 4 shows a horizontal motion around a seat. Diagram 5 shows a curved motion around a seat.
 
 * * *
 
@@ -2384,7 +2355,6 @@ on the outboard side of the headrest.
 
 3. Release the locking button to lock the headrest in it’s new position.
 
-
 inline Rectangle
 
 For taller passengers where the headrest can not be positioned as recommended, adjust the headrest to its
@@ -2431,7 +2401,6 @@ the side of each outboard seating position.
 
 3. Release to lock the seat back in position
 
-
 To fold the rear seat back:
 
 inline Rectangle
@@ -2443,7 +2412,6 @@ The rear seats may be folded to increase rear storage capacity of the vehicle. T
 2. Place the rear seat belt buckles in their pockets.
 
 3. Pull the adjustment lever inline Rectangle
-
 
 on the side of the outboard seat and rotate the seat back downward.
 
@@ -2503,7 +2471,6 @@ To save/delete a seat position to memory/profile for the first time:
 
 3. Tap Save New / Delete.
 
-
 * * *
 
 To recall a memorized seat position:
@@ -2519,7 +2486,6 @@ The driver can reset or change a seat position after saving it to the profile. T
 1. Adjust the seat to the desired position and a notification will pop-up on screen.
 
 2. Tap Save and the new seat position will be saved to the active profile.
-
 
 inline Rectangle
 
@@ -2657,7 +2623,6 @@ inline Rectangle
 2. Advance the seat belt from its retracted position. Make sure that the belt is not twisted and lays flat across the occupant’s
    body (shoulders, torso, and pelvic region), as shown
 
-
 inline Rectangle
 
 3. Insert the latch plate into the buckle
@@ -2670,7 +2635,6 @@ inline Rectangle
 
 5. Pull the diagonal part of the seat belt over the occupant’s torso and shoulders towards the retractor, to remove any excess
    slack
-
 
 inline Rectangle
 
@@ -2782,7 +2746,6 @@ To show additional detail of each seating position’s seat belt status:
 2. The seat belt tab will automatically open.
 
 3. The seat belt will display the occupied seats with their respective seat belt status.
-
 
 | Icon | Condition |
 | --- | --- |
@@ -3183,7 +3146,6 @@ The following instructions must be followed when fitting a child restraint syste
 7. If using a rear facing child restraint system with support leg, extend the leg as instructed by the child restraint system
    manufacturer.
 
-
 Rear Passenger Seat Fitment
 
 A child restraint system may be fitted to both the rear outboard and rear centre seats depending on fixing type. Refer to the
@@ -3197,13 +3159,11 @@ Rear Outboard Fitment - Belted Type
 
 2. Buckle the seat belt around the child restraint seat in accordance with the child seat manufacturer's instructions.
 
-
 inline Rectangle
 
 3. Allow the seat belt to retract and remove all slack in the belt by pushing the child restraint seat into the vehicle's seat. inline Rectangle
 
 4. If the child restraint seat is equipped with a top tether, attach it to the anchor point located at the rear of the back seat. See top tether section below.
-
 
 inline Rectangle inline Rectangle
 
@@ -3237,7 +3197,6 @@ found on both outboard rear seats.
 
 2. Always test the safety seat before seating a child. This can be done by pulling the child restraint system away from
    the seat and moving it from side to side. It is critical that both latches are fully locked in position.
-
 
 The following is an example of a rear facing ISOFIX attached child restraint system.
 
@@ -4670,7 +4629,6 @@ Highway Assist can also be deactivated at anytime by:
 
 2. Press the Cancel button on the steering wheel.
 
-
 Highway Assist may revert to degraded mode when:
 
 Lane markings are not detected OR
@@ -5124,7 +5082,6 @@ inline Rectangle
 4. Change the sensitivity of the system via the toggle
    button.
 
-
 NOTE
 
 inline Rectangle
@@ -5397,7 +5354,6 @@ inline Rectangle
 4. Tap On via the Chime toggle button to Mute/Un-mute audio chimes.
 
 5. Tap On via the Chime toggle button to Mute/Un-mute audio chimes.
-
 
 To deactivate system:
 
@@ -6268,7 +6224,6 @@ Camera Settings:
 
 3. Turn on or off the desired function.
 
-
 You can turn on or off the following features in the camera settings:
 
 Dynamic Guidance Line
@@ -6320,7 +6275,6 @@ inline Rectangle
 
 3. Disengage the Electric Parking Brake (EPB) via one of the following methods:
 
-
 Manually - Press the EPB switch
 
 inline Rectangle
@@ -6352,7 +6306,6 @@ until the vehicle has come to a complete stop.
 2. Push the Park (P) button
 
 3. After exiting and locking, the vehicle will automatically power off.
-
 
 * * *
 
@@ -6486,7 +6439,6 @@ To select a gear position:
 3. The selected gear button will illuminate once selected
    and be shown on the touchscreen.
 
-
 * * *
 
 inline Rectangle
@@ -6546,7 +6498,6 @@ To select a drive mode:
 
 3. To exit drive mode, tap outside of the card.
 
-
 | ECO MODE | Slowest throttle response and low energy consumption |
 | --- | --- |
 | NORMAL MODE | Medium throttle response and medium energy consumption |
@@ -6577,7 +6528,6 @@ To activate/deactivate creep mode:
 1. Tap Car Mode in the Car Control Area of the Infotainment screen.
 
 2. Select the three-dot icon.
-
 
 * * *
 
@@ -6620,7 +6570,6 @@ To activate/deactivate creep mode:
 2. Select the three-dot icon.
 
 3. Toggle Auto Gear P ON/OFF.
-
 
 inline Rectangle
 
@@ -6726,7 +6675,6 @@ in the Car Control Area area on the touchscreen
 5. To move the steering wheel forward or back, press the
    left \[<\] or right \[>\] button.
 
-
 The driver should always hold the steering wheel with
 both hands on the outer edges (9:00 and 3:00 position)
 when driving.
@@ -6746,7 +6694,6 @@ To adjust the steering wheel position:
 5. Tap Save to confirm steering wheel adjustments. The
    adjustments will be saved to the active profile.
    For more user profile settings, See> User Profiles.
-
 
 Each user of the vehicle can save their preferred steering
 wheel position to their profile.
@@ -6776,7 +6723,6 @@ To adjust the steering wheel with manual adjustable steering column:
 2. Adjust the steering wheel to your preferred position.
 
 3. Lock the steering wheel in the adjusted position by rotating the lever up to its original position.
-
 
 WARNING
 
@@ -6913,7 +6859,6 @@ To Activate / Deactivate the Heated Steering wheel:
 
 2. Tap the Steering Wheel icon
 
-
 inline Rectangle
 
 to turn heating ON/OFF.
@@ -6957,7 +6902,6 @@ controls
    each mirror in the desired position.
 
 4. Tap Fold Both to fold the mirrors inwards.
-
 
 * * *
 
@@ -7029,7 +6973,6 @@ To turn auto fold feature ON/OFF
 
 2. Tap Settings
 
-
 Drive (D), Park (P) or Neutral (N) gear is selected, the
 mirrors will return to their normal set orientation.
 
@@ -7040,7 +6983,6 @@ To turn Mirror Tilt feature ON/OFF:
 2. Tap Mirror
 
 3. Tap the toggle button to turn on the feature.
-
 
 inline Rectangle
 
@@ -7302,7 +7244,6 @@ inline Rectangle
 2. Tap Settings
 
 3. Use the toggle button to turn the feature On/Off.
-
 
 * * *
 
@@ -7578,7 +7519,6 @@ inline Rectangle
 4. To activate the Follow Me Home feature, after turning it ON and setting the light duration, the user needs to flash
    the high beam.
 
-
 inline Rectangle
 
 NOTE
@@ -7732,7 +7672,6 @@ inline Rectangle
 2. Use the Display Brightness slider to select preferred
    brightness .
 
-
 the Quick control menu or under Light settings in the vehicle
 settings menu.
 
@@ -7743,7 +7682,6 @@ To adjust brightness settings via Light Settings:
 1. Tap App Library
 
 2. Tap Settings
-
 
 * * *
 
@@ -7798,7 +7736,6 @@ The Front Roof Lights are located on the roof at the front of the vehicle and ca
 
 2. Front Reading Lights
 
-
 inline Rectangle
 
 Vehicle Dome Light
@@ -7820,7 +7757,6 @@ To Activate/Deactivate the dome light:
 2. Tap Settings
    inline Rectangle
 
-
 > Light Settings
 > inline Rectangle
 
@@ -7835,7 +7771,6 @@ To Activate/Deactivate the dome light:
    inline Rectangle
 
 6. Tap Off / On / Auto.
-
 
 inline Rectangle
 
@@ -7865,7 +7800,6 @@ To activate/deactivate a front reading light:
 1. Press the lamp itself once to turn the light ON.
 
 2. Press the lamp again to turn OFF.
-
 
 Cargo Light
 
@@ -7920,7 +7854,6 @@ To activate Ambient Lighting using Quick Controls:
 
 2. Use the Ambient Light Brightness slider to select preferred intensity.
 
-
 To activate Ambient Lighting using Settings App:
 
 1. Tap App Library
@@ -7946,7 +7879,6 @@ inline Rectangle
 5. Use the brightness Slider to control Ambient Lighting intensity.
 
 6. Use the brightness Slider to control Ambient Lighting intensity.
-
 
 * * *
 
@@ -8181,7 +8113,6 @@ To Enable Traction Mode (Disable TCS):
 
 5. Tap ON to activate it.
 
-
 * * *
 
 inline Rectangle
@@ -8299,7 +8230,6 @@ on the touchscreen.
 3. Scroll down to find Electronic Stability Control (ESC).
 
 4. Change ESC setting to OFF/ON using toggle button.
-
 
 inline Rectangle
 
@@ -8671,7 +8601,6 @@ icon.
 
 4. Statistics will be shown for the selected Time Duration.
 
-
 To select the view:
 
 The driver can select from the following different views for
@@ -8695,7 +8624,6 @@ screen.
 2. Tap My Profile > Driving Statistics
 
 3. Driving Statistics Graph
-
 
 The driver can see the statistics by selecting time ranges or
 by customizing the time range.
@@ -8805,7 +8733,6 @@ Doors:
    the vehicle, and ensure that the door is fully closed
    before you drive off.
 
-
 Windows:
 
 See > Climate Control System > Front Windscreen Defrost
@@ -8910,7 +8837,6 @@ clearance.
    vehicle unable to drive.
 
 3. Do not park or reverse in water under any conditions.
-
 
 inline Rectangle
 
@@ -9060,7 +8986,6 @@ To search for an app:
 2. Select, pick up, and arrange the available widgets in the
    desired order.
 
-
 To delete Widgets:
 
 1. To add a widget to the home screen, tap Add or Edit
@@ -9068,7 +8993,6 @@ To delete Widgets:
 
 2. To remove a widget, pick up the widget from the home
    screen and drop it into the trash bin.
-
 
 inline Rectangle
 
@@ -9117,7 +9041,6 @@ inline Rectangle
 
 2. Example: To open an app, tap on it.
 
-
 Zooming In/Out
 
 inline Rectangle
@@ -9125,7 +9048,6 @@ inline Rectangle
 1. To zoom into maps, images, or web pages, put your finger and thumb on the touchscreen and spread them apart.
 
 2. To zoom out, put your finger and thumb on the touchscreen and pinch them together.
-
 
 Browsing lists and Panning
 
@@ -9136,7 +9058,6 @@ inline Rectangle
 1. To scroll down the browsing lists, drag from bottom to top.
 
 2. To scroll up the browsing lists, drag from top to bottom.
-
 
 Panning:
 
@@ -9188,13 +9109,11 @@ To open Notification Center:
 
 3. Tap on any notification from list to view details on the respective App.
 
-
 To Clear notification in Notification Center:
 
 1. To clear all notifications, tap Clear All
 
 2. Swipe left to right on any notification to remove it from the list. OR Tap X .
-
 
 To close Notification Center:
 
@@ -9266,13 +9185,11 @@ inline Rectangle
 7. After confirmation, the newly created profile will be saved, and a notification will pop up on Infotainment screen.
    To delete a profile:
 
-
 inline Rectangle
 
 1. Tap Profile Name > My Profile.
 
 2. Tap All Profiles
-
 
 inline Rectangle
 
@@ -9346,7 +9263,6 @@ inline Rectangle
 
 2. Enter valid VinFast Account Email
 
-
 inline Rectangle
 
 3. Tap Link
@@ -9371,7 +9287,6 @@ To edit Avatar Image:
 
 2. Select from available images.
 
-
 OR
 
 1. Tap Image from USB.
@@ -9381,7 +9296,6 @@ OR
 3. Edit avatar image with Rotate/Flip icons.
 
 4. Tap Save.
-
 
 Authentication
 
@@ -9399,7 +9313,6 @@ inline Rectangle
 
 2. Tap Set Up.
 
-
 To Edit/delete PIN:
 
 3. Enter 6 Digit PIN.
@@ -9414,7 +9327,6 @@ inline Rectangle
 
 4. Enter PIN to confirm.
 
-
 To Link a Keyfob (if equipped):
 
 inline Rectangle
@@ -9423,7 +9335,6 @@ inline Rectangle
 
 2. Place the key Fob into the center console See > Driving > Starting and Shutting Down the Vehicle > Low Keyfob
    Battery.
-
 
 To Edit and Remove Key Fob Linking (if equipped):
 
@@ -9451,7 +9362,6 @@ Unlink
 
 3. To unlink key fob, tap on Unlink.
 
-
 * * *
 
 Remote Control (if available)
@@ -9463,7 +9373,6 @@ To Link VinFast App:
 2. To link from VinFast app, scan QR code.
 
 3. After confirmation, a notification will pop up on screen.
-
 
 i
 
@@ -9493,7 +9402,6 @@ To save/delete positions:
 3. To delete a saved position, tap Delete.
 
 4. To delete a saved position, tap Delete.
-
 
 * * *
 
@@ -9532,7 +9440,6 @@ Multimedia: Audio, Video, Image and radio locked.
 
 - Firmware updates/Software updates disabled.
 
-
 Activation
 
 Valet mode can be activated by any of the following methods:
@@ -9541,13 +9448,11 @@ Valet mode can be activated by any of the following methods:
 
 - VinFast App (if available).
 
-
 To activate Valet Mode by changing Profile
 
 1. On the status bar, tap Profile Name inline Rectangle
 
 2. To activate Valet Mode, tap on Valet
-
 
 inline Rectangle
 
@@ -9564,7 +9469,6 @@ To activate Valet Mode by VinFast App (if available)
 3. On Valet Mode feature, select On/Off.
 
 4. On Valet Mode feature, select On/Off.
-
 
 Valet Mode Settings Overview
 
@@ -9658,7 +9562,6 @@ To activate Camp Mode by VinFast App (if available)
 
 3. On Camp Mode feature, select On/Off.
 
-
 Deactivation
 
 To deactivate/exit Camp Mode:
@@ -9737,7 +9640,6 @@ To activate Pet Mode by VinFast App (if available)
 2. From the home screen, tap on Remote Control.
 
 3. On Pet Mode feature, select On/Off.
-
 
 Deactivation
 
@@ -9861,7 +9763,6 @@ Radio can be accessed using any of following methods:
 
 2. Tap Media
 
-
 * * *
 
 > Radio
@@ -9880,7 +9781,6 @@ icon on top right corner.
 3. Press the SOURCE button on the steering wheel
    controls and select Radio
 
-
 TV
 
 station name and radio frequency is displayed on the
@@ -9893,7 +9793,6 @@ To manually search a station:
 
 2. Matching stations will appear below the search field.
    Select your preferred station.
-
 
 inline Rectangle
 
@@ -9917,7 +9816,6 @@ To save a Favorites station:
 2. The Heart icon will illuminate.
 
 3. The station will now appear in Favorites list.
-
 
 To view Favorites:
 
@@ -9947,7 +9845,6 @@ To rename a favorite station:
 
 5. Tap Done.
 
-
 To rearrange favorite Stations:
 
 1. Tap and hold the station to rearrange in the station list.
@@ -9958,7 +9855,6 @@ To rearrange favorite Stations:
 
 4. Release station. The Favorites station will drop and
    snap into highlighted position.
-
 
 * * *
 
@@ -10027,7 +9923,6 @@ inline Rectangle
 
 2. Select available Bluetooth device from the list inline Rectangle
 
-
 To change track:
 
 1. To change track, use Controls
@@ -10067,7 +9962,6 @@ To launch USB Media:
 1. Insert a USB containing Media content in the front USB Data Port.
 
 2. Tap App Library
-
 
 inline Rectangle
 
@@ -10158,7 +10052,6 @@ To open Artists page:
 
 2. Tap any Artist name from the list.
 
-
 * * *
 
 Artist page Overview
@@ -10183,7 +10076,6 @@ To open Genres page:
 
 2. Tap any Genre name from the list.
 
-
 Genre page overview
 
 inline Rectangle
@@ -10206,7 +10098,6 @@ To open Videos page:
 1. Tap Videos tab.
 
 2. Tap any Video file from the list.
-
 
 Videos page overview
 
@@ -10240,7 +10131,6 @@ To open Folders page:
 1. Tap Folders tab.
 
 2. Tap any Folder name from the list.
-
 
 inline Rectangle
 
@@ -10276,7 +10166,6 @@ icon.
 2. Type Media name in the Search field.
 
 3. Tap Search.
-
 
 inline Rectangle
 
@@ -10387,7 +10276,6 @@ To Search for Podcasts:
 
 3. Tap Search.
 
-
 Browser
 
 The Browser allows the driver and passengers to browse the Internet from the vehicle’s touchscreen. The vehicle must be
@@ -10408,7 +10296,6 @@ To launch the Browser/Internet App:
 
 2. Tap Internet
    inline Rectangle
-
 
 * * *
 
@@ -10469,7 +10356,6 @@ Voice Assistant can be triggered by any of the following methods:
 
 2. Short pressing VA button
 
-
 inline Rectangle
 
 on the steering wheel.
@@ -10483,7 +10369,6 @@ Mirrored Phone’s Voice Assistant can be triggered by any of the following meth
 1. By using the term “Hey Siri” / “Hey Google”.
 
 2. Long pressing the VA button on the steering wheel.
-
 
 inline Rectangle
 
@@ -10503,7 +10388,6 @@ To End a Voice Assistant session:
 
 4. Use the term “Exit” or “Cancel”.
 
-
 To Access command list Help (VinFast Voice Assistant):
 
 1. Use the term “Hey VinFast” and ask about “Help”, “Guide” etc.
@@ -10513,7 +10397,6 @@ To Access command list Help (VinFast Voice Assistant):
 3. Scroll down to see all available options.
 
 4. Tap any option to expand it.
-
 
 * * *
 
@@ -10835,7 +10718,6 @@ To view tire pressure from Car Control Area:
 
 2. Tire pressure will be displayed.
 
-
 To access Tire pressure from the Vehicle Health page:
 
 1. Tap App Library
@@ -10940,7 +10822,6 @@ To view Vehicle Alerts:
 
 3. Tap Expand icon to view details of alerts.
 
-
 inline Rectangle
 
 WARNING
@@ -10970,7 +10851,6 @@ Head Up Display shows the following information:
 4. ADAS Content
 
 5. Notifications and Alerts inline Rectangle
-
 
 NOTE
 
@@ -11052,7 +10932,6 @@ To adjust Head Up Display height:
 
 2. Press Up (+) or Down (-) buttons on the steering wheel controls to adjust the height of Head Up Display.
 
-
 To adjust Head Up Display Rotation:
 
 Press Left (<) or Right (>) arrow buttons on the left steering wheel controls to adjust rotation of Head Up Display.
@@ -11084,7 +10963,6 @@ To open Navigation App
 2. On the touchscreen, tap App Library
 
 3. Tap Maps
-
 
 check on the traffic situation so that you can better plan your
 route.
@@ -11145,7 +11023,6 @@ To search for a Destination:
 
 3. Tap on Search.
 
-
 * * *
 
 inline Rectangle
@@ -11199,7 +11076,6 @@ To remove Saved Places:
 1. Tap on Favorites.
 
 2. Select the desired Saved place from the list.
-
 
 Long press the saved place and tap Delete favorite.
 
@@ -11262,13 +11138,11 @@ To add a Stop on a Route:
 
 6. Tap Add Stop.
 
-
 To Remove a Stop:
 
 1. Select any place from the list.
 
 2. Tap Remove Stop.
-
 
 To change Route order:
 
@@ -11279,7 +11153,6 @@ To change Route order:
 3. Tap Finish.
 
 4. Tap Finish.
-
 
 To delete Route:
 
@@ -11371,7 +11244,6 @@ To send a navigation route to the vehicle:
 5. On Infotainment screen, tap Navigate Now to accept the route on the Infotainment screen.
 
 6. The vehicle’s Navigation system will then guide the driver to the destination.
-
 
 Navigation Settings
 
@@ -11468,7 +11340,6 @@ To download a new Offline Map:
 
 5. Tap Download icon.
 
-
 POI Categories
 
 Point of interest categories can be customized, this feature allows driver to select specific POI categories which will be
@@ -11502,7 +11373,6 @@ To select POI Categories:
 
 2. Choose categories to display on springboard.
 
-
 Theme:
 
 This allows driver to change map themes as per requirement.
@@ -11514,7 +11384,6 @@ To change theme:
 1. Tap Map tab > Themes.
 
 2. Select desired theme to set.
-
 
 About
 
@@ -11530,7 +11399,6 @@ To Clear all data:
 1. Tap About tab > Delete all my data > Delete.
 
 2. Tap About tab > Restore default settings > Restore.
-
 
 To Restore default settings:
 
@@ -11574,7 +11442,6 @@ In order to minimize driver distraction, prior to driving and while the vehicle 
 
 3. Organize contact and call lists clearly and avoid duplicates.
 
-
 To Launch the Phone App:
 
 1. Tap App Library
@@ -11582,7 +11449,6 @@ To Launch the Phone App:
    on the Infotainment screen.
 
 2. Tap Phone App
-
 
 inline Rectangle
 
@@ -11678,7 +11544,6 @@ inline Rectangle
 2. Enter Contact Name/Number in the Search field.
 
 3. Tap Search.
-
 
 inline Rectangle
 
@@ -11942,7 +11807,6 @@ How to Turn On/Off Wireless Charging :
 3. Tap on Settings app
    inline Rectangle
 
-
 > Vehicle Settings
 > inline Rectangle
 
@@ -11956,13 +11820,11 @@ How to Turn On/Off Wireless Charging :
 
 5. Toggle to turn On/Off rear wireless charging .
 
-
 To turn On/Off Wireless Charging from quick controls from the Infotainment screen
 
 1. Swipe down from top of the Infotainment screen.
 
 2. Toggle to turn On/Off wireless charging.
-
 
 inline Rectangle
 
@@ -12014,7 +11876,6 @@ To launch Android Auto™:
    Press the Source button on the steering wheel controls to switch to Android Auto™
    inline Rectangle
 
-
 Android Auto™ can be launched by any of the following methods:
 Via pop-up after connecting with USB
 Via pop-up after connecting with Bluetooth
@@ -12029,7 +11890,6 @@ inline Rectangle
 2. Tap Start
    inline Rectangle
 
-
 to launch Android Auto™.
 
 Connecting via Bluetooth:
@@ -12043,7 +11903,6 @@ inline Rectangle
 
 3. Tap on the Green check
 
-
 inline Rectangle
 
 icon on the popup notification.
@@ -12056,7 +11915,6 @@ icon on the popup notification.
 
 7. Tap Start to launch Android Auto™.
 
-
 inline Rectangle
 
 1. Tap App Library
@@ -12064,7 +11922,6 @@ inline Rectangle
    on the Infotainment screen.
 
 2. Tap Settings
-
 
 inline Rectangle
 
@@ -12092,7 +11949,6 @@ To disconnect Android Auto™:
 2. Disconnect Bluetooth device from Bluetooth settings.
 
 3. Disconnect from Device Settings, See > Settings > Device Settings.
-
 
 To use Google Assistant™ when Android Auto™ is connected :
 
@@ -12128,7 +11984,6 @@ To launch Apple CarPlay™:
 
 2. Tap App Library
 
-
 inline Rectangle
 
 on the Infotainment screen.
@@ -12161,7 +12016,6 @@ inline Rectangle
 
 4. Tap on the Green check
 
-
 inline Rectangle
 
 icon on the popup notification.
@@ -12178,7 +12032,6 @@ icon on the popup notification.
 
 9. Tap Start to launch Apple CarPlay™.
 
-
 Launching via Device Settings:
 inline Rectangle
 
@@ -12188,7 +12041,6 @@ inline Rectangle
 
 2. Tap Settings
    inline Rectangle
-
 
 > Device settings
 > inline Rectangle
@@ -12214,7 +12066,6 @@ To disconnect Apple CarPlay™:
 1. Disconnect Bluetooth Device from Bluetooth Settings.
 
 2. Disconnect from Device Settings, see > Settings > Device Settings.
-
 
 To use SIRI™ when Apple CarPlay™ is connected :
 
@@ -12268,7 +12119,6 @@ Downloading the Application:
 
 2. Search for and download the VinFast application.
 
-
 Registering an Account:
 
 1. Open the application and tap Register on the login screen.
@@ -12281,13 +12131,11 @@ Registering an Account:
 
 5. Set up fingerprint/Face ID authentication (optional).
 
-
 Logging In:
 
 1. Tap the VinFast icon on your phone to open the application.
 
 2. Enter your registered email and password.
-
 
 Forget password:
 
@@ -12300,7 +12148,6 @@ If you forget your password, you can reset it by:
 3. Choosing Reset Password.
 
 4. Checking your email and following the instructions to create a new password.
-
 
 Vehicle and User Management
 
@@ -12335,7 +12182,6 @@ You can also add or remove secondary drivers to use the VinFast App.
 4. The additional driver should provide the same email address they used to register the VinFast App.
 
 5. The vehicle owner will send an invitation for the additional driver to add a vehicle.
-
 
 The additional driver may:
 
@@ -12425,7 +12271,6 @@ To change the charging target (if available):
 
 3. Tap Save.
 
-
 * * *
 
 Battery leasing (if available):
@@ -12514,7 +12359,6 @@ To book a service:
 
 4. A confirmation notification will appear in the app.
 
-
 Your request details will be stored in the Notifications section.
 
 Roadside Assistance
@@ -12530,7 +12374,6 @@ To request roadside assistance
 2. Tap Create A Request.
 
 3. Fill in the required information and follow the instructions.
-
 
 A confirmation notification will be displayed in the app.
 
@@ -12556,7 +12399,6 @@ To check for vehicle alerts:
 3. Tap an alert for more details.
 
 4. Follow the prompts to book a service, request roadside assistance, or view the relevant user manual section.
-
 
 All actions related to vehicle alerts will be synced with your vehicle.
 
@@ -12586,7 +12428,6 @@ inline Rectangle
 2. Use the search bar to find specific notifications or browse the list.
 
 3. Filter notifications by type.
-
 
 Switching Between Owned Vehicles
 
@@ -12671,7 +12512,6 @@ To add a payment card:
 
 5. Tap Save.
 
-
 * * *
 
 inline Rectangle
@@ -12689,7 +12529,6 @@ To make a payment:
 3. Tap Pay and follow the instructions.
 
 4. A confirmation notification will be sent after successful payment.
-
 
 inline Rectangle
 
@@ -12784,7 +12623,6 @@ To turn on/off the Air Conditioning system:
 3. Tap on the A/C button again to switch Off air
    conditioning.
 
-
 inline Rectangle
 
 NOTE
@@ -12806,7 +12644,6 @@ To turn on/off the Maximum Cooling:
    mode.
 
 2. Tap again to turn it Off.
-
 
 Air Vents
 
@@ -12890,7 +12727,6 @@ inline Rectangle
 
 4. Use button
 
-
 inline Rectangle
 
 to adjust driver side area temperature.
@@ -12944,7 +12780,6 @@ How to activate auto mode:
 
 2. To activate auto mode, tap AUTO .
 
-
 inline Rectangle
 
 NOTE
@@ -12996,7 +12831,6 @@ To turn on the front windscreen defrost/defog:
 2. Tap Front Defrost/Defog.
 
 3. The button will become illuminated
-
 
 inline Rectangle
 
@@ -13053,7 +12887,6 @@ inline Rectangle
 
 2. The feature will be activated.
 
-
 inline Rectangle
 
 NOTE
@@ -13078,7 +12911,6 @@ How to change recirculation mode:
 1. Open the climate control drawer.
 
 2. To switch modes, tap Recirculation button.
-
 
 * * *
 
@@ -13188,7 +13020,6 @@ To turn on the rear windscreen demister:
 
 2. The button will become illuminate
 
-
 inline Rectangle
 
 to indicate it is active.
@@ -13244,7 +13075,6 @@ icon, from the Settings App.
 
 4. Tap Search.
 
-
 Vehicle Settings
 
 Vehicle Settings allows the following settings related to
@@ -13265,7 +13095,6 @@ From Home page
 1. Tap App Library
 
 2. Tap Settings
-
 
 Use the search feature to quickly navigate to a desired
 settings page by typing a keyword.
@@ -13291,7 +13120,6 @@ To access Vehicle Settings:
 1. Tap App Library
 
 2. Tap Settings inline Rectangle
-
 
 Seat
 
@@ -13417,7 +13245,6 @@ To access Device Settings:
 
 2. Tap Settings
 
-
 Connect via USB port - See > USB Ports and Power
 Outlets.
 
@@ -13520,7 +13347,6 @@ To access Wi-Fi Settings:
 5. After a successful connection is established, the
    connected network will be shown in the Connected list.
 
-
 inline Rectangle
 
 To disconnect/forget a Wi-Fi network:
@@ -13536,7 +13362,6 @@ To disconnect/forget a Wi-Fi network:
 5. Enter Network name and Password (if required).
 
 6. Tap Connect.
-
 
 NOTE
 Move the device closer to the Infotainment screen if a known Wi-Fi network does not appear in the list.
@@ -13741,7 +13566,6 @@ icon.
 
 4. Tap Change.
 
-
 NOTE
 
 A maximum of 15 characters is allowed when changing the vehicle name.
@@ -13763,7 +13587,6 @@ background.
 
 2. Automatic download via cellular data: The car will switch to cellular data to download updates if Wi-Fi is not available.
    Automatic download can be Enabled/Disabled using toggle. By default this setting is Disabled.
-
 
 For more information, see > Connected Services > Remote Software Update.
 
@@ -13861,7 +13684,6 @@ To create a new Geo-fence:
 
 7. After creating a new Geo-fence, a message will pop up on the screen.
 
-
 * * *
 
 inline Rectangle
@@ -13945,7 +13767,6 @@ To add a new Time-fence:
 6. Enter a Name for the newly created Time-fence.
 
 7. Tap Create.
-
 
 To edit Time Range :
 
@@ -14049,7 +13870,6 @@ To purchase additional data:
 2. Open the LTE data purchasing page via your mobile, follow the instructions on the screen.
 
 3. After data is purchased details will be updated on the eSIM page.
-
 
 Voice Assistant
 
@@ -14184,7 +14004,6 @@ To use mobile charger:
 2. Plug the charging handle into the vehicles charging port.
 
 3. The vehicle will start to charge via Mobile Charger.
-
 
 * * *
 
@@ -14391,7 +14210,6 @@ OR Tap Battery icon at the top of Car Control Area.
 
 3. Press on the charge port door to open it.
 
-
 Charge Port Light
 
 This light indicates the vehicle’s charging status as follows:
@@ -14429,7 +14247,6 @@ After plugging in the charging handle:
 1. The system will start to authenticate the charging station.
 
 2. After successful authentication, the vehicle will start charging.
-
 
 inline Rectangle
 
@@ -14512,7 +14329,6 @@ inline Rectangle
 
 7. Stop charging
 
-
 inline Rectangle
 
 : To stop charging.
@@ -14544,7 +14360,6 @@ inline Rectangle
 4. Charging will be stopped.
 
 5. Charging will be stopped.
-
 
 inline Rectangle
 
@@ -14587,7 +14402,6 @@ release button) do not work, carefully follow these steps:
 
 4. Open the front cargo compartment.
 
-
 inline Rectangle
 
 4. Remove the Brake Fluid Reservoir access port cover
@@ -14595,7 +14409,6 @@ inline Rectangle
 
 5. Using a tool, pull the charge port’s release cable
    inline Rectangle
-
 
 to release the pin that locks the charging handle.
 6\. Pull the charging handle from the charge port.
@@ -14807,7 +14620,6 @@ To set the Charge current limit:
 
 2. Tap App Library
 
-
 on the Infotainment screen.
 
 3. Tap the EV app
@@ -14866,7 +14678,6 @@ Or
 6. After successful verification, the system will automatically generate an OTP code and send it to your phone.
 
 7. Enter the OTP code into the Infotainment screen to verify payment and temporarily remove system restrictions.
-
 
 * * *
 
@@ -15077,7 +14888,6 @@ To Top-up the coolant:
 6. Fasten and secure the filler cap(s) back on by turning it
    in a clockwise direction.
 
-
 NOTE
 
 If the coolant level in the reservoir reaches below 25% of its capacity an audible alert will sound indicating low coolant level.
@@ -15141,7 +14951,6 @@ To Top-up the Washer Fluid:
 2. Refill washer bottle with washer fluid until full.
 
 3. Push close the washer bottle cap, ensuring it is properly attached.
-
 
 NOTE
 
@@ -15217,7 +15026,6 @@ To remove the front wiper blades:
 
 5. The front wipers will stop at a 45 degree angle, allowing the owner to lift the wiper arm from the windshield.
 
-
 * * *
 
 5. Lift the wiper arm away from the windshield.
@@ -15229,7 +15037,6 @@ To remove the front wiper blades:
 
 7. Remove the wiper from the wiper arm.
 
-
 * * *
 
 8. Place the joint of the new wiper into the slot of the wiper arm.
@@ -15239,13 +15046,11 @@ To remove the front wiper blades:
 10. Place the wiper assembly back on the windshield and check that the wiper is properly attached to the wiper
    arm.
 
-
 Rear Wiper Blade Replacement
 
 1. The vehicle needs to be in ACC power mode.
 
 2. Set Wiper Service Mode to On. .
-
 
 * * *
 
@@ -15259,7 +15064,6 @@ Rear Wiper Blade Replacement
    arm.
 
 7. Select Off from the touchscreen to return the Wiper back to the home position.
-
 
 i
 
@@ -15334,7 +15138,6 @@ To Check the Brake Fluid:
 2. Let the braking system cool down.
 
 3. Brake fluid reservoir is located under the cover plate
-
 
 . Open the cover plate by pulling the plastic tabs on the side of the plate.
 
@@ -15509,7 +15312,6 @@ To access instrument panel fuses:
 
 10. Make sure the replaced fuse has the same rating and it fits tightly in its place. If in doubt, please contact a VinFast
     service technician.
-
 
 Fuse Details:
 
@@ -15741,7 +15543,6 @@ To access Front Cargo Compartment fuses:
 10. Make sure the replaced fuse has the same rating and it fits tightly in its place. If in doubt please contact a VinFast
     service technician.
 
-
 NOTE
 
 Remember to securely install the fuse panel cover back, if not securely attached water may enter and cause electrical
@@ -15783,7 +15584,6 @@ To access 12v Auxiliary Battery Fuse box:
 
 13. Make sure the replaced fuse has the same rating and it fits tightly in its place. If in doubt please contact a VinFast
     service technician.
-
 
 Fuse Label:
 
@@ -16111,7 +15911,6 @@ To check Tire pressure manually:
 
 7. If a tire is not maintaining pressure, please have the tire inspected by a VinFast service center.
 
-
 NOTE
 
 Incorrectly inflated tires may wear faster and create more road noise.
@@ -16306,7 +16105,7 @@ Driving on curved roads at high speeds, rapid acceleration, and heavy braking in
 
 * * *
 
-![The image shows six different tire tread patterns labeled A, B, C, D, E, and F. They are arranged in two rows of three.](https://vinfastowners.org/manuals/VF8_2022-2023-2024-2025_Owners_Manual_Condensed.pdf?utm_source=chatgpt.com)
+The image shows six different tire tread patterns labeled A, B, C, D, E, and F. They are arranged in two rows of three.
 
 * * *
 
@@ -16959,7 +16758,6 @@ Accessories
 
 Genuine VinFast accessories are specifically designed, engineered and tested for this vehicle. To buy genuine VinFast
 accessories, visit the nearest VinFast Service Center or alternatively visit the VinFast Auto website.
-[https://vinfastauto.com/vn\_vi](https://vinfastauto.com/vn_vi)
 
 VinFast does not endorse any unauthorized third party products or accessories to be used on the vehicle. VinFast recommends
 only using genuine accessories.
@@ -17195,7 +16993,7 @@ Exterior Dimensions
 
 * * *
 
-![The image is a front view of a car, specifically a VF8, with a measurement line indicating its width. The car is silver, and the front grille has a distinctive V-shaped logo. The car is labeled "VF8" at the bottom. The date "11/22/25" and time "6:58 PM" are at the top left corner. The title "VF8 [2022', '2023', '2024', '2025] Owner's Manual - Condensed Edition" is below the title. The car is centered in the image, and there is a circle labeled "C" at the bottom center.](https://vinfastowners.org/manuals/VF8_2022-2023-2024-2025_Owners_Manual_Condensed.pdf?utm_source=chatgpt.com)
+![The image is a front view of a car, specifically a VF8, with a measurement line indicating its width. The car is silver, and the front grille has a distinctive V-shaped logo. The car is labeled "VF8" at the bottom. The date "11/22/25" and time "6:58 PM" are at the top left corner. The title "VF8 [2022', '2023', '2024', '2025] Owner's Manual - Condensed Edition" is below the title. The car is centered in the image, and there is a circle labeled "C" at the bottom center.]()
 
 * * *
 
@@ -17246,7 +17044,6 @@ Calculating Load Limits:
    “XXX” amount equals 1400 lbs (635 kg) and there will
    be five 150 lbs (68 kg) passengers in the vehicle, the
 
-
 amount of available cargo and luggage load capacity is
 650 lbs (295 kg) (1400 - 750 (5 × 150) = 650 lbs)/ (635 -
 340(68 × 5) = 295 kg).
@@ -17260,7 +17057,6 @@ amount of available cargo and luggage load capacity is
    will be transferred to the vehicle. Consult this manual to
    determine how this reduces the available cargo and
    luggage load capacity of the vehicle.
-
 
 Driver Plus One Passenger
 
@@ -17414,7 +17210,6 @@ Number (TIN) for safety standard certification and in case of a recall.
 
 8. Load Index: The 2 or 3 digit number indicates the weight a tire can support.
 
-
 * * *
 
 NOTE
@@ -17463,7 +17258,6 @@ Replace tires only with those of the same load range.
 12. Maximum Permissible Inflation Pressure: Indicates the tire manufacturers’ maximum permissible air pressure for the tire.
    Do not exceed the maximum permissible inflation pressure.
 
-
 NOTE
 
 Refer to the Tire and Loading Information label for recommended inflation pressure.
@@ -17485,7 +17279,6 @@ the manufacturer’s discretion. This information can be used to contact consume
 15. Temperature Grade: The temperature grades are A (the highest), B and C, representing the tire’s resistance to the
     generation of heat and its ability to dissipate heat. This grading is provided for a correctly inflated tire, which is being used
     within its speed and loading limits.
-
 
 WARNING
 
@@ -17605,7 +17398,6 @@ Roadside Assistance
 
 3. Tap on Call icon
 
-
 In the unlikely event of a vehicle breakdown or an accident,
 specialized support is available through the local Roadside
 Assistance service providers to help get you going again.
@@ -17621,7 +17413,6 @@ on the touchscreen.
 
 2. Tap on Call Roadside Asistant (if available).
 
-
 on the touchscreen.
 
 > Help Center.
@@ -17636,7 +17427,6 @@ To call Roadside asistance from Help Center:
 
 3. Select support form from Customer Support or Third
    Party (if available) > Tap to call.
-
 
 * * *
 
@@ -17809,7 +17599,6 @@ To download an update automatically:
    available. There will be no prompt or confirmation presented to the user during that time. Enable or disable through
    respective toggle button.
 
-
 To download an update manually:
 
 Download an update manually by any of the following methods:
@@ -17827,7 +17616,6 @@ OR
 2. Tap What’s New.
 
 3. Tap Download.
-
 
 The system will start downloading and will show the size of update and time remaining for completion of the update.
 
@@ -17853,13 +17641,11 @@ To install/schedule an update:
 
 6. Tap Agree and Start Install.
 
-
 OR
 
 1. Tap Schedule to schedule an install.
 
 2. Set the time and tap Schedule.
-
 
 After successful installation, a “New firmware installed” notification is displayed on the Infotainment screen.
 
@@ -17920,7 +17706,6 @@ after filling the tire with the repair fluid.
 4. Tighten the connecting valve of the tire repair fluid bottle to the tire valve. When using the product at temperature of (-40°C
    to 0 °C), warm the product to a temperature above 0°C, to improve the filling efficiency.
 
-
 $$
 (\- 4 0 ^ {\\circ} C
 $$
@@ -17955,7 +17740,6 @@ $$
 
 14. It should take no longer that 10min to reach an acceptable inflation pressure.
 
-
 * * *
 
 11. Once the tire pressure reaches an acceptable level as stated on the tire pressure placard (See > Wheels and Tires > Tire
@@ -17981,7 +17765,6 @@ $$
 18. If at any time after using this product the tire loses pressure, stop driving and call roadside assistance.
 
 19. If at any time after using this product the tire loses pressure, stop driving and call roadside assistance.
-
 
 NOTE
 
@@ -18010,7 +17793,6 @@ To Remove Spare Tire:
 1. Lift the Rear cargo floor cover by pulling up on the strap
 
 2. Unscrew the wheel retainer
-
 
 * * *
 
@@ -18054,7 +17836,6 @@ To fit the Spare Tire:
 2. Remove the lifting jack, jack-handle crank and take out the spare tire, which are all located in the rear luggage
    compartment under the luggage stowage cover in the vehicle.
 
-
 * * *
 
 3. Loosen the wheel nuts: Use the wheel nut wrench
@@ -18074,7 +17855,6 @@ nuts entirely at this stage.
    tire is clear of the road. Note: The spare tire diameter may be larger than the flat tire currently fitted.
 
 8. Remove the wheel nuts: Remove all wheel nuts entirely then remove the wheel and tire assembly.
-
 
 * * *
 
@@ -18103,7 +17883,6 @@ according to the order indicated in the figure shown above. Double check each wh
     occurring.
 
 14. Return the jack and tools to the vehicle rear compartment.
-
 
 WARNING
 
@@ -18170,7 +17949,6 @@ If your vehicle has no 12 volt power, proceed with the following:
 
 3. Open the hood See > Front and Rear Compartments > Front Hood
 
-
 * * *
 
 4. Locate the 12V battery.
@@ -18188,7 +17966,6 @@ If your vehicle has no 12 volt power, proceed with the following:
 10. Start the assisting vehicle first, and then proceed to power on your vehicle.
 
 11. Start the assisting vehicle first, and then proceed to power on your vehicle.
-
 
 i
 
@@ -18212,7 +17989,6 @@ Disconnecting jumper cables process:
 5. Disconnect the other end of the red jumper cable from the positive (+) terminal from your vehicle.
 
 6. Disconnect the other end of the red jumper cable from the positive (+) terminal from your vehicle.
-
 
 Towing (EV)
 
@@ -18276,13 +18052,11 @@ How to fit Front Tow eye
 
 3. Remove the hole cover
 
-
 to access the attachment point.
 
 3. Install the tow eye to the attachment point by turning it clockwise into the hole until it is fully secured.
 
 4. Remove the towing hook (rotate anti-clock wise) and install the cover after use.
-
 
 How to fit Rear Tow eye
 
