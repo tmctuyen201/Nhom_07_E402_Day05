@@ -1,0 +1,14243 @@
+# VF7 ['2024', '2025'] Owner's Manual - Condensed Edition
+
+- URL: https://vinfastowners.org/manuals/VF7_2024-2025_Owners_Manual_Condensed.pdf
+- Published date: N/A
+- Fetched at: 2026-04-09T09:41:33
+
+## Content
+
+# VF7
+
+Owner's Manual
+
+2024 - 2025
+
+Condensed Edition
+
+Language: EN \| Region: VN
+
+Source: VinFast Offi cial Owner's Manual Optimized for quick reference and reduced fi le size
+
+# Table of Contents
+
+# 1\. Introduction
+
+1.1. Owner Manual
+
+# 2\. Overview
+
+2.1. Vehicle Overview
+
+# 3\. Openings & Compartments
+
+3.1. Keys and Locks
+
+3.2. Doors
+
+3.3. Front and Rear Compartments
+
+3.4. Windows
+
+3.5. Storage
+
+3.6. Vehicle Security
+
+# 4\. Seats, Restraints & Safety
+
+4.1. Seats
+
+4.2. Seat Belts
+
+4.3. Child Restraint Systems
+
+4.4. Airbags
+
+# 5\. Advanced Driver Assistance Systems (ADAS)
+
+5.1. Cruise Control
+
+5.2. Driving Aids
+
+5.3. Collision Warning Systems
+
+5.4. Park Assist
+
+# 6\. Driving
+
+6.1. Starting & Shutting Down Vehicle
+
+6.2. Drive Systems
+
+6.3. Steering Wheel
+
+6.4. Mirrors
+
+6.5. Exterior Lighting
+
+6.6. Interior Lighting
+
+6.7. Wipers and Washers
+
+6.8. Braking and Stopping
+
+6.9. Economy & Environment
+
+6.10. Flood Precautions
+
+# 7\. Displays, Connections and Climate
+
+7.1. Infotainment Screen
+
+7.2. Infotainment
+
+7.3. Car Control Area
+
+7.4. Head Up Display
+
+7.5. Navigation
+
+7.6. Phone & Projection
+
+7.7. VinFast App
+
+7.8. Climate Control System
+
+7.9. Settings
+
+# 8\. Battery & Charging
+
+8.1. High Voltage Components
+
+8.2. Charging Instructions
+
+8.3. Battery Information
+
+# 9\. Maintenance
+
+9.1. General Information
+
+9.2. Fluids, Lubricants and Parts
+
+9.3. Electrical System
+
+9.4. Wheels and Tires
+
+9.5. Vehicle Cleaning
+
+9.6. Maintenance Schedule
+
+9.7. Parts and Accessories
+
+# 10\. Technical Specifi cations
+
+10.1. Fluids, Lubricants and Parts
+
+10.2. Vehicle Identifi cation
+
+10.3. Vehicle Information
+
+# 11\. Vehicle Assistance
+
+11.1. Connected Services
+
+11.2. Vehicle Recovery
+
+11.3. Contact
+
+# 12\. Additional Information
+
+12.1. Reference
+
+# 1\. Introduction
+
+# 1.1. Owner Manual
+
+# Introduction
+
+Congratulations and thank you for choosing the VF7.
+
+This Owner’s Manual describes all the features and operations of your new VinFast vehicle and contains important maintenance and safety related information designed to keep you safe and informed throughout ownership.
+
+The information contained in this manual is specifi c to your vehicle however certain descriptions of features, functions and displays may not apply depending on your chosen vehicle confi guration, market region or software version.
+
+Thoroughly familiarize yourself with the contents of this Owner’s Manual prior to operating your vehicle.
+
+Owner Manual Version: VF7\_24-25\_VN\_ENG\_1.1 \[new UI\]
+
+# Important Note - High Voltage Battery
+
+The VinFast VF 7 should only be operated with a VinFast genuine battery, or a battery supplied by a VinFast authorized supplier.
+
+VinFast, its authorized battery suppliers, the battery owner (if applicable), and their representatives, shall bear no responsibility for any damage or losses to the customer caused by the use of any non-VinFast battery in the vehicle or by not following the battery usage guidelines detailed in the vehicle Owner’s Manual.
+
+The use of any non-VinFast battery in the vehicle may void the VinFast Manufacturer’s Warranty and the warranty coverage for the vehicle. The failure to allow VinFast to replace the battery in the vehicle, or to use, maintain and service the battery in accordance with instructions provided by VinFast (including the Battery Usage, Charging and
+
+Storing Guidelines), also may void the VinFast Manufacturer’s Warranty.
+
+If the customer chooses the battery leasing option, the customer shall sign a battery leasing contract with the owner of the battery.
+
+If the customer breaches any obligation of the Battery Lease Agreement, they agree that the battery owner can take possession of the battery by any method permitted by law including:
+
+1. Limiting the level of charge;
+2. Utilization of geolocation technology in the battery or vehicle to locate the Battery for purposes of repossession; and
+3. Pursue any other remedies permitted by law.
+
+If the customer chooses to resell the vehicle, or any other case that might lead to the transfer of vehicle title, the customer shall be responsible for:
+
+1. Informing the purchaser that the battery is leased property owned by a third party and not the customer; and
+2. Shall cooperate with the battery owner to ensure a seamless transfer of the battery at the same time the vehicle is transferred.
+
+# Owner Manual Information
+
+This Owner Manual will familiarize you with all the features, functions, equipment, and maintenance needs of your vehicle.
+
+An initial overview of the vehicle is covered in the next section and provides relevant operating information, including the name and location of the key exterior and interior features and components.
+
+# Warning, Caution and Notes
+
+The Owner’s Manual contains safety precautions and operating procedures. Failure to follow these safety warnings and instructions may lead to serious injury or even death.
+
+To highlight content of importance, the following message formats will be shown:
+
+# WARNING
+
+Critical information, often involving safety related content that if not followed could result in death or serious injury.
+
+![](https://vinfastowners.org/manuals/images/e6b3c3a18076c12418d084eee1fa348ae6f6e0a2b6e76d158fe15367e72ae6ed.jpg)
+
+# !
+
+# CAUTION
+
+Important information relating to a feature, function, or situation, which if ignored, could result in damage to your vehicle.
+
+![](https://vinfastowners.org/manuals/images/0dfc1ad6be1a62b8c2bc9dd368bdfb42f19ecf31a05d24ea5a693b612f5f2bba.jpg)
+
+# NOTE
+
+Key points of useful information.
+
+It is recommended that you have your vehicle inspected by an authorized service center for all intermediate and major repairs. It is essential that the vehicle is repaired in accordance with VinFast specifi cations. Owners may perform minor self fi x tasks if suggested by this Owner’s Manual or highlighted in vehicle alerts page. For all self-fi x tasks, clear instructions will be provided. If these instructions are read and still remain unclear, please contact VinFast service prior to proceeding.
+
+# Using the Printed Manual
+
+A printed Owner’s Manual is provided with your vehicle and is placed in the glove box at the time of vehicle delivery.
+
+The fastest way to fi nd information on a particular topic is by using the Table of Contents and the index at the rear of th manual.
+
+# Using the Digital Manual
+
+An online interactive version of the owner manual can be accessed on any compatible Web-browser, as well as on the VinFast App. An integrated version of this owner manual is also available to view in vehicle on the Infotainment screen.
+
+To access the Integrated Owner’s Manual in your VF 7, follow the steps below:
+
+Tap App Library
+
+![](https://vinfastowners.org/manuals/images/c7d128fd07a6e70b037d343c2233f0a8aa2ab13c9311ec9994be2d84b6ada73c.jpg)
+
+on the Infotainment screen. Tap Owner’s Manual
+
+![](https://vinfastowners.org/manuals/images/045056a32752cd7f0b93319804eedb3ba555d3e462e6f28d4d8853a1144dd95c.jpg)
+
+Use navigation buttons and search functionality to locate required content.
+
+# Applicable Content & Images
+
+The information and specifi cations contained in the VF 7 Owner Manual are accurate at the time of publication. Some functions described in this Owner Manual may not be applicable to the specifi cation of your vehicle, activated or available at the time of delivery including applications embedded in the Infotainment system or the VinFast App. Content is continuously being refi ned and software updates will often be released to improve the user experience and functionality of your vehicle.
+
+Any major updates made after the print deadline will be refl ected in the digital Owner Manual that can be accessed and viewed at [https://om.vinfastauto.com/](https://om.vinfastauto.com/)
+
+The illustrations and images provided in this manual are for demonstration purposes only. Depending on a vehicle variant, customization options, software version and market region, the information displayed on the Infotainment screen in your vehicle may appear differently to what is shown in the Owner Manual. All directions referenced in the content such as, left, right, front and rear are based on the vehicles direction of travel.
+
+VinFast reserves the right to change specifi cations, design or equipment at any time without notice and without incurring any obligation.
+
+# Copyright & Trademarks
+
+All rights reserved. All content within this Owner Manual is subject to copyright and other intellectual property rights of VinFast Trading and Production Joint Stock Company. This documentation should not be copied, modifi ed, or reused in anyway without prior written permission.
+
+# 2.1. Vehicle Overview
+
+# Electric Vehicle Ownership
+
+Your vehicle is powered by electricity and as a result some of the vehicle’s systems and operating characteristics are different from a vehicle powered by an internal combustion engine.
+
+It is important to carefully review this entire owner’s manual for this reason. The vehicle does not require, and it is not capable of using gasoline like a vehicle powered by a traditional internal combustion engine.
+
+The vehicle uses two types of batteries. One is a 12-volt (low voltage) battery that is the same as the battery in vehicles that operate on gasoline powered engines, the other is the Li-ion battery which may be referred to as the High Voltage (HV) or Electric Vehicle (EV) battery in this Owner Manual. The 12-volt battery provides power to the vehicle systems and features such as the infotainment system, supplemental restraint systems, headlights, and windshield wipers.
+
+The vehicle uses energy stored in the lithium ion (“Li-ion”) battery. The vehicle’s Li-ion battery must be charged with electricity before the vehicle can be driven. As the vehicle operates, the Li-ion battery gradually discharges. If the Li-ion battery becomes completely discharged, the vehicle will not operate until it is re-charged.
+
+The high voltage Li-ion battery or EV Battery provides power to the electric motor that drives the vehicle. The vehicle must be plugged in to an appropriate charging point for the Li-ion battery to be charged.
+
+Your vehicle is also equipped with a regenerative braking system which allows the vehicle to convert kinetic energy into electrical energy, which is used to recharge the battery increasing overall range.
+
+This vehicle is considered to be an environmentally friendly vehicle because it does not emit exhaust gases, such as carbon dioxide and nitrogen oxide when in operation.
+
+# Exterior Overview
+
+![](https://vinfastowners.org/manuals/images/250243509bdbfda8c977fcec77ce59c734a6e7500fbe4b9e9f35958e034c6fa8.jpg)
+
+|     |     |     |
+| --- | --- | --- |
+|  | Wheels and Tires | Wheels and Tires > Wheels and Tires |
+|  | Front Wipers | Wipers and Washers > Front Wipers |
+| 3 | Charge Port | Charging Instructons >Charging Instructions |
+|  | Door Handle | Doors > Exterior Door |
+| 5 | Glassroof / Roof\* |  |
+| 6 | Antenna |  |
+
+![](https://vinfastowners.org/manuals/images/387090758392ed884b2a61cb5040d33234085f72a68b0b4fae786e2836088f97.jpg)
+
+|     |     |     |
+| --- | --- | --- |
+|  | Front Hood | Front and Rear Compartments > Front Hood |
+| 8 | Front Windshield Camera | Drive Aids >Highway Assist |
+| 9 | Daytime Running Lights (DRL) | Exterior Lighting > Daytime Running Lights (DRL). |
+| (10 | Side Mirrors | Mirrors > Side Mirrors &Exterior Lighting > Turn Signals |
+|  | Head Lights | Exterior Lighting > Exterior Lighting - Front |
+| (12 | Front Parking Sensors | Park Assist > Front & Rear Parking Assist |
+| 13 | Radar | Cruise Control > Adaptive Cruise Control |
+| 4 | Front Camera\* | Park Assist >Surround View Monitoring System |
+
+![](https://vinfastowners.org/manuals/images/37c79ca155276e2153e1551030d72544124752614311782494ba1b10a575ca46.jpg)
+
+|     |     |     |
+| --- | --- | --- |
+|  | Center High Mounted Stop Light | Exterior Lighting >Exterior Lighting - Rear (Tail Lights) |
+| 16 | Rear Wiper | Wipers and Washers > Rear Wipers |
+|  | Liftgate | Front and Rear Compartments > Liftgate |
+| (18) | Tail Lights | Exterior Lighting >Exterior Lighting - Rear (Tail Lights) |
+| (19) | Refector |  |
+| 20 | Rear Parking Sensors | Park Assist > Front & Rear Parking Assist |
+| 21 | Rear Camera | Park Assist > Surround View Monitoring System |
+| 22 | Rear Side Markers\* | Exterior Lighting > Exterior Lighting |
+
+\*If equipped
+
+# Front compartment
+
+![](https://vinfastowners.org/manuals/images/67fbff4240f97c101862a476032cd1425be8a26a313cbc1fbeafb8c31cb72de1.jpg)
+
+|     |     |     |
+| --- | --- | --- |
+|  | Driver Side Power Window Switches | Windows > Window Controls |
+| 2 | Interior Door Handles | Doors > Interior Door |
+| 3 | Indicator and Trip Computer Stalk | Exterior Lighting > Turn Signals andEconomy & Environment > Trip History |
+| A | Horn |  |
+| ③ | Wiper and Washer Stalk | Driving > Wipers and Washers |
+| 6 | Rear View Mirror | Mirrors >Rear View Mirror |
+| 7 | MHU Display | Infotainment screen > Infotainment screen Overview |
+| 8 | Glove Box | Storage > Glove Box |
+| 9 | Air Vents | Climate Control System > Air Vents |
+| 10 | Passenger Side Power Window Switches | Windows > Window Controls |
+| 11 | Park Brake Switch | Drive Systems > Electric Parking Brake |
+| 12 | Wireless Charger\* | Phone & Projection > Wireless Charger |
+| 13 | Cup Holder | Storage > Cup Holders |
+| 1④ | Hazard Switch | Exterior Lighting >Hazard Warning Flashers |
+| 15 | Steering Wheel Switches - DrivingAssistance Controls | Steering Wheel > Functions |
+| 16 | Central Locking Switch | Keys and Locks > Central Locking Overview |
+| 17 | Volume Knob |  |
+| (18) | Armrest | Storage > Center Console |
+| (19) | Steering Wheel Switches - Multimedia andCall Controls | Steering Wheel > Functions |
+| 20 | Door Pocket Storage | Storage > Door Pocket Storage |
+| 21 | Seats and Seat Belts | Seats, Restraints & Safety >Seats ,Seats, Restraints & Safety > Seat Belts |
+
+![](https://vinfastowners.org/manuals/images/06a9412d6aa64326dffb9db6b6731ae62138e5b840d8013d32c7e1d4443058f5.jpg)
+
+|     |     |     |
+| --- | --- | --- |
+| 22 | Sun Visor & Vanity Mirror | Mirrors >Sun Visor & Vanity MirrorConnected Services > Emergency Call |
+| 23 | SOS (eCall) Button |
+| 24 | Roof Lights | Interior Lighting > Roof Lights |
+
+# Rear compartment
+
+![](https://vinfastowners.org/manuals/images/eb7201d3cb40c91bc08fa1eda75f456136a407e8365f097d1b43d62c1b8138b1.jpg)
+
+|     |     |     |
+| --- | --- | --- |
+|  | Rear Seats | Seats, Restraints & Safety > Seats |
+|  | Arm rest and Cup holder | Storage >Cup Holders |
+| 3 | Rear Headrest | Seats, Restraints & Safety > Seats |
+| 4 | Grab Handle |  |
+| 5 | Reading Lights | Interior Lighting >Reading Lights |
+| 6 | Rear Power Window Switch | Windows > Window Controls |
+|  | Interior Door Handle | Doors > Interior Door |
+| 8 | Door Pocket Storage | Storage > Door Pocket Storage |
+| 9 | Rear Air Vents and USB Sockets\* | Climate Control System > Air VentsPhone & Projection > USB Ports & Power Outlets |
+
+\\* If equipped
+
+# Charging Overview
+
+![](https://vinfastowners.org/manuals/images/27b99ea220de4cadddb3fa642cf9442b2cd7530ac2ee5e09f35229b56ded2a31.jpg)
+
+|     |     |     |
+| --- | --- | --- |
+|  | Charging Port Door | Charging Instructions > Charging\_Instructions |
+|  | Charging Port Light\* | Charging Instructions > Charging Instructions |
+| 3 | Charging Handle | Charging Instructions >Charging Equipment |
+| 4 | Charging Port | Charging Instructions > Charging Instructions |
+
+# 3\. Openings & Compartments
+
+# 3.1. Keys and Locks
+
+# Central Locking Overview
+
+The vehicle is equipped with a central locking system that simultaneously locks/unlocks all doors, charge port door, front compartment, and liftgate. Central locking and unlocking of the vehicle can be accomplished by any of the following:
+
+Vehicle key fob
+
+Keyless entry (ensure the key fob is within 1m / 3ft of the vehicle)
+
+Mechanical key
+
+Interior central locking button
+
+Remote locking feature within the VinFast App (when available)
+
+Details on each of the above features can be found further in this section.
+
+# Interior Central Locking button
+
+![](https://vinfastowners.org/manuals/images/346378304eadcad0fe3aa2be68ddb207bfd64306d0b9ceab73759aa197cd033b.jpg)
+
+The Central Locking button
+
+![](https://vinfastowners.org/manuals/images/1dfc9185e35bcf5806ed1a67b3ecd4361d95e263682478a2248eb0e3a852c6fd.jpg)
+
+is located on the Center console. The button will illuminate to indicate the vehicle is locked.
+
+# Vehicle Locking Settings
+
+Auto Unlock Doors 1. Tap App Library
+
+on the Infotainment screen.
+
+2. Tap Settings
+
+$>$ Vehicle
+
+$>$ Doors.
+
+3. Toggle Auto Unlock Doors. Tap to Driver door/All doors.
+
+Door unlock when parked
+
+1. Tap App Library
+
+on the Infotainment screen.
+
+2. Tap Settings
+
+![](https://vinfastowners.org/manuals/images/c0d6bb2491ed16ec0ef4fe628442ecc5ec201fbab8af6072c239797d9c05aa4a.jpg)
+
+$>$ Vehicle
+
+$>$ Doors.
+
+3. Toggle door unlock when parked. Tap to On/Off.
+
+The vehicle will automatically unlock doors if this feature is turned ON and Park (P) is selected.
+
+Speed Sensitive Auto Door Lock
+
+Speed sensitive auto door lock will lock all doors automatically when the vehicle speed exceeds 10 km/h (6 mph).
+
+Walk - Away lock (if available):
+
+1. Tap App Library
+
+on the touchscreen screen.
+
+2. Tap Settings
+
+# $>$ Vehicle Settings $>$ Doors.
+
+3. Toggle walk away lock. Tap to On/Off.
+
+Activation Conditions - The Walk-away Lock feature will only operate when all of the following conditions are satisfi ed:
+
+The keyfob is fully functional.
+
+Vehicle is in P mode (P). The driver’s seat belt is not fastened.
+
+The vehicle speed is below $3 \\mathrm { k m / h }$ .
+
+All doors, the trunk, and the hood are closed.
+
+How It Works
+
+After the driver’s door has been opened and then closed, the system will start searching for the keyfob. If the keyfob remains within the passive entry detection range (approximately 1 m around the vehicle), the turn signal will fl ash to indicate that the Walk-away Lock feature is ready. A countdown timer will then start. When the keyfob moves outside the detection range, the system will automatically lock all doors and the trunk.
+
+![](https://vinfastowners.org/manuals/images/45a416bb5c23edef0ea7ab79c9acfb9b113d3cb098d8397e0122758e2d14a6f0.jpg)
+
+# NOTE
+
+Always carry the keyfob with you when leaving the vehicle.
+
+In certain situations, such as signal interference, the feature may be delayed or may not activate.
+
+Visual and audible feedback signals confi rm that the vehicle has been locked.
+
+The Walk-away Lock feature will only be activated when the driver’s door has been opened and then closed.
+
+Lock/Unlock Feedback
+
+When unlocking the vehicle via a key fob you can select the desired feedback in the form of Light, Horn, or Both. You
+
+can disable this feature by selecting OFF.
+
+1. Tap App Library
+
+on the Infotainment screen.
+
+2. Tap Settings
+
+$>$ Vehicle
+
+$>$ Doors.
+
+3. Select a desired feedback setting- Lock/Unlock Feedback (OFF/Light/Horn/Both).
+
+# Other Locking Related Features
+
+Automatic re-lock function
+
+The vehicle will automatically lock all its doors, if a door is not opened within 30 seconds of being unlocked.
+
+Collision detection unlock
+
+If the vehicle detects a collision event, all four doors will automatically unlock. This assists in providing improved access to the vehicle or exit from the vehicle in an emergency situation.
+
+# WARNING
+
+Close and lock the doors correctly while driving. Passengers, especially children, can easily open the doors and fall out of a moving vehicle. The doors can be unlocked and opened while the vehicle is moving. The chance of being thrown out of the vehicle in a crash is increased if the doors are not locked.
+
+Do not leave children unattended in the vehicle
+
+The key fob should be always with the user. If the key fob remains in the vehicle and children are present, they could start the vehicle or operate the windows which can cause serious injuries or even death.
+
+# Key Fob Overview
+
+The vehicle is equipped with remote Key Fob. Key Fob is paired to the vehicle and uses Radio Frequency (“RF”) technology to wirelessly perform the following vehicle functions:
+
+Locking and Unlocking doors
+
+Unlocking the liftgate
+
+Starting the vehicle
+
+Locating the vehicle via horn activation
+
+![](https://vinfastowners.org/manuals/images/4428287c961abab2cab5c263b68429e23219d87f2f6cffc686a3b17858b8db97.jpg)
+
+|     |     |
+| --- | --- |
+| ① | Unlock Liftgate |
+| ② | Unlock |
+| ③ | Lock |
+| 4 | Find My Car/Panic Alarm |
+
+For a description of all Key Fob functions, see $>$ Remote Key Functions
+
+![](https://vinfastowners.org/manuals/images/864f01ab01bc71ca5f750ed08b5be94cdc3f4247b36c41f03902f039bb234974.jpg)
+
+# NOTE
+
+The vehicle Key Fob should remain with the vehicle while driving. If the Key Fob is removed the vehicle will still be functional and can be driven but cannot be started again, if powered OFF.
+
+# CAUTION
+
+Protect the key from impact, high temperatures, and damage from liquids. Avoid contact with solvents, waxes, and abrasive cleaners.
+
+![](https://vinfastowners.org/manuals/images/a8ae2b9722d60b65781da1f5fdbd68d8c8adfaec91a0617e5d3a14a3374efe7b.jpg)
+
+# WARNING
+
+When exiting the vehicle, the key fob should be taken with the user. If the key fob remains in the vehicle and children are present, they can start the vehicle or operate the windows which can cause serious injuries or even death.
+
+# Key Fob Precautions
+
+The vehicle Key Fob communicates with the vehicle via a series of RF antennas. Key Fob communication with the vehicle may be impacted by the following:
+
+The Key Fob battery is discharged.
+
+The Key Fob is outside of the vehicle antenna operating range.
+
+Another vehicle’s smart key is being operated close to the vehicle.
+
+Interference caused by signals from powerful radio transmitters, mobile telephone, or electronic devices.
+
+Interference as a result of nearby metallic objects.
+
+# WARNING
+
+If a vehicle occupant has a pacemaker or other electrical medical implant/device fi tted, they should maintain a safe distance as prescribed by their medical professional from the antennas in the vehicle. This is to avoid any possible interference between the vehicle antenna and the medical implant/device. See approximate vehicle Key Fob antenna locations below.
+
+![](https://vinfastowners.org/manuals/images/c0b42d59634379d585a1bedb058f9904410f8f9b24a5bc21ef72ef9e793fd5ca.jpg)
+
+# Key Fob Battery
+
+The expected Key Fob battery life is approximately 2 years. The battery will slowly deplete over time even if the key is not being used. The following symptoms may exist to indicate that Key Fob battery is low:
+
+Wireless remote functions will not work or have reduced performance A vehicle alert
+
+will be displayed on the Infotainment screen
+
+To Replace the key fob Battery:
+
+![](https://vinfastowners.org/manuals/images/88d31e1da53f0394814abee0a1a8a339d2560d264942e2b9ea31b5fd63f2ad7b.jpg)
+
+1. Remove the mechanical key by sliding the release tab
+
+![](https://vinfastowners.org/manuals/images/9be38cc23963c8cde145fe412abf468b854fc238f2376705e975b178fc3f5e09.jpg)
+
+on the back of the Key Fob and take out the mechanical key
+
+![](https://vinfastowners.org/manuals/images/ccb17597fbff7fed01c3107dc699425fed0c007cbe6aaec455a5952645eefd7f.jpg)
+
+from the fob.
+
+2. Use a suitable small tool to gently open the back cover of the Key Fob.
+
+3. Remove the internal battery cover by fi rst twisting anti-clockwise and pulling up the cover.
+
+4. Replace the battery and ensure the new battery is in the correct orientation (Battery Number: CR 2032).
+
+5. Reinstall the internal battery cover, press down and rotate clockwise to lock.
+
+6. Reinstall the key fob back cover ensuring it clicks into place.
+
+7. Insert the mechanical key back into its slot.
+
+
+# CAUTION
+
+Do not touch any part of the Key Fob circuitry when replacing the battery as static electricity could damage the remote key.
+
+Ensure the replacement battery matches the same make and model as recommended by the manufacturer. Use of an incorrect battery may cause Key Fob malfunction or battery explosion.
+
+Do not dispose of batteries in household waste. Dispose of used batteries in accordance with local laws and regulations.
+
+Do not crush, cut, or burn a battery. Do not expose a battery to extreme environmental conditions.
+
+![](https://vinfastowners.org/manuals/images/df540e5802c30ff1582b0867f0d9841f8e42c4aa87a9d9739e788fea383f3d7d.jpg)
+
+# WARNING
+
+Keep batteries away from the children as they contain hazardous chemicals and should not be ingested. If a battery is swallowed it can cause severe internal burns and can lead to death. Seek immediate medical advice if a battery is ingested.
+
+![](https://vinfastowners.org/manuals/images/74f56d2bc03d85607fcb8f2908ecbd7cd2e6fcb6ab607bafd5f934351ff99a9d.jpg)
+
+NOTE
+
+If the Key Fob is damaged or does not function correctly even after replacing the battery, contact a VinFast Service Center.
+
+# Key Fob Replacement
+
+If a Key Fob is lost or damaged, a replacement Key Fob will be required to be paired to the vehicle via VinFast Service Center.
+
+# Remote Key Functions
+
+# Remote Lock/Unlock
+
+The vehicle can be locked and unlocked using buttons on the key fob.
+
+![](https://vinfastowners.org/manuals/images/bcc5a50fea4dc5a3ad84bb538c47c3982fea3c06e700dcefd70340bbf9625ce5.jpg)
+
+To unlock the doors via the key fob:
+
+1. Single press the unlock button
+
+to unlock driver’s door.
+
+2. Double press the unlock button
+
+to unlock all doors.
+
+# NOTE
+
+Door Unlock can be confi gured to unlock all doors with a single press, see $>$ Vehicle Settings - Doors.
+
+To lock all doors via the key fob:
+
+Single press
+
+to lock.
+
+# WARNING
+
+Before driving, ensure all doors are closed and locked. If a door is not fully closed it may suddenly open while driving, potentially causing an accident leading to serious injury or death.
+
+# Passive Unlock
+
+When carrying the remote key, the vehicle can be unlocked automatically using the passive unlock feature. This feature conveniently allows the vehicle to be unlocked without removing the key from your pocket or bag.
+
+![](https://vinfastowners.org/manuals/images/6fd338ab9a9981d36103f2a37ff3537f864a3e1943830ff134f3601760bddb9a.jpg)
+
+To unlock the vehicle via Passive Entry:
+
+Press the wide section
+
+![](https://vinfastowners.org/manuals/images/d76535fd8e84413483e9deb0548a0c5c0f2184bb05f62b6f0ea5424bbb22c0fc.jpg)
+
+of the door handle to unlock the doors. From the Vehicle settings menu this can be confi gured to: Unlock Driver’s Door only or Unlock All Doors.
+
+![](https://vinfastowners.org/manuals/images/089d4d6decc8c9d10d0a4a3e645d94fd9b781b793df57afbe82f4cc338f5ef5b.jpg)
+
+# NOTE
+
+For the vehicle to recognize the presence of the key fob and activate the passive functions, the key needs to be within a range of approximately 1m from the vehicle.
+
+# CAUTION
+
+Always check if the vehicle is properly locked before leaving it unattended.
+
+# Lock/Unlock Feedback
+
+To confi gure lock/unlock feedback:
+
+See $>$ Settings $>$ Vehicle Settings - Door.
+
+The vehicle exterior mirrors may also be set to automatically fold with vehicle locking, see $>$ Settings $>$ Vehicle Settings - Mirrors.
+
+# Other Remote Key Functions
+
+In addition to turning the vehicle ON and OFF, the remote key has the following additional convenience functions:
+
+# Comfort Mode
+
+When the vehicle is in a stationary position, pressing the Unlock button on the key fob for more than 1.5 seconds will open all the side door windows on the vehicle. Pressing the Lock button on the key fob for more than 1.5 seconds will close all the side door windows on the vehicle
+
+# Forgotten key reminder
+
+When the driver door is closed and a key is left in the vehicle, a message will appear on the instrument display and an audible chime will sound to alert the driver. If the key is left in the car, the doors cannot be locked.
+
+# Find your car
+
+When the vehicle is locked and in a stationary position, press the “Find Vehicle/Panic Alarm” button (see $>$ Keys and Locks $\\geq$ Key Fob Overview) to activate the vehicle horn and turn indicators to assist in locating the vehicle. This function is available when the key fob is within approximately 15m of the vehicle.
+
+# Panic Alarm
+
+When the vehicle is locked and in a stationary position, press and hold the “Panic Alarm/Find Vehicle” button $\\mathsf { s e e } >$ Keys and Locks $>$ Key Fob Overview) for approximately 3 seconds to sound the panic alarm. This function is available when the key fob is within approximately 15m of the vehicle.
+
+# Automatic re-lock function
+
+If a door is not opened after the vehicle has been unlocked, the vehicle will automatically re-lock after 30 seconds.
+
+# Mechanical Key Overview
+
+The Mechanical Key is integrated into the vehicle key fob. The mechanical key can be used to unlock the vehicle doors manually if the keyless entry system is malfunctioning, or if the key fob battery or the vehicles $\\textsf { 1 2 V }$ battery is discharged. The mechanical key can also be used to lock or unlock the rear door child locks. See $>$ Rear Door Child Lock.
+
+To release the mechanical key:
+
+![](https://vinfastowners.org/manuals/images/0fa6d5b839bcd3c5d0a4e4b9f70dce5ef242df98c97d4947873aba1b4fd7b3e2.jpg)
+
+1. Slide the release latch to unlock the key.
+
+![](https://vinfastowners.org/manuals/images/7ae5f7cc7312f23f702a1086a060ba560d234ac5fd2717b24711e80e9eed2076.jpg)
+
+2. Pull out the mechanical key from the key fob.
+
+![](https://vinfastowners.org/manuals/images/877e928b5898181da7a71602d046f41b23b6e192419a30933718ee63780bdced.jpg)
+
+To unlock the vehicle with the mechanical key:
+
+![](https://vinfastowners.org/manuals/images/2bfffd207dcc7078edd86ff56ff7c3d1a9b55763ee0df686e8b754702f4fb60b.jpg)
+
+1. Push the wide section of the rear door handle to expose the mechanical key lock cylinder.
+
+2. While holding the door handle clear of the lock cylinder insert the key into the key cylinder
+
+3. Rotate the mechanical key . clockwise to unlock the door
+
+
+![](https://vinfastowners.org/manuals/images/4cedc3b10965b17f86c6c61c8c1c2e86ddae5272b4df325af50d04e1611a0b0a.jpg)
+
+4. Open the door and place the key fob in the bottom of the cup holder in the front center console. See $>$ Starting the vehicle
+
+5. Press the brake pedal to disarm the vehicle theft alarm.
+
+
+![](https://vinfastowners.org/manuals/images/fbcc81a3c37951e291eb5110a6f3d287918323846e7eade0982917745d072999.jpg)
+
+# CAUTION
+
+When the mechanical key is used to unlock the vehicle the anti-theft alarm will trigger immediately.
+
+![](https://vinfastowners.org/manuals/images/992fa34476cd46c6c0bed2e5656d523ef7fc120db9a4239d64ff55655d31496f.jpg)
+
+# NOTE
+
+When the mechanical key is used, all doors will be unlocked at the same time unless the vehicle 12V battery is drained.
+
+# 3.2. Doors
+
+# Exterior Doors
+
+![](https://vinfastowners.org/manuals/images/a7ee0cbc5a45d4f98edbaf597e199d1869813b0b39af187827ec53e3570a1867.jpg)
+
+To open the vehicle via the fl ush exterior door handles:
+
+1. Ensure that you have the key fob with you (within 1m /
+
+   3ft of the car) to passively unlock the vehicle or press
+
+the unlock button on the key fob.
+
+2. Push the wide part
+
+of the fl ush door handle inwards, the narrow part of the handle will pivot outwards, allowing you to hold the handle and pull the door open. Once you release the fl ush door handle, it retracts automatically.
+
+Passive Entry via door handle
+
+The Passive Entry feature allows the unlocking of all the doors without using the key fob. To use passive entry function the key fob must be within 1m / 3ft of the vehicle.
+
+To unlock vehicle via Passive Entry:
+
+See $>$ Keys and Locks $\\geq$ Remote Key Functions $>$ Passive Unlock.
+
+# WARNING
+
+Ensure that doors are correctly closed & secure in order to prevent inadvertent or sudden door opening, potentially resulting in accident that may lead to serious injury or death.
+
+Ensure no objects or body parts extend outside the vehicle while in motion.
+
+Do not leave children unattended in the vehicle as interior temperatures can get extremely hot or cold leading to serious injury or death.
+
+# Interior Door
+
+Use the Inner door handle
+
+![](https://vinfastowners.org/manuals/images/3443f4e394fce85808b35e98fcfb41248a71276389572dc018742e972a675be3.jpg)
+
+to open the door from the inside. Door handles are provided on all 4 doors.
+
+![](https://vinfastowners.org/manuals/images/b2a4cab575c474b6e07649b32031ece438cb460cae35ab06b89d28ffc596ba13.jpg)
+
+To open a door from the inside:
+
+1. If the door is locked, pull the inner door handle
+
+to unlock the door.
+
+2. Pull the inner door handle
+
+a second time and push the door outward to open the door.
+
+![](https://vinfastowners.org/manuals/images/efba601c62aa103afcf5f679d13d3dafa4700a5f5b9b4ba21443d46defd84725.jpg)
+
+# NOTE
+
+Engage the child locks, to prevent children from opening the rear door from the inside, see $>$ Child Lock.
+
+![](https://vinfastowners.org/manuals/images/41c7b2372181633d2efb870e483b246fcde6e989a2050f79f1b43861931c3e03.jpg)
+
+# WARNING
+
+Ensure that all the doors are closed and locked correctly before driving the vehicle. Unlocked doors can open suddenly while driving, causing accident leading to serious injury and death.
+
+Always use child lock while traveling with children.
+
+Ensure all passengers are seated correctly and wearing seat belts before driving the vehicle.
+
+# Child Lock
+
+The Child Lock prevents the rear doors from being opened from inside the vehicle, enhancing rear occupant and child safety. When this lock is engaged, the rear doors can only be opened by using the exterior door handle.
+
+# Activation
+
+Activate the child lock using the mechanical key.
+
+To access the Mechanical Key - See $>$ Openings & Compartments $\\geq$ Keys and Locks $>$ Mechanical Key.
+
+![](https://vinfastowners.org/manuals/images/92bde2a13255185b36063bb9439cd855a0a3a46b7cd7c67450ebcaa05c2b3fbe.jpg)
+
+# NOTE
+
+Both rear doors are equipped with the child lock.
+
+![](https://vinfastowners.org/manuals/images/d8caf278a3caf2cc717d5617e6385a82be04066dbfb7dcf83898687febcab155.jpg)
+
+To activate Child Lock
+
+1. Open the rear door.
+
+2. Locate the child lock positioned on inside edge of the rear door
+
+3. Insert the mechanical key in the lock
+
+
+![](https://vinfastowners.org/manuals/images/dcba7fa454d2252c00f7fac82606831a6f5f8633a6e430a2af1550a16101a6b0.jpg)
+
+. Gently rotate the key approximately 45 degrees.
+
+4\. Rotate the key in clockwise direction to engage the lock on right hand side rear door.
+
+5\. Rotate the key in anti-clockwise direction to engage the lock on left hand side rear door.
+
+# Deactivation
+
+Child lock feature can be disengaged using the mechanical key.
+
+To access the Mechanical Key - See $>$ Openings & Compartments $>$ Keys and Locks $>$ Mechanical Key.
+
+To deactivate the Child Lock:
+
+1. Open the rear door.
+
+2. Locate the child lock positioned on inside edge of the rear door
+
+
+nline Rectangle
+
+3. Insert the mechanical key in the lock
+
+![](https://vinfastowners.org/manuals/images/e00679aec186d6f3646a41766c8583d2757608e92c5df134d3a27eb4b7cf79d9.jpg)
+
+. Gently rotate the key approximately 45 degrees. 4. Rotate the key in anti-clockwise direction to disengage the lock on right hand side rear door. 5. Rotate the key in clockwise direction to disengage the lock on left hand side rear door.
+
+![](https://vinfastowners.org/manuals/images/555bc412393dc3bcf1de9ee25efa8a6de0d59cbb9ab74af2afacda8caa7c4d33.jpg)
+
+# NOTE
+
+The child lock feature does not lock the doors from the outside.
+
+![](https://vinfastowners.org/manuals/images/bc6a622c68d6f5bd7072094941abe04a480262a09b7570cdfedfdd28e7d54743.jpg)
+
+# WARNING
+
+Do not leave children unattended in the vehicle.
+
+Ensure all doors are closed and locked prior to driving.
+
+Always engage the child lock when traveling with children in the rear seats to prevent them from opening the rear doors when the vehicle is in motion, which may result in serious injury or death.
+
+Do not rotate the key beyond 45 degrees. Excessive rotation may damage the locking mechanism.
+
+# 3.3. Front and Rear Compartments
+
+# Liftgate
+
+The Liftgate is located at the rear of the vehicle, and provides access to the Rear-Cargo Compartment. The
+
+Liftgate operates when the vehicle is in Park (P), as long as the key fob is in range.
+
+# Opening and Closing
+
+The Liftgate can be operated using any of the following methods:
+
+1. Key Fob
+
+nline Rectangle
+
+button on key fob once to Open or Close the Power Liftgate.
+
+# NOTE
+
+2. Car Control Area via Touchscreen
+3. Interior and Exterior Switch
+4. Manual Operation of Liftgate
+
+# Power Liftgate Operation (If equipped)
+
+To open or close the Power Liftgate using the key fob:
+
+Press the Liftgate
+
+A beep will be heard prior to Liftgate operation.
+
+To unlock the Liftgate using Car Control Area touchscreen controls:
+
+Touch targets will appear on Car Control Area, when the vehicle is in Park (P). See $>$ Displays, Connections and
+
+Climate > Car Control Area > Car Control Area Overview.
+
+To open/close Liftgate via the exterior and interior buttons:
+
+The Liftgate can be operated using the Liftgate switches present on the exterior and interior of the vehicle.
+
+![](https://vinfastowners.org/manuals/images/dcf97a16cd338f5b6c4802c1b7402cb813548926f9f2704b8b4c6be834baeb5d.jpg)
+
+![](https://vinfastowners.org/manuals/images/5be2fa72cde78152f22d034816e2ebe5f2bb54f60b3ea35e9f43de63aab252b8.jpg)
+
+1. Press the exterior
+
+![](https://vinfastowners.org/manuals/images/cfcd7dd754b29069b6dc7c264af8f9b20be0437a8f8413b778b74f9e454b9f2e.jpg)
+
+button to Open.
+
+2. Press the interior
+
+nline Rectangle
+
+button to Close.
+
+To stop Auto Liftgate movement:
+
+The Power Liftgate movement can be stopped using the following methods:
+
+nline Rectangle
+
+NOTE
+
+Press the interior Liftgate button.
+
+Press the Liftgate button on the Key Fob.
+
+Tap Car Control Area Liftgate icon on the touchscreen.
+
+The Liftgate is fi tted with Anti-Pinch Sensors. If any obstacles are detected while closing the Liftgate, it will revert to open position again.
+
+# Liftgate Height Adjustment
+
+To adjust height of Power Liftgate:
+
+nline Rectangle
+
+1. Open the liftgate fully.
+
+2. Press and hold the liftgate switch
+
+
+![](https://vinfastowners.org/manuals/images/8d82f6ddd90683f3201e32df163f7a65d7a04cc2905f87171b24fcca0dde9ca7.jpg)
+
+for 3 seconds until a beep is heard.
+
+3. Set the liftgate to the desired height.
+
+4. Press and hold the liftgate switch
+
+
+![](https://vinfastowners.org/manuals/images/b1b258eb62259120baf9deacdebb4ee4fde2bd0485449ae5c4714fbfffeaf534.jpg)
+
+again for 3 seconds until beep is heard to confi rm the
+
+desired height.
+
+5. Close liftgate with button.
+
+6. The liftgate will then open to the set position.
+
+
+# WARNING
+
+Do not allow children to operate the liftgate switch.
+
+When closing the liftgate, exercise caution to ensure that no body parts are in the path of the closing liftgate, which can cause serious injury.
+
+Do not carry passengers in the Rear Cargo Compartment area.
+
+Keep the liftgate closed while the vehicle is in motion.
+
+Never leave children unattended around an open luggage compartment. They could get inside the luggage compartment and accidentally close the liftgate trapping them inside.
+
+In colder regions, remove all the snow which can accumulate before opening the liftgate otherwise liftgate may get closed automatically due to the weight of the snow causing serious injuries.
+
+![](https://vinfastowners.org/manuals/images/6840423fafb69747eb471a8f95bfebfeb43cacbd7110f25cb64322f2d1787507.jpg)
+
+# CAUTION
+
+The liftgate must be properly closed after closing it. When correctly closed the liftgate should be fl ush with all surrounding panels.
+
+# Manual Operation
+
+To open and close the manual liftgate
+
+The following methods will release the liftgate door in order to manually open it:
+
+Key Fob Car Control Area Exterior Switch
+
+To close the manual liftgate
+
+Pull down the liftgate door until it is fully closed.
+
+Emergency Safety Release
+
+If the Power Liftgate switch does not operate, the Liftgate can be operated manually from inside the vehicle.
+
+![](https://vinfastowners.org/manuals/images/78ea730e02b4ba748033467c30eaa17611739733e52899b806199bdb8d9a6e31.jpg)
+
+nline Rectangle
+
+1. Remove the inside cover
+
+nline Rectangle
+
+on the back of the Liftgate.
+
+2. Push and hold the switch, as shown above
+
+nline Rectangle
+
+. Then push the liftgate to open.
+
+![](https://vinfastowners.org/manuals/images/0d8c7e19b6911fa96aed1f186e8cbc4a92cddf04d9d53e0bee129410977f5f1a.jpg)
+
+# NOTE
+
+If the Liftgate can only be opened using the Emergency Operation Lever, there may be an issue with the Liftgate.
+
+Please visit the nearest VinFast Service Center to check your vehicle.
+
+# Hood
+
+The hood provides access to the, 12V battery, front compartment fuse box, and fl uid/coolant reservoirs.
+
+Maintenance items - Maintenance > Fluids, Lubricants and Parts
+
+To open the hood:
+
+![](https://vinfastowners.org/manuals/images/bc3b8b47d965941134d80fc62b32de6e897813c539b34aed4abc5d5a3176904b.jpg)
+
+1. Ensure the vehicle is in Park (P) and the parking brake is applied.
+
+2. Pull the hood release lever located on the underside of the dashboard on the drivers side. The hood will open a small amount.
+
+3. Pull the hood release lever a second time to release the hood from the latch.
+
+4. Stand in front of the vehicle and lift the hood.
+
+5. While holding the hood open, unclip the hood brace rod
+
+
+![](https://vinfastowners.org/manuals/images/9d77e7117879321c5c8e4a0f969a58da1ba855bea23bce1adb50fd5c1e22c0da.jpg)
+
+from the holder in the hood and locate it securely into the rectangular hole in the body structure.
+
+![](https://vinfastowners.org/manuals/images/b9e9f03e9a7340cc4e8211d30c03663a4555f5f5c55a5f040a0c7d28d4d5bfe3.jpg)
+
+# WARNING
+
+Ensure that the area near the hood is clear of obstacles before opening.
+
+Ensure the hood brace rod is located & correctly secured into the body locating hole to ensure the Hood does not fall which may lead to serious injury or death.
+
+Do not drive the vehicle with the hood in a raised condition or if the hood is not latched completely. This can block your vision and cause accident.
+
+Always close the hood completely and securely before driving the vehicle.
+
+To close the front hood:
+
+1. Lift the hood slightly from its position, unhook the hood brace rod out of the body locating hole, relocate and clip it back into the hood brace rod holder in the hood.
+2. Lower the hood slowly until the fi rst position of the lock is engaged.
+3. Push down on the hood to engage the second stage lock.
+
+# CAUTION
+
+Do not install accessories other than original VinFast products on the hood. This may increase the weight of the hood, and cause the hood support to fail.
+
+Ensure that the area near the hood is clear of obstacles before closing.To prevent damage:
+
+- Do not apply excessive force when closing.
+
+- To prevent excessive force being concentrated in one area which may result in causing a dent, it is recommended to close the hood with two hands.
+
+- To prevent the possibility of creasing do not apply excessive pressure to the front edge of the hood.
+
+- To avoid scratches, make sure your hands are empty while closing hood.
+
+
+# 3.4. Windows
+
+# Window Controls
+
+The vehicle windows can be controlled using the window switches, which are located on the driver’s side door and the
+
+# nline Rectangle
+
+passenger side doors.
+
+Driver’s Side Door:
+
+|     |     |
+| --- | --- |
+|  | Driver Window Switch |
+| 2 | Front Passenger Window Switch |
+| 3 | Rear Right Passenger Window Switch |
+| 4 | Rear Left Passenger Window Switch |
+
+Passenger Side Door:
+
+![](https://vinfastowners.org/manuals/images/3b6402850d78cdde29940eabc8d6fcc47e960f19001f6659622317b5ef858c3b.jpg)
+
+To open and close the windows:
+
+1. Locate the window control switch on the driver’s side front door
+
+2. Slightly press the switch to open the window.
+
+3. Slightly pull up the switch to close the window.
+
+4. Release the switch at any time to stop window travel.
+
+
+Windows can also be opened or closed using the key fob. This feature is helpful to ventilate the vehicle before entering or in situations where the windows are open after exiting the vehicle. See $>$ Keys and Locks > Remote Key Functions > Comfort Mode.
+
+Auto-Opening/Closing (Express Mode):
+
+To fully open the window automatically, press the window switch completely down, the power window will open until the window reaches the lowest position. To fully close the window automatically, pull the window switch completely up, the power window will close until the window reaches the highest position.
+
+# 0
+
+# NOTE
+
+The windows can be operated for approximately 15 seconds when the vehicle power mode transitions from ON to OFF power mode.
+
+The driver’s side window control switches have the main priority over the other passenger window switches.
+
+Do not open or close two windows or more at the same time to prevent possible damage to the power window system. This will also ensure long life of the fuse.
+
+# WARNING
+
+Before closing a power window, ensure that all occupants, especially children, do not have any body parts extended through the window opening. Failure to do so could cause serious injury.
+
+While closing the window, check for obstructions like a head, hand, etc. which may lead to personal injuries.
+
+![](https://vinfastowners.org/manuals/images/004177a938d1387c80002661c26d293fef323a04389c88e93cfdaf96b778a16c.jpg)
+
+# CAUTION
+
+To avoid electrical overheating of the switch, window operation is temporarily disabled if the windows are repeatedly operated in a short period of time.
+
+Avoid tinting the window glass as a tinted window can affect visibility of rear view mirrors.
+
+# Initialize Windows:
+
+If the windows cannot be closed automatically via the express function (e.g. after disconnecting the vehicle 12V battery or after replacing the Anti-Pinch Module fuse), the windows may need to be re-initialized.
+
+To re-initialize windows:
+
+1. Pull up the window switch and close the window completely. Hold the switch in pulled condition for 2 seconds.
+2. Release the switch.
+3. Press the window switch completely down to open the window automatically.
+4. Pull the window switch completely up to close the window automatically.
+5. Repeat for each window.
+
+# 0
+
+# NOTE
+
+Steps in above mentioned procedure should be successfully completed in a single attempt. In case of any interruption, repeat the procedure from the beginning.
+
+# Comfort Open and Close
+
+The windows can also be opened via the following methods:
+
+Via Voice Assistant, by saying “Open all windows” (if available). Via the VinFast app (see VinFast app on your phone for more details)(if available) Key Fob See $>$ Remote Key .Functions $>$ Other Remote Key Functions.
+
+# Safety Functions
+
+# Child Window Lockout
+
+The child window lockout switch prevents rear seat passengers from operating the windows by deactivating rear seat window controls. This helps to provide additional safety for children seated in rear seats, who may accidentally open windows, and potentially exit the vehicle while in motion.
+
+# WARNING
+
+Always activate the child window lockout, to avoid opening of rear windows by children and potentially falling out of the windows.
+
+To activate/deactivate the Child Window Lockout:
+
+![](https://vinfastowners.org/manuals/images/a56ea4d096db7575ec7ee5b1cf1d5498ecd526b161363ffa2b9c291dedd1f7ac.jpg)
+
+1. Press the child window lockout switch
+
+nline Rectangle
+
+to activate rear power window lockout. The indicator light on the switch will illuminate.
+
+2. To deactivate, press the switch
+
+nline Rectangle
+
+again. The indicator light will turn OFF.
+
+nline Rectangle
+
+# NOTE
+
+Ensure the child window lockout is enabled by checking the function via the rear power window switch.
+
+# Anti-Pinch Safety Function
+
+If the window glass detects an obstacle while closing the fi rst time, it will automatically stop and return to a slightly more open position.
+
+If the window glass detects an obstacle while closing two consecutive times, it will automatically stop and return fully open position. The auto up function will be disabled. Users need to move the window up to the top edge to restore auto up function.
+
+Express Window UP function will not function if anti-pinch is detected multiple times. Complete the window initialization procedure to regain the express window function. See $>$ Windows $>$ Window Controls.
+
+# Overload Protection
+
+To avoid electrical overload, the window operation is disabled for a short period of time if the switch is repeatedly operated at short intervals.
+
+# 3.5. Storage
+
+# Glove Box
+
+The vehicle glove box is located in the lower section of the dashboard, in front of the passenger seat.
+
+Once opened, the glove box light illuminates the storage area. The light will turn off automatically when the glove box is closed.
+
+To open the glove box:
+
+Pull the handle in the direction as shown:
+
+nline Rectangle
+
+nline Rectangle
+
+# nline Rectangle
+
+# CAUTION
+
+Close the glove box door gently. Do not use excessive force.
+
+![](https://vinfastowners.org/manuals/images/fc41afec017776289e6dfc0a7f8c2f68a081bd8880a170b8b3ec9101f2566257.jpg)
+
+# nline Rectangle
+
+# WARNING
+
+Do not put heavy or sharp objects in the glove box. In an accident, these objects may cause the glove box to open and could result in serious injury.
+
+Do not leave the glove box door open. A passenger may suffer serious injuries due to an open glove box door in the event of an accident.
+
+Ensure that glove box is closed while driving.
+
+# Center Console
+
+The Center Console is located between the two front seats and comprises both an armrest and a central storage bin.
+
+# Armrest
+
+The armrest is an integral part of the central storage lid and is located between the two front seats, providing additional comfort to both the driver and the passenger.
+
+# Center Console Storage
+
+Center Console Storage is located beneath the armrest and in front of the Center console and may be used to provide space to store small items.
+
+To access the Center Console Storage under the Armrest:
+
+nline Rectangle
+
+Press and hold the release button
+
+nline Rectangle
+
+nline Rectangle
+
+Pull the armrest upwards to open.
+
+# nline Rectangle
+
+# CAUTION
+
+Do not use excessive force to open or close the storage compartment, it may damage the armrest.
+
+![](https://vinfastowners.org/manuals/images/aaa2af222780ec4e3c6824a1fa60b53ce3854be98596d49d323ed3328b72d8dc.jpg)
+
+# nline Rectangle
+
+# WARNING
+
+Do not keep fl ammable items in the vehicle.
+
+Do not leave USB cables plugged into the vehicle after use or when exiting the vehicle. USB cables left plugged into the vehicle unconnected to a device may cause an electrical short if the unconnected end comes in contact with liquids or other power source such as the accessory power outlet.
+
+# Door Pocket Storage
+
+Door pocket storage areas are provided in both front doors
+
+nline Rectangle
+
+and rear doors
+
+nline Rectangle
+
+, and may be used to store bottles and other small personal items.
+
+nline Rectangle
+
+nline Rectangle
+
+Ensure that the items stored inside the door pockets fi t properly in the compartment. If bottles or other items are too large for the door pockets, store them in another safe location, such as the rear cargo compartment.
+
+# nline Rectangle
+
+# WARNING
+
+Do not store any sharp objects inside any door pocket as they may become loose and fall out of the pocket while the vehicle is in motion, leading to situations that may cause serious injury or death.
+
+Do not store glass items in door pockets. Such items may break while driving and may cause serious injuries to passengers.
+
+Ensure that the bottle cap is fully tightened when storing bottles in door pockets.
+
+# Cup Holders
+
+The vehicle has four Cup Holders for the storage of beverages and other small items.
+
+The cup holders are located:
+
+In between the front seats, in the Center console
+
+inline Rectangle
+
+In the rear seats inside the middle arm rest
+
+nline Rectangle
+
+nline Rectangle
+
+To access rear cup holders:
+
+nline Rectangle
+
+1. Fold down the rear arm rest
+
+nline Rectangle
+
+2. Push the cup holders
+
+nline Rectangle
+
+inwards.
+
+The cup holders will then slide out in the direction shown
+
+# nline Rectangle
+
+# WARNING
+
+Do not put anything other than cups or beverage cans in the cup holder.
+
+In the event of an accident or emergency braking, such items may be thrown out of the cup holder, resulting in personal injury. If there are hot drinks, please tighten the cover tightly to avoid scalding.
+
+# Front Cargo Compartment
+
+The Front Compartment located under the hood at the front of the vehicle provides access to the maintenance items.
+
+To access the front cargo compartment:
+
+See $>$ Front and Rear Compartments > Front Hood.
+
+nline Rectangle
+
+|     |     |
+| --- | --- |
+| inlineRectangle | Washer Fluid Reservoir |
+| DinlineRectangle | Coolant Fluid |
+| DinlineRectangle | Brake Fluid |
+| inlineRectangle | Fuse Box |
+
+# nline Rectangle
+
+# WARNING
+
+Do not drive the vehicle with a raised hood, as this will block the vision and lead to an accident.
+
+# Rear Cargo Compartment
+
+The rear cargo compartment provides storage for luggage or objects that need to be stored securely including the vehicle tools and spare wheel. Vehicle tools and spare wheel (if equipped), are located under cargo load fl oor.
+
+nline Rectangle
+
+1. To remove the cargo fl oor
+
+nline Rectangle
+
+, pull up on the strap.
+
+# nline Rectangle
+
+# CAUTION
+
+In case of sudden braking, loose objects in the cargo compartment can move and cause damage to both the object and the vehicle.
+
+Do not leave the vehicle unattended if the liftgate is open to avoid children getting trapped in the vehicle.
+
+# Parcel Shelf (if equipped)
+
+The vehicle is fi tted with a rear parcel shelf located behind the back seats. The parcel shelf provides a barrier between the objects placed in rear cargo compartment and the cabin area and reduces noise in the cabin.
+
+nline Rectangle
+
+To remove the rear parcel shelf:
+
+nline Rectangle
+
+nline Rectangle
+
+1. Remove the drawstrings
+
+nline Rectangle
+
+on both sides of the parcel shelf.
+
+2. Remove from the locator by pushing the parcel shelf in an upward direction
+
+inline Rectangle
+
+To install the Parcel Shelf:
+
+nline Rectangle
+
+1. Lift the parcel shelf and align the locating tabs with the grooves in the parcel shelf.
+
+2. Push the shelf in downward direction
+
+
+nline Rectangle
+
+to lock in place.
+
+3. Attach the two drawstrings of the parcel shelf to either sides.
+
+nline Rectangle
+
+# CAUTION
+
+The parcel shelf is not designed to bear heavy loads, do not apply excessive force while installing or removing the parcel shelf. Using excessive force can break or damage the parcel shelf.
+
+# nline Rectangle
+
+# WARNING
+
+Do not store any objects on the parcel shelf. In the event of sudden braking, manoeuvreing, or an accident the objects can come loose risking personal injury to occupants. An unsecured parcel shelf could strike people in a sudden stop or turn, or in the event of a crash. Store the parcel shelf securely or remove it from the vehicle.
+
+# Spare Wheel and Tools (if equipped)
+
+The spare wheel and tools are located under the cargo fl oor in the rear luggage compartment. The following items may be found under the cargo fl oor depending on region of sale:
+
+Tire Infl ator Kit and Power Lead
+
+Lifting Jack and Crank
+
+Towing Eyes
+
+Spare Wheel
+
+Warning Triangle
+
+Mobile Charger
+
+Hi-Vis Vest
+
+nline Rectangle
+
+For details on how to change a tire, see $>$ Vehicle Recovery $>$ Vehicle Jack and Tire Repair.
+
+nline Rectangle
+
+# WARNING
+
+To ensure safety and prevent damage to the luggage compartment components (e.g., trunk lid, luggage fl oor, toolbox - If equipped), do not exceed the recommended load limit. The maximum permissible load in the luggage compartment is $6 5 \\mathsf { k g }$ , which should be evenly distributed across the entire fl oor surface to avoid concentrated stress at any single point. This load should only be maintained for a short period (for example, during temporary luggage transport) and should not be kept for an extended duration to maintain the durability and shape of the luggage compartment components.
+
+# 3.6. Vehicle Security
+
+# Thief Alert
+
+The Thief Alert System triggers an alarm when an unauthorised attempt is made to enter the vehicle. The system provides both audible and visual alerts using horn, turn indicator lights, and Infotainment screen display.
+
+The vehicle thief alert will trigger in following situations:
+
+If any of the front or rear doors are forcefully opened.
+
+If the liftgate is forcefully opened.
+
+If the hood is forcefully opened.
+
+If the vehicle location is different from the saved location (GPS monitoring required).
+
+# Thief Alert Operation
+
+To activate the thief alert:
+
+The vehicle thief alert is automatically activated when the vehicle is locked.
+
+To change the alert type:
+
+nline Rectangle
+
+1. Tap App Library
+
+nline Rectangle
+
+on the Infotainment screen.
+
+2. Tap Settings
+
+nline Rectangle
+
+# Security Settings
+
+nline Rectangle
+
+# $>$ Theft Alert
+
+nline Rectangle
+
+3. To select an alert type, use the toggle
+
+nline Rectangle
+
+ON duration
+
+The thief alert will be activated for 28 seconds for 10 cycles after which alarm will be stopped. The turn indicators and
+
+horn will be active for the same period.
+
+GPS Monitoring (If available)
+
+GPS Monitoring is a vehicle security system that alerts the owner when the vehicle is moved from its parked location.
+
+nline Rectangle
+
+NOTE
+
+If the 12V battery state of charge is below $70 %$ GPS monitoring cannot be activated.
+
+To turn ON/OFF GPS monitoring system:
+
+1. GPS monitoring can be activated/deactivated by tapping ON/OFF
+
+nline Rectangle
+
+from the Theft Alerts settings page.
+
+OR
+
+1. Tap Quick Controls
+
+nline Rectangle
+
+on Infotainment screen.
+
+2. Toggle ON/OFF on GPS Monitoring.
+
+# Thief Alert Activation
+
+When the thief alert is activated the vehicle horn will sound and the turn indicators will fl ash.
+
+To stop the alarm:
+
+The thief alert can be stopped by any of the following ways:
+
+Unlocking/Locking the vehicle via key fob Unlocking the vehicle by passive entry feature (the keyfob must be withing 1m from the vehicle)
+
+Opening the liftgate using key fob
+
+Using VinFast app
+
+Alarm times out
+
+Stopping the alarm if the key fob battery is completely discharged:
+
+If the key fob battery is completely discharged, then the alarm will not be deactivated by pressing the key fob Unlock button. To disable the alarm with a discharged key fob battery, see $>$ Starting & Shutting Down Vehicle > Starting the Vehicle.
+
+# nline Rectangle
+
+# CAUTION
+
+Ensure that no passengers are present in the vehicle before locking. The alarm will activate if a passenger leaves the vehicle after the alarm has been set. Please make sure that all the thief alert system will not be activated if doors are not fully closed, ensure all doors are correctly closed before activating the thief alert system.
+
+# nline Rectangle
+
+# NOTE
+
+If the vehicle is unlocked and no doors are opened within 28 seconds of previously being opened, the vehicle will automatically re-lock and the alarm system will rearm.
+
+# Immobilizer
+
+The Immobilizer system in a car serves the primary purpose of enhancing vehicle security by preventing unauthorized individuals from starting and operating the vehicle.
+
+# Vehicle Immobilizer Operation
+
+The immobilizer is automatically activated when the vehicle is in OFF state.
+
+The immobilizer telltale nline Rectangle
+
+is displayed briefl y on the Car Control Area area of the Infotainment screen when a valid key fob is not detected inside the vehicle. If your key fob is not getting recognized, then try again with the vehicle’s second key fob. If the issue persists, the car immobilizer system might be at fault. Please contact VinFast Service Center to have your vehicle inspected. The Telltale turns OFF automatically once a valid key fob is detected.
+
+# CAUTION
+
+Do not leave key fob inside the vehicle when exiting the vehicle.
+
+The immobilizer and key fob function together as a pair to secure the vehicle. A damaged key fob may not function properly and result in issues with starting or immobilizing the vehicle.
+
+Avoid dropping, knocking or exposing the key fob to moisture, static electricity, or other electrical interference.
+
+Do not tamper with electrical devices in the vehicle as this can cause terminal vehicle issues.
+
+![](https://vinfastowners.org/manuals/images/c762ac7f0a208762a9b5d304c6eac0551d0e06fddca04a4464983574b72c3e10.jpg)
+
+# WARNING
+
+Consider the vehicle location and surroundings before leaving the vehicle unattended. Do not rely completely on this system to protect the vehicle.
+
+# 4\. Seats, Restraints & Safety
+
+# 4.1. Seats
+
+# Front Seats
+
+Follow all seating guidelines to ensure optimum protection in the event of an accident. Seats, Headrests, Seat belts and
+
+Airbags work together to ensure total passenger safety.
+
+Adjust the seats to the required position prior to driving, using the electric controls provided for seat adjustments.
+
+# WARNING
+
+Do not adjust the driver seat while the vehicle is moving. Adjusting the driver seat while the vehicle is moving, can cause loss of control and lead to an accident that may cause serious injury or death. Always adjust the driver seat when the vehicle is stationary.
+
+Ensure to maintain the recommended distance from the steering wheel and Airbag when adjusting the seat.
+
+![](https://vinfastowners.org/manuals/images/ec09ab1436b4193d0daa458de9052f7fecd712577211d148210e0341b36a3966.jpg)
+
+# NOTE
+
+Use of a seat belt is mandatory for the entire duration of the journey, see $>$ Correct and incorrect seating positions.
+
+The vehicle has 8-way power seat adjustment for the driver seat and 6-way power seat adjustment for the passenger seat.
+
+ECO variants have manual 4-way seat adjustment for the front passenger seat.
+
+# Rear Seats
+
+Follow all seating guidelines to ensure optimum seating comfort and protection in the event of an accident. Seats, Headrests, Seat belts, and Airbags work together to ensure total passenger safety.
+
+![](https://vinfastowners.org/manuals/images/86a85b311ffd1367807140cebf061339a004cbce42c754afe2bbbfff97bc16dd.jpg)
+
+# NOTE
+
+Use of a seat belt is mandatory for the entire duration of the journey.
+
+Ensure to sit in the correct seating position to ensure optimum driving comfort. See $>$ Correct and incorrect seating positions.
+
+The rear seats are designed in a 60-40 confi guration. The rear seats can be folded individually or together to increase cargo capacity when needed, see $>$ Rear Seat Fold.
+
+The rear Center seat also contains an integrated armrest along with two cup holders, see $>$ Cup holders.
+
+# Seat Adjustment
+
+The vehicle is fi tted with a driver’s seat and four passenger seats. The following section describes how the seats can be adjusted to provide safe and comfortable travel for all occupants.
+
+# WARNING
+
+Do not allow more than fi ve occupants in the vehicle while in motion. Traveling with an excessive number of passengers is dangerous to all occupants, even to those who may be safely restrained.
+
+Front Seat Adjustment (Power) (if equipped)
+
+![](https://vinfastowners.org/manuals/images/b067ad0f3010bbff79eb4446f853098e82ea4c513ad9338fcaacdd675697a52c.jpg)
+
+![](https://vinfastowners.org/manuals/images/b04210c40bf7cdf7fe9c288a9617d092a32032de5991d3d866c2c7d80baf9e75.jpg)
+
+# Tilt Adjustment:
+
+To adjust the seat cushion (tilt) upward or downward, pull/push the front section of the adjustment button upward or downward
+
+![](https://vinfastowners.org/manuals/images/3ab1e4d2fefc8c1f5598e39eb1264a170e1d86b653307b6e228f76b7c8be1b3b.jpg)
+
+![](https://vinfastowners.org/manuals/images/2399c02160e02642b8256deb42a0257be703581eb317903d7fc001219db18db4.jpg)
+
+# Forwards/Rearward Adjustment:
+
+To move the seat forward or rearward slide the adjustment button in the intended direction
+
+![](https://vinfastowners.org/manuals/images/f7f7f61846d1c613ba574d0337ac3ec22285e1f6339556e10ae586b83c3676b4.jpg)
+
+![](https://vinfastowners.org/manuals/images/22205dc27c23e33f72d4d096629950fdb83bb7dcc3fb860bdc6f5c29287b99a4.jpg)
+
+of travel.
+
+Seat Height:
+
+To move the seat cushion upward or downward, pull/push the rear section of the adjustment button upward or downward
+
+![](https://vinfastowners.org/manuals/images/1e2aa71c0d3e4c6260e1ba8d1c40a8b501fe967a801b38f977cd982f475bab11.jpg)
+
+![](https://vinfastowners.org/manuals/images/7c4d6c8df736747dddd123193815a581f4037cff1744b7a6c37a997120cf0b54.jpg)
+
+Seat Backrest Angle Adjustment:
+
+To move the backrest forward or backward, pull/ push the backrest button forward or backward
+
+![](https://vinfastowners.org/manuals/images/2fbee212633d058312d24e4b262bc8398fa4cb724606e97a18c0e0f9e59db29f.jpg)
+
+![](https://vinfastowners.org/manuals/images/dd8f10c985e13a978547f96e9f0f13aca5d7ad01c210bf35855ac2145c81bc75.jpg)
+
+# Seat backrest Angle Adjustment:
+
+Operate the lever
+
+![](https://vinfastowners.org/manuals/images/f9552887e0204fa81feba3c94dc0dff300ea74ccd70e4ad756d37d178527fb83.jpg)
+
+. Move the seat backrest to the desired position, and then release the lever to lock the seat backrest in place. Push and pull on the seat backrest to make sure it is locked.
+
+![](https://vinfastowners.org/manuals/images/0a8af8a5a18b84c49966e4811204b5ab23272002ab07ba7ef30879f01e57538b.jpg)
+
+# Forwards/Rearward Adjustment:
+
+To move the seat forward or rearward, pull the lever
+
+![](https://vinfastowners.org/manuals/images/1c188d4203e4170a49adbfa949b60359fdeca4b8ce980b50e3920625b74e8a62.jpg)
+
+up and adjust the seat in desired position. Release the lever to lock the seat in position. Try to move the seat back and forth to be sure it is locked in place.
+
+![](https://vinfastowners.org/manuals/images/5cf4fba8af92d8197fab1d81226dd3ba25cca8be7a48b698dd595a3c884289d3.jpg)
+
+![](https://vinfastowners.org/manuals/images/4fd812fe5b0e4775570f31ba7a1b6ebe40c5afbc4321e47b35c8c0d5abbf285d.jpg)
+
+# NOTE
+
+Ensure proper adjustment of the seat position before fastening the seatbelt.
+
+![](https://vinfastowners.org/manuals/images/3af494a06ebc8ea275e542b711f498cc89966a6ab5c2f49bbd3cb9cce9c0a1ef.jpg)
+
+# WARNING
+
+Sitting in a fully reclined position when the vehicle is in motion can be dangerous and reduces the effectiveness of vehicle safety systems. This increases the chance of serious or fatal injuries in the event of a collision or sudden stop.
+
+All occupants in a moving vehicle must keep the seat backs upright and fasten the seat belts at all times.
+
+Supervise children when operating power seat adjustments.
+
+Adjust the driver’s seat only when the vehicle is stationary. Adjusting the seat while driving is dangerous and may result in an accident.
+
+Ensure to keep fi ngers clear of moving seat components while adjusting to avoid risk of injury.
+
+Drivers and passengers should always sit well back in their seats with seat belts properly fastened and backrests upright.
+
+Failure to do this could result in serious injury or death in the event of an accident.
+
+The driver and front passenger should sit as far rearward as possible to reduce risk of injury from a deploying Airbag.
+
+Do not put any luggage, loose items or pets on the front passenger seat.
+
+# Headrest
+
+The vehicle is equipped with adjustable headrests. The headrests provide comfort for passengers, but their primary purpose is to help protect passengers from whiplash and other neck and spinal injuries during an accident.
+
+Front Seat Headrest Components:
+
+![](https://vinfastowners.org/manuals/images/81235dbbb45889baf3352a1e8478720a7cbb7a6d765f3b2ce5eb8c4fb6df8a16.jpg)
+
+The Front Headrest System has the following components:
+
+Energy absorber headrest
+
+Headrest adjustment button
+
+Steel stems
+
+Rear Seat Headrest Components:
+
+The rear headrest system has the following components:
+
+![](https://vinfastowners.org/manuals/images/ea9ffd0c5c7b27019fbf701ffd9f02125217ee2640858092bba5bfe86acbdcf4.jpg)
+
+Energy absorber headrest
+
+![](https://vinfastowners.org/manuals/images/56ca81a2b5b6ccd976e53d3ab20bb9863c616d71bb1b84d561a5ce9344b8547b.jpg)
+
+Headrest adjustment button
+
+Steel stems
+
+nline Rectangle
+
+# Headrest Adjustment and Removal
+
+The headrest height can be raised or lowered. Adjust the headrest so the middle of the head restraint is at the same height as the height of the top of the eyes. Adjust the backrest to an upright position before adjusting the headrest.
+
+nline Rectangle
+
+For taller passengers where the headrest cannot be positioned as recommended, adjust the headrest to its maximum/highest position.
+
+To adjust the Front Seat Headrest’s Height:
+
+nline Rectangle
+
+1. Press and hold the locking button
+
+nline Rectangle
+
+on the outboard side of the headrest.
+
+2. Lift/Lower the headrest.
+
+3. Release the locking button to lock the headrest in it’s new position.
+
+
+To adjust the Rear Seat Headrest’s height:
+
+nline Rectangle
+
+1. Press the locking button
+
+nline Rectangle
+
+on the headrest support.
+
+2. Lift/Lower the headrest.
+
+3. Release the locking button to lock the headrest in it’s new position.
+
+
+To remove the Rear Seat Headrest:
+
+nline Rectangle
+
+1. Tilt the seat forward
+
+2. Raise the headrest while pressing buttons
+
+
+nline Rectangle
+
+and
+
+nline Rectangle
+
+simultaneously to remove.
+
+nline Rectangle
+
+# WARNING
+
+All occupants must correctly position headrests prior to operating the vehicle. A correctly adjusted headrest minimizes the risk of neck and spinal injury in the event of an accident.
+
+Do not adjust the headrest of the driver’s seat while driving.
+
+Do not let any passengers occupy a seat with the head restraint removed or reversed.
+
+Adjust the headrest as close to the passenger’s head as possible. Do not use a seat cushion that holds the occupants body away from the seat back.
+
+Ensure the headrest locks into position after adjusting it.
+
+# Rear Seat Adjustment
+
+The rear seats may be folded to increase rear cargo capacity of the vehicle.
+
+To fold the rear seat:
+
+nline Rectangle
+
+1. Remove all items from the seats.
+
+2. Place the rear seat belt buckles in their pockets.
+
+3. Press and hold the unlock button
+
+
+nline Rectangle
+
+and then tilt the seat forward to fold down the seat backrest.
+
+The rear seats can be folded separately in a 60/40 split confi guration or both together. To return the rear seats to the upright position, pull the seat upwards until locked in position.
+
+# nline Rectangle
+
+# CAUTION
+
+When returning the rear seat backrests to the upright position, ensure that the seat belt is not caught behind the seat.
+
+Before adjusting the rear seat backrests the vehicle should be parked on level ground with the parking brake applied.
+
+Do not put heavy items on the seats when they are folded as they may damage the folding mechanism.
+
+nline Rectangle
+
+# WARNING
+
+Do not adjust the rear seats while driving as this may lead to an accident causing serious injury.
+
+Do not allow children to play inside the vehicle when the rear seats are folded as this may lead to serious injury.
+
+Make sure hands, fi ngers, feet or other body parts are kept clear of the seat folding mechanism while adjusting or folding the rear seat.
+
+Ensure each rear seat backrest is locked securely in position to ensure the backrest does not move during sudden braking or during an accident.
+
+Do not put any heavy or unsecured luggage on the rear seats or inside the passenger compartment.
+
+When returning a seat backrest back to its upright position, make sure it is fi rmly locked.
+
+# Seat Ventilation
+
+If equipped, the vehicle may have seat ventilation feature. Front seats may have ventilation feature.
+
+The seat ventilation can be controlled by the climate control settings page on the Infotainment screen, see $>$ Climate Controls.
+
+nline Rectangle
+
+# NOTE
+
+The seat ventilation works only when the vehicle is turned ON.
+
+# nline Rectangle
+
+# WARNING
+
+Take extreme care when using the seat heater as prolonged usage can cause burns.
+
+Do not cover the seats with anything that can insulate heat, such as a blanket, cushion, seat covers, or similar items.
+
+This may cause the seat heater to overheat resulting in burns to the skin and damage to the seat.
+
+# Correct Seating Positions
+
+A correct seating position is very important to ensure safety to driver and passengers. Follow these recommendations for proper seating positions:
+
+Rest the feet on the fl oor properly.
+
+Do not slide forward on the seat. Maintain 12.7 to $2 5 . 4 \\mathsf { c m }$ distance from the steering wheel and dashboard.
+
+Keep the seat backrest in an upright position, and rest your back against the backrest. Do not recline the seat backrest to a laying down position while vehicle is in motion. Ensure that all occupants are sitting at the Center of each designated seat. Sitting in a haphazard manner (offset from the seat Center, sideways, etc.) may cause fatal injury in the event of an accident. Do not lean against the dashboard area. The driver’s arm should be slightly bent (around 120 degrees) and the chest should not be closer than 30 cm from the wheel.
+
+Use of a seat belt is mandatory for the entire duration of the journey.
+
+For correct head rest positioning. See $>$ Seats $>$ Seat Adjustments $>$ Head Rest Adjustment.
+
+Examples of incorrect seating position:
+
+nline Rectangle
+
+Example of correct seating position:
+
+nline Rectangle
+
+# 4.2. Seat Belts
+
+# Seat Belt Use
+
+Vehicle Seat Belts provide the most effective protection to the occupants in the event of an accident. Always ensure all occupants have fastened their seat belts before the vehicle is driven.
+
+Wearing a seat belt while driving a vehicle is required by law in most jurisdictions.
+
+# Wearing Seat Belts
+
+The vehicle is equipped with three-point seat belts with pretensioner and emergency locking retractor (ELR).
+
+An automatic locking retractor mechanism (ALR) has been added to the ELR for the US version.
+
+The seat belt pre-tensioner is designed to tighten the seat belt automatically by reducing the slack in both the lap and shoulder portions of the belt in the event that the vehicle experiences a high sudden force input such as a hard acceleration, heavy braking, cornering or a collision.
+
+The automatic locking retractor (ALR) enables the seat belts in the passenger seat locations to be used for securing a child seat without using a seatbelt locking clip, see $>$ Child Restraints. To activate the ALR, fully extend the webbing. To deactivate the ALR, release the webbing until it reaches initial installed position (without occupant).
+
+Correct Seating Position
+
+A correct seating position is very important to ensure the driver’s and passenger’s safety. Follow all recommended seating guidelines to minimize the chances of injury in the event of an accident.
+
+For more information, see $>$ Seats $>$ Correct & Incorrect Seating Positions.
+
+# nline Rectangle
+
+# WARNING
+
+If the occupants of the front seats are sitting too close to the steering wheel or dashboard, the Airbag system may not provide optimal protection, which increases the risk of injury or death.
+
+To fasten a Seat Belt:
+
+nline Rectangle
+
+nline Rectangle
+
+nline Rectangle
+
+Latch Plate
+
+nline Rectangle
+
+Buckle
+
+nline Rectangle
+
+1. Ensure a correct seating position.
+
+2. Advance the seat belt from its retracted position. Make sure that the belt is not twisted and lays fl at across the occupant’s body (shoulders, torso, and pelvic region), as shown
+
+
+nline Rectangle
+
+3. Insert the latch plate into the buckle
+
+nline Rectangle
+
+, to make sure that the latch plate clicks in to locked condition.
+
+4. Pull the seat belt to check that it is fastened securely.
+
+5. Pull the diagonal part of the seat belt over the occupant’s torso and shoulders towards the retractor to remove any excess slack
+
+
+nline Rectangle
+
+nline Rectangle
+
+# WARNING
+
+Inadequately positioned seat belts may increase the risk of serious injury in an accident. To avoid wearing the seat belt incorrectly, occupants must always sit in the correct seating position; place one arm under the shoulder belt and the other over the shoulder belt (ensure that the shoulder belt is not against your neck or face) and place the lap belt across the hip (as low as possible), not across the waist.
+
+Ensure that the seat belt fi ts the body snugly and the belt is not twisted and the latch plate is locked properly into the buckle.
+
+Do not make modifi cations or additions that can prevent a seat belt mechanism from taking up slack, or that can prevent a seat belt from being adjusted to remove slack. A slack in belt greatly reduces occupant protection.
+
+# Testing Seat Belts
+
+Make sure each seat belt operates correctly by performing these three simple checks.
+
+Pull the webbing near to the buckle while the seat belt is fastened. The buckle should remain securely locked. Unroll the webbing to the limit with the belt unfastened. Make sure that the unreeling is free from snags and that the webbing is in good condition. Check that the webbing retracts smoothly and completely. Grasp the latch plate and quickly pull forward with the webbing half unreeled. It should automatically lock and prevent further unreeling.
+
+If a seat belt fails any of these tests, contact a VinFast Service Center immediately.
+
+To unfasten the Seat Belt:
+
+nline Rectangle
+
+1. Hold the belt near the buckle
+
+nline Rectangle
+
+to avoid the seat belt hitting the occupant while retracting.
+
+2. Press the Red button on the buckle
+
+nline Rectangle
+
+to release the latch plate and set the seat belt free.
+
+3. Make sure that the seat belt does not get stuck while retracting.
+
+nline Rectangle
+
+# WARNING
+
+While releasing the seat belt, hold the latch fi rmly and guide the seat belt slowly back to its retracted position to avoid injury from seat belt lashing.
+
+# Wearing a Seatbelt while Pregnant
+
+nline Rectangle
+
+egnant, following precautions should be taken while wearing a seatbelt to protect the mother and the fetus:
+
+The lap belt should be worn snugly and as low as possible around the hips ensuring it does not press on the abdomen. The shoulder belt strap should be worn across the shoulder and to the side of the abdomen, ensuring it is not across the stomach area. If unsure, please consult a doctor for specifi c medical recommendations.
+
+nline Rectangle
+
+# WARNING
+
+A pregnant woman should never wear the seat belt across the stomach area. This could lead to a serious injury to the fetus and/or the pregnant mother.
+
+Do not wear twisted seat belts. Excessive forces will be transferred from the belt to the occupant in a collision, resulting in serious personal injury.
+
+Do not place any items between the passenger and the seatbelt as this may negatively interfere with the seat belt’s operation.
+
+# Seat belt Warning Indicator
+
+Driver and Passenger seatbelt status (if equipped):
+
+When a front seat is occupied and a corresponding seat belt is not fastened the seat belt warning light
+
+nline Rectangle
+
+will illuminate on the Infotainment screen.
+
+When the vehicle is driven at speed of 9 mph $1 5 \\mathsf { k m } / \\mathsf { h } )$ or higher, a chime may sound to remind the driver and passengers to fasten their seat belts when a front seat is occupied and a corresponding seat belt is not fastened.
+
+When the driver and/or passenger(s) fastens the seat belt(s), the warning light disappears and the seat occupancy detection indicator turns green.
+
+# nline Rectangle
+
+# NOTE
+
+The front passenger seat belt warning may come on if luggage or heavy objects are placed on the front passenger seat.
+
+To check seat belt status:
+
+There are two ways to check the seat belt status:
+
+1. View the warning message OR
+2. Check the seat belt status color shown on the car icon in the Car Control Area:
+
+|     |     |
+| --- | --- |
+| Status Color | For seats with Occupancy Detection Sensors |
+| Grey - Normal | No occupant detected |
+| Red - Unbuckled | Occupant detected, not buckled |
+| Green - Buckled | Buckled |
+
+![](https://vinfastowners.org/manuals/images/f8430ebb0af7ad01389c4b70fc5293f5ed39cc74b5385b21704cdbbd096855e5.jpg)
+
+# nline Rectangle
+
+# CAUTION
+
+Do not wear a seat belt over fragile, hard, or sharp objects. This can damage the objects or seat belt.
+
+nline Rectangle
+
+# WARNING
+
+Seat belts must be used by all occupants whenever the vehicle is moving. Not wearing seat belts may result in serious injury or death.
+
+Do not unfasten a seat belt while driving for any reason. Failure to follow this warning could result in serious personal injury or death, in case of accident.
+
+If a seat belt is damaged or the retractor mechanism is not working properly, get the parts replaced by VinFast Service Center. Using a damaged seat belt is very dangerous and may result in serious personal injury or death.
+
+Do not modify or tamper with the seat belt or its mechanism as it may lead to failure of the system. Using a seat belt with damaged component is very dangerous and may cause serious injury or death.
+
+Do not latch the seat belt into the buckles of other seats. Seat belts are designed to function effectively only when the latch plate of a particular seat belt is locked into its paired buckle. Failure to follow this warning could result in serious personal injury or death.
+
+Do not wear the shoulder belt under your arm or behind your back. Doing so is unsafe and may result in serious personal injury or death.
+
+Do not wear the seat belt with any part of the strap twisted. A twisted seat belt will not function properly in an accident and could result in serious personal injury or death.
+
+Multiple people should not use a single seat belt. Seat belts are designed to protect a single occupant occupying a particular seat where it is mounted/attached.
+
+Make sure there is nothing in the buckle interfering seat belt’s latch plate. This may prevent the seat belt from fastening securely. Failure to follow this warning could result in serious personal injury or death.
+
+Children of the age 12 or below should be properly restrained in the rear seats using child seats. Failure to follow this warning could result in serious injury or death. Do not allow children to ride in the front passenger seat, unless the Airbag Deactivated symbol
+
+nline Rectangle
+
+is displayed on the Infotainment screen. If a child is seated in the front passenger seat, move the seat as far back as possible and properly restrain them in the seat.
+
+Carrying an infant/child on an occupant’s lap is dangerous, and doing so may result in serious injury or death of the infant/child or the adult or both.
+
+# Seat Belt Care
+
+A seat belt is a critical component within the vehicle occupant protection system. Proper care must be taken to ensure that they function effectively in the event of an accident or a collision.
+
+Do not use seats that have a defective or damaged seat belt. Visit the nearest VinFast service Center to have the belt inspected as soon as possible.
+
+Recommendations for seat belt care:
+
+Ensure that the seat belt is not damaged or clamped by sharp objects.
+
+Always keep the seat belt retractor clean and free of dust.
+
+Avoid contamination of the seat belt webbing by polish, oil, chemicals, and particularly battery acid. Seat belts can be cleaned lightly using mild, non-abrasive soap and lukewarm water. After washing, clean the seat belts thoroughly. Do not allow the belts to retract until they are completely dry.
+
+Regularly inspect the seatbelt webbing for contamination, damage, or fraying. Do not bleach or dye the webbing because this may weaken the seat belt. Do not insert any foreign items such as coins, clips, etc., into the seat belt buckles. If foreign materials get into a seat belt buckle, the seat belt may not work properly.
+
+# nline Rectangle
+
+# CAUTION
+
+Do not use bleach, strong detergents, or an abrasive brush or cloth to clean the seatbelt as it may damage and weaken the fabric.
+
+Do not use steamers, brushes with hard bristles, hard sponges, etc., to clean the seats as this can damage the seats.
+
+# nline Rectangle
+
+# WARNING
+
+Do not use bleach, strong detergents, or an abrasive brush or cloth to clean the seatbelt as it may damage and severely weaken the fabric.
+
+Do not disassemble, modify, or tamper with the seat belt system, as it may affect the seat belt performance.
+
+In case of accident, a seat belt system may not provide adequate protection.
+
+# 4.3. Child Restraint Systems
+
+# Child Restraint System Overview
+
+The seat belts fi tted in the vehicle are designed to fi t and secure adults and older children. Small children and infants must be secured in a certifi ed Child Restraint System (CRS), suitable for their age, height, weight, and for the seat position of choice. Not all CRS are safe to use in all seat positions (more details are given further below).
+
+Use in order of preference, the outer seats of the second row, the central seat of the second row, and only in case of necessity the front passenger seat for mounting a CRS to accommodate small children and infants.
+
+It is recommended that children under the age of 12 use a child restraint system in order to minimize the risk of injury in the event of an accident or sudden vehicle maneuver.
+
+Most countries will have laws and regulations which stipulate that, children need to travel in an approved child restraint system. Please be aware of the requirements in the country where the vehicle is driven.
+
+The front passenger seat is equipped with an Occupant Classifi cation Sensor (OCS). When the OCS determines that an adult occupant is present, the front passenger airbag will remain ON. The OCS alternatively will turn the airbag OFF if a child restraint system is present. Notifi cation via the
+
+nline Rectangle
+
+icon is displayed on the top right hand side of the
+
+Infotainment screen.
+
+# nline Rectangle
+
+# WARNING
+
+Children under 12 years of age should always be properly restrained in the rear seat of the vehicle.
+
+In an exceptional circumstance where a child restraint system seat must be secured in the front passenger seat, ensure the Passenger Airbag OFF
+
+nline Rectangle
+
+icon remains displayed at all times.
+
+Do not use a rear facing child restraint system on the front passenger seat, even if the front passenger airbag OFF icon is displayed.
+
+Do not let children ride the vehicle by sitting close to the airbags. When the airbag infl ates, children can be seriously injured or killed.
+
+Do not modify the child restraint system in any way.
+
+An incorrectly secured child restraint system may cause serious or fatal injury to the child in the event of an accident. Always follow the manufacturer’s instructions to ensure the correct fi tment of a the child restraint system.
+
+Do not use a child restraint system to secure more than one child.
+
+Always ensure that a child is properly secured at all times. Failure to do so may result in the child being propelled from the chil restraint system risking serious or fatal injuries.
+
+Do not hold babies or infants on a passenger’s lap. All children must be securely restrained in the vehicle using a child restrain system.
+
+Before installing a child restraint system, ensure that the seat backrest is in an upright position and locked.
+
+Never leave children unattended in the vehicle, even if they are secured in a child restraint system.
+
+A seat belt or a child restraint system may become hot when exposed to sunlight. Take care before fastening a child to avoid burns.
+
+Laws and regulations that govern how children should be restrained in a vehicle are subject to change. Therefore, it is the driver’s responsibility to be familiar and comply with regulations of the region where the vehicle is driven.
+
+The image below identifi es where child restraint systems can be fi tted in the vehicle. Please read all the information in the following section to identify the correct type and orientation when securing children in the vehicle.
+
+nline Rectangle
+
+# Types of Child Restraint Systems:
+
+There are three types of child restraints systems suitable for fi tment in your vehicle categorized by their orientation and/or design:
+
+Rearward Facing Forward Facing Booster Seat
+
+Each of these restraint types may be mounted using one of the following fi xture methods:
+
+Belted - secured via the vehicle’s seat belt ISOFIX/i-Size - secured via anchor points built into the vehicle’s seat frame or vehicle body.
+
+A summary of both restraint and fi xture methods is given below:
+
+Rearward Facing Child Restraint System:
+
+nline Rectangle
+
+Rearward facing child restraint systems, are designed so the child is facing towards the rear of the vehicle. They give the best support and protection to the child’s head and neck in the event of a collision. All children below the age of one should be seated in a rearward facing child restraint system. Continue to use a rearward facing child restraint system for as long as the child fi ts within the height and weight limits permitted by the child restraint system manufacturer.
+
+Forward Facing Child Restraint System:
+
+nline Rectangle
+
+In forward facing child restraint systems, the child is facing towards the front of the vehicle. In a forward facing child restraint seat, a three point harness incorporated in child restraint system secures the child. Keep the child in a forward facing child restraint system until they reach the height or weight limit permitted by the restraint system manufacturer. Once the child exceeds the recommended height and weight of a forward facing child restraint system a booster seat is recommended.
+
+Booster Seats Child Restraint System:
+
+nline Rectangle
+
+A booster seat child restraint system is used when the child exceeds the height or weight limit of a forward facing child restraint system. Booster seats are designed to work in conjunction with vehicle’s existing seat belt system. A booster seat positions the child’s body to ensure correct routing of the seat belt across the shoulder and lap areas, avoiding contact with the face, neck and stomach.
+
+A child should remain in a booster seat until they exceed restraint system recommendations.
+
+nline Rectangle
+
+# WARNING
+
+Always read and follow the instructions provided by the manufacturer of the Child Restraint System. Failure to comply could increase the risk of the serious injury or death if an accident occurs.
+
+Do not install a booster seat or a booster cushion with only the lap strap of the seat belt.
+
+Do not remove seat headrests if installing only a booster cushion.
+
+Do not install a booster seat or a booster cushion with a seat belt that is slack or twisted.
+
+Do not put the safety seat belt under a child’s arm or behind their back.
+
+Do not use pillows, books or towels to boost a child’s height.
+
+Compatible Child Restraint Systems – Belted Type
+
+Permissible options for fi tting a belted Child Restraint System:
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| Weight and Age class | Seating position |
+|  | Front passenger seat(with height adjustment) | Front passenger seat(without heightadjustment) | Rear outboard seats | Rear Center seat |
+| Group 0+: up to 13kg | U(R) | U\* | U | U(f) |
+| Group I: 9 to 18kg | U(R) | U\* | U | U(f) |
+| Group II: 15 to 25kg | U(R) | U\* | U | U |
+| Group IIl: 22 to 36kg | U(R) | U\* | U | U |
+
+U: Seat suitable for the installation of a child seat secured using the seat belt and universally approved for rearward facing and/or forward facing use. U(R): As for U, the vehicle seat must be adjustable to the highest and fully back position.
+
+U(f): A child seat with support leg must never be installed on this seat.
+
+$\\cup ^ { \\star }$ : As for U, straightening the backrest.
+
+# Compatible Child Restraint Systems – i-Size Type / ISOFIX
+
+Permissible options for installing an i-Size Child Restraint System:
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+|  | Front passenger seat | Rear outboard seats | Rear Center seat |
+| i-Sizechild-restraint systems | X | i-U | X |
+
+i-U: Suitable for i-size “universal” child restraint systems forward and/or rearward facing. If a rear facing child restraint system is fi tted move the front seat forwards or adjust it’s backrest to ensure no interference between the child restraint system and the front seat.
+
+X: Seating position not suitable for i-size ‘universal’ child restraint systems.
+
+Permissible options for installing an ISOFIX Child Restraint System:
+
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+| Weight Class | Size Class | Fixture | Front passenger seat | Rear outboard seats | Rear Center seat |
+| Group 0: up to100kg | E | ISO/R1 | X | IL | X |
+| Group 0+: up to13kg | E | ISO/R1 | X | IL | X |
+| D | ISO/R2 | X | IL | X |
+| C | ISO/R3 | X | IL | X |
+| Group I: 9 to 18kg | D | ISO/R2 | X | IL | X |
+| C | ISO/R3 | X | IL | X |
+| B | ISO/F2 | X | IL, IUF | X |
+| B1 | ISO/F2X | × | IL, IUF | X |
+| A | ISO/F3 | X | IL, IUF | X |
+| Booster Seats | F | ISO/B2 | X | i-B | X |
+
+IL: Suitable for specifi c ISOFIX child restraint systems of the ‘specifi c-vehicle’, ‘restricted’ or ‘semi-universal’ categories. The ISOFIX restraint system must be approved for the specifi c vehicle type. If a rear facing child restraint system is fi tted move the front seat forwards or adjust it’s backrest to ensure no interference between the child restraint system and the front seat.
+
+IUF: Suitable for the universal category ISOFIX forwardfacing child restraint approved for use in this weight class. X: The ISOFIX position not suitable for ISOFIX child restraint systems in this weight group and/or this size class.
+
+i-B: Suitable for Booster type child restraint system.
+
+ISOFIX Size Class and Seat Device Defi nition:
+
+|     |     |
+| --- | --- |
+| A - ISO/F3 | Forward-facing child restraint system for children of maximum size in 9 to 18 kg weight class. |
+| B - ISO/F2 | Forward-facing child restraint system for small children in 9 to 18 kg weight class. |
+| B1 - ISO/F2X | Forward-facing child restraint system for small children in 9 to 18 kg weight class. |
+| C - ISO/R3 | Rearacing chil restraint ystem ohildren aximum izen the weight clasu 8. |
+| D - ISO/R2 | Raracing child straint tem o alhildnine weightclassup8 |
+| E - ISO/R1 | Rearacing chil estraint stem r yougchilden nhe weight classup 3. |
+| F - ISO/B2 | Forward Facing booster seat for children of maximum size in 9 to 18 weight class. |
+
+# nline Rectangle
+
+# NOTE
+
+ISOFIX is an international standard that specifi es the attachment points for child safety seats in passenger cars.
+
+# Selecting the Appropriate Child Restraint System
+
+Select an appropriate child restraint system based on a child’s height and weight.
+
+• Check if the child restraint system to be installed is compatible with the vehicle type.
+
+Ensure that the seating location in the vehicle is suitable for your child restraint system. C Select a child restraint system that fi ts the vehicle seating position where it will be used.
+
+# nline Rectangle
+
+# NOTE
+
+Always read and follow the instructions for installation as specifi ed by the child restraint system manufacturer. If in doubt, contact a professional to complete the installation process.
+
+Always secure the child restraint system properly with a seat belt or remove it from the vehicle when it is not in use.
+
+A child restraint system which has been subjected to stress in an accident must be changed immediately before next use.
+
+# Recommended Child Restraint Systems
+
+VinFast recommends the following child restraint systems:
+
+|     |     |     |
+| --- | --- | --- |
+| Mass Group Categories | Manufacturer | Model |
+| Group 0+ | Joie | Every stage FX |
+| Group I | Joie | Every stage FX |
+
+Only a child restraint system that is compliant with local regulation can be used in
+
+# Region Specifi c Regulations
+
+ECE-R44 Weight Groups:
+
+the vehicle.
+
+|     |     |
+| --- | --- |
+| Group 0 | Infants from 0 - 10kg (birth to 9 months) |
+| Group 0+ | Infants from 0 - 13kg (birth to 18 months) |
+| Group I | Infants / tddlers until 9 -18kg (9months to 4yers |
+| Group II | Children from 15 - 25kg (4 to 7 years) |
+| Group II | Children from 22 - 36 kg (6 to 12 years) |
+
+ECE R-129 Height Groups:
+
+|     |     |
+| --- | --- |
+| 45 - 75 cm | Birth to approx. 12 months |
+| 45 - 75 cm | Birth to approx. 4 years |
+| 61 - 105 cm | 4 months to 4 years |
+| 76 - 105 cm | 15 months to 4 years |
+| 100 - 135 cm | 4 years to 8 years |
+| 100 - 150 cm | 4 years to 12 years |
+
+# nline Rectangle
+
+# CAUTION
+
+Please read and follow the installation instructions carefully when installing a Child Restraint System. If in doubt, contact a professional to complete the installation process.
+
+# Child Restraint Installation Locations
+
+Prior to fi tment of a child restraint system to the vehicle, it is critical to ensure the following:
+
+The child restraint system has a label certifying that it meets the applicable safety standards of your country approved in accordance with ECE-R44 or ECE-R129. Select an appropriate child restraint system based on a child’s height and weight.
+
+Check if the child restraint system to be installed is compatible with the vehicle type.
+
+Ensure that the seating location in the vehicle is suitable for your child restraint system.
+
+Select a child restraint system that fi ts the vehicle seating position where it will be used.
+
+For more detail on child restraint systems and their suitability for both your child and vehicle, see $>$ Child Restraint Systems > Child Restraint Overview.
+
+# Front Passenger Seat Fitment
+
+![](https://vinfastowners.org/manuals/images/cf9ba8fc93907afc734b30391b3b9223dd7a16cde66b59d57655218ed76d73a7.jpg)
+
+# nline Rectangle
+
+# WARNING
+
+Make sure that the front Passenger Airbag OFF
+
+nline Rectangle
+
+icon is displayed before fi tting a CRS to the front passenger seat.
+
+See $>$ Airbags > Operation and Occupant Detection for more details.
+
+Refer to the following label located on the sun visors:
+
+nline Rectangle
+
+With the front passenger airbag is turned OFF, both a forward facing and rear facing child restraint system may be fi tted on the front passenger seat.
+
+The following instructions must be followed when fi tting a child restraint system on the front passenger seat:
+
+1. Position the child restraint system on the front passenger seat ensuring its base is pressed fi rmly against the seat back.
+2. Avoid any gap between the child restraint system and passenger seat back by adjusting the seat back vertical position.
+3. Position the base of the passenger seat as far rearward as possible.
+4. For a child restraint system in groups 2 and 3, make sure the guide fi tting attached to the child restraint system headrest is positioned in front of or level with the seat belt D-ring attached to the vehicle body (B-pillar).
+5. Check that the belt routing through the guide is free of kinks and not bent over the edge of the guide fi tting.
+6. If using a rear facing child restraint system with support leg, extend the leg as instructed by the child restraint system manufacturer.
+
+# nline Rectangle
+
+# NOTE
+
+Remove and stow the headrest before installing a child seat with a backrest on front passenger seat. Reinstall the headrest once the child seat has been removed. (Britax Kidfi x i-size only, if required)
+
+# Rear Passenger Seat Fitment
+
+A child restraint system may be fi tted to both the rear outboard and rear center seats depending on fi xing type. Refer to the child restraint system overview to determine suitability of seat type in each rear seat location.
+
+See $>$ Child Restraint Systems $>$ Child Restraint Overview.
+
+Rear Outboard Fitment - Belted Type
+
+1. Remove the seat headrest or move it to the top most position depending on the child restraint size.
+
+2. Buckle the seat belt around the child restraint seat in accordance with the child seat manufacturer’s instructions.
+
+
+nline Rectangle
+
+3. Allow the seat belt to retract and remove all slack in the belt by pushing the child restraint seat into the vehicle’s seat.
+
+nline Rectangle
+
+4. The seat belt is now locked in this position but if the tension is relieved in the belt then the belt can be extracted further to allow adjustment. To release fully, disengage the buckle.
+
+5. If the child restraint seat is equipped with a top tether, attach it to the anchor point located at the rear of the back seat. See top tether section below.
+
+
+# nline Rectangle
+
+# CAUTION
+
+When fi tting a rearward facing child restraint system in the rear outboard seat, move the front seat forwards or adjust it’s backrest to ensure no interference between the child restraint system and the front seat.
+
+# nline Rectangle
+
+# NOTE
+
+Depending on the vehicle region of sale, a top tether anchor point may not be available in the rear Center seat position.
+
+Rear Outboard Fitment - ISOFIX / i-Size / LATCH Type
+
+nline Rectangle
+
+The vehicle has been provided with ISOFIX / LATCH anchors, which allows compatible child restraint systems to be attached directly to the rear seat structure, rather than using a seatbelt. ISOFIX / LATCH metal arms on the child restraint attach and lock onto a U-shaped steel bar at the rear of the seat cushion. The ISOFIX / LATCH anchor points can be identifi ed by ISOFIX / LATCH markings
+
+nline Rectangle
+
+found on both outboard rear seats.
+
+1. Remove the seat headrest or move it to the top most position depending on the child restraint size. 2. Extend the child restraint system latches onto the anchor bars until they click into place. Carefully read and follow the instructions provided by the child safety seat manufacturer. 3. Always test the safety seat before seating a child. This can be done by pulling the child restraint system away from the seat and moving it from side to side. It is critical that both latches are fully locked in position.
+
+The following is an example of a rear facing ISOFIX attached child restraint system.
+
+nline Rectangle
+
+Rear Center Fitment - Belted Type
+
+nline Rectangle
+
+Children can occupy the rear center passenger seat in a forward facing position only, secured using a belted child restraint system. No top tether can be used in this position.
+
+# nline Rectangle
+
+# NOTE
+
+The rear seat is the safest location for a child to travel.
+
+The rear Center seat does not have ISOFIX / i-Size / LATCH anchor points
+
+# Support Leg (if equipped)
+
+nline Rectangle
+
+nline Rectangle
+
+# nline Rectangle
+
+If your Child Restraint System is equipped with a support leg, ensure that it is fully extended and secured to the fl oor of the vehicle. Support legs can only be used in the rear outboard passenger seat locations. Follow installation instructions as described by the CRS manufacturer.
+
+nline Rectangle
+
+# WARNING
+
+When using a child restraint with a support leg, be sure that it rests fi rmly on the fl oor.
+
+# Top Tether Straps and Anchor Points
+
+Installation of top tether anchors:
+
+nline Rectangle
+
+The top tether anchors are located at the back of the rear seats of the vehicle.
+
+nline Rectangle
+
+For single strap tethers - Route the tether strap from in between the headrest stems and attach it to the tether anchor at the back of the seat or follow the CRS manufacturer installation instructions.
+
+nline Rectangle
+
+For dual strap tethers - Route the tether straps provided with the child restraint system on either side of the headrest and attach them to the tether anchor at the back of the seat or follow the CRS manufacturer installation instructions.
+
+# nline Rectangle
+
+# NOTE
+
+Never route the top tether strap over the top of the headrests.
+
+ISOFIX / LATCH child restraint systems of universal category positions are marked in the table by IUF. Route, attach, and tighten the top tether according to your child restraint instructions.
+
+nline Rectangle
+
+# WARNING
+
+Please follow the instructions provided by the child restraint system manufacturer to ensure the child is seated safely and securely.
+
+Adjust the seat harness for every child for each vehicle journey.
+
+Make sure that the tether strap does not have any slack or twist.
+
+Always inspect the seat belts, child restraint system belts and tether straps for damage and wear.
+
+Never attach any equipment, harnesses, or other items to the anchor points in the vehicle.
+
+Do not use a forward-facing child restraint system until the child is over 9kg (20 lbs).
+
+The tether straps must be attached to only the tether anchor point and nowhere else. Tighten the tether strap according to the instructions provided by the manufacturer.
+
+Never attach two child restraint systems to one anchor point as it may be incapable of securing both seats in an accident.
+
+Only use anchorages and top-tethers of seats on which the CRS is being installed. Otherwise, poorly installed CRS may become detached from the seat causing serious injuries or death.
+
+Before installing a child restraint system, be sure to confi rm that the seat back is fully upright and securely locked into place. Otherwise, in an accident, serious injury or death could result.
+
+Never use a child safety seat that has been involved in an accident. Have the seat inspected or replaced as described in the child safety seat manufacturer’s instructions.
+
+Do not use seat belt extenders on a seat belt that is being used to install a child safety seat or booster seat.
+
+Do not hold babies or infants on a passenger’s lap. All children must be securely restrained in the vehicle using a child restraint system.
+
+Never leave children unattended inside the vehicle.
+
+# 4.4. Airbags
+
+# Airbags
+
+The vehicle is equipped with Supplemental Restraint System (SRS) airbags and lap/shoulder seat belts for the driver and passengers. The airbags are designed to provide maximum protection in conjunction with fastened seat belts. All occupants must wear seat belts at all times to minimize the risk of serious injury or death in an event of a vehicle collision.
+
+# nline Rectangle
+
+# WARNING
+
+Always wear a seatbelt since it maybe the only restraint system protecting the occupant as airbags by design may not necessarily deploy in every vehicle collision.
+
+# Airbag Locations
+
+nline Rectangle
+
+|     |     |
+| --- | --- |
+| inlineRectangli | Driver and Passenger Airbags |
+| nlineRectangl | Front Seat Side Airbags (Left & Right) |
+| nliineRectangli | Curtain Airbags |
+| inlineRectangl | Front Seat Middle Airbag (if equipped) |
+| inlineRRectangli | Knee Airbag (if equipped) |
+
+# How Airbags Work
+
+The airbag system consists of:
+
+Airbag modules Occupant Classifi cation System (OCS) Crash sensors, monitoring system and airbag indicator
+
+nline Rectangle
+
+(shows the operational status of airbags)
+
+The Supplemental Restraint System constantly monitors multiple vehicle sensor inputs to determine the severity of a vehicle collision and decide which airbag should deploy, if required. An airbag will infl ate rapidly with force when activated accompanied by a loud noise. The infl ated airbag, along with properly fastened seat belts, limits occupant motion and reduces the risk of injury through contact with vehicle interior components.
+
+It is possible that airbags may not deploy as a result of minor or underbody collisions or impacts with narrow objects. There can be signifi cant superfi cial damage to the vehicle without resulting in airbag deployment and conversely, relatively small structural damage can trigger the airbags to deploy. Therefore, the external appearance of the vehicle after a collision is not indicative of whether or not the airbags should have infl ated.
+
+# nline Rectangle
+
+# NOTE
+
+The vehicle is equipped with a pyro-fuse which, in case of an airbag deployment, disconnects the HV battery of the vehicle from the electrical system and renders the vehicle undriveable.
+
+When an airbag is deployed, powder like dust particles may be released into the vehicle cabin. This is not an indication of a vehicle fi re. The fi ne dust may cause skin or eye irritation and could cause breathing diffi culties. To avoid such effects leave the vehicle when safe to do so if able or alternatively open windows or doors. It is advisable to wash your hands and face with a mild soap and water to reduce effects.
+
+# Passenger Front Airbag Status
+
+When the front passenger seat airbag is deactivated, an
+
+nline Rectangle
+
+con will be displayed at the top right corner of the Infotainment screen and to indicate the front passenger airbag is ON,
+
+nline Rectangle
+
+icon will be displayed on the Infotainment screen.
+
+nline Rectangle
+
+# NOTE
+
+The front passenger airbag is automatically controlled by an Occupant Detection Sensor fi tted to the vehicle’s front passenger seat. The airbag cannot be manually deactivated.
+
+nline Rectangle
+
+# WARNING
+
+Always wear seat belts properly at all times even when an airbag system is provided. Failing to wear a seatbelt can cause serious injury or death.
+
+Do not sit unnecessarily close to any airbag deployment zone. The driver should maintain a recommended distance from the steering wheel while still maintaining control of the vehicle.
+
+Do not place objects, stickers or mount equipment/accessories on or near the airbag deployment zones. Failure to follow these instructions may increase the risk of injury or death in the event of an accident.
+
+To ensure that the airbag system will operate correctly, never place your feet on the dashboard, outside the window, or on seat surfaces.
+
+Various components of the airbag system are located throughout vehicle. Incorrect work or repairs could damage the airbag system components. As a result, in the event of an accident, the airbags may deploy incorrectly or won’t deploy altogether, causing serious or fatal injuries.
+
+The airbag system is only able to provide protection during a single collision. A crash can damage the airbag systems in the vehicle. A damaged airbag system may not properly protect you and your passenger(s) in a crash, resulting in serious injury or even death. To help make sure the airbag systems are working properly after a crash, contact VinFast Service and have them inspected and any necessary replacements made as soon as possible.
+
+Do not use of accessory seat covers, they could prevent airbag deployment and increase risk of injury in an accident.
+
+Do not lean your head on the door. You could risk getting injured from the deployment of airbags from the side of the seat back.
+
+Ensure that all passengers are seated upright, on the seat cushion with a seatbelt correctly fastened, legs extended with feet on the fl oor. Failure to do so could result in serious injury upon airbag deployment.
+
+Do not modify the vehicle. It may affect the functioning of the airbag system. Contact a VinFast Service before doing any modifi cations to your vehicle. Any modifi cations to the vehicle may cause serious damage to critical systems and endanger occupant’s lives.
+
+If the front passenger airbag is not deactivating either when a child restraint system is fi tted or the seat is unoccupied there may be a fault with the Occupant Classifi cation System. If you suspect incorrect operation of the Occupant Classifi cation System, do not use the front passenger seat and contact VinFast Service Center immediately. Failing to follow this warning may cause serious injury or death of the occupant.
+
+All children of age 12 years and below are recommended to occupy the rear seats only. Failing to follow this warning may caus serious injury or death.
+
+It is not recommended to install a child restraint system on the front passenger seat even if legally permitted. If however a child restraint system must be fi tted in this location, ensure the front passenger airbag OFF
+
+nline Rectangle
+
+icon is present and remains illuminated at all times on the Infotainment screen. Fitment of a child restraint system in the front passenger seat with an active airbag can cause serious injury or death in an event of airbag deployment.
+
+# Types of Airbags
+
+# Front Airbags
+
+The vehicle is fi tted with two front airbags, one for the driver, located in the center of the steering wheel, and one for the front passenger, located in the dashboard area. airbag deployment location is identifi ed by word airbag.
+
+How the front airbags are triggered:
+
+During a collision the vehicles crash sensors will receive information regarding the collision type, the collision angle, and the severity of impact. Based on this information the vehicles Supplemental Restraint System (SRS) will determine if the crash event meets the criteria for front airbag deployment. The front airbags help to reduce the risk of injury to the head and shoulder region.
+
+# nline Rectangle
+
+# NOTE
+
+The front airbags may not be deployed during rear or side impact collisions. In such cases only the front seatbelt pre-tensioners will be activated.
+
+# nline Rectangle
+
+# WARNING
+
+Do not lean against the door or the console area while vehicle is in motion.
+
+Make sure that nothing is in between the passenger and airbag deployment area as it may interfere with airbag deployment.
+
+The airbags are part of the supplementary restraint system and are designed to work with the seatbelt in protecting the
+
+![](https://vinfastowners.org/manuals/images/7c12376de5d674e80d6da77e72750f65ace2e7995ecd57beb2f5951bdbc01f7d.jpg)
+
+# nline Rectangle
+
+# CAUTION
+
+Do not open or repair any parts of the front airbag system, as this may disrupt its functioning. If necessary, have the system serviced by a VinFast Service Center.
+
+# Side Airbags
+
+The vehicle is fi tted with side airbags to protect the driver, and the front seated passenger. The side airbags are located on the outermost side of each front backrest with two in total. These airbags protect the occupants in case of a side impact or rollover event. Airbag deployment location is identifi ed by word airbag.
+
+How the side airbags are triggered:
+
+During a collision the vehicles crash sensors will receive information regarding the collision type, the collision angle, and the severity of impact. Based on this information the vehicles Supplemental Restraint System (SRS) will determine if the crash event meets the criteria for side airbag deployment.
+
+Due to the minimal distance between the passenger and the door, the side airbags will infl ate rapidly. Side airbags are designed to reduce the risks of injuries to the head and upper body.
+
+# nline Rectangle
+
+# NOTE
+
+Side airbags may not be deployed in the event of a rear end collision. Both front seatbelt pre-tensioners however will be activated.
+
+Safety seatbelts and the vehicle airbag system will provide protection only when occupants are correctly seated.
+
+# nline Rectangle
+
+# WARNING
+
+Do not keep any objects near airbag deployment zones or near the side door glass as it may cause a serious injury or death when airbags deploy.
+
+Do not bang, kick, or hammer the side of the vehicle when the vehicle is on. Such actions may cause side airbags to deploy.
+
+nline Rectangle
+
+# CAUTION
+
+Do not open or repair any parts of the side airbag system, as this may disrupt its functioning. If necessary, have the system serviced by a VinFast Service Center.
+
+# Curtain Airbags
+
+The vehicle is equipped with two curtain airbags mounted in the roof headliners above the doors. curtain airbags deployment location is identifi ed by word airbag, located on the door pillar. They are designed to protect passengers in case of severe side impacts, vehicle roll-overs or offset frontal crashes.
+
+How the curtain airbags are triggered:
+
+During a collision the vehicles crash sensors will receive information regarding the collision type, the collision angle, and the severity of impact. Based on this information the vehicles Supplemental Restraint System (SRS) will determine if the crash event meets the criteria for curtain airbag deployment.
+
+The curtain airbags help to reduce the risk of injury to the head and neck area of the passenger.
+
+# WARNING
+
+Avoid attaching any object near the area which covers the deployment zone of the curtain airbags.
+
+Ensure that the passengers are seated close to the back of their seat with a correctly fastened seat belt to obtain the best protection from the curtain airbag.
+
+The vehicle with smaller wheelbase have a signifi cantly higher rollover rate than other types of vehicles. To prevent rollovers or loss of control:
+
+- Take corners at slower speeds.
+- Avoid sharp turns and abrupt maneuvers.
+- Do not modify vehicle in any way that would raise the center of gravity.
+- Keep tires properly infl ated.
+
+At highway speeds, you are much more likely to rollover if you lose control of your vehicle. The driver may lose control if two or more wheels fall off the road and the driver have to oversteer to regain control.
+
+In a rollover crash, an unbelted person is signifi cantly more likely to die than a person wearing a seat belt. Ensure all passengers are wearing their seat belts.
+
+nline Rectangle
+
+# CAUTION
+
+In case of sever side impact collision, the curtain airbags will deploy even if there are no passengers seated.
+
+Do not open or repair any parts of the side curtain airbag system, as this may disrupt its functioning. If necessary, have the system serviced by a VinFast Service Center.
+
+# Knee Airbags (If equipped)
+
+The vehicle is may be equipped with one knee airbag, which is located below the steering wheel column. The knee airbag is designed to provide additional protection to the driver’s knees and lower body during a collision. Airbag deployment location is identifi ed by word airbag.
+
+How the knee airbags are triggered:
+
+During a collision the vehicles crash sensors will receive information regarding the collision type, the collision angle, and the severity of impact. Based on this information the vehicles Supplemental Restraint System (SRS) will determine if the crash event meets the criteria for knee airbag deployment. Knee airbags and the front airbags deploy simultaneously.
+
+Knee airbags help to reduce impact forces sustained by the lower leg and abdomen region through controlling lower body movement.
+
+nline Rectangle
+
+# WARNING
+
+Do not keep or hold any object between knee and knee airbag location. Objects between you and the airbag can increase the risk of injury in an accident by interfering with the airbag deployment.
+
+nline Rectangle
+
+# CAUTION
+
+Do not open or repair any parts of the side knee airbag system, as this may disrupt its functioning. If necessary, have the system serviced by a VinFast Service Center.
+
+# Front Seat Middle Airbag (If equipped)
+
+The vehicle is may have one front seat middle airbag which is mounted on the inboard side of the drivers seat. It is designed to create a soft barrier between the driver and front passenger during severe side collisions and reduce the risk of head collisions.
+
+How the front seat middle airbag is triggered:
+
+During a collision the vehicles crash sensors will receive information regarding the collision type, the collision angle, and the severity of impact. Based on this information the vehicles Supplemental Restraint System (SRS) will determine if the crash event meets the criteria for front seat middle airbag deployment.
+
+# nline Rectangle
+
+# WARNING
+
+Avoid keeping objects over the airbag. This can cause serious injury or death when the airbags deploy.
+
+nline Rectangle
+
+# CAUTION
+
+Do not open or repair any parts of the front seat middle airbag system, as this may disrupt its functioning. If necessary, have the system serviced by a VinFast Service Center.
+
+# Operation & Occupant Detection
+
+# Airbag Warning Indicator
+
+The airbag warning indicator is located on the top left-hand corner of the Car Control Area section of the Infotainment screen. The airbag warning indicator will illuminate for a few seconds during vehicle startup, and then turn OFF. The purpose of airbag warning indicator is to alert you of a potential problem with your airbag system. The warning indicator
+
+nline Rectangle
+
+will remain ON or will fl ash, if the system detects any malfunction in the airbag system. There may also be an airbag system malfunction if the airbag indicator doesn’t turn ON briefl y during the vehicle startup. Contact a VinFast Service Center immediately to get the system repaired.
+
+The following situations can cause the airbag warning indicator to illuminate:
+
+Faulty airbag sensor(s) Airbag battery out of power Defective airbag coil Airbag module malfunction Faulty seat belt latch
+
+# Occupant Detection Status
+
+Passenger Airbag Suppression for CRS (Child Restraint System)
+
+The vehicle is fi tted with an Occupant Classifi cation sensor that automatically establishes if an adult or a child is occupying the front passenger seat, adjusting the airbag status, and the airbag deployment accordingly. If an adult occupies the seat the passenger airbag will be ON. If a child or Child Restraint System occupies the seat the passenger airbag is disabled and turned OFF.
+
+Please follow the recommendations to ensure correct occupant detection:
+
+Sit in an upright position in the seat with shoulders and back against the seat back and legs extended in front with feet on the fl oor, See $>$ Seats $\\geq$ Correct & Incorrect Seating Positions.
+
+Fasten the seatbelt.
+
+Remain seated correctly at all times.
+
+The following situations can cause an inaccurate occupant detection status:
+
+Placing large or heavy items on the front passenger seat. Placing powered electrical devices which may interfere with the front passenger seat occupant classifi cation sensor.
+
+Incorrectly fi tting a CRS system.
+
+Items located under the seat or wedged between the cushion and seat back.
+
+Any unauthorised accessories fi tted to the seat.
+
+nline Rectangle
+
+# NOTE
+
+It is recommended that all children 12 years and under must be seated in the rear seats of the vehicle. See $>$ Child Restraint Systems Overview for child seats safety.
+
+# nline Rectangle
+
+# WARNING
+
+If the front passenger seat airbag status is not turning ON or OFF as expected when the seat is occupied, do not allow any passengers to occupy the seat until it has been inspected and rectifi ed by an authorised VinFast Service Center.
+
+To ensure accuracy of the Occupant Detection System, do not modify the front seat in any way.
+
+If it is legal in your region to have a child seated on the front passenger seat, ensure the passenger airbag is not active.
+
+Otherwise it could cause serious injury or death if the airbag gets deployed in case of an accident.
+
+It is the drivers responsibility to ensure the passenger airbag status is OFF if a child is occupying the front seat.
+
+When the front passenger seat airbag is deactivated, an
+
+nline Rectangle
+
+on will be displayed at the top right corner of the Infotainment screen and to indicate the front passenger airbag is ON,
+
+nline Rectangle
+
+icon will be displayed on the infotainment screen.
+
+Warning label:
+
+A Warning Label located on the inner side of the passenger side sun visor provides information regarding the dangers associated with airbag deployment and the mounting of a rear facing Child Restraint System in the front passenger seat.
+
+# nline Rectangle
+
+nline Rectangle
+
+# WARNING
+
+Never use a rear facing child restraint on a seat protected by an active airbag as death or serious injury to the child could occur.
+
+Never place a rear facing child restraint in the front passenger seat, unless the passenger-side airbag is deactivated. An infl ating passenger side airbag could impact the rear facing child restraint and cause death or serious injury.
+
+When children are seated in the rear outboard seats of a vehicle equipped with side and curtain airbags, be sure to install the Child Restraint System as far away from the door side as possible, and securely lock the Child Restraint System in position. Infl ation of side and curtain airbags could cause serious injury or death to an infant or child.
+
+# Airbag Operation
+
+Safe seating position
+
+See $>$ Correct and Incorrect Seating position.
+
+Airbag infl ation conditions:
+
+The vehicle has electronic sensors which help the airbag system determine the severity of the impact, and determine whether an airbag should be deployed. Other factors also related to density and stiffness of the impacted vehicle or objects maybe considered.
+
+Some situations in which the airbags may infl ate are:
+
+nline Rectangle
+
+Front airbags typically infl ate in a frontal collision by detecting suffi cient impact intensity of the front collision
+
+or impact sensors.
+
+nline Rectangle nline Rectangle nline Rectangle
+
+Side airbags activate depending on the severity of an impact to the side of the vehicle as detected by the side
+
+collision sensor.
+
+nline Rectangle nline Rectangle
+
+# CAUTION
+
+Airbags may deploy if bumps or objects on rough roads or sidewalks severely impact the vehicle chassis.
+
+Airbag non-infl ation conditions:
+
+Airbags may not be deployed in certain situations even if vehicle damaged occurs.
+
+Airbags may not infl ate when the following situations occur:
+
+In certain low-speed collisions the airbag deployment may be deemed unnecessary to provide additional protection beyond the use of seat belts.
+
+When the impact of the collision is concentrated in a small area of the vehicle and there is no additional benefi t if airbags were to be deployed.
+
+Front airbags may not infl ate in a rear end collision as occupants will be moved backward by the force of the impact. Front airbags will not infl ate in rollover accidents as front airbag deployment will not provide additional passenger protection.
+
+# 5\. Advanced Driver Assistance Systems (ADAS)
+
+# 5.1. Cruise Control
+
+# Adaptive Cruise Control
+
+Adaptive Cruise Control (ACC) (if available) is an advanced driver assistance system that automatically adjusts vehicle speed to maintain a safe following distance to other road users ahead. The system uses a combination of radar and forward facing camera to maintain a safe and comfortable distance to vehicles ahead and can even stop and start the vehicle in congested traffi c through control of the brake and throttle. ACC will maintain a user selectable safe distance from a forward vehicle, or maintain a chosen set speed if there is no vehicle ahead.
+
+nline Rectangle
+
+ACC will reduce the vehicle's speed if it is determined to be too high while driving through a curve.
+
+Objects that Adaptive Cruise Control can detect:
+
+Cars Trucks Buses Motorbikes
+
+# Adaptive Cruise Control Operation
+
+ACC Controls Overview:
+
+|     |     |
+| --- | --- |
+| inlineRectangle | Resume and Cancel button |
+| DinlineRectangle | Speed increase button |
+| DinlineRectangle | Distance gap increase button |
+| RinlineRectangle | ACC Start button |
+| DinlineRectangle | Speed decrease button |
+| DinlineRectangle | Distance gap decrease button |
+
+To set Adaptive Cruise Control:
+
+To turn on ACC, users can press on ACC button on the steering wheel.
+
+nline Rectangle
+
+When ACC activated: Set speed will display with blue color and the leading vehicle will be highlighted (if
+
+detected).
+
+# nline Rectangle
+
+# NOTE
+
+You can activate the Adaptive Cruise Control system when vehicle speed is greater than $2 0 ~ \\mathrm { k m / h }$ (12.42 mph) and lower than 150km/h (93 mph).
+
+To resume ACC to a previous set speed:
+
+nline Rectangle
+
+button on the steering wheel controls.
+
+To adjust ACC speed:
+
+nline Rectangle
+
+To increase the set speed, press the SPD+ button
+
+Press the RES
+
+inline Rectangle
+
+nline Rectangle
+
+To decrease the set speed, press the SPD- button
+
+# NOTE
+
+Press and hold the speed buttons
+
+nline Rectangle
+
+or
+
+nline Rectangle
+
+for increasing or decreasing the speed by large increments.
+
+To adjust the distance gap to the vehicle ahead:
+
+nline Rectangle
+
+inline Rectangle
+
+# nline Rectangle
+
+To increase the distance gap, press the GAP+ button
+
+To decrease the distance gap, press the GAP- button
+
+# NOTE
+
+Vehicle distance gap will default to the setting, every time the vehicle is started.
+
+The ACC system will be cancelled by:
+
+# nline Rectangle
+
+Pressing the cancel CAN button on the steering wheel controls.
+
+Pressing the brake pedal.
+
+When the vehicle speed is $>$ 150km/h (93 mph).
+
+ACC Stop & Go Operation
+
+During Stop & Go operation, if the vehicle has stopped because of detecting stationary traffi c ahead, the driver should manually confi rm the continuation after a stop of 3 seconds or more.
+
+Additional considerations:
+
+If the vehicle ahead is stationary, the ACC system may hold the vehicle for up to 5 minutes. The driver can still resume ACC at any time.
+
+The driver must press the throttle pedal or Resume button in order to reactivate ACC to follow the leading vehicle, if the holding time is between 3 seconds to 5 minutes and the leading vehicle takes off during this holding time. If the vehicle is required to hold for more than 5 minutes, the electronic parking brake will automatically apply and the driver will need to release the parking brake or press the throttle pedal to release it. Once the parking brake is released, ACC can be reactivated by pressing the RES or ACC button on the steering wheel controls.
+
+If the holding time is between 3 seconds and 5 minutes, and if there is no lead vehicle in front, the driver needs to press the throttle pedal until the vehicle speed
+
+reaches 20km/h to reactivate ACC.
+
+In case the holding time is more than 5 minutes, the ACC system is deactivated, and if there is no lead
+
+vehicle, the driver needs to manually release the
+
+parking brake or press the throttle pedal to accelerate until vehicle speed reaches 20km/h to start ACC again.
+
+# nline Rectangle
+
+# CAUTION
+
+If the front camera or radar is obstructed, the ACC Stop & Go function will not be available.
+
+Due to the limitations, the ACC may not be able to always detect stationary objects. The driver must stay alert at all times and take over the vehicle as necessary.
+
+The driver must always monitor vehicle behavior and the road ahead when the ACC is active and be prepared to take full control of the vehicle at anytime. When ACC is activated, the driver is still required to control the steering wheel.
+
+# nline Rectangle
+
+# NOTE
+
+Adaptive Cruise Control can be used in combination with Speed Limit Control Function, see $>$ Cruise Control $>$ Intelligent Speed Adaptation.
+
+# Adaptive Cruise Control Modes
+
+Follow Mode:
+
+When Follow Mode is active, the ACC system will detect a leading vehicle with a speed lower than the ACC set speed. In follow mode, ACC will adjust the vehicle speed to maintain the distance between your vehicle and the leading vehicle according to the relative distance and relative speed of the detected leading vehicle. If another vehicle happens to cut in front and reduce this distance , ACC will apply brakes to slow the vehicle speed and re-establish a safe following distance.
+
+ACC will also adjust the following distance or gap from the vehicle in front based on changes to the driver’s preferred gap setting or any throttle/brake pedal overrides they may provide.
+
+Corner Limit Mode:
+
+Corner Limit Mode limits vehicle acceleration in a corner, based on detected lateral acceleration, yaw rate and driving speed to ensure vehicle traction and stability through a bend.
+
+Overtaking Mode:
+
+When following a leading vehicle, ACC may detect that the driver wishes to overtake the vehicle in front when the turn indicator is ON. Once detected ACC will then accelerate and allow the distance gap to the vehicle in front to momentarily decrease. This allows for a quick and safe overtaking manoeuvre. The set distance gap setting and vehicle speed will be restored once overtaking is complete.
+
+# nline Rectangle
+
+# WARNING
+
+Overtaking mode will operate only when suitable conditions are met. Always check vehicle lane markings and road conditions ahead prior to overtaking.
+
+The driver is always responsible for vehicle speed and the distance to other vehicles ahead.
+
+Always pay attention to the traffi c around you even when adaptive cruise control is enabled.
+
+Do not use Adaptive Cruise Control in following situations:
+
+In urban areas.
+
+Roads with multiple successive bends. When the road surface is in poor condition. In bad weather (such as ice, fog, gravel, heavy rain). On expressway exits.
+
+In construction zones. Roads with steep slopes over $15 %$ .
+
+While towing (if available)
+
+nline Rectangle
+
+# CAUTION
+
+Always ensure that the front camera and radar are in good condition and clear of debris.
+
+Adaptive Cruise Control will not apply the brake if the throttle is depressed. Applying the throttle pedal when ACC is engaged will override speed and distance control and may surpass regulatory speed limits and a safe distance to road users ahead.
+
+Adaptive Cruise Control may not detect pedestrians, animals, bicycles, etc. that cross the vehicle’s path.
+
+The function of the radar sensors and the camera can be impacted by refl ective objects and surfaces such as guard rails, the entrance to a tunnel, heavy rain or ice.
+
+nline Rectangle
+
+# WARNING
+
+Always pay attention to the traffi c conditions around you and if necessary, depress the brake pedal to reduce the driving speed in order to maintain a safe distance.
+
+Always drive according to the posted speed limit or environmental or road conditions.
+
+ACC may not adapt to complex, unexpected or sudden driving situations. Always be ready to take control of the vehicle in such situations.
+
+Always be aware of the set speed and vehicle distance gap.
+
+The vehicle speed may increase/decrease when traveling on a slope.
+
+Always be ready to take control of the vehicle if a vehicle suddenly cuts into the vehicle’s lane.
+
+It is not recommended to use or activate this feature when towing anything such as trailer, recreational vehicles, etc. Failure to
+
+comply may result in property damage, serious injury or death. Failure to comply may result in property damage, serious injury or death.
+
+# Intelligent Speed Adaptation
+
+Intelligent Speed Adaptation (ISA) (if available) assists in controlling the vehicle speed within the legally enforced speed limits to assist safe driving.
+
+When the system is activated in combination with Adaptive Cruise Control and Highway Assist, Intelligent Speed
+
+Adaptation will adjust the vehicle set-speed when there is a new detected speed limit after the driver confi rms by pressing the ISA button on the steering wheel.
+
+Since ISA is an assistance system, it will only assist the driver in adjusting the speed to the legal limits. The driver will always be responsible for controlling the vehicle speed within legal limits and should always be in available to take control of the vehicle.
+
+# inline Rectangle
+
+# NOTE
+
+This function can be used in combination with Highway Assist and Adaptive Cruise Control. This is not a standalone feature.
+
+Traffi c Sign Recognition must be ON in order to enable Intelligent Speed Adaptation.
+
+For optimal performance of Traffi c Sign Recognition, Speed Limit Warning (SLW), and Intelligent Speed Adaptation (ISA), especially in regions mandating intelligent speed assistance systems like the European Union, both GPS and Internet connectivity are required.
+
+Note that if there is a loss of GPS and/or Internet connection, this may degrade the performance of these key functionalities or temporarily disable TSR, SLW, and ISA.
+
+TSR, SLW, and ISA may not be available in all regions/markets. For detailed information on availability and coverage zones, please contact a VinFast dealership.
+
+ISA may not work if the absolute delta (between TSR the speed limit value and the driver’s set speed) is more than $5 0 ~ \\mathrm { k m / h }$
+
+To activate/deactivate Intelligent Speed Adaptation:
+
+nline Rectangle
+
+To activate/deactivate the Intelligent Speed Adaptation system, long press the ISA
+
+nline Rectangle
+
+button on the steering wheel. The set speed icon will be shown on the touchscreen and Head Up Display with a
+
+nline Rectangle
+
+circle
+
+indicating that ISA is now active.
+
+Whenever a new speed limit value is detected, short press the ISA button to adapt the set speed to the new
+
+nline Rectangle speed limit.
+
+A white fi ll set speed icon will be shown when the set speed is identical to the detected speed limit
+
+A malfunction warning will be triggered when a failure is detected in the ISA system or with other related ADAS systems and will be shown on the Infotainment screen to notify the driver.
+
+# nline Rectangle
+
+# CAUTION
+
+Always make sure that all cameras, sensors and radars are clean and in working condition.
+
+![](https://vinfastowners.org/manuals/images/4f93ee61a9ce2240f281ff2923fd356dc20ec3973d9782f7359f4a9ab22c3956.jpg)
+
+# nline Rectangle
+
+# WARNING
+
+Intelligent Speed Adaptation relies on speed limit information from the Traffi c Sign Recognition system. The Traffi c Sign Recognition system may not detect posted speed signs in poor weather or if the signs are poorly visible (not in the fi eld of view) or the signs are in poor condition. The system will also be impacted when the front camera is blocked by dirt, snow, or ice; if they are in poor condition; or due to sun glare. The driver will always be responsible for controlling the vehicle speed within legal limits and should always be in available to take control of the vehicle.
+
+Intelligent Speed Adaptation is a Driving Assist System. The driver has full responsibility to maintain the speed and control of the vehicle at all times.
+
+Always be alert for vehicles or objects that may suddenly appear in front of you. If necessary, depress the brake pedal to reduce your driving speed in order to maintain a safe distance.
+
+Always be aware of the set speed.
+
+The vehicle may increase/decrease speed on a slope.
+
+# Traffi c Sign Recognition
+
+The Traffi c Sign Recognition System (TSR) (if available) assists the driver by notifying the current posted speed limit and other traffi c signs. Traffi c signs may be displayed on the Infotainment screen and the Head Up Display (if equipped).
+
+In addition, the system may also detect other non-speed related traffi c signs. These may include:
+
+Bicycle paths Expressways Town zone Snow Camping zone Highways
+
+Traffi c sign icons can be displayed on Car Control Area and Head Up Display (if equipped). For more information, see $>$ Car Control Area Overview and Head Up Display.
+
+# How Traffi c Sign Recognition Works
+
+Traffi c Sign Recognition uses a camera mounted on the windshield together with recognition software that detects road traffi c signs on the road ahead. The system then displays this information on the Infotainment screen and the Head Up Display (if equipped) in front of the driver. When Adaptive Cruise Control is active and the Intelligent Speed Adaptation button is pressed, the vehicle’s speed will be automatically adjusted as per the detected speed sign. For more information, see $>$ Cruise Control $>$ Intelligent Speed Adaption.
+
+Some examples of traffi c signs that may be recognized depending on the country:
+
+![](https://vinfastowners.org/manuals/images/cfb95c88d51eb32cdf7003992e4f8628ef345d5cbd1d6b9c4771807cb3d8deec.jpg)
+
+# nline Rectangle
+
+# NOTE
+
+Traffi c Signs shown above are for reference only. The vehicle will detect and show traffi c signs on the Infotainment screen based on the region of operation.
+
+Traffi c Signs may not be the same for all regions.
+
+Traffi c Sign Recognition System Limitations
+
+TSR system performance may be impacted in the following conditions:
+
+Poor visibility due to snow, fog, or heavy rain.
+
+Poor visibility due to glare from oncoming traffi c or the sun. At high-speeds. If the camera’s fi eld of vision is obstructed; e.g., dirt or stickers. If the traffi c signs are completely or partially covered. If traffi c signs do not conform to the standard format. If traffi c signs are damaged or bent.
+
+If traffi c signs are displayed on sign holders with electronic signs.
+
+If the traffi c signs or the roadways have changed and the navigation data is no longer up-to-date.
+
+To activate/deactivate Traffi c Sign Recognition:
+
+# 1\. Tap App Library
+
+nline Rectangle
+
+on the Infotainment screen.
+
+2. Tap Driver Aids
+
+nline Rectangle
+
+$>$ Driving Assistance
+
+# inline Rectangle
+
+$>$ Speed.
+
+3. Tap ON/OFF on the toggle button.
+
+To activate/deactivate Speed Limit Warning:
+
+On activation, the system provides a visual warning (fl ashing icon) and audible warning when the vehicle exceeds the detected speed limit.
+
+# 1\. Tap App Library
+
+nline Rectangle
+
+on the Infotainment screen.
+
+2. Tap Driver Aids
+
+inline Rectangle
+
+$>$ Driving Assistance
+
+nline Rectangle
+
+$>$ Speed.
+
+3. Tap ON/OFF on the toggle button.
+
+Tap on the chime toggle to Mute/Unmute audio chime (audible warning).
+
+The driver can also apply a speed offset above a detected speed limit. Press $^ +$ and - buttons to increase or decrease the offset in speed base.
+
+# nline Rectangle
+
+# NOTE
+
+The Traffi c Sign Recognition system only displays the traffi c sign icons on the Infotainment screen and Head Up Display (if equipped). It will not adjust vehicle speed. Please activate Intelligent Speed Adaption to enable this functionality.
+
+For optimal performance of Traffi c Sign Recognition, Speed Limit Warning (SLW), and Intelligent Speed Adaptation (ISA), especially in regions mandating intelligent speed assistance systems like the European Union, both GPS and Internet connectivity are required.
+
+Note that if there is a loss of GPS and/or Internet connection, this may degrade the performance of these key functionalities or temporarily disable TSR, SLW, and ISA.
+
+TSR, SLW, and ISA may not be available in all regions/markets. For detailed information on availability and coverage zones, please contact a VinFast dealership..
+
+# nline Rectangle
+
+# CAUTION
+
+The speed limit sign displayed in Car Control Area/Head Up Display (if equipped) is based on the units used (mph or km/h) in the country where the vehicle is being operated. This may differ from the unit of speed displayed on the
+
+![](https://vinfastowners.org/manuals/images/3392ad9a382de3f2cf826348c1c582b0cf4859bd119315801bb238ccf76c4acc.jpg)
+
+# nline Rectangle
+
+# WARNING
+
+Vehicle speed always remains the responsibility of the driver. Always observe traffi c signs while driving.
+
+Under certain circumstances, traffi c sign recognition may not detect traffi c signs correctly or not detect at all. As a result, the system may not display the correct speed limit.
+
+# Cruise Control
+
+Cruise Control (CC) (if available) is a system that automatically adjusts vehicle speed. CC will maintain a chosen set speed.
+
+Cruise Controls Overview:
+
+nline Rectangle
+
+|     |     |
+| --- | --- |
+| inlineRectangle | Resume and Cancel buttonSpeed increase button |
+| inlineRectangle |
+| inlineRectangle | Speed decrease button |
+| PjinlineRectangle | Cruise Control (CC) Set |
+
+# nline Rectangle
+
+# WARNING
+
+Always make sure that a speed is maintained within the prescribed speed limit. Observe all traffi c and road conditions. Driving at unsafe speeds increases the risk of an accident.
+
+Do not use Cruise Control where a constant road speed cannot be maintained, such as heavy or varying traffi c, winding, slippery or unpaved roads.
+
+The Cruise Control only use the Regenerative braking. When traveling downhill, the vehicle’s speed may exceed the set cruising speed and driver intervention may be required.
+
+To turn Cruise Control ON:
+
+Press the CC Button
+
+nline Rectangle
+
+on the steering wheel. The Car Control Area will display the cruise control. The same button will also turn the system off.
+
+Press the SPD- or $\\mathsf { S P D + }$ button to activate. Set speed will be shown.
+
+# nline Rectangle
+
+# NOTE
+
+Cruise Control System is only available when vehicle speed is 30km/h or more.
+
+To adjust ACC speed:
+
+To increase the set speed, press the SPD+ button
+
+nline Rectangle
+
+To decrease the set speed, press the SPD- button
+
+nline Rectangle
+
+# nline Rectangle
+
+# NOTE
+
+You can increase or decrease the speed in larger increments by pressing and holding the speed buttons
+
+nline Rectangle
+
+or
+
+nline Rectangle
+
+The CC system will be canceled by:
+
+Pressing the cancel RES/CAN
+
+# nline Rectangle
+
+button on the steering wheel controls.
+
+Pressing the Brake pedal.
+
+Turning off Cruise Control.
+
+Resuming a set speed:
+
+When the Cruise Control is cancelled by pressing the RES/CAN button or by pressing the brake pedal, the previously set speed can be restored. Once the vehicle speed reaches 30km/h or more, pressing RES/CAN button inline Rectangle will gradually accelerate the vehicle to the previous set speed. If cruise control or the vehicle is switched off, the set speed will be deleted from memory.
+
+# nline Rectangle
+
+# CAUTION
+
+The driver must supervise the system under all conditions and must take control of the vehicle at any time.
+
+# nline Rectangle
+
+# WARNING
+
+The RES/CAN button should only be pressed when the driver is aware of the set speed. Pressing RES/CAN accidentally may lead to a loss of control of the vehicle resulting in personal injury or vehicle damage.
+
+# Speed Limiter
+
+Speed Limiter (if available) is a system that limits vehicle velocity following the speed set on the steering wheel control. Activating Speed Limiter (SL) would establish the maximum speed to prevent vehicle accelerating over the set speed.
+
+Speed Limiter Overview:
+
+nline Rectangle
+
+|     |     |
+| --- | --- |
+| DinlineRectangle | Resume and Cancel button |
+| inlineRectangle | Speed increase button |
+| inlineRectangle | Speed decrease button |
+| inlineRectangle | Speed Limiter (SL) Set |
+
+# nline Rectangle
+
+# WARNING
+
+Always make sure that a speed is maintained within the prescribed speed limit. Observe all traffi c and road conditions. Driving at unsafe speeds increases the risk of an accident.
+
+The SL only use the Regenerative braking. When traveling downhill, the vehicle’s speed may exceed the set cruising speed and driver intervention may be required.
+
+To turn Speed Limiter ON:
+
+Press the Button
+
+inline Rectangle
+
+on the steering wheel.
+
+The Car Control Area will display the Speed Limiter icon.
+
+Press the SPD- button
+
+nline Rectangle
+
+or $\\mathsf { s P D + }$ button
+
+nline Rectangle
+
+to activate. Set speed will be shown near Speed Limiter icon.
+
+nline Rectangle
+
+# NOTE
+
+Speed Limiter System is only available when vehicle speed is 30km/h or more.
+
+To adjust SL speed:
+
+To increase the set speed, press the SPD $^ { + }$ button
+
+nline Rectangle
+
+To decrease the set speed, press the SPD- button
+
+nline Rectangle
+
+nline Rectangle
+
+# NOTE
+
+You can increase or decrease the speed in larger increments by pressing and holding the speed buttons
+
+nline Rectangle
+
+or
+
+nline Rectangle
+
+The SL system will be canceled by:
+
+Pressing the cancel RES/CAN inline Rectangle
+
+![](https://vinfastowners.org/manuals/images/69517a2c030c4e2cbad1a69dacb2f4e24c2b7a379c8064b3607880626624f60e.jpg)
+
+button on the steering wheel controls.
+
+Pressing SL button to turn off SL. Pressing the Accelerator pedal hardly (override)
+
+Resuming a set speed:
+
+When the SL is cancelled by pressing the RES/CAN button or by pressing the brake pedal, the previously set speed can be restored. Once the vehicle speed reaches 30km/h or more, pressing RES/CAN button will gradually accelerate the vehicle to the previous set speed. If SL or the vehicle is switched off, the set speed will be deleted from memory.
+
+# nline Rectangle
+
+# CAUTION
+
+The driver must supervise the system under all conditions and must take control of the vehicle at any time.
+
+# inline Rectangle
+
+# WARNING
+
+The RES/CAN button should only be pressed when the driver is aware of the set speed. Pressing RES/CAN accidentally may lead to a loss of control of the vehicle resulting in personal injury or vehicle damage.
+
+# 5.2. Driving Aids
+
+# Highway Assist
+
+Highway Assist (if available) is a driver assistance function that supports the driver during highway driving and
+
+congested traffi c conditions (traffi c jam) supporting a safe and comfortable journey. Highway Assist adjusts the vehicle speed to match the fl ow of the traffi c. It also adjusts the steering to keep the vehicle inside it’s lane boundaries.
+
+# nline Rectangle
+
+# NOTE
+
+Highway Assist is designed to be used on highways and highway-like roads (roadways separated by constructional means) and it is the responsibility of the driver to use this function in appropriate road conditions.
+
+Drivers are required to keep their hands on the steering wheel at all times while this feature is active.
+
+This feature can be used in combination with Intelligent Speed Adaptation.
+
+The driver must supervise the system under all conditions and is always ultimately responsible for control of the vehicle.
+
+Preconditions for activating Highway Assist are:
+
+Adaptive Cruise Control (ACC) conditions are fulfi lled. Speed range is within 0 km/h (0 mph) to $1 5 0 ~ \\mathsf { k m / h }$ (93 mph).
+
+Two-lane markings and the leading vehicle are detected. Lane width must be within the range of $\_ { 2 . 5 \\mathsf { m } }$ and $5 . 5 \\mathsf { m }$ . The gear position should be in Drive (D).
+
+Driver hands-on conditions are satisfi ed.
+
+# nline Rectangle
+
+# WARNING
+
+Keep your hands on the steering wheel at all times when driving.
+
+The Highway Assist function is designed to assist the driver in operating the vehicle and is not a fully autonomous driving system. Whenever a driver uses an assistive technology, he or she should always check to ensure conditions are suitable and if necessary, take appropriate measures to adjust vehicle speed or direction.
+
+Ensure the road ahead is observed at all times and traffi c laws followed.
+
+In no event will the vehicle manufacturer be responsible for a driver’s actions that cause a violation of traffi c rules or an accident.
+
+The vehicle may drift to one side or may depart from the driving lane when it is driven at high-speed or on a curve.
+
+It is not recommended to use or activate this feature when towing anything such as a trailer, recreational vehicles, etc. Failure to comply may result in property damage, serious injury or death.
+
+# Highway Assist Features
+
+Highway Assist consists of two sub components:
+
+Traffi c Jam Assist - Assists in automatically controlling vehicle speed and lane position based on traffi c conditions ahead. Auto Lane Change Assist - Perform lane change assist when driver requests the lane change manoeuvre by turning on the turn indicator.
+
+# Highway Assist Operation
+
+To activate Highway Assist:
+
+nline Rectangle
+
+1. When all conditions are met
+
+2. Press the Highway Assist button present on the Steering Wheel
+
+
+nline Rectangle
+
+3. After activation, the Highway Assist
+
+nline Rectangle
+
+icon will display in blue.
+
+To adjust Gap:
+
+When a vehicle passes in front of your vehicle (overtake) or a slower vehicle is detected ahead, the vehicle speed will automatically be adjusted to maintain the Current Gap setting. To adjust the gap setting:
+
+To increase the gap, press the $\\tt G A P +$ button
+
+nline Rectangle
+
+To decrease the gap, press the GAP- button
+
+nline Rectangle
+
+To adjust Speed:
+
+You can set or change the set speed using the speed buttons present on the steering wheel, if you have activated Highway Assist system.
+
+To increase the set speed, press the $\\mathsf { s p } \_ { \\mathsf { D } + }$ button
+
+# line Rectangle
+
+To decrease the set speed, press the SPD- button
+
+nline Rectangle
+
+# nline Rectangle
+
+# NOTE
+
+Long pressing the SPD+/SPD- button will increase or decrease the set speed in larger increments.
+
+Highway Assist Deactivation
+
+Highway Assist may either be deactivated or will revert to a degraded mode (Adaptive Cruise Control only), if the preconditions are not met. An appropriate notifi cation will be displayed in Car Control Area when Highway Assist changes Modes or is Deactivated.
+
+Highway Assist can also be deactivated any time by:
+
+1. Pressing the brake pedal.
+2. Press Cancel button on the Steering Wheel.
+3. Press the HWA button present on the Steering Wheel
+
+nline Rectangle
+
+Highway Assist may revert to degraded mode when following conditions are met:
+
+Lane markings are not detected Direct sunlight may interfere with the front camera
+
+Once conditions permit, Highway Assist will automatically revert to full functionality and will be indicated by the Blue Highway Assist
+
+nline Rectangle
+
+icon on Car Control Area.
+
+nline Rectangle
+
+# WARNING
+
+When Highway Assist reverts to degraded mode the Highway Assist icon will turn gray. Adaptive Cruise Control will now be active without steering wheel intervention.
+
+When Highway Assist reverts to a degraded mode, the driver must take full control of the steering wheel.
+
+# Auto Lane Change Assist
+
+Auto Lane Changing Assist (ALCA) (if available) is a driver assistance feature that supports drivers perform a safe lane change manoeuvre. ALCA adjusts the steering wheel angle to move the vehicle to the adjacent lane after a request is received from the driver. If there is an object detected next to the vehicle in the lane that the driver wants to move into, the vehicle will wait or adjust its speed until the object has passed before it changes lanes.
+
+nline Rectangle
+
+# WARNING
+
+Fast moving vehicles approaching the vehicle from behind may not be detected when initiating an Auto Lane Change manoeuvre maneuver. Always check your surroundings prior to using this feature.
+
+The driver must supervise the system under all conditions and must be available to take over control of the vehicle at all times.
+
+Passing (Overtake) restrictions (traffi c sign or solid lane) are not used as an activation criterion by the system. The driver is responsible to not activate the system when circumstances do not allow for overtaking.
+
+It is not recommended to use or activate this feature when towing anything such as trailer, recreational vehicles, etc. Failure to comply may result in property damage, serious injury or death. Failure to comply may result in property damage, serious injury or death.
+
+# nline Rectangle
+
+# NOTE
+
+Prior to ALCA activation, HWA must be active. After a lane change is completed by ALCA, HWA shall be reactivated automatically to keep the vehicle Centered in it’s new lane.
+
+The function operates from 60 km/h (37 mph) to 150 km/h (93 mph).
+
+ALCA will only function when there is suffi cient space for the vehicle to move into. If an object is blocking the target lane for more than a few seconds, the function will be canceled.
+
+To enable/disable Auto Lane Change Assist settings:
+
+1. Once Highway Assist blue Icon is displayed, press and hold Highway assist button to enable ACLA. Grey arrows icon will be shown
+
+nline Rectangle
+
+2. Press and hold Highway Assist button again to disable ALCA.
+
+To enable/disable Auto Lane Change Assist settings:
+
+1. When all preconditions are met the blue arrows icon
+
+nline Rectangle will appear in Car Control Area.
+
+2. Initiate a permanent left/right turn indicator.
+
+. The arrow will display in blue in the direction of the turn signal.
+
+4. The system will then search for a gap in the lane in the specifi ed direction.
+
+5. A message will pop-up on screen when the lane change is in progress.
+
+
+Auto Lane Change deactivation
+
+Auto lane change will be canceled if any of the following conditions are satisfi ed:
+
+A system or sensor malfunction is detected. The lane change function is deactivated by the driver. The target lane is occupied. The target lane is not suitable, wide enough or visible. Lane curvature and lane line type are not satisfi ed. The lane change request is terminated (turn signal OFF). The driver provides steering input. The driver presses the brake pedal. The driver presses the accelerator pedal. The driver over-steers the vehicle. The driver Hands-off during the Auto Lane change for 3 seconds HWA is deactivated Driver turn indicator in Opposite direction when lane change is
+
+• already start.
+
+# nline Rectangle
+
+# WARNING
+
+Drivers must use their own judgment in assessing whether traffi c conditions are suitable to use Auto Lane Change Assist.
+
+Due to system limitations Auto Lane Change Assist may not be able to react to all traffi c situations. Always drive according to current traffi c conditions.
+
+Closely monitor traffi c conditions and vehicle surroundings and take necessary action as and when required.
+
+Remain attentive during the lane change manoeuvre with hands on the steering wheel. If required apply steering or brake inpu depending on traffi c conditions.
+
+This function may not function properly on roads where there are pedestrians or cyclists, such as at intersections or crosswalks.
+
+Drive safely and stay alert at all times.
+
+# Traffi c Jam Assist
+
+Traffi c Jam Assist (TJA) (if available) is an extension of Adaptive Cruise Control (ACC) that automatically slows and even stops a vehicle if necessary based on the traffi c conditions ahead. The system helps alleviate some of the fatigue associated with driving in slow moving traffi c that is constantly stopping and starting. Traffi c Jam Assist uses both camera and radar along with steering wheel input to track a vehicle ahead and adjust both throttle and brake inputs to maintain a safe distance. The Lane Centering feature also ensures the vehicle remains safely in the Center of it’s lane while manoeuvreing through congested highways and traffi c jams.
+
+Traffi c Jam Assist works automatically whenever Adaptive Cruise Control and Highway Assist is enabled and vehicle speed is less than $6 0 ~ \\mathrm { k m / h }$ (37 mph).
+
+# nline Rectangle
+
+# NOTE
+
+If Traffi c Jam Assist brings the vehicle to a complete stop for more than 3 seconds the driver is required to either press RES/CAN on the steering wheel controls OR press the accelerator pedal to resume Traffi c Jam Assist operation.
+
+If the vehicle remains stationary for longer than 5 minutes, Traffi c Jam Assist will be deactivated and the Electric Park Brake will be activated.
+
+nline Rectangle
+
+# WARNING
+
+Stay alert and prepare to take control of the car if the Traffi c Jam Assist system is deactivated.
+
+Be sure to keep your hands on the steering wheel when you are using the Traffi c Jam Assist system.
+
+It is the driver’s responsibility to always be aware of his or her surroundings when the system is operating, and be ready to take control of the vehicle at any time.
+
+The steering wheel should be free of any objects (e.g., steering wheel covers) that could interfere with the hand detection sensor.
+
+# Lane Assist Systems
+
+# Overview
+
+Lane Assist systems (if available) are a group of Advanced Driver Assistance System which assist the driver in avoiding unintended lane departures and preventing potential collisions via steering intervention. Lane Assist consists of the following features:
+
+Lane Departure Warning (LDW) Lane Keep Assist (LKA)
+
+Emergency Lane Keeping (ELK)
+
+Lane Departure Warning (LDW)
+
+Lane Departure Warning (LDW) is a driver assistance system that warns drivers when their vehicle unintentionally drifts towards the lane markers by using a visual warning icon, a warning sound and haptic steering wheel feedback by vibrating the steering wheel. This feature does not actively apply steering intervention.
+
+LDW will be active whenever any Lane Assist mode is enabled.
+
+Lane Keep Assist (LKA)
+
+Lane Keep Assist (LKA) is a driver assistance system that actively supports the driver in maintaining the vehicle within its current lane. When the system detects the vehicle unintentionally drifting towards either lane marker or road edge it adjusts the vehicle path by corrective steering.
+
+LKA will be active whenever Warning & Steer Mode is enabled.
+
+Emergency Lane Keeping
+
+Emergency Lane Keeping (ELK) is a driver assistance system that avoids or lessens the severity of accidents by automatically applying a steering correction when a vehicle is about to drift beyond a solid lane marking, the edge of the road or into oncoming or overtaking traffi c in an adjacent lane.
+
+ELK recognizes lane markings, road edges, and vehicles traveling in the same or opposite direction in the adjacent lane, and controls the steering wheel to prevent the vehicle from drifting or colliding with other vehicles in the adjacent lane.
+
+ELK will support oncoming vehicles only on driver side when Turn indicator is OFF.
+
+ELK will be active whenever Emergency Lane Keeping Mode is enabled.
+
+# How Lane Assist Works
+
+The Lane Keeping assist system works by using a camera mounted on the windshield that collects information about traffi c conditions ahead including:
+
+Types of lane markings.
+
+Distance from the vehicle to road markings or road edges.
+
+Curvature of the road.
+
+Proximity to nearby vehicles.
+
+Based on these inputs, Lane Assist will alert or actively provide steering intervention to correct the vehicle path.
+
+# Lane Assist Operation
+
+Lane Assist has several modes of operation that can be selected in the Driver Assistance Page. Depending on which mode is selected one or more of the Lane Assist features will be activated.
+
+The system will be automatically activated when the vehicle speed is between approximately 55-155 km/h (34.2 - 96.3 mph).
+
+To access Lane Assist settings:
+
+1. Tap Library nline Rectangle on the Infotainment screen.
+
+2. Tap Driver Aids nline Rectangle
+
+
+Driving Assistance nline Rectangle
+
+> Lane.
+
+3. Lane Assist Modes, Responsiveness levels and Chime settings can be adjusted through lane assist
+
+settings.
+
+To access LELK settings:
+
+1. Tap Library nline Rectangle on the Infotainment screen.
+
+2. Tap Driver Aids nline Rectangle
+
+
+Driving Assistance nline Rectangle
+
+> Lane.
+
+3. Tap Toggle to set Emergency Lane Kepping OFF/ON. Lane Assist Displays and Warnings:
+
+Depending on lane markings the Lane Assist system will project various indicators and alerts on the Infotainment screen. The following lane detection states may be shown:
+
+![](https://vinfastowners.org/manuals/images/d5059cdf0f7c2bba69170648d8a965f380e9754a0dd9335c6f7b766b27cbd7eb.jpg)
+
+The presence and color of lane markings for both the left and right side of the vehicle be displayed accordingly:
+
+No lane detected - No lines nline Rectangle
+
+Lane(s) Detected - Warning/Alert/Intervention: Lane Departure Warning (LDW) Active: A yellow line, an alert sound and vibration feedback will appear
+
+nline Rectangle nline Rectangle
+
+How to Deactivate Lane Assist:
+
+The Lane Assist system is deactivated by any of the following conditions:
+
+The speed of the vehicle is less than approximately 55 km/h (34.2 mph).
+
+The speed of the vehicle is over approximately 155 km/h (96.3 mph).
+
+The driver uses the turn indicator while changing lanes.
+
+Lost detection of lane markings.
+
+Turning the Lane Assist OFF in Driver Aids.
+
+Another active safety system intervenes (Anti-lock braking system (ABS), Electronic stability control (ESC)). Both lane boundaries are detected, and lane width is narrower than approximately $\_ { 2 . 5 \\mathsf { m } }$ (98.42 in).
+
+Lane(s) Detected - Lane Keeping Assist (LKA) and Emergency Lane Keeping (ELK) settings are disabled: Display white lane markings Lane(s) Detected - Lane Keeping Assist (LKA) or Emergency Lane Keeping (ELK) settings are enabled: Display a grey icon
+
+throughout the event. Lane Keeping Assist (LKA) Active: A single corrective steering adjustment with a mild intervention level will occur. This is indicated by a yellow icon
+
+Emergency Lane Keeping Assist (ELK) Active: A notifi cation message will be displayed on the central control screen along with a yellow icon
+
+Driver override (apply high steering wheel rotation and steering override torque).
+
+Radius of Curvature (ROC) of road less than approximately 250m. If Automatic Emergency Braking (AEB) and Evasive Steering Assistance (ESA) is activated.
+
+If Highway Assist (HWA) is activated, ELK is disabled.
+
+Tire pressure too low (Tier alarm detected).
+
+TCS is not available.
+
+Trunk Ajar or Bonnet Ajar is Opened.
+
+If Hazard lights are ON.
+
+Turn of the Lane Assist.
+
+Vehicle is not running in forward (Gear shift position is in R).
+
+When connect with trailer.
+
+nline Rectangle
+
+# NOTE
+
+A malfunction warning will be triggered when a failure is detected in the Lane Assist system and will be shown on the Infotainment screen to notify the driver.
+
+# nline Rectangle
+
+# WARNING
+
+Do not rely completely on the Lane Assist System to keep the vehicle within it’s lane or avoid collisions with other vehicles.
+
+Always pay attention to the road and maintain a proper vehicle position within the lane otherwise vehicle damage, injury, or death could occur.
+
+The functions of Lane Assist have limitations. Always stay on course using the steering wheel and drive with care.
+
+The Lane Assist system does not continuously steer the vehicle.
+
+Lane assist system may not detect the lane marking, road edge properly because camera and radar is blocked or occluded by dirt, snow, or glared by high exposure light sources. Lane Assist system may not detect lane markings in poor visibility conditions (rain, fog, snow, faded markings, etc.). The driver must always remain attentive and maintain safe control of the vehicle, without relying solely on the system.
+
+It is recommended to turn the system OFF when driving on slippery roads. Otherwise this could cause loss of control of the vehicle which can cause accidents.
+
+It is not recommended to use or activate Lane Assist Systems when towing anything such as trailer, recreational vehicles, etc.
+
+Failure to comply may result in property damage, serious injury or death.
+
+# Driver Drowsiness And Attention Warning (DDAW)
+
+The Driver Drowsiness and Attention Warning (DDAW) (if available) system monitors the driver’s level of drowsiness and alerts the driver. Visual and acoustic alerts are used by the DDAW system to alert the driver and are presented as soon as possible after the system detects any drowsiness or tiredness behavior and intensify until the warning is noticed by the driver.
+
+The system can detect drowsiness or tiredness in a driver based on a combination of the following:
+
+Lane position and lane change as combination.
+
+Acceleration and brake pedal input (longitudinal acceleration). Steering wheel angle (lateral acceleration).
+
+Turn indicator state.
+
+# nline Rectangle
+
+# NOTE
+
+The DDAW system automatically gets activated above the speed of $7 0 \\mathrm { ~ k m / h ~ }$ $4 3 . 5 0 \\mathrm { m p h } )$ ). Once activated, DDAW system operates normally within the speed range of $6 5 \\mathrm { k m / h }$ (40.40 mph) to $1 3 0 ~ \\mathsf { k m / h }$ (80.77 mph) or the vehicle’s maximum allowed speed, whichever is lower.
+
+The DDAW Warning and Chimes can be temporarily turned OFF via the settings
+
+1. Tap App Library
+
+nline Rectangle
+
+on the Infotainment screen.
+
+2. Tap Driver Aids
+
+nline Rectangle
+
+$>$ Collision Avoidance
+
+nline Rectangle
+
+3. Use the toggle button to turn the warnings ON/OFF or to change warning settings.
+
+The driver will be alerted through the Infotainment System and will have to press OK in order to suppress the warning.
+
+# nline Rectangle
+
+# WARNING
+
+In some situations, the DDAW may not be able to correctly identify the driver’s state. Always drive carefully and do not rely completely on DDAW.
+
+Do not drive the vehicle if you feel tired. Always take a break in these situations to avoid the risk of vehicle accident, injury or death.
+
+# 5.3. Collision Warning Systems
+
+# Forward Collision Warning (FCW)
+
+The Forward Collision Warning (if available) system alerts the driver if an imminent frontal collision is detected with objects such as vehicles, motorcycles, bicycles, or pedestrians. This feature does not actively intervene with braking or steering input. The FCW system takes information from front radar and/or cameras to calculate the distance of objects from the vehicle in real time.
+
+Forward Collision Warning Stages
+
+Stage 1 - FCW icon nline Rectangle
+
+and a warning prompt is displayed as long as stage 1 is active.
+
+Stage 2 - FCW icon nline Rectangle
+
+and a warning prompt is displayed and a chime will sound as long as stage 2 is active.
+
+FCW is activated when the target vehicle speed is in the range of:
+
+|     |     |     |
+| --- | --- | --- |
+| Scenarios | Object Type | Vehicle Speed |
+| All scenarios | Pedestrians, Bicycles | 5 km/h-85 km/h |
+| Crossings | Two-wheel electric bicycles, Two-wheel motorcycles | 5 km/h-85 km/h |
+| Longitudinal | Two-wheel electric bicycles, Two-wheel motorcycles | 5 km/h-150 km/h |
+| All scenarios | Vehicles | 5 km/h-150 km/h |
+
+# nline Rectangle
+
+# NOTE
+
+FCW will be activated when the vehicle speed is in the range of 10 km/h-150 km/h (6 mph - 93 mph).
+
+FCW will be deactivated when the vehicle speed is less than 10 km/h (6 mph).
+
+In some situations, the ability of the FCW system to detect objects may be limited:
+
+• Objects located above the coverage area of the sensors and cameras, such as garage doors that are partially open, or objects that are hanging.
+
+• Low obstacles
+
+• Narrow objects, such as barrier chains, poles, or fences
+
+• Projecting objects, such as trailer draw bars
+
+• Objects with certain surfaces and structures, such as fabric.
+
+To enable/disable the Forward Collision Warning system:
+
+1. Tap App Library
+
+nline Rectangle
+
+on the touchscreen.
+
+2. Tap Driver Aids
+
+nline Rectangle
+
+Collision Avoidance
+
+nline Rectangle
+
+3. Use the toggle button to turn ON/OFF the system.
+
+4. Change the sensitivity of the system via the toggle button.
+
+
+nline Rectangle
+
+# NOTE
+
+The camera(s) and sensors associated with Forward Collision Warning are designed to monitor an approximate area of up to 100m (328 ft) in front of the vehicle driving path.
+
+The toggle button to turn FCW ON/FF is disabled if the vehicle’s speed is greater than 10 km/h (6 mph).
+
+# nline Rectangle
+
+# CAUTION
+
+FCW can issue unnecessary warnings when its function is impaired, e.g., if the radar sensor is dirty or its position has been changed. Always make sure all the sensors and cameras in the vehicle are clean before driving.
+
+Do not stick objects, such as stickers, fi lms, or protectors, near, or in front of radar and cameras.
+
+![](https://vinfastowners.org/manuals/images/6d40bced9c54052cede74fdeaf567c9556d822094d38118b0c9683bbf746d7af.jpg)
+
+# nline Rectangle
+
+# WARNING
+
+The area being monitored by Forward Collision Warning can be adversely affected by road and weather conditions. Use appropriate caution while driving.
+
+Forward Collision Warning is designed only to provide visual and audible alerts. The system does not apply brakes or slow down the vehicle to avoid a collision. When seeing and/or hearing a warning, it is the driver’s responsibility to take immediate corrective action.
+
+Forward Collision Warning may provide a warning in situations where the likelihood of collision may not exist. Do not depend completely on the system and always pay attention while driving to avoid any type of collision.
+
+Forward Collision Warning does not monitor the rear and sides of the vehicle. Always use caution while driving.
+
+# Automatic Emergency Braking
+
+Automatic Emergency Braking (AEB) (if available) is designed to detect potential collisions, warn the driver about collision risk, and, if the driver has no deliberate responses to override the system, it will apply strong braking deceleration avoid or lessen the severity of collision.
+
+AEB comprises of two main features categorized by the areas where collision risk may occur:
+
+Front Automatic Emergency Braking (F-AEB): dedicated to the front Rear Automatic Emergency Braking (R-AEB): dedicated to the rear
+
+F-AEB utilizes the data collected from the front camera, the front and two corner radars to detect the distance and the speed of various types of objects on the vehicle’s forwarding trajectory such as other vehicles, motorcycles, pedestrians, cyclists.
+
+R-AEB utilizes the data collected from the rear camera and multiple ultrasonic sensors to detect the distance and the spee of various types of objects on the vehicle’s reversing trajectory such as pedestrians, roadblocks, pillars.
+
+The driver could override the vehicle braking when he or she intervenes the system by deliberate effort in steering or foot braking.
+
+# Front Automatic Emergency Braking
+
+Front Automatic Emergency Braking (F-AEB) is designed to reduce the risk of frontal collisions. In the event that the system detects a delay or absence of deliberate reaction of the driver to an impending collision, it may automatically apply a strong brake to reduce the severity of the collision.
+
+F-AEB is active when the vehicle is traveling at the speed between $5 \\mathsf { k m / h }$ and 150 km/h (3 mph - 93 mph).
+
+The driver is strongly advised not to rely solely on the performance of F-AEB but to stay vigilant and maintain his or her control of the surrounding environment during driving. It is important to note that the feature may not be guaranteed to work correctly at all conditions. Even when it works as intended, it may only reduce the severity of the collision and not to avoid it at all times.
+
+In situations where both the driver and F-AEB initiate braking deceleration, the maximum braking deceleration from both the driver and F-AEB will be selected and applied.
+
+# nline Rectangle
+
+# NOTE
+
+The effectiveness of F-AEB may be reduced at the low speed range less than 10 kph( 3mph).
+
+F-AEB can be deactivated only when the vehicle speed is less than $1 0 ~ \\mathrm { k m / h }$ (6 mph). If vehicle speed is greater than 10 km/h (6 mph) the toggle button to deactivate F-AEB in settings will be disabled.
+
+F-AEB will be set to ON by default each time the vehicle is turned ON.
+
+When F-AEB is turned OFF a telltale will be shown in the Car Control Area to inform the driver.
+
+F-AEB is able to interrupt (stop) the emergency braking during its activation when:
+
+• The driver intentionally presses the accelerator pedal to override the braking, or applies a rapid steering input to change the trajectory of the vehicle.
+
+• The collision risk is no longer impending.
+
+To enable/disable F-AEB:
+
+1. Tap App Library
+
+nline Rectangle
+
+on the Infotainment screen.
+
+2. Tap Driver Aids
+
+nline Rectangle
+
+$>$ Collision Avoidance
+
+nline Rectangle
+
+3. Use toggle button to turn ON/OFF F-AEB.
+
+# nline Rectangle
+
+# WARNING
+
+Due to sensor limitation, the feature’s performance may be degraded under specifi c conditions, including low light, rain, snowfall, and more.
+
+F-AEB may not detect an impending collision and apply the brakes if another vehicle or object is partially in it’s path, or if there is debris on the road. It is the driver’s responsibility to drive safely and remain in control of the vehicle at all times.
+
+F-AEB does not avoid or mitigate collisions from the side of the vehicle, always pay attention while driving.
+
+Do NOT use F-AEB as a substitute for foot braking.
+
+It is not recommended to use or activate this feature when towing anything, such as trailer, recreational vehicles.
+
+Failure to comply may result in property damage, serious injury or death.
+
+# Rear Automatic Emergency Braking
+
+Rear Automatic Emergency Braking (R-AEB) is designed to detect potential collisions while reversing. If the driver’s prompt response to an imminent collision is not detected, the vehicle will automatically apply strong brakes to reduce the severity of a collision.
+
+R-AEB is activated when reversing at the speed ranging from 2 km/h to $1 0 ~ \\mathrm { k m / h }$ . It utilizes ultrasonic sensors and a camera for detection.
+
+The driver is advised not to rely solely on the performance of R-AEB but to remain attentive and in control of the surrounding environment while reversing. The system may not operate correctly under all conditions.
+
+In situations where both the driver and R-AEB trigger braking deceleration, the maximum braking deceleration from both driver and R-AEB will be selected and pplied.
+
+# inline Rectangle
+
+# NOTE
+
+If vehicle speed is greater than $1 0 ~ \\mathrm { k m / h }$ (6 mph) the toggle button to turn OFF R-AEB in settings will be disabled.
+
+R-AEB is designed to decelerate the vehicle when imminent collision detected during reversing at the speed greater than 2 km/h (1 mph) to 10 km/h (6 mph).
+
+R-AEB will default to ON each time the vehicle is turned ON.
+
+To enable/disable the R-AEB:
+
+1. Tap App Library
+
+nline Rectangle
+
+on the Infotainment screen.
+
+2. Tap Driver Aids
+
+nline Rectangle
+
+$>$ Collision Avoidance
+
+nline Rectangle
+
+3. Use toggle button to turn ON/OFF R-AEB.
+
+nline Rectangle
+
+# WARNING
+
+Due to sensor limitations, the performance of the feature may be degraded under specifi c conditions, such as low light, rain, snowfall, and more. Additionally, the material or shape of objects may affect the detection reliability of the ultrasonic sensor and braking performance.
+
+R-AEB may not detect an impending collision and apply the brakes if another vehicle or object is partially in it’s path, or if there is debris on the road. It is the driver’s responsibility to drive safely and remain in control of the vehicle at all times.
+
+R-AEB does not avoid or mitigate collisions from the side of the vehicle, always pay attention while driving.
+
+Do NOT use R-AEB as a substitute for the foot braking.
+
+It is not recommended to use or activate this feature when towing anything such as trailer, recreational vehicles, etc.
+
+Failure to comply may result in property damage, serious injury or death.
+
+# Automatic Emergency Brake Fault
+
+In the event that the vehicle detects a fault with AEB, a fault message will be displayed in the Car Control Area of the Infotainment screen. The driver should follow the message on the screen and if the issue persists, please contact a VinFast Service Center.
+
+![](https://vinfastowners.org/manuals/images/e09752e6ed6ba643b08b43b6af7b2ed829b17afd6551887ef72c707f57d216c4.jpg)
+
+# nline Rectangle
+
+# CAUTION
+
+The front camera, ultrasonic sensors, surround view cameras and radars may become blocked by mud, rain, frost, or ice causing them to fail in detecting approaching objects. The driver should always ensure that sensors are clean before starting driving.
+
+Do not attach any item such as sticker on the ultrasonic sensors and radars.
+
+# Blind Spot Detection
+
+Blind Spot Detection (BSD) is a driver assistance system that monitors the adjacent lanes next to the vehicle and warns if an object is present in the driver’s blind spot. It will warn for objects the driver cannot see and warn for objects that approach fast from behind. This feature does not actively intervene or provide steering input.
+
+Using radar, steering angle, and vehicle speed, BSD detects objects in the blind spot and calculates the distance of these objects from the vehicle.
+
+When a moving object is detected in the vehicle’s blind spot, the LED blind spot detection lamp
+
+nline Rectangle
+
+will illuminate on the corresponding side mirror. In addition, if driver pushes on the turn indicator lever, the BSD will provide the audible warning.
+
+The function will be activated when vehicle speed is greater than $2 0 ~ \\mathrm { k m / h }$ (12.4 mph) . The function will be deactivated when vehicle speed is less than $1 5 \\mathrm { k m / h }$ $9 . 3 \\mathsf { m p h } )$ ) and more than 155 km/h (96.3 mph).
+
+nline Rectangle
+
+To enable Blind Spot Detection:
+
+1. Tap Library
+
+nline Rectangle
+
+on the Infotainment screen.
+
+2. Tap Driver Aids
+
+nline Rectangle
+
+$>$ Collision Avoidance
+
+nline Rectangle
+
+3. Tap ON under Blind Spot Detection via the toggle button.
+
+4. Tap ON via the Chime toggle to Mute/Unmute audio chime.
+
+
+To deactivate system:
+
+Tap OFF under Blind Spot Detection via the toggle button to disable the system.
+
+# nline Rectangle
+
+# NOTE
+
+Blind Spot Detection is turned ON by default, every time the vehicle is turned ON.
+
+# System Malfunction Warnings
+
+If a fault is detected with the BSD system or an associated ADAS system, it will trigger an alert message on the Infotainment screen display to alert the driver. If a malfunction alert is displayed, some or all of the system functionality may be impacted.
+
+Conditions under which the BSD system will not detect a vehicle
+
+The function BSD is not designed to detect the following types of vehicles and/or objects:
+
+Vehicles traveling in the opposite direction Guardrails, walls, signs, parked vehicles and similar stationary objects
+
+Conditions under which the BSD system may not function correctly
+
+BSD system may not detect correctly vehicles and/or objects in the following conditions:
+
+Bad weather such as heavy rain, fog, snow etc.
+
+If ice or mud etc. Is attached to the rear bumper.
+
+If driving on a road surface that is wet due to rain, standing water etc. If there is a signifi cant difference in speed between your vehicle and the vehicle that enters the detection area. If a vehicle is in the detection area from a stop and remains in the detection area as your vehicle accelerates. If driving up or down consecutive steep inclines, such as hills, a dip in the road etc. If multiple vehicles approach with only a small gap between each vehicle. If vehicle lanes are wide, and the vehicle in the next lane is too far away from your vehicle. If the vehicle that enters the detection area is traveling at about the same speed as your vehicle.
+
+If there is a signifi cant difference in height between your vehicle and the vehicle that enters the detection area. Directly after the BSD main switch is set to on.
+
+When towing a trailer.
+
+BSD system may unnecessarily detect a vehicle and/or objects under the following conditions:
+
+When there is only a short distance between your vehicle and a guardrail, wall etc.
+
+When there is only a short distance between your vehicle and a following vehicle.
+
+When vehicle lanes are narrow and a vehicle driving 2 lanes across from your vehicle enters the detection area.
+
+When items such as a bicycle carrier are installed on the rear of the vehicle.
+
+# nline Rectangle
+
+# CAUTION
+
+The detection range may vary depending on the speed of the vehicle. Even if there is a vehicle in a blind spot zone, BSD may not activate a warning when passing at high speed.
+
+The BSD sensors may become impaired by mud, rain, frost, or ice. Performance may be subsequently affected and not alert the driver to vehicles in the lane on either side. Always keep sensors clean.
+
+Warning timing may vary depending on the speed of the vehicle that is approaching.
+
+![](https://vinfastowners.org/manuals/images/182c7e9bcbb217a1806cac564f2c1ef35f486583e111c37d3dfce346d2fd6ccd.jpg)
+
+# nline Rectangle
+
+# WARNING
+
+The driver is fully responsible for changing lanes carefully and for checking it is safe to do so.
+
+The driver should always check their surroundings and side mirrors before changing lanes. Do not rely completely on the Blind Spot Detection system.
+
+The system may not provide alerts under all driving conditions, including when driving around tight curves.
+
+The system does not alert drivers to vehicles outside of the detection zones.
+
+# Rear Cross Traffi c Alert (RCTA)
+
+Rear Cross Traffi c Alert (RCTA) (if available) warns the driver of objects approaching the rear of the vehicle when the vehicle is in Reverse (R). This assists in avoiding rear end collisions with objects crossing the rear of the vehicle from either a left or right direction. This feature does not actively intervene via steering or braking inputs but provides both an audible & visual alerts.
+
+Rear Cross Traffi c Alert (RCTA) uses radar sensors in the rear bumper of the vehicle to detect objects. Some of the objects that the system can detect are:
+
+Vehicles
+
+Motorcycles
+
+Bicycles
+
+# Rear Cross Traffi c Alert (RCTA)Operation
+
+Rear Cross Traffi c Alert (RCTA)Visual and Audible Alerts
+
+If the Rear Cross Traffi c Alert (RCTA) system detects an approaching object it will notify the driver by displaying an alert icon
+
+inline Rectangle
+
+on the reverse camera display and in the Car Control Area of the Infotainment screen. The alert icon will be shown in the direction of the approaching object.
+
+The Rear Cross Traffi c Alert (RCTA) Function generates two levels of warning according to the Time to Collision (TTC):
+
+|     |     |     |
+| --- | --- | --- |
+| RCTA Alert Icon | Time to Collision | Audio Chime |
+| ON - Solidnline Rectangle | Approximately 1.1 - 3 seconds | Slow Beep |
+| ON - Flashinginline Rectangle | Approximately less than 1.1 seconds | Fast Beep |
+
+In addition, the Blind Spot Detection (BSD)
+
+nline Rectangle
+
+icon will fl ash in the Vehicle Side Mirror closest to the oncoming object.
+
+nline Rectangle
+
+# NOTE
+
+Blind Spot Detection (BSD)
+
+nline Rectangle
+
+icon will fl ash in the Vehicle Side Mirror even if BSD is deactivated.
+
+RCTA Activation
+
+The feature is activated:
+
+When Reverse (R) is selected.
+
+When vehicle speed is in range 0 - 18 km/h (11.18 mph).
+
+RCTA Deactivation
+
+The feature is deactivated:
+
+When Drive (D) is selected. OR
+
+When the vehicle is moving in forward direction. OR
+
+When vehicle speed is over 18 km/h (11.18 mph) and Reverse (R) is selected.
+
+To Enable/Disable Rear Cross Traffi c Alert (RCTA):
+
+1. Tap App Library inline Rectangle on the Infotainment screen.
+
+2. Tap Drive Aids nline Rectangle $>$ Parking Assistance nline Rectangle
+
+3. Toggle Rear Cross Traffi c Alert (RCTA) OFF/ON.
+
+
+# nline Rectangle
+
+# NOTE
+
+Rear Cross Traffi c Alert (RCTA) will be ON by default every time the vehicle turns ON.
+
+Conditions under which the RCTA system will not detect a vehicle
+
+The RCTA system is not designed to detect the following types of vehicles and/or objects:
+
+Vehicles traveling in the opposite direction Guardrails, walls, signs, parked vehicles and similar stationary objects
+
+Conditions under which the RCTA system may not function correctly
+
+RCTA system may not detect correctly vehicles and/or objects in the following conditions:
+
+Bad weather such as heavy rain, fog, snow etc. If ice or mud etc. Is attached to the rear bumper
+
+If driving on a road surface that is wet due to rain, standing water etc.
+
+If there is a signifi cant difference in speed between your vehicle and the vehicle that enters the detection area
+
+If a vehicle is in the detection area from a stop and remains in the detection area as your vehicle accelerates If driving up or down consecutive steep inclines, such as hills, a dip in the road etc.
+
+If multiple vehicles approach with only a small gap between each vehicle If vehicle lanes are wide, and the vehicle in the next lane is too far away from your vehicle
+
+If the vehicle that enters the detection area is traveling at about the same speed as your vehicle
+
+If there is a signifi cant difference in height between your vehicle and the vehicle that enters the detection area
+
+Directly after the RTCA main switch is set to on
+
+When towing a trailer
+
+RCTA system may unnecessarily detect a vehicle and/or objects under the following conditions:
+
+When there is only a short distance between your vehicle and a guardrail, wall etc. When there is only a short distance between your vehicle and a following vehicle When vehicle lanes are narrow and a vehicle driving 2 lanes across from your vehicle enters the detection area When items such as a bicycle carrier are installed on the rear of the vehicle
+
+System Faults
+
+In the event of a Rear Cross Traffi c Alert (RCTA) fault, a warning will be displayed on the Infotainment screen.
+
+Vehicle alert details can be viewed in the Service App.
+
+See $>$ Car Control Area $>$ Vehicle Alerts.
+
+# nline Rectangle
+
+# CAUTION
+
+The sensors may become impaired by mud, rain, frost or ice and fail to detect approaching objects.
+
+Always ensure all sensors and cameras in the vehicle are clean prior to driving.
+
+![](https://vinfastowners.org/manuals/images/e548f293676fe7dc8d037e0c8dcc2881138a0f25b74806363594c8c35929b81f.jpg)
+
+# nline Rectangle
+
+# WARNING
+
+Do not rely completely on Rear Cross Traffi c Alert (RCTA) to detect a potential collision, always check the surrounding area before reversing.
+
+Rear Cross Traffi c Alert (RCTA) warning timing may vary depending on the speed of the approaching vehicle. Hence, make sure you are aware of your surroundings before reversing.
+
+The system may not warn in time if objects are approaching rapidly.
+
+The Rear Cross Traffi c Alert (RCTA) will not provide alerts if your vehicle is parallelly parked and your vehicle’s sensors are blocked by another vehicle or if your vehicle is pulled too far into the parking space so that it is hidden by adjacent vehicles.
+
+The Rear Cross Traffi c Alert (RCTA) chime may not be heard if the surrounding area is noisy.
+
+# Door Opening Warning
+
+When a door is opened from inside of the vehicle, the Door Opening Warning (DOW) (if available) provides an alert if a vehicle is approaching from behind. This system assists the occupants to safely open the door and exit the vehicle.
+
+Door Opening Warning (DOW) uses radar and sensors present in the rear bumper to detect oncoming traffi c. If an oncoming vehicle is detected, occupants will be alerted via LEDs on the side mirrors and the Infotainment screen.
+
+The Door Opening Warning (DOW) alert will persist as long as the target object fulfi lls the warning conditions.
+
+# Door Opening Warning Operation
+
+When Door Opening Warning (DOW) is active the following will occur:
+
+An amber icon
+
+inline Rectangle
+
+will be shown on the corresponding door side view mirror.
+
+If the impacted door is opened, this icon will start fl ashing and a chime will be heard.
+
+If the corresponding door is closed and an oncoming object is still detected then the icon
+
+nline Rectangle
+
+will be shown on the corresponding door side view mirror.
+
+Door Opening Warning is also shown on the Infotainment screen
+
+![](https://vinfastowners.org/manuals/images/2e7db914a79f293f9857b955ad4e8b63f5c09065de16bb236ee6a6d4c1d83bb1.jpg)
+
+Door Opening Warning (DOW) activates
+
+When vehicle speed is less than 1.8 km/h (1 mph).
+
+The approaching vehicle speed is more than 5 km/h (3.1 mph).
+
+Door Opening Warning (DOW) deactivates
+
+When vehicle speed is greater than 1.8 km/h (1 mph).
+
+The approaching vehicle speed is less than 5 km/h (3.1 mph).
+
+To Enable/Disable Door Opening Warning (DOW):
+
+# 1\. Tap App Library
+
+inline Rectangle on the Infotainment screen.
+
+2. Tap Drive Aids nline Rectangle $>$ Collision Avoidance nline Rectangle
+
+3. Toggle Door Open Warning (DOW) OFF/ON.
+
+
+Conditions under which the DOW system may not function correctly
+
+DOW system may not detect correctly vehicles and/or objects in the following conditions:
+
+Bad weather such as heavy rain, fog, snow etc.
+
+If ice or mud etc. Is attached to the rear bumper.
+
+If driving on a road surface that is wet due to rain, standing water etc. If there is a signifi cant difference in speed between your vehicle and the vehicle that enters the detection area.
+
+If a vehicle is in the detection area from a stop and remains in the detection area as your vehicle accelerates.
+
+If driving up or down consecutive steep inclines, such as hills, a dip in the road etc.
+
+If multiple vehicles approach with only a small gap between each vehicle.
+
+If vehicle lanes are wide, and the vehicle in the next lane is too far away from your vehicle.
+
+If the vehicle that enters the detection area is traveling at about the same speed as your vehicle.
+
+If there is a signifi cant difference in height between your vehicle and the vehicle that enters the detection area.
+
+Directly after the DOW main switch is set to on.
+
+When towing a trailer.
+
+DOW system may unnecessarily detect a vehicle and/or objects under the following conditions:
+
+When there is only a short distance between your vehicle and a guardrail, wall etc.
+
+When there is only a short distance between your vehicle and a following vehicle.
+
+When vehicle lanes are narrow and a vehicle driving 2 lanes across from your vehicle enters the detection area.
+
+When items such as a bicycle carrier are installed on the rear of the vehicle.
+
+# nline Rectangle
+
+# CAUTION
+
+Always ensure sensors are clean prior to driving. The rear sensors may get blocked by mud, rain, frost, or ice and fail to detect approaching objects.
+
+# nline Rectangle
+
+# WARNING
+
+Do not rely completely on Door Opening Warning System (DOW). Always use the Side Mirrors and do a complete head check to watch for vehicles, motorcycles, bicycles, or pedestrians that may be approaching the vehicle.
+
+# Acoustic Vehicle Alerting System
+
+If available, Due to the almost silent operation of an Electric Vehicle, it is often diffi cult to hear when it is in motion. The Acoustic Vehicle Alerting System (AVAS) (if equipped), produces a warning sound to alert pedestrians of the vehicle’s presence. The system operates when the vehicle is traveling between the speeds 2 to $2 0 \\mathrm { k m / h }$ (1.24 to 12 mph) , in both forward and reverse direction.
+
+# nline Rectangle
+
+# WARNING
+
+Do not rely on the AVAS system to alert pedestrians of the vehicle’s presence. Always pay attention to the road and the proximity of pedestrians while driving.
+
+AVAS is a warning system and cannot actively avoid collisions.
+
+If the AVAS system is not functioning correctly, contact VinFast Service Center to have the vehicle inspected.
+
+# 5.4. Park Assist
+
+# Rear Parking Assist
+
+The Rear Parking Assist system assists the driver when parking by providing alerts of surrounding objects, such as, vehicle, motorcycle, bicycle, pedestrian, pillar, and road
+
+block. The system provides visual and audible alerts to inform and warn the driver. Park Assist sensors are located on both the front and rear bumpers to identify surrounding obstacles.
+
+nline Rectangle nline Rectangle
+
+# NOTE
+
+Ensure all Park Assist Sensors are free from the build-up of snow, ice, dirt, or mud which may impact their operation. For details on cleaning the sensors, see $>$ Vehicle Cleaning $\\geq$ Radar, Sensor, Camera Care.
+
+# nline Rectangle
+
+# CAUTION
+
+Do not push, scratch, or strike any sensors on the vehicle as this may cause damage.
+
+Do not spray the sensor or its surrounding area directly with high pressure water.
+
+# Rear Parking Assist
+
+Rear Parking Assist (RPA) is a Driver Assistance System that warns the driver of nearby objects behind the vehicle when parking.
+
+# Park Assist Operation
+
+The Parking Assist System will automatically activate when the vehicle is in any gear other than Park (P) and the vehicle speed is less than or equal to $1 5 \\mathrm { k m / h }$ (9.3 mph). Colored bands will be shown at the front and rear of the Car Control Area vehicle indicating proximity to objects along with an audible warning.
+
+# Rear Obstacle Detected
+
+nline Rectangle
+
+To enable/disable auto activation of Parking Assist:
+
+1. Tap App Library
+
+nline Rectangle
+
+on the Infotainment screen.
+
+2. Tap Drive Aids
+
+nline Rectangle
+
+$>$ Parking Assistance
+
+nline Rectangle
+
+3. Toggle Parking Assist OFF/ON.
+
+# Activation/Deactivation
+
+Activation when Park Assist is enabled:
+
+If the vehicle is in gear Drive (D)/Reverse (R)/Neutral (N) and when vehicle’s speed is less than or equal to 15 km/h (9.3 mph).
+
+Activation when Park Assist is disabled:
+
+When vehicle speed is less than 15 km/h (9.3 mph) and the driver taps the camera
+
+nline Rectangle
+
+icon on the Infotainment screen.
+
+OR
+
+When Reverse (R) is engaged.
+
+Deactivation:
+
+When vehicle’s speed is greater than 15 km/h (9.3 mph).
+
+OR
+
+When the vehicle is in Park (P).
+
+# nline Rectangle
+
+# NOTE
+
+If Park Assist is deactivated when the speed exceeds $1 5 \\mathrm { k m / h }$ , it will reactivate when the speed drops below $1 0 ~ \\mathsf { k m / h }$ .
+
+To turn ON/OFF Park Assist Chime Mode:
+
+1. Tap Mute
+
+nline Rectangle
+
+when available on Car Control Area.
+
+# Park Assist Faults
+
+Park Assist will display a warning message on the Infotainment screen and on the vehicle alerts page if it detects a fault.
+
+If a Park Assist sensor has a fault due to dirt or a blockage, clean the impacted sensor. For more details on cleaning sensors, see $>$ Vehicle Cleaning > Radar, Sensor, Camera Care.
+
+There are situations in which the Parking Assist system might operate unexpectedly:
+
+Uneven road condition, gravel roads, rails, repairing road or fallen leave on the road. Driving in incline/decline conditions. Driving in the fl ooded road. After sales toolkit such as bumper protector etc. is installed in the bumpers. Driving in bad weather such as heavy rain, fog, snow or a sandstorm. Driving in the heavy traffi c jam condition. Driving in strong wind are blowing, or beside a big car (truck, bus etc). The orientation ultrasonic sensor has been changed due to collision or other impacts.
+
+nline Rectangle
+
+# CAUTION
+
+Do not apply paint on sensors, it will effect on the performance of sensors.
+
+# nline Rectangle
+
+# WARNING
+
+The driver must always remain alert and in full control of the vehicle at all times including during parking maneuvers.
+
+Park Assist may not detect potholes, trenches or drains.
+
+Under certain circumstances, various refl ective surfaces, objects or clothing may cause the system to fail to detect obstacles.
+
+Special attention has to be paid to low obstacles which can damage the lower part of the bumper.
+
+Always check the surrounding area when reversing and using the Rear Parking Assist System.
+
+It is not recommended to use or activate Rear Parking Assist when towing anything such as trailer, recreational vehicles, etc.
+
+Failure to comply may result in property damage, serious injury or death.
+
+# Rear View Camera
+
+The Rear View Camera is used to display the area behind the vehicle and to assist with reversing or parking maneuvers. The system uses a camera mounted above the rear license plate and displays an image on the Infotainment screen. See $>$ Advanced Driver Assistance Systems (ADAS) $\\geq$ Park Assist > 360 Surround View Monitoring.
+
+# nline Rectangle
+
+# WARNING
+
+Keep the Rear View Camera lenses clear, as unclear lenses will impact vision and objects may not be detected leading to a collision.
+
+Always check vehicle surroundings while using the Rear View Camera as camera(s) may not always detect objects or barriers that can potentially cause damage or injury.
+
+The camera(s) may not display children, pedestrians, cyclists, traffi c, animals, or any other objects outside of the camera’s fi eld of view.
+
+The distance of images displayed may vary from actual.
+
+Do not obstruct the Rear View Camera by installing objects, such as a bumper sticker or a bumper guard, near the Rear View Camera.
+
+# 360 Surround View Monitoring
+
+If available, The 360 Surround View Monitoring System uses multiple cameras along with graphical markings to assist the driver in low-speed parking maneuvers.
+
+The system works in parallel with the Park Assist System and provides multiple viewing options from cameras mounted in the Side Mirrors, under Hood, and Liftgate. Depending on the display mode, some of these views are combined to provide a complete 360-degree view around the vehicle. Camera locations are shown below:
+
+nline Rectangle
+
+nline Rectangle
+
+nline Rectangle
+
+# NOTE
+
+To ensure optimum system performance, please ensure each camera is free from dirt or obstruction.
+
+Performance of the Surround View Monitor may be reduced in heavy fog conditions.
+
+# nline Rectangle
+
+# WARNING
+
+The driver has full responsibility for vehicle operation while using the Surround View Monitoring System.
+
+Areas near the corners of the vehicle may be obscured from camera view, resulting in some surrounding objects not being detected.
+
+Do not fold in the outside Mirrors of the vehicle when using Surround View Monitoring. Doing so will limit the effectiveness of the vehicle’s side cameras and display performance.
+
+Objects and obstacles above the cameras are not displayed.
+
+Surround View Monitoring is designed to be used on a fl at surface. Roads with different heights such as curbs and speed bumps may look different on the Infotainment screen display.
+
+The camera visibility can be blocked due to trailer towing or any attachment to the vehicle.
+
+Always check vehicle surroundings. Failure to comply may result in property damage, serious injury or death.
+
+# Surround View Monitor Operation
+
+To activate the Surround View Monitoring System:
+
+When Reverse (R) is engaged, the system is activated automatically. A reverse camera view along with a top down 360-degree view will be shown by default.
+
+The system also activates automatically when left or right turn indicators are activated or when an obstacle is detected in close proximity to the front or rear of the vehicle.
+
+The Surround View Monitoring System can also be activated manually by pressing the camera button
+
+nline Rectangle
+
+Infotainment screen and then choosing the desired view.
+
+# Camera Display Modes and Settings
+
+The Surround View Monitoring System offers several camera views and display modes. These views are selected by pressing the respective view on the left of the camera display window.
+
+nline Rectangle
+
+|     |     |
+| --- | --- |
+| DinlineRectangle | 3D View |
+| inlineRectangle | Front View |
+| inlineRectangle | Front Junction View |
+| inlineRectangle | Front Wheel View |
+| inlineRectangle | Rear View |
+| inlineRectangle | Rear Junction View |
+| inlineRectangle | Rear Wheel View |
+| inlineRectangle | Camera Settings |
+| DinlineRectangle | Exit |
+
+3D View
+
+Tap on the 3D View nline Rectangle
+
+icon to view the vehicle in 3D view mode. This view provides perspective from outside the vehicle looking down. Rotate the view by touching the vehicle and swiping in any direction.
+
+Return to default view by tapping 3D View
+
+nline Rectangle icon again.
+
+Front View
+
+The Front Camera View provides vision from the front of the vehicle. In addition to the camera view, dynamic guidelines will be projected showing the intended path of the front wheels. The guidelines are also color-coded indicating distance to any nearby obstacles.
+
+Front Camera View can also be selected by tapping the Front View
+
+nline Rectangle
+
+icon.
+
+Junction View
+
+The Junction View provides broad vision from the front/rear of the vehicle. This view assists in parking close to gutters or other items that may potentially damage the vehicle wheels or tires. Junction View can be selected by tapping the respective front/rear junction view icon on the Infotainment screen.
+
+Wheel View
+
+The Wheel View provides vision from the Left/Right wheel and also shows Top view of the vehicle. This view shows static or dynamic guidelines displayed in the Top view image. Wheel view can be selected by tapping the respective front/rear wheel view icon on the Infotainment screen.
+
+Rear View
+
+The rear-view camera will automatically appear when Reverse (R) is selected. In addition, the Rear Camera view can also be selected by tapping the Rear View
+
+![](https://vinfastowners.org/manuals/images/9c9935a57841338cda2911ed5ce012aca0268c5ad6c25ae0e47da7056dc19ea3.jpg)
+
+icon. In addition to the Rear Camera view static and dynamic guidelines will appear to guide the driver during a parking maneuver.
+
+The Rear Camera view is deactivated when the driver disengages Reverse (R). The driver can also deactivate the camera view manually by tapping (X)
+
+![](https://vinfastowners.org/manuals/images/9ab6fddc74f0308679c6e3e489de6cee62618faf80d02500537763d50b6bfc7d.jpg)
+
+icon on the display.
+
+![](https://vinfastowners.org/manuals/images/ed7719814c4b7e2c3b1cfda5c2a4b99be41ec7c0a5f83cf49a66dc846ad72a37.jpg)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Guideline Colours | Red | Amber | Green |
+| Distance | 30-50 cm | 50-200 cm | 200-300 cm |
+
+Top Down View:
+
+![](https://vinfastowners.org/manuals/images/f98486aa5e31d002f4ec809652d8369c4fc7c2b6b815f51e0dc68b1202ee030d.jpg)
+
+Top down view shows a view from directly above the vehicle. This is a default view and is shown in conjunction with all of the other views. No static or dynamic guidelines shall be displayed in the top down image.
+
+Camera Settings:
+
+1. Tap Camera nline Rectangle
+
+icon on the Infotainment screen.
+
+2. Tap Settings nline Rectangle
+
+icon.
+
+Tap toggle button to activate / deactivate the following:
+
+Transparent Car Model Dynamic Guidance Line Obstacle Warning Overlay Automatic Bumper View Switch Automatic Curb View Switch
+
+# nline Rectangle
+
+# NOTE
+
+Bumper view will not be activated automatically if Park Assist is disabled in Driver aids.
+
+# WARNING
+
+The camera system is limited to displaying surrounding images around the vehicle. Some obstacle outside of this will not be shown. Always check your surroundings and park with care.
+
+The camera(s) may not display children, pedestrians, cyclists, crossing traffi c, animals, or any other object outside of the cameras fi eld of view.
+
+Transparent Car Model and Obstacle Warning Overlay:
+
+Transparent car model setting displays the vehicle in transparent form in 3D and top view. By enabling this setting, you may be able to get a clearer view of the surrounding area of the vehicle.
+
+Obstacle warning overlay displays colored boxes that appear on the obstacles when the vehicle sensors detect objects in close proximity to the vehicle.
+
+To deactivate the Surround Monitoring System:
+
+The system automatically switches OFF when each of the following preconditions are fulfi lled.
+
+Vehicle is in Park (P) or Neutral (N).
+
+Turn indicators are OFF. There are no obstacles present in the detection range of the vehicle.
+
+If the Infotainment screen is idle.
+
+10 seconds have passed without any of above conditions occurring.
+
+The system also automatically switches OFF when the vehicle speed is greater than 18 km/h (11 mph) while in Drive (D).
+
+The Surround View Monitoring System can also be deactivated manually by pressing the exit button on the Infotainment screen.
+
+# 6.1. Starting & Shutting Down Vehicle
+
+# Starting the Vehicle
+
+The vehicle is equipped with a keyless start/stop system. A valid Key Fob must be available in the vehicle for the system to operate.
+
+![](https://vinfastowners.org/manuals/images/5b9d2e088d2d1a77493f71b74b047480fad5be380bd0e2f720dbfd38199230a1.jpg)
+
+# NOTE
+
+Before starting the vehicle ensure that the Electric Park Brake is applied and the vehicle is in Park (P).
+
+Metal objects and devices with electronic components such as mobile phones etc, may interfere with the start/stop system.
+
+To Start Driving the Vehicle:
+
+![](https://vinfastowners.org/manuals/images/f9ab0a56054e150e66d2759ead4866bd115e9240215e22f5742b07a3a3bae705.jpg)
+
+2. READY will be displayed on the Infotainment screen indicating the vehicle is ON.
+
+3. Press the Brake pedal
+
+
+![](https://vinfastowners.org/manuals/images/0a5778286df29158d2ee40ff58f7dd819e0b50e2efb1f8d239036c138d834e09.jpg)
+
+3. Disengage the Electric Parking Brake (EPB) via one of the following methods:
+
+   Manually - Press the EPB switch
+
+![](https://vinfastowners.org/manuals/images/ca3b7cee049555839aa83042c47d35f495872cafe74cd877a6b9ad5a579aba82.jpg)
+
+Automatically - EPB will disengage automatically when the brake pedal is pressed, driver’s seat belt is fastened
+
+nline Rectangle
+
+nline Rectangle
+
+to start driving.
+
+nline Rectangle
+
+nline Rectangle
+
+until the vehicle has come to a complete stop.
+
+nline Rectangle
+
+button.
+
+nline Rectangle
+
+and a gear is selected.
+
+4. Select either Drive (D) or Reverse (R)
+
+5. Press the Accelerator Pedal
+
+
+To Power OFF the Vehicle:
+
+1. Press the brake pedal
+
+2. Press the Park (P)
+
+3. After exiting and locking, the vehicle will automatically power OFF.
+
+
+# NOTE
+
+The cooling fan and pump may be heard and remain operating for a period of time after the vehicle has stopped and been locked. This is normal vehicle operation and could be result of:
+
+• The vehicle High Voltage Battery is charging the low voltage (12V) battery.
+
+$\\cdot$ The vehicle is in the process of cooling the High Voltage electric motor.
+
+• The vehicle is in the process of a fi rmware over the air (FOTA) software update.
+
+If this noise continues for an extended period of time, contact the nearest VinFast Service Center to have the vehicle inspected.
+
+# nline Rectangle
+
+# WARNING
+
+Do not shift between Drive (D) and Reverse (R) or Park (P) while the vehicle is in motion.
+
+Do not accelerate while engaging a gear.
+
+Do not press down the accelerator pedal and brake pedal at the same time.
+
+Ensure that all occupants fasten their seatbelt before driving the vehicle.
+
+# Vehicle Power Mode Information
+
+The vehicle consists of three power modes:
+
+OFF - vehicle is powered OFF and no accessories or vehicle drive gears are available. Accessory (ACC) - accessory power mode is active allowing access to infotainment features on the Infotainment screen. ON (Ready) - both accessory and vehicle drive power is ON.
+
+To Transition from OFF to ACC:
+
+One of the following preconditions must be met.
+
+Vehicle is unlocked via mechanical key, Key Fob, or VinFast App.
+
+Liftgate is unlocked via exterior release button, or key fob.
+
+Brake pedal is pressed.
+
+To Transition from ACC to ON:
+
+All of the following preconditions must be met.
+
+The driver is present in the vehicle with a valid key fob.
+
+Brake pedal is pressed.
+
+Transmission gear is in Park (P).
+
+Remote Parking feature is activated via the VinFast app.
+
+To Transition from ON to OFF:
+
+One of the following preconditions must be met.
+
+The 10-minute driver idle timer has expired.
+
+Vehicle is locked via mechanical key, key fob or VinFast App.
+
+Common preconditions for both:
+
+Transmission gear position is in Park (P) or Neutral (N). Pet Mode and Camp mode are not active. Driver’s seat belt is not buckled.
+
+All passenger seats are empty.
+
+FOTA campaign or remote diagnostics not in progress.
+
+To Transition from ACC to OFF:
+
+One of the following preconditions must be met.
+
+The 2 minute ACC timer has expired.
+
+Vehicle is locked via mechanical key, key Fob or VinFast App.
+
+Common preconditions for both:
+
+Transmission gear is in Park (P) or Neutral (N).
+
+# Low Key Fob Battery
+
+If the remote key fob battery is weak, the vehicle can still be started.
+
+To start the vehicle:
+
+![](https://vinfastowners.org/manuals/images/bdb1cead7695e259a03ade3afd74e9e297384867dfe70fec66f1312bbd8994aa.jpg)
+
+# 6.2. Drive Systems
+
+# Transmission Gear Selector
+
+The Transmission Gear Selector is used to engage different gear positions, which include Park (P), Reverse (R), Neutral
+
+(N), and Drive (D).
+
+The Transmission Gear Selector is located in the middle of the dashboard below the Infotainment screen.
+
+![](https://vinfastowners.org/manuals/images/019804ed25f37a7a83e3b55f086ac3f39c86ee6365896fc33aac00853b3d82bf.jpg)
+
+|     |     |
+| --- | --- |
+| 1 | Park (P) |
+| 2 | Reverse (R) |
+| 3 | Neutral (N) |
+| 4 | Drive (D) |
+
+To select a gear position:
+
+1. Depress the brake pedal and ensure the vehicle is stationary or has come to a complete stop.
+
+2. Press the desired gear button. 3. The selected gear button will illuminate and be displayed on the Infotainment screen.
+
+
+# WARNING
+
+Do not speed up while engaging a gear.
+
+Do not press down the accelerator pedal and brake pedal at the same time.
+
+Never leave the vehicle unattended while the power is ON.
+
+If the vehicle is in Park (P) mode, and the user release the Parking Brake manually, the vehicle will move. Always make sure that the Parking Brake is applied to prevent vehicle from unintentionally moving.
+
+![](https://vinfastowners.org/manuals/images/a3cbdfecc1ad29973e8f5bb7c359ec475ce673d6579278723e9b88d3e8b6abd7.jpg)
+
+# NOTE
+
+If the vehicle is turned OFF in Neutral (N), Reverse (R), or Drive (D) gear positions, it will automatically shift to Park (P).
+
+# Neutral
+
+In Neutral (N), your vehicle rolls freely when no brakes are applied. Neutral (N) can be used to allow the vehicle to be maneuvered in a workshop environment or to be moved onto a tow truck.
+
+# CAUTION
+
+Shifting to Neutral (N) will disable regenerative braking resulting in greater than normal brake pressure being required.
+
+Shifting to Neutral (N) should only be done while a driver is present to apply the vehicle brakes when necessary.
+
+# Driving Modes
+
+The vehicle has three Driving Modes which when selected can change the vehicle’s throttle response and power delivery.
+
+Driving Modes can be changed via the Infotainment screen.
+
+Available Driving Modes are:
+
+co
+
+Normal
+
+Sport
+
+To select a Driving Mode:
+
+1. Tap Car Mode on Infotainment screen.
+2. Select the desired Drive Mode.
+3. To exit drive mode, tap outside of the card.
+
+|     |     |
+| --- | --- |
+| Eco Mode | Slowest throttle response |
+| Normal Mode | Medium throttle response |
+| Sport Mode | Quickest throttle response |
+
+The selected Driving Mode icon is indicated in the top side of the Car Control Area on the Infotainment screen.
+
+# Creep Mode
+
+The creep mode is useful for driving at lower speeds in stop-and-go traffi c or in parking lots. With this function active, the vehicle will move slowly in the selected direction of travel without the need to apply the accelerator pedal.
+
+To activate/deactivate creep mode:
+
+1. Tap Car Mode in the Car Control Area of the Infotainment screen.
+2. Select the three-dot icon.
+3. Toggle creep mode ON/OFF.
+
+# WARNING
+
+Do not rely on creep mode to prevent your vehicle from rolling down a hill. Keep your foot fi rmly on the brake pedal if you wish to remain stationary or on the accelerator pedal if you wish to ascend a hill. Failure to do so may result in accident causing serious injury or death.
+
+# Auto Gear P
+
+When the function is activated, it allows the system to automatically switch from Drive (D) or Reverse (R) to Park Mode:
+
+When the vehicle has fully stopped and the door is opened, and both the brake pedal and the accelerator pedal are released. Or
+
+While charging
+
+To activate/deactivate creep mode:
+
+1. Tap Car Mode in the Car Control Area of the Infotainment screen.
+2. Select the three-dot icon.
+3. Toggle Auto Gear P ON/OFF.
+
+![](https://vinfastowners.org/manuals/images/24b1df4bdd03076cb5d1873c2359deff2e85e07ab55f760022080f38b0847e38.jpg)
+
+# WARNING
+
+Always ensure that the vehicle is securely parked before exiting.
+
+# Electric Parking Brake (EPB)
+
+The Electric Parking Brake (EPB) is an electronically controlled parking brake that is designed to hold or stop the vehicle when parked. Additionally, it can also be used as an emergency brake.
+
+When EPB is active, the
+
+![](https://vinfastowners.org/manuals/images/f68b0961a878213548083d25d3d7a293f6aae36f7ae393caed89bdb30dd230bc.jpg)
+
+icon is displayed on the Infotainment screen.
+
+![](https://vinfastowners.org/manuals/images/e62825761796fdc2c65ca79d4b1521c6181300b924de9adf24530fab453c1cee.jpg)
+
+To engage the Electric Parking Brake:
+
+The Electric Parking Brake can be engaged by any of the following methods:
+
+Manually: Ensure the vehicle is stationary, press the brake pedal and then PRESS
+
+![](https://vinfastowners.org/manuals/images/f29ef03ed5d0e223f1c186f4abc2042a64128c194651bd1d39b1a57367c0ed5f.jpg)
+
+switch.
+
+Automatic: Electric parking brake will be automatically engaged when the vehicle is turned OFF or Park (P) is selected.
+
+To release the Electric Parking Brake:
+
+The Electric Parking Brake can be released by any of the following methods:
+
+Manually: press the brake pedal and then PRESS
+
+![](https://vinfastowners.org/manuals/images/ee275cac56a6bc8df49361f1fcbbd30582f43a291481a8e193bf7a5bac7aa561.jpg)
+
+switch to release.
+
+Automatic: electric parking brake will be automatically released when the brake pedal is pressed, the driver’s seat belt is fastened and Drive (D) mode is selected. In case, the Reverse (R) mode is selected, the acceleration pedal should be pressed.
+
+To use the Electric Parking Brake in an Emergency:
+
+The Electric Parking Brake can be used in an emergency to stop the vehicle.
+
+PRESS the Electric Parking Brake switch
+
+![](https://vinfastowners.org/manuals/images/ba3563bd90247a0deba63ffff66f6231630d678824d4ce3654e35274658ed88c.jpg)
+
+and hold it.
+
+The Electric Parking Brake will slow down the vehicle until switch is released.
+
+![](https://vinfastowners.org/manuals/images/79132f9f63e53837aac5e4e3ee57beebbdf8539a7469cfdc2566c3169d705d80.jpg)
+
+# WARNING
+
+Do not put any objects near electric park brake switch, it may interfere while activating the electric park brake.
+
+Always make sure that the parking brake is applied and the vehicle is in Park (P) mode before exiting the vehicle.
+
+Do not allow anyone unfamiliar with the vehicle to operate the parking brake switch. An unintentional parking brake release can result in serious injury.
+
+Ensure that the parking brake is released only when the driver occupies driver seat, and has depressed the brake pedal fi rmly.
+
+If the vehicle is in Park (P) mode, and the user releases the Parking Brake manually, the vehicle will move. Always make sure that the Parking Brake is applied to prevent vehicle from unintentionally moving.
+
+# CAUTION
+
+Do not use the Electric Parking Brake to stop the vehicle, except in case of an emergency. The brake system may get damaged if the Electric Parking Brake is used repeatedly to slow down or stop the vehicle.
+
+Do not press the switch aggressively, otherwise it may damage the switch.
+
+# 6.3. Steering Wheel
+
+# Steering Wheel Adjustment
+
+Prior to operating the vehicle, it is important to adjust the steering wheel to achieve a comfortable driving position. For additional information regarding a correct seating position, see $>$ Seats > Correct & Incorrect Seating Positions.
+
+![](https://vinfastowners.org/manuals/images/5e65a35284b7e3285729ca4284e206a4bb3a713176a884db6a836a52ffa5ea12.jpg)
+
+For an ideal steering position:
+
+The driver should always maintain a distance of 13-25 cm from the steering wheel. The driver’s arm should be slightly bent (around 120 degrees) and the chest should not be closer than 30 cm from the steering wheel.
+
+The driver should have a clear view of the area around the vehicle and of the head up display. The driver should always hold the steering wheel with both hands on the outer edges (9 o’clock and 3 o’clock positions) while driving.
+
+# Adjustable Steering Column
+
+![](https://vinfastowners.org/manuals/images/ab06406ae9584b389b56c1331ce2a9a047b22b50fcb88acaf12f789891dd26ed.jpg)
+
+The Steering Wheel can be adjusted manually forward / backward
+
+and up / down
+
+![](https://vinfastowners.org/manuals/images/6713ce7dd3200d11be28d8e5307a886052c0b9ba476c09659e36199f37380fd9.jpg)
+
+, as per requirement.
+
+To adjust the steering position:
+
+1. Push the lever
+
+![](https://vinfastowners.org/manuals/images/6c4a20ab3ed615ccab3bbe9d654cc97abfb274bb1fe6baf25d827412319279d3.jpg)
+
+down to unlock the steering column.
+
+2. Adjust the steering wheel to preferred position.
+3. Pull up the lever
+
+![](https://vinfastowners.org/manuals/images/b8c00c182cd914127a9c2d2e1b368ad4829462de6497bf6827c14e96b52e7144.jpg)
+
+to lock the steering column in the adjusted position.
+
+# nline Rectangle
+
+# WARNING
+
+Do not make steering wheel adjustments when the vehicle is in motion.
+
+Ensure the steering wheel column is secured in locked position before driving.
+
+Do not control the steering wheel by the horn pad. If the Airbag deploys it may result in injury to the driver’s arms, hands and head.
+
+Do not sit close to the steering wheel when driving. In an event of a collision this may interfere with the deployment of Airbags and may increase the risk of occupant injury.
+
+The steering wheel is equipped with a Hand Off Detection (HOD) sensor. Do not cover it with plastic, carbon fi ber, plaster, or any other obstructive materials that may interfere with the sensor’s functionality. Damage caused by improper use or failure to follow these instructions will not be covered under warranty.
+
+# Steering Wheel Controls
+
+A number of vehicle controls and Infotainment features may be operated using the Steering Wheel Controls without using the Infotainment screen.
+
+# Entertainment Functions
+
+![](https://vinfastowners.org/manuals/images/7e92bbb580f7ff0d249f66c80531fc297d66587d4fd657f780200534fe5f8cd1.jpg)
+
+|     |     |
+| --- | --- |
+| Steering Wheel Control | Description |
+| Rinline Rectangle | To adjust the volume of audio output (i.e. Media, Phone, Navigation, Parking Aid,etc.) press + to increase and - to decrease. For small increments of adjustmentpress once, or hold for more rapid adjustment.Adjustment control for:Head Up Display , and Side Mirrors. |
+| inline Rectangle | Press < for previous Favorite radio station or press > for next favorite station.Press < to start or restart the current media track or press > to skip to the nextmedia track.Press and hold < to rewind media track or press and hold > to fast forward.Adjustment control for: Head Up Display. , and Side Mirrors . |
+| inline Rectangle | Respond to ADAS prompts.Press to confirm HUD (if equipped) and Mirror positions. |
+| inline Rectangle | Switch between Entertainment Sources with current source shown on theInfotainment screen. |
+| 2inline Rectangle | Press to trigger native (built-in) Voice Recognition session.Long press to trigger Active Phone Mirroring Voice Assistant (Android Auto / AppleCarPlay). |
+| inline Rectangle | If no phone is connected, press to open phone setup screen.If a phone is connected, press to display Recent call list.Press to answer an incoming call, press and hold to reject an incoming call.Press to end an ongoing call.Press to make a call to the highlighted Recent call list item.Press to answer incoming call via call notification banner. |
+
+# ADAS Functions
+
+VF 7 PLUS
+
+VF 7 ECO
+
+|     |     |
+| --- | --- |
+| Steering Wheel Control | Description |
+| Hinline Rectangle | Press to increase or decrease set speed of vehicle by 1 mph / 1 km/h when vehicleis in Adaptive Cruise Control or Highway Assist.Long pressing the button will rapidly increase or decrease set speed. |
+| inline Rectangle | Press or press and hold - to decrease Adaptive Cruise Control vehicle gap by 1space, press & hold + to increase by 1 space. |
+| inline Rectangle | Press to cancel or resume Adaptive Cruise Control or Highway Assist. |
+| inline Rectangle | Press to enable Adaptive Cruise Control .See > Cruise Control > Adaptive Cruise Control |
+| Pinline Rectangle | Press to activate Highway Assist.See >Driving Aids > Highway Assist. |
+| inline Rectangle | Press to toggle Intelligent Speed Adaptation (if available) ON/OFF.See > Cruise Control > Intelligent Speed Adaptation. |
+
+|     |     |
+| --- | --- |
+| Steering Wheel Control | Description |
+| inline Rectangle | Press to activate Speed Limiter. See >Speed Limiter. |
+| inline Rectangle | Press to activate Cruise Control. See > Cruise Control. |
+
+# A
+
+# WARNING
+
+Do not rely completely on Driving Aids as they are not a substitute for appropriate levels of driver attention and judgment.
+
+The driver is always responsible to ensure the vehicle is driven in a safe manner.
+
+Read all the relevant sections in the Owner’s Manual and become familiar with all steering wheel controls prior to driving to avoid distraction.
+
+# 6.4. Mirrors
+
+# Side Mirrors
+
+Mirrors mounted on the side of the vehicle provide the driver with visibility behind and to the left and right sides of the
+
+vehicle.
+
+# Mirror Adjustment
+
+To adjust Side Mirrors using Car Control Area:
+
+1. Tap the icon
+
+to open the ergonomic control.
+
+2. Tap Mirror
+
+icon.
+
+3. Select Left/Right side mirror to adjust. 4. Press the left side controls on steering wheel to adjust each mirror in the desired position. 5. Tap Fold Both to fold the mirrors inwards.
+
+It is recommended to fold the mirrors inwards to avoid damage when going through an automatic car wash or during tight manoeuvres. Unfold the mirrors to original position during normal driving conditions.
+
+Mirror positions can be saved in the profi le, see $>$ Displays, Connections and Climate $>$ User Profi les.
+
+![](https://vinfastowners.org/manuals/images/48654a0a61e8fe9748cb31d5c5ab05b0222fb576804d2fda82bf4b42e92da663.jpg)
+
+NOTE
+
+The side mirrors can be folded only if the vehicle’s speed is below 16km/h (10 mph).
+
+# Heated Mirrors
+
+The heated side mirror feature reduces the effects of fogging and ice buildup on both the exterior side mirrors ensuring clear visibility. Side mirror heating is activated/deactivated automatically when the Rear Demist feature is turned ON/OFF. See $>$ Climate Control System > Rear Demist.
+
+# Automatic Mirror Tilt in Reverse
+
+If equipped, the passenger side mirror can automatically tilt downwards to assist in parking when Reverse (R) is selected. When Drive (D), Park (P), Neutral (N) gear is selected, the mirror returns to its original set position.
+
+To turn Mirror Tilt feature ON/OFF:
+
+1. Tap App Library on the Infotainment Screen.
+
+2. Tap Settings $>$ Vehicle Settings $>$ Side Mirrors.
+
+
+![](https://vinfastowners.org/manuals/images/fccbad4059e60504f9204d97b535a784049382d67fdee19c3b7fc73c7a37f587.jpg)
+
+3. Tap the toggle button to turn the feature OFF/RIGHT.
+
+![](https://vinfastowners.org/manuals/images/0ba638528cfdf0c8e51c2ca922267129c8a7f98b2a6b7a523e61f452a4a337eb.jpg)
+
+# NOTE
+
+In case of an electrical malfunction, the exterior mirror can be adjusted by gently pushing on the edges of the mirror glass.
+
+# WARNING
+
+Make sure that the blind spot location is clear during parking, changing lanes, turning or overtaking other vehicles. It may cause accident, injury or even death.
+
+Do not drive with exterior side mirrors folded. Ensure that the mirrors are positioned correctly and that the rear view is not restricted by ice, snow, condensation or other objects.
+
+Do not place your hand near the base of the mirror during mirror folding operation as your fi ngers may get caught between the
+
+![](https://vinfastowners.org/manuals/images/08950d88ce6b588f654e34569dd97008460e5b9d343965ac35217926c8467a6d.jpg)
+
+# CAUTION
+
+A convex mirror provides a view in which objects may appear larger and closer than they actually are, and may affect the ability to accurately estimate the distance. Always check the inside rear view mirror or glance over your shoulder, before changing the lanes.
+
+Ensure that there is no obstruction in the path of the mirror while folding the exterior side mirrors.
+
+# Rear-View Mirror
+
+Use the Rear-View Mirror to view of the area behind the vehicle through the vehicle’s rear window.
+
+# Mirror Adjustment
+
+The rear-view mirror position can be adjusted manually by hand. Adjust the rear-view mirror when the vehicle is stationary and while seated in the correct driving position for a clear view of the area behind the vehicle.
+
+# Automatic Dimming (If equipped)
+
+While driving at night, the Rear-View Mirror Automatic Dimming feature reduces the headlight glare of vehicles behind.
+
+![](https://vinfastowners.org/manuals/images/f21ac018d63453b95ce2c33773b6e8878a34cc83d5e4fe0f8c729c556ddbf835.jpg)
+
+# 0
+
+# NOTE
+
+The Auto Dimming function uses an ambient light sensor at the rear of the electrochromic mirror. Always keep the sensor and other mirror surfaces clean and free from obstructions for proper Auto Dimming operation.
+
+# Day/Night (If equipped)
+
+![](https://vinfastowners.org/manuals/images/3a82bb3c82db0420fce2fdc256413cb3aa427e286a8dab963ffc8aaeda2c410a.jpg)
+
+The rear-view mirror can be manually adjusted by pushing or pulling the adjusting lever to avoid being blinded at night by rearward vehicles.
+
+![](https://vinfastowners.org/manuals/images/1b8e12bd765c498f71343f26fb75e31228dbfaa39f85da96048b3c0c7310a524.jpg)
+
+# NOTE
+
+Before driving, always adjust the rear-view mirror for a clear view of the area behind the vehicle.
+
+![](https://vinfastowners.org/manuals/images/fd7366aa11518886355c6c024f19d5f83c09ba9f959f419cc50d14e09bcda6b5.jpg)
+
+# CAUTION
+
+Do not spray glass cleaner directly on the mirror as this may damage it. Use a soft towel dampened with water.
+
+![](https://vinfastowners.org/manuals/images/eafa872cb9547dbbbe532144d389ffeb90e8ac63eb546afe41777395d2b11c39.jpg)
+
+# WARNING
+
+Do not adjust the mirror while driving. Doing so can cause distraction leading to an accident, resulting in death or serious injury.
+
+Do not place objects in the rear seat, cargo area, or behind the rear head restraints which could obstruct vision through the rear window.
+
+# Sun Visor & Vanity Mirror
+
+Adjustable sun visors are provided to protect both the driver and front passenger from sun glare. Both visors are also equipped with illuminated vanity mirrors and card holders.
+
+# Sun Visor Adjustment
+
+![](https://vinfastowners.org/manuals/images/ffd1fae23a71a8cc878dc9e32b5dcd8a1b0d9e2c00892cd7de8781f2ee05e31f.jpg)
+
+To adjust a Sun Visor:
+
+The sun visor can be adjusted in several orientations including:
+
+Rotate the sun visor downwards
+
+to a desired angle. Detach from the mounting clip and swing outboard
+
+![](https://vinfastowners.org/manuals/images/528242aea4000320f868c14eb7c89794491a97bb7a5f295cafd024c5e29a7ed3.jpg)
+
+# Illuminated Vanity Mirror
+
+If equipped, the driver and passenger sun visors have an illuminated vanity mirror. The mirror light switches ON automatically when the mirror cover
+
+is lifted and switches OFF automatically when the mirror cover is closed.
+
+# nline Rectangle
+
+# WARNING
+
+Do not drive with sun visor in down position with vanity mirror light turned ON as this may reduce your view of the road.
+
+Always fold away the sun visors when they are not being used as an open sun visor may cause an injury if it comes in contact with your head .
+
+# nline Rectangle
+
+# CAUTION
+
+Do not leave plastic cards in the card holder for long periods of time, as direct sunlight may cause distortion.
+
+# 6.5. Exterior Lighting
+
+# Exterior Lighting - Front
+
+nline Rectangle
+
+# Overview
+
+|     |     |
+| --- | --- |
+| inlineRectangle | Signature/Position Light |
+| inlineRectangle | Daytime Running Light |
+| nlineRectangle | High and Low Beams |
+| nlineRectangle | Turn Signal |
+
+# Exterior Lighting Controls
+
+The vehicle exterior lighting can be controlled via the Infotainment screen and the left multi switch stalk located
+
+behind the steering wheel.
+
+Lighting control via Infotainment screen:
+
+1. Tap Lighting Control nline Rectangle on the Infotainment screen.
+
+2. Select the desired lighting function to enable.
+
+
+|     |     |
+| --- | --- |
+| inline Rectangle | Auto headlights On/Off |
+| inline Rectangle | Low Beam On/Off |
+| inline Rectangle | Parking Lights On/Off |
+| inline Rectangle | All Lights On/Off |
+| inline Rectangle | Front Fog Lights On/Off (if available) |
+| inline Rectangle | Rear Fog Lights On/Off (if available) |
+
+The headlights turn on automatically when the exterior light control is set to AUTO
+
+nline Rectangle
+
+and the ambient light level is low.
+
+nline Rectangle
+
+NOTE
+
+Headlights may turn ON momentarily if the vehicle passes through a dark area (e.g., beneath a freeway overpass).
+
+Exterior lighting control by the multi switch (Left Hand stalk):
+
+nline Rectangle nline Rectangle
+
+|     |     |
+| --- | --- |
+| inline | Up (when Vehicle ON) - Right indicator |
+| Rectangl | Up (when Vehicle OFF) - Right Parking Light |
+| nlineRectangl | Down (when Vehicle ON) - Left indicator |
+| Down (when Vehicle OFF) - Left Parking Light |
+| inlineRectangli | Pull - High beam flash/AHB override (if equipped) |
+| inlineRectangl | Push - High beam ON/AHB re-enable (if equipped) |
+| nlinRectangli | Press - Scroll through trip computer menu |
+
+High beam headlights can be operated manually or by using the Auto High Beam (AHB) function (if equipped).
+
+Automatic High Beam (if equipped)
+
+AHB is a driver assistance feature that supports the correct use of the vehicle’s High beam headlights. It automatically activates High beam when the road ahead is suffi ciently dark and deactivates high beam when oncoming vehicles are detected in order to prevent fl aring & inconvenience to other drivers. The system will also automatically deactivate High beam in areas of suffi cient lighting (e.g., urban areas with adequate street lighting). The AHB system receives information of objects located within the Field of View (FOV) of the Front Windshield Camera.
+
+The following scenarios will cause AHB system to dip from High beam to low beam:
+
+If oncoming or preceding vehicles are detected. In urban areas with suffi cient streetlights, at junctions with traffi c lights or in tunnels.
+
+The AHB system will turn the High beam back ON once the conditions listed above are not detected.
+
+nline Rectangle
+
+# NOTE
+
+AHB is activated when the vehicle speed is above $4 0 \\mathrm { ~ k m / h ~ }$ (25 mph), and is deactivated when the vehicle speed is below 25 km/h (15 mph).
+
+The vehicle headlight control must be set to AUTO to enable the Auto High Beam feature.
+
+The AHB setting will be saved when turn OFF vehicle, system will restore to its previous setting when ignition ON.
+
+To activate the Auto High Beam feature:
+
+1. Tap App Library
+
+nline Rectangle
+
+on the touchscreen.
+
+2. Tap Settings
+
+nline Rectangle
+
+Light Settings
+
+nline Rectangle
+
+> Exterior .
+
+3. Use the toggle button to turn the feature On/Off.
+
+nline Rectangle
+
+# NOTE
+
+Pushing or pulling the lighting stalk will override the AHB system.
+
+The AHB system uses the front windshield camera to detect oncoming and preceding light of vehicles, motorcycles, and
+
+bicycles.
+
+nline Rectangle
+
+NOTE
+
+The AHB system can not detect all types of vehicles.
+
+nline Rectangle
+
+To manually activate/deactivate High Beam:
+
+To manually activate the High beam headlights, push the left multi switch stalk forward. The indicator light
+
+nline Rectangle
+
+will appear on the Car Control Area display and the High beams will be switched ON. To return to low beam, pull the
+
+nline Rectangle
+
+multi stalk switch towards you. To fl ash the High beam headlights, pull the stalk towards you momentarily.
+
+# NOTE
+
+Do not cover the front windshield camera.
+
+Do not clean the front windshield camera sensor with window cleaner or any hazardous solutions as it may leave a fi lm which could affect sensor operation.
+
+Do not apply any coating on the front windshield as this may impact AHB headlight performance.
+
+A light sensor is located on top of the windshield. Ensure that the sensor is not covered or obstructed as this may result in headlights operating when not required.
+
+Use manual operation to turn ON the headlights if required when driving at night in rain, fog, tunnels and when using parking facilities.
+
+# nline Rectangle
+
+# WARNING
+
+Do not use High beam when oncoming traffi c is present. Doing so may distract oncoming drivers leading to an accident.
+
+Do not rely completely on the AHB feature. The vehicle may not detect oncoming vehicles in all conditions. Always check for oncoming vehicles and switch to low beam when required.
+
+Automatic headlights are only intended to assist the driver. Full control of vehicle headlights always remains the responsibility o the driver.
+
+# Turn Signals
+
+The vehicle Turn Signals are controlled using the multi switch stalk located on the left-side of the steering wheel.
+
+To operate the Turn Signals:
+
+nline Rectangle
+
+To fl ash signal 3 times: Push the multi switch stalk up or down lightly
+
+nline Rectangle
+
+To fl ash continuously: Push the multi switch stalk up
+
+nline Rectangle
+
+or down
+
+nline Rectangle
+
+fully.
+
+An arrow fl ashes on the Infotainment screen in the direction of turn or lane change, to indicate that turn signal is active.
+
+nline Rectangle
+
+nline Rectangle
+
+To cancel the Turn Signals:
+
+The turn signal will be cancelled when:
+
+The steering wheel is returned to its central position.
+
+The stalk is pushed up or down to the original position, while indicators are active.
+
+The 3-fl ash sequence has ended, if not ON continuously.
+
+# nline Rectangle
+
+# NOTE
+
+The Daytime Running Light (DRL) will turn OFF while the indicator light is fl ashing.
+
+# Hazard Warning Flashers
+
+The Hazard Warning Flashers warn other drivers to take caution. It should be used in the event of an accident, or if pulled over on the side of the road or when the vehicle is stopped on the motorway.
+
+The hazard button is located on the Center console.
+
+To activate/deactivate the Hazard Warning Flashers:
+
+nline Rectangle
+
+Press the Hazard light switch
+
+nline Rectangle
+
+# nline Rectangle
+
+# NOTE
+
+The red light on the hazard button and both the turn signal arrows on the Infotainment screen will fl ash when the hazard warning fl ashers are activated.
+
+The hazard warning fl ashers can operate even if the vehicle is OFF.
+
+Hazard warning fl ashers are automatically activated in the event of an emergency braking situation or airbag deployment.
+
+The individual turn signals do not work when the hazard warning lights are ON.
+
+# Exterior Lighting - Rear
+
+# Overview
+
+nline Rectangle
+
+|     |     |
+| --- | --- |
+| inlineRectangli | Center High Mounted Stop Light (CHMSL) |
+| inlineRectangl | Side Rear Reflector |
+| inlineRectangli | Rear Stop Light |
+| inlineReectangli | Rear Signature Lights |
+| inlineRectangli | License Plate Light |
+| inlineReectangli | Tail Lights |
+| inlineRectangli | Rear Reflector |
+
+# Tail Lights
+
+|     |     |
+| --- | --- |
+| inline Rectangle | Turn Indicator Light |
+| nlie Rectangle | Reverse Light |
+
+Stop/Brake Lights
+
+The Stop/Brake Lights turn ON when the brake pedal is depressed to alert other road users that the vehicle is slowing down.
+
+There are several Brake Lights on the vehicle including:
+
+Center High Mounted Stop Light (CHMSL) Rear Stop Light Regenerative Braking system engaged
+
+Center High Mounted Stop Light (CHMSL)
+
+The Center High Mount Stop Light (CHMSL), located at the top of the Liftgate, turns ON with the Brake Light.
+
+Turn Indicator Lights
+
+Turn Indicator Lights are used to signal that the driver will change lanes or make a turn. They turn ON when the driver initiates a turn using the left indicator stalk.
+
+Reverse Lights
+
+The Reverse Lights turn ON when the Ignition is ON and Reverse (R) is selected.
+
+Licence Plate Lights
+
+The Licence Plate Light allows the licence plate to be visible in dark conditions. The Licence Plate Lights are activated when the headlights or parking lights are ON.
+
+Rear Refl ectors
+
+Rear Refl ectors are used to refl ect light and assist with vehicle visibility at night.
+
+# nline Rectangle
+
+# CAUTION
+
+Do not use a dry cloth or sponges to clean headlights or tail lights, as they could scratch or damage the lens surface.
+
+# nline Rectangle
+
+# NOTE
+
+In cool or damp weather, the inside of the headlights, turn signals, and tail lights may develop condensation. This will clear shortly after switching the lights ON and will not impact the service life of the lights.
+
+# Daytime Running Lights
+
+The Daytime Running Lights (DRL) increase the vehicle’s visibility on the road. The DRLs turn ON/OFF automatically depending upon the surrounding lighting conditions.
+
+# nline Rectangle
+
+# NOTE
+
+The Daytime Running Lights are on the front of the vehicle only.
+
+![](https://vinfastowners.org/manuals/images/c73a0077660bb2e97cf7ece71c040b13a8228eca05299afbf9b0fb11f2e81eb6.jpg)
+
+# nline Rectangle
+
+# WARNING
+
+During low visibility conditions, the Daytime Running Light system may not be able to provide adequate lighting. When needed, turn ON the headlights manually (if Auto Headlights are turned OFF) during conditions of low visibility. Failure to do so may result in a crash due to poor visibility.
+
+The DRL will turn OFF when:
+
+The lighting mode is set to Position Lights ON.
+
+The indicators are active.
+
+The vehicle is turned OFF.
+
+# Decoration/Position Lights
+
+Decoration Lights
+
+nline Rectangle
+
+are used to provide a lighting feature of the vehicle and are not intended to illuminate the road ahead.
+
+nline Rectangle
+
+Decoration/Position light operation:
+
+Turn ON when the lighting mode is set to Position Lights.
+
+Turn ON when the Headlights are ON.
+
+# Follow Me Home Lighting
+
+When this feature is enabled, the exterior lights remain ON for a set amount of time after exiting the vehicle before they turn off.
+
+To activate/deactivate Follow Me Home:
+
+1. Tap App Library
+
+nline Rectangle
+
+on the Infotainment screen.
+
+2. Tap Settings
+
+nline Rectangle
+
+$>$ Lighting Settings $>$ Exterior.
+
+3. Select the time duration for which the exterior lights should stay ON after exiting the vehicle - OFF/30s/60s/90s/120s.
+
+4. To activate Follow me home feature, after tunring it ON and setting the light duration, the user needs to fl ash the high beam.
+
+
+# nline Rectangle
+
+# NOTE
+
+This feature will not automatically remain active after each vehicle restart, so the user must fl ash the high beam before exiting the vehicle to reactivate it.
+
+# Welcome Lights
+
+If available, the vehicle welcome light feature automatically turns on exterior lighting when the driver approaches or unlocks the vehicle.
+
+To activate/deactivate Welcome Lights:
+
+1. Tap App Library
+
+nline Rectangle
+
+on the touchscreen.
+
+2. Tap Settings
+
+nline Rectangle
+
+# \> Light Settings
+
+inline Rectangle
+
+# $>$ Exterior.
+
+3. Use toggle to turn off the Welcome lights or choose the vehicle unlock option.
+
+# Auto Leveling Headlights
+
+If equipped, Auto Leveling Headlights feature automatically adjusts the High and Low Beam headlight angle to ensure it is focused on the road. Auto leveling compensates for headlight angle change due to vehicle loading conditions. The adjustment takes place when the vehicle is stationary.
+
+# 6.6. Interior Lighting
+
+# Infotainment Screen Brightness
+
+Controls menu or under Lighting Settings in the Vehicle Settings menu.
+
+# Brightness Control
+
+To adjust brightness via Quick Controls:
+
+To assist in viewing during varying light conditions the vehicle’s Infotainment screen display and switches are illuminated. When the position lights or headlights are turned ON, the switches are automatically illuminated. Brightness of the Infotainment screen can be adjusted via the Quick
+
+1. Swipe down from the top on the home screen to open Quick Control.
+2. Use the Display Brightness slider to select preferred brightness.
+
+To adjust brightness via Lighting Settings:
+
+1. Tap App Library nline Rectangle on the Infotainment screen.
+
+2. Tap Settings nline Rectangle
+
+
+Lighting Settings nline Rectangle > Interior tab.
+
+1. Use the Touch Screen Brightness slider to adjust the brightness.
+
+# nline Rectangle
+
+# WARNING
+
+Do not adjust the brightness when the vehicle is in motion. Failure to comply may lead to an accident which can cause damage, serious injury, or even death.
+
+# Rear Reading Lights
+
+There are two rear Reading Lights located on the headliner trim.
+
+nline Rectangle
+
+To activate/deactivate Rear Reading Lights:
+
+Press the reading light
+
+nline Rectangle
+
+button to turn it ON/OFF.
+
+OR
+
+Rear Reading Lights also turn ON when the doors are opened and the Vehicle Dome Lamp setting is set to AUTO. See $>$ Drive Systems $>$ Roof Lights.
+
+![](https://vinfastowners.org/manuals/images/8462d4fb7e2ea287a77c602968a070045c1d165aa0f2ac695b7c949f127f79b8.jpg)
+
+# nline Rectangle
+
+# WARNING
+
+Do not use the Reading Lights while driving in the dark. The Reading Lights may obscure the driver’s vision and lead to an accident.
+
+# Front Roof Lights
+
+The Front Roof Lights are located on the roof and can be illuminated in two modes:
+
+1. Vehicle Dome Light
+2. Front Reading Lights
+
+nline Rectangle
+
+# Vehicle Dome Light
+
+The vehicle dome light combines both the front and rear reading lights to illuminate the entire cabin. The dome light feature is operated via the Infotainment screen and has two operating modes:
+
+AUTO - all reading lights will illuminate when any door is open.
+
+MANUAL (ON/OFF) - all reading lights will illuminate when activated via the Infotainment screen controls.
+
+To activate/deactivate Vehicle Dome Light:
+
+1. Tap App Library
+
+nline Rectangle
+
+on the Infotainment screen.
+
+2. Tap Settings
+
+nline Rectangle
+
+$>$ Lighting Settings
+
+nline Rectangle
+
+$>$ Interior tab.
+
+3. Toggle Dome Light OFF/ON/Auto.
+
+nline Rectangle
+
+# NOTE
+
+In the event of an accident where the Airbags have deployed, the dome lights will turn ON automatically.
+
+Do not use the interior lights for extended period of time when the vehicle is turned OFF otherwise the 12V battery will discharge.
+
+# nline Rectangle
+
+# WARNING
+
+Do not use the interior lights while driving in the dark. The interior lights may affect the driver’s view and may cause an accident.
+
+# Front Reading Lights
+
+Front Reading Lights for driver and passenger can be turned ON separately.
+
+To activate/deactivate Front Reading Lights: 1. Press the light itself once to turn the light ON. 2. Press the light again to turn OFF.
+
+# Cargo Light
+
+The cargo light is located in the rear luggage compartment area and provides a source of light while loading and unloading items in the cargo area.
+
+To activate/deactivate the Cargo Light
+
+The light is automatically turned ON when the liftgate is opened and is turned OFF when the liftgate is closed.
+
+nline Rectangle
+
+nline Rectangle
+
+# CAUTION
+
+To avoid breaking the cargo light, care must be taken when loading and unloading items in the rear luggage compartment.
+
+# Battery Power Protection
+
+Battery Power Protection prevents unnecessary battery drain by ensuring that the Lights, Infotainment System, or other electrical systems are not left ON for an extended period of time. The systems will remain ON for a maximum time of 10 minutes (even if the driver remains in vehicle).
+
+# 6.7. Wipers and Washers
+
+# Front Wipers
+
+The Front Wipers are used to remove rain, snow, dirt, and debris from the vehicle’s front windshield. The wipers operate across the front windshield to give the driver better visibility.
+
+# Wiper Controls
+
+The front wiper control stalk is located behind the steering wheel on the right hand side. To use the front wiper, move the stalk Up or Down to one of the operating positions.
+
+nline Rectangle
+
+nline Rectangle
+
+Central Position
+
+nline Rectangle
+
+End Press (Auto ON/OFF)
+
+nline Rectangle
+
+- When wipers are set to Auto and water is detected on the windshield, the wipers will automatically wipe the
+
+front windshield. The frequency of the wipers can be adjusted by rotating the thumb wheel.
+
+Up 1
+
+nline Rectangle
+
+– Wiper ON Speed 1 (Low Speed)
+
+Up 2
+
+nline Rectangle
+
+– Wiper ON Speed 2 (High Speed)
+
+Down – Pushing the wiper stalk downwards
+
+nline Rectangle
+
+, will initiate the windshield wiper to wipe once.
+
+Continuous speed 2 if held.
+
+Thumb Wheel
+
+nline Rectangle
+
+– sensitivity adjustment of Auto mode and speed adjustment of Low Speed.
+
+To spray windshield washer fl uid, pull the lever toward you
+
+nline Rectangle
+
+. The windshield wipers will automatically turn on at low speed.
+
+nline Rectangle
+
+# NOTE
+
+Check the washer fl uid level regularly.
+
+To prevent icing on the windshield during the colder months, turn on the defroster to heat the windshield before and during washer use.
+
+# nline Rectangle
+
+# CAUTION
+
+When washing the vehicle, set the wiper stalk in the Auto OFF position to stop the auto wiper operation. The wiper may operate and get damaged if the switch is set in the Auto mode.
+
+In freezing or very hot conditions ensure that the wipers have not stuck to the windscreen before operating. The drag on the wiper mechanism may cause damage.
+
+To prevent possible damage to the washer pump, do not operate the windshield washer when the fl uid reservoir is empty.
+
+To prevent possible damage to the wipers or windshield, do not operate the wipers when the windshield is dry,
+
+Do not attempt to move the wipers manually, it may damage the wiper arms and other components.
+
+Ensure that AUTO is not selected when entering a car wash or damage to the wiper blades or arms can occur as they will operate in the car wash.
+
+If the wiper blades become stuck or jammed, an electronic cut-out may temporarily stop the wipers. If this happens, switch OF the wipers and the vehicle. Clear any obstructions and free the wiper blades, before attempting to switch ON the vehicle.
+
+During frosty conditions ensure that AUTO is not selected before operating the Ignition system as damage to the wiper blades can occur when the windscreen is frozen.
+
+To help prevent damage to the windshield wiper and washer system components, do not continue to hold in the wiper stalk when there is no washer fl uid being sprayed otherwise the washer pump can get damaged.
+
+Clear ice or packed snow from the wiper blades before using the wipers to avoid the damage.
+
+Always use VinFast-approved washer fl uid in the washer reservoir. Failure to follow this instruction may severely impact visibility when washer fl uid is sprayed on the windshield, and might damage the windshield.
+
+# Rear Wiper
+
+The Rear Wiper is used to remove rain, snow, dirt, and debris from the vehicle’s Rear Windshield for better visibility for the driver.
+
+# Rear Wiper Controls
+
+The Rear Wiper is operated by twisting the Rear Wiper Switch which is present at the end of the right stalk.
+
+nline Rectangle
+
+![](https://vinfastowners.org/manuals/images/682e9fc338ce89c3d8ef7a4b4aefb4775df103a57e2b87eacef0a0850dc40f2b.jpg)
+
+nline Rectangle
+
+# CAUTION
+
+Before using the Rear Wiper, clear any ice or snow from the Rear Window otherwise it may prevent Wiper Blade operating effectively. It may also cause damage to the Wiper Motor.
+
+Do not operate the Windscreen Wipers on a dry screen. The drag on the Wiper mechanism may cause damage.
+
+During frosty conditions ensure that AUTO is not selected before operating the ignition system as damage to the Wiper Blades can occur when the Windscreen is frozen.
+
+If the Wiper Blades become stuck or jammed, an electronic cut-out may temporarily stop the Wipers. If this happens, switch OFF the Wipers and the vehicle. Clear any obstructions and free the Wiper Blades, before attempting to switch ON the vehicle.
+
+Ensure that AUTO is not selected when entering a car wash or damage to the Wiper Blades or arms can occur as they will operate in the car wash.
+
+In freezing or very hot conditions ensure that the Wipers have not stuck to the Windscreen before operating. The drag on the Wiper mechanism may cause damage.
+
+Always use VinFast approved Washer fl uid in the Washer reservoir. Failure to follow this instruction may severely impact visibility when Washer fl uid is sprayed on the Windshield, and may damage the Windshield.
+
+# 6.8. Braking and Stopping
+
+# Traction Control System
+
+The Traction Control System (TCS) is an active safety feature which helps to limit the wheel slip and assist the driver in maintaining the control of the vehicle, especially in slippery road conditions. TCS monitors the speed of each individual wheel, and if slip is detected between the tire and the road surface, it applies brake pressure to that slipping wheel in order to maximize traction. It is recommended that TCS is ON at all times for maximum safety.
+
+The TCS light
+
+![](https://vinfastowners.org/manuals/images/8149540165da8f06750fea70d6c8a2f073ad40750101fa29ebb78097452551f0.jpg)
+
+will temporarily fl ash ON the Car Control Area section of the Infotainment screen when the TCS system is actively
+
+applying brakes. When a malfunction is detected the TCS light
+
+![](https://vinfastowners.org/manuals/images/0b725fd92ba2b1eaa378510f667e7554000e4f295cb099961ee795582147fba7.jpg)
+
+will remain ON. In this case, contact a VinFast Service Center to have your vehicle inspected.
+
+The Traction Control System default setting is ON.
+
+![](https://vinfastowners.org/manuals/images/cd0346f65fcf52d05359223c35ddd66edc65e7cd3ce589478fa0bf6fed3ac8e4.jpg)
+
+# NOTE
+
+If the vehicle is stuck while driving on snow, mud, or sand covered surfaces, or if you are using snow chains, turning TCS OFF may improve forward movement. However, it is recommended to turn ON the TCS as soon as the vehicle is mobile again.
+
+# Traction Mode
+
+wheel slip to assist the vehicle move past the immediate area of low traction.
+
+If it is diffi cult to manoeuvre the vehicle on snow, mud or other loose surfaces due to loss of traction,Traction Mode may be used temporarily. Traction Mode allows additional
+
+When Traction Mode is enabled Electronic Stability Control (ESC) will remain ON.
+
+To enable/disable Traction Mode:
+
+1. Tap Car Mode
+
+# CAR MODE
+
+on the touchscreen.
+
+2. Tap the three-dot icon.
+
+3. Scroll down to fi nd Traction Control System (TCS).
+
+4. Tap Traction Mode to activate it.
+
+
+![](https://vinfastowners.org/manuals/images/6ec97f87291f352d6683f70db59794127443b91092193455157ab78967037878.jpg)
+
+NOTE
+
+TCS will be disabled when ESC is turned OFF.
+
+TCS will default to ON every time the vehicle is turned ON
+
+# WARNING
+
+Traction Control System does not compensate or prevent accidents caused by dangerous driving or high speed manoeuvres.
+
+# Anti-Lock Braking System
+
+The Anti-Lock Braking System (ABS) is a safety system which helps to prevent braking skid. ABS monitors the speed of each wheel and adjusts braking pressure accordingly so that the wheels do not lock up. This helps to maintain steering control during a hard braking event, improving drivability on varied road surface conditions and may also reduce braking distance.
+
+![](https://vinfastowners.org/manuals/images/82aad40ae4f846e37af9deb16b1d0e69406cdc06e93a6cd6dd84bc3162f5ce5d.jpg)
+
+NOTE
+
+The ABS and Brake indicator light briefl y illuminates when you initially start the vehicle.
+
+A pulsating sensation is felt through the brake pedals when ABS is operating, this is a part of normal operation of the system.
+
+![](https://vinfastowners.org/manuals/images/faf7601b95a81e1b4d0dba8f23d984878c8ffb39dff915257ad382e0233be4b3.jpg)
+
+# CAUTION
+
+Maintaining a strong and steady pressure on the brake pedal during an emergency braking situation is of utmost importance. Pumping or removing the foot from the brake pedal can lead to increased braking distance.
+
+ABS performance is impacted by snow, ice, roads covered with dirt or gravel. Drive carefully. Always keep enough room ahead to stop the vehicle.
+
+![](https://vinfastowners.org/manuals/images/7d9623728843226e4c7c62733f3aaded979924010eadeb7feb82dbc6d36b4578.jpg)
+
+# WARNING
+
+The ABS warning light
+
+![](https://vinfastowners.org/manuals/images/cc26028b6786eb7518c4c159295edd56bd921a6739cb9dde920d37461960bab2.jpg)
+
+and Brake warning light
+
+![](https://vinfastowners.org/manuals/images/ef952ad1974afd700a6a26c3a0cf5081471ca2ed4712f29dc57dd5765c8b3ae6.jpg)
+
+briefl y illuminate when the vehicle is started. If the lights do not illuminate, get it checked and repaired, so that they will be ready to warn, if there is any problem. If the lights stay on or come on while driving, stop the vehicle as soon as possible and do not drive further.
+
+ABS does not compensate or prevent accidents caused by dangerous driving or high speed turning manoeuvres.
+
+# Electronic Brake Distribution
+
+Electronic Brake Distribution (EBD) optimizes the braking performance of the vehicle under different operating conditions. It electronically adjusts the brake bias in between the wheels (front and rear) based on road conditions, vehicle load, speed, traction, etc.
+
+# A
+
+# WARNING
+
+EBD system does not compensate or prevent accidents caused by dangerous driving or high speed manoeuvres.
+
+# Electronic Stability Control
+
+The Electronic Stability Control System (ESC) helps to stabilize the vehicle during cornering and braking events if traction between the road surface and tires is reduced. ESC monitors individual wheel speed and driver steering angle and applies brake pressure to individual wheels to prevent vehicle understeer and oversteer, and aids the driver to keep the vehicle on it’s intended path.
+
+The ESC light
+
+![](https://vinfastowners.org/manuals/images/f6600ac12769bbbb3f6c00f76823487a56018b71961631575531b478179b897e.jpg)
+
+will temporarily fl ash on the Car Control Area area of the Infotainment screen when the ESC system is actively applying brakes. In case of a malfunction, the ESC light remains ON. Contact a VinFast Service Center for necessary vehicle inspection and repair.
+
+To enable/disable ESC:
+
+1. Tap Car Mode on the touchscreen.
+
+![](https://vinfastowners.org/manuals/images/a498e834b8f198ebcda46a21e96530e73befd26b9781db3906755975ce32dc6f.jpg)
+
+2. Tap the three-dot icon.
+
+3. Scroll down to fi nd Electronic Stability Control (ESC).
+
+4. Change ESC setting to OFF/ON using toggle button.
+
+
+![](https://vinfastowners.org/manuals/images/92e438b033ee6c561d6c305f1c530b42858d7fc1aedf80addd55c2bcf7555cf4.jpg)
+
+# NOTE
+
+ESC turns ON automatically, every time the vehicle is turned ON.
+
+Turning OFF ESC does not disable ABS or the braking system of the vehicle.
+
+When ESC changes from OFF to ON, it will reactivate TCS.
+
+# CAUTION
+
+ESC should be kept ON at all times to maximize safety of the vehicle and its passengers.
+
+![](https://vinfastowners.org/manuals/images/f4c8a8cd514030b496bcdeac5aa8c5ebcfd0021d0d37b41afa7ef54952c8095d.jpg)
+
+# WARNING
+
+Do not completely rely on Electronic Stability Control as it does not compensate or prevent accidents caused by dangerous driving or high speed turning manoeuvres.
+
+Maintain a strong and steady pressure on the brake pedal during an emergency braking situation. Do not remove your foot from the brake pedal or pump the brake pedal, as doing so can increase the braking distance, and can cause an accident.
+
+# Hill Start Assist
+
+Hill Start Assist (HSA) temporarily prevents the vehicle from unintended roll back when positioned on a hill or incline. The system remains activated for a period of approximately 2-seconds after the driver releases the brake pedal. HSA works by temporarily holding brake pressure, after the brake pedal is released by the driver.
+
+# CAUTION
+
+HSA remains active only for a period of approximately 2-seconds after releasing the brake pedal.
+
+![](https://vinfastowners.org/manuals/images/953e142db00286054ee86dc71080846592537afdca83ccff661bb9f1e7dabc3c.jpg)
+
+# WARNING
+
+Do not rely on HSA completely. It does not replace human input and intuition in any way or form.
+
+Always be aware of the surroundings and drive safely.
+
+A heavily loaded vehicle may cause the vehicle to roll backwards slightly.
+
+# Brake Assist System
+
+The Brake Assist System (BAS) detects sudden and rapid brake pedal application due to emergency braking situations and provides additional brake pressure to assist in minimizing vehicle stopping distance. BAS assists the vehicle braking system to engage ABS, as fast as possible, in case of emergency braking, and disengage ABS upon release of brake pedal.
+
+# WARNING
+
+Do not completely rely on Brake Assist System as it does not compensate or prevent accidents caused by dangerous driving or high speed turning manoeuvres.
+
+# Rollover Mitigation
+
+Rollover Mitigation anticipates a potential wheel lift by monitoring the steering wheel angle, vehicle speed, and acceleration. Rollover Mitigation analyses the rate of change of steering wheel angle and the vehicle speed to determine the possibility of a vehicle rollover. The system reduces the possibility of a rollover by applying appropriate brake pressure to individual wheels.
+
+Rollover Mitigation cannot prevent a wheel lift caused by the following factors:
+
+Road conditions
+
+Rough terrains
+
+Collision with other vehicles or objects.
+
+![](https://vinfastowners.org/manuals/images/9828b6bc634792b11b01b2caf3e6bc1ffd55d7bb2d2891c8660f8cf979d2322b.jpg)
+
+# NOTE
+
+The curtain airbag remains or will be infl ated in the event of a side impact or a rollover accident.
+
+When infl ated, the curtain airbag is designed to cover the side windows, reducing the possibility of a passenger being ejected from the vehicle in the event of an accident.
+
+# WARNING
+
+Factors, such as road conditions, driving conditions, and vehicle loading may infl uence the chances of wheel lift or rollover.
+
+Do not completely rely on Rollover Mitigation to prevent a wheel lift or a rollover in every situation.
+
+Rollover Mitigation is a safety feature. It should not be exploited by driving the vehicle recklessly and causing danger to the passengers and others in the vicinity of the vehicle.
+
+# Regenerative Braking
+
+The vehicle is equipped with a Regenerative Braking System. The system converts kinetic energy usually released as heat during a braking event into electrical energy. The recovered energy can then be used to replenish the HV battery, leading to increased vehicle range.
+
+The system gets activated as soon as the accelerator pedal is released. It will gradually slow the vehicle down and start recharging the HV battery.
+
+![](https://vinfastowners.org/manuals/images/dae7a94faeb5a979550c102a52ea006d1e6218258b1eac201068ed9a51b00715.jpg)
+
+The energy recovery can be monitored from Power and Regen Gauge on the Infotainment screen just below the Drive Mode icon on the status bar.
+
+![](https://vinfastowners.org/manuals/images/d1f2d0aee207d74a7bd136106175abaaed5b007d4038bc9833edbd86cabf1403.jpg)
+
+![](https://vinfastowners.org/manuals/images/05f31d01f7ae03332df3404ca225af7253bdff9d5efb30ad8e7cf9e6c2ade89c.jpg)
+
+# NOTE
+
+The amount of Regenerative Braking may be reduced when the vehicle is fully charged or when the battery is very cold or very hot.
+
+# Adjust amount of Regenerative Braking
+
+Driving Style can be accessed using Car Mode
+
+settings from Car Control Area. It provides the option to select the level of regenerative energy generated and used to recharge the vehicle’s battery.
+
+![](https://vinfastowners.org/manuals/images/5c520aaa5357fef9d2de4735fcd0d326370adaf177468b2696c75ce599d20cbe.jpg)
+
+The vehicle provides levels of regenerative braking to choose from (i.e. OFF (if available), Low, Medium and High). The levels can be switched using the toggle button under Regenerative Braking.
+
+# CAUTION
+
+Do not consider Regenerative braking as a primary form of vehicle charging, it is a supplementary feature.
+
+Follow proper charging instructions when charging the vehicle.
+
+# Emergency Signal System
+
+The Emergency Signal System (ESS) temporarily activates the hazard lights when the vehicle detects an emergency braking situation. Rapid fl ashing of the hazard lights helps warn nearby vehicles of a rapidly slowing vehicle and alerts them to maintain a safe distance to avoid collision.
+
+The hazard lights stops fl ashing once the emergency braking event ends. If the hazard lights continue to fl ash, contact the nearest VinFast Service Center.
+
+For information on Hazard Warning Flashers, see $>$ Exterior Lighting > Hazard Warning Flashers.
+
+# Auto Vehicle Hold (if available)
+
+Auto Vehicle Hold (AVH) helps keep the vehicle stationary without needing to continuously press the brake pedal, such as when stopped at a red light or in traffi c jams. When AVH is activated, after you press the brake pedal to bring the vehicle to a complete stop, the system will automatically hold the brakes even if you release the brake pedal. To continue moving, simply press the accelerator, and the system will automatically release the brakes.
+
+When the vehicle is in the AVH active state, to ensure safety and achieve optimal system performance, the system will automatically engage the electronic parking brake (EPB) in certain situations, such as:
+
+Turning off the AVH function via the infotainment screen without pressing the brake pedal. When the driver’s door is opened.
+
+Auto Hold active more than 5 minutes. When the vehicle is stopped on a slope greater than $25 %$ .
+
+The system detects that the vehicle is rolling.
+
+The driver shifts to Park (P) gear.
+
+# How to Activate/Deactivate Auto Vehicle Hold:
+
+To activate the AVH feature:
+
+Press the Car Mode
+
+![](https://vinfastowners.org/manuals/images/b5fcf493d7405bd01a66a50c66079ca03bfc41ef869b9e18551dcaddbfe109f6.jpg)
+
+button on the infotainment screen.
+
+Tap the three-dot icon.
+
+Scroll to Auto Hold, press switch ON to activate the Auto Hold function.
+
+To deactivate AVH feature:
+
+Scroll to Auto Hold, press switch OFF on the infotainment screen.
+
+The Auto Hold indicator light will turn off when the function is disabled.
+
+When Auto Hold is in the Active state, if the user turns off the feature without pressing the brake pedal, system will automatically engage the electronic parking brake (EPB).
+
+# Recognize the status on the infotainment sreen
+
+|     |     |     |
+| --- | --- | --- |
+| CONDITION | LAMP |
+| SYMBOL | DESCRIPTION |
+| AVH OFF |  | \[OFF\]: AUTO HOLD off. |
+| AVH Ready | AUTOHOLD | \[White\]: when Auto Hold feature is enabled viainfotainment screen and Auto Hold is in READYstate. |
+| AVH Active | AUTOHOLD | \[Green\]: The green icon indicates that the AutoHold feature is enabled and in the active state. Atthis point, the driver can release the brake pedal.Auto Hold transitions to the Active state when thevehicle is stopped, the brake pedal is firmlypressed, and the feature is activated via thescreen. |
+| AVH Failure | AUTOHOLD | \[Yellow\]: When the Auto Hold featuremalfunctions. |
+
+# NOTE
+
+Auto Hold only operates in Drive (D), Reverse (R), and Neutral (N) gears (in cases where shifting from Drive or Reverse to Neutral). It does not work in the Park (P) gear.
+
+If the user enables both Creep Mode and Auto Hold simultaneously, Creep Mode will not activate while Auto Hold is in the active state. The user can disable Auto Hold if necessary.
+
+When ACC Stop and Go mode is activated, the system prioritizes ACC control, ensuring no confl icts occur with the Auto Hold feature.
+
+When the user stops the vehicle on a slope, presses the brake to keep the vehicle stationary, and activates the Auto Hold feature, the indicator will turn green immediately.
+
+![](https://vinfastowners.org/manuals/images/9875c3bc2265bad09b0ac8131cf75676b9a1f225917ee08b65773518739a1eb5.jpg)
+
+# WARNING
+
+Check the warning lights on the control panel. If any symbols related to brakes or Auto Hold appear, stop using the feature and inspect the vehicle.
+
+Perform regular maintenance and ensure the sensors and braking system are checked frequently.
+
+Always use the handbrake or electronic parking brake (EPB) and turn off the engine when leaving the vehicle.
+
+Ensure that the Auto Hold indicator light turns green before you releasing the brake pedal.
+
+# 6.9. Economy & Environment
+
+Economical driving can help to improve energy effi ciency, road safety, and prevent abnormal wear of vehicle.
+
+Refer to the following recommendations for economical driving:
+
+Avoid harsh braking: The Regenerative Braking System is a key enabler of economic driving. The system converts some of the vehicle’s kinetic energy into electrical energy which is then used to recharge the vehicle’s batteries and extend the driving range of the vehicle. Taking advantage of Regenerative Braking by reducing friction on the brakes will signifi cantly improve the driver’s ability to drive economically and to avoid harsh acceleration and braking. See $>$ Braking and Stopping $\\geq$ Regenerative Braking.
+
+Maintain an effi cient speed: High speed driving increases energy consumption, discharging the battery faster, and therefore reducing the vehicle’s driving range.
+
+Reconsider use of heating and air conditioning: The vehicle’s Heating, Lighting, Climate Control, Audio, and Infotainment systems consume energy from the vehicle’s battery system and will therefore reduce the vehicle’s driving range. Whenever it is safe and convenient to do so reduce the usage of these systems to drive economically.
+
+Tire pressure: Always keep the tire infl ation pressure at the recommended level to reduce unnecessary rolling resistance that decreases effi ciency of the battery. See $>$ Wheel and Tires > Tire Pressure.
+
+Battery management: To improve the health and life of the battery keep the vehicle in a well-maintained condition. Better battery health will improve the driving range.
+
+Minimize the use of DC Fast Chargers, particularly Super-Fast Chargers, to improve the Battery life. Do not allow the battery charge to drop to a very low level.
+
+Remove unnecessary weight: Energy consumption can be reduced by removing excessive or unnecessary weight, when not in use and it is convenient to do so, improve vehicle driving range by removing items such as unused child seats, disposable, and personal items, roof carriers etc.
+
+Maintain distance: Maintain an adequate distance from other vehicles to avoid emergency braking.
+
+Wheel alignment: Have the wheel alignment checked as recommended in the maintenance schedule. Incorrect wheel alignment can lead to increased tire wear and power consumption.
+
+Windows: It is always recommended to drive with all the windows closed if possible.
+
+# Driving Statistics
+
+Driving Statistics displays the history of the average battery consumption, distance traveled, and power consumption of the vehicle over a selected period of time. This data is also available in the VinFast App.
+
+0
+
+# NOTE
+
+This menu is only shown when fi tted (for the markets that has internet connection).
+
+To open Driving Statistics:
+
+nline Rectangle
+
+1. Tap Profi le Name on the status bar.
+
+nline Rectangle
+
+inline Rectangle
+
+will be displayed on the screen.
+
+# Time Ranges
+
+nline Rectangle
+
+icon.
+
+2. Select the Time Duration or customize the Date Range as required.
+
+3. Tap My Profi le $>$ Driving Statistics
+
+4. Driving Statistics Graph
+
+
+The driver can see the statistics by selecting time ranges or by customizing the time range.
+
+To select time ranges:
+
+1. Tap Expand
+
+2. Tap Apply to apply the Time Duration for Custom range.
+
+3. Statistics will be shown for the selected Time Duration.
+
+
+To select the view:
+
+The driver can select from the following different views for statistics:
+
+Distance
+
+Avg. Consumption
+
+Power
+
+To change the view, select the desired view from toggle button.
+
+To Zoom In/Out:
+
+To zoom in, drag two fi ngers over the Infotainment screen.
+
+To zoom out, pinch two fi ngers on the Infotainment screen.
+
+To view next/back page:
+
+Viewing next and back page depends on time range selected.
+
+Swipe right to left to view the next page.
+
+Swipe left to right to go back to previous page.
+
+# Trip History
+
+If available, Trip History displays a list of recent vehicle journeys. Tap on any recent trip in the list to view the following information:
+
+Start Location Destination Stopping Locations Departure Time • Date Trip Distance
+
+nline Rectangle
+
+# NOTE
+
+This menu is only shown when fi tted (for the markets that has internet connection).
+
+To view Trip History:
+
+nline Rectangle
+
+1. Tap Profi le Name on the status bar.
+
+2. Tap My Profi le $>$ Trip History
+
+
+![](https://vinfastowners.org/manuals/images/ba65b2124077890918d80dc20b1c051eedd486ce267068eb18e7541107496ba6.jpg)
+
+3. Tap Trip Card to open trip details.
+
+To delete a Trip History:
+
+1. Tap Delete
+
+icon on the top right corner of the trip detail page.
+
+# 6.10. Flood Precautions
+
+# Flood Precautions
+
+It is not recommended to drive in fl ooded roads or areas.
+
+![](https://vinfastowners.org/manuals/images/5e98f055e5a0ad0e082488151de022d1157f5b70ebe4e661d8d7d2a9826cd594.jpg)
+
+If it is mandatory to drive through a fl ooded area, to prevent the vehicle from being damaged, it is necessary to pay attention to the following precautions:
+
+1. Check water depth before driving through water. The water level should not exceed the vehicle’s ground
+
+clearance.
+
+2. Drive at a low speed (less than $1 0 \\mathsf { k m / h }$ ). Otherwise, waves may form in front of the vehicle, damage the motor controller and other components, and make the vehicle unable to drive.
+
+3. Do not park or reverse in water under any conditions.
+
+
+# WARNING
+
+Apply the brakes several times to restore braking function after driving through water.
+
+The presence of water, mud, or silt in the braking system can reduce braking effi ciency and increase stopping distances. Drive carefully, maintain a safe following distance, and avoid sudden braking.
+
+Driving through deep water can damage your electrical motor. This damage is not covered by the warranty.
+
+Other systems like transmission, driving and electrical may also be seriously damaged upon submersion. This damage is not covered by the warranty.
+
+# Consequences of waterlogging on high-voltage parts
+
+If your vehicle is submerged in water or if you drive through water that reaches or exceeds the doorsill, water may enter the high-voltage system, this can pose serious safety risks. Servicing fl ood-damaged vehicles by unauthorized workshop cannot guarantee, please contact VinFast for support and bring vehicle immediately to VinFast authorized dealers for checking and repair if vehicle is fl ooded.
+
+# 7\. Displays, Connections and Climate
+
+# 7.1. Infotainment Screen
+
+# Infotainment screen Overview
+
+The vehicle Infotainment screen allows control of many vehicle features and functions that traditionally would be provided by physical buttons and switches. The Infotainment screen also replaces a traditional instrument cluster to
+
+status, warning and indicators and Advanced Driver Aid messages.
+
+Images and features in this chapter are for illustration purposes only and may vary depending on vehicle variant and selected software.
+
+# Front Infotainment screen Layout
+
+![](https://vinfastowners.org/manuals/images/6d633eb38a4c5fe7d478f46bb62c74be8ff7983a289b4e2b76e70292f49a48a2.jpg)
+
+|     |     |     |
+| --- | --- | --- |
+|  | Car Control Area | Displays vehicle status and driving related messages including vehicle speed andwarnings.Provides controls for headlights, mirrors, steering wheel port, vehicle acces... |
+| 2 | Infotainment Area | Display detailed content and entertainment informationProvides access to climate control functions. |
+| 3 | Quick Control | Provides quick controls for some function |
+| X | Ergonomic controls | Provides controls for mirrors, steering wheel, and HUD. |
+| 5 | Lighting controls | Provides controls for headlights |
+| 6 | Car modes & Regen levels | Provide access to change drive mode |
+|  | Home button | Back to home page |
+| 8 | App Library | Display the available Apps |
+| nlineRectangl | Climate Controls | Provides access to climate control functions. |
+| inlineReectangli | Status Bar | Displays key inforation related to connectivity and user profiles. |
+
+Status Bar
+
+Displays information related to the Apps and notifi cations on the top portion of the Infotainment screen homepage. It may provide quick access to the following:
+
+|     |     |     |
+| --- | --- | --- |
+| nlieRectangle | Connection type | Indicates the status of vehicle's eSIM connection. |
+| nlineRectangle | VinFast Logo | To activate Voice Assistant.See > Infotainment > Voice Assistant |
+| nlineRectangle | Sharing data to cloud | Indicates data is being shared to the cloud. |
+| nlineRectangle | Sharing GPS to cloud | Indicates GPS info is being shared to the cloud. |
+| nlineRectanglenineRectangle | Chime Mode status | Indicates Chime mode is mute/reduced. |
+| nlineRectangle | Wireless Charging | Indicates if a device is charging on wireless charging Pad.See > Phone & Projection > Wireless charger |
+| nlineRectangle | Time | To access Date & Time Settings.See > Settings > General Settings |
+| nlineRectangle | Active Profile | To access rofile Settings r rofile selection enuSee >Infotainment screen > User Profiles |
+| nlineRectangle | Connected device name | To access Device Connect settings or connected devices drop down menu.See > Settings > Device Connect |
+| nlineRectangle | Downloading status | To access Firmware update page.See &gt; Connected Services > Remote Software Update |
+| nlineRectangle | Battery | Shows Battery level and Distance to Empty.See >Battery Information > EV Battery App |
+| nlineRectangle | Drive Mode | Shows current Drive Mode.See > Driving Systems > Drive Mode |
+| nlineRectanglenlineRectangle | Passenger Airbag Status | Indicates passenger Airbag Status.See >Airbags > Operation and Occupant Dettion |
+| nlineRectangle | ODO Meter | Indicates current ODO reading.See > Economy & Environment > Trip History |
+
+# Apps
+
+# nline Rectangle
+
+To Launch an App:
+
+1. Tap App icon on the Home page to open it.
+
+# App Library
+
+nline Rectangle
+
+2. All available apps will be displayed.
+
+nline Rectangle
+
+icon.
+
+2. Enter keywords in the Search fi eld.
+
+# Widgets
+
+This feature permanently displays essential information from apps directly to the Homepage.
+
+To add a new Widget:
+
+1. To add a widget to the home screen, tap Add or Edit Widget.
+
+nline Rectangle
+
+# NOTE
+
+Apps are located on the bottom right corner of the homepage. To view all the apps, tap on App library
+
+The App library shows all the apps available on the infotainment system.
+
+To open App Library:
+
+1. Tap App Library
+
+To search for an app:
+
+1. To Search for an app on the app drawer, tap Search
+
+2. Select, pick up, and arrange the available widgets in the desired order.
+
+
+To delete Widgets:
+
+1. To add a widget to the home screen, tap Add or Edit Widget. 2. To remove a widget, pick up the widget from the home screen and drop it into the trash bin.
+
+Editing the Homepage feature is not accessible while driving.
+
+# Infotainment screen Use
+
+Use the Infotainment screen to control vehicle, Infotainment, and Climate Control settings.
+
+It is recommended that users familiarize themselves with all Infotainment screen-related content presented in the Owner’s Manual. This will enable the driver to focus their attention on driving, while experiencing the best performance and features offered by the system.
+
+# nline Rectangle
+
+# WARNING
+
+Do not use the Infotainment screen frequently and avoid reading any texts while driving. Extended focus on the Infotainment screen may lead to an accident, and can cause serious injuries or death.
+
+![](https://vinfastowners.org/manuals/images/3db2990dca5b5a5c5ac61e2454b09e243e373b1c4d3ed4d4015a99f20654279f.jpg)
+
+# nline Rectangle
+
+# CAUTION
+
+Use high quality microfi ber cloth to clean the Infotainment screen display. Do not use any abrasive material or cleaning solutions on Infotainment screen display as it can cause permanent damage.
+
+# Infotainment screen display operation
+
+Selecting a function:
+
+nline Rectangle
+
+1. Tap any function to select it.
+
+2. Example: Tap on any app, to open.
+
+
+Zooming In/Out
+
+nline Rectangle
+
+To zoom into maps, put your fi nger and thumb on the Infotainment screen and spread them apart.
+
+2. To zoom out, put your fi nger and thumb on the Infotainment screen and pinch them together.
+
+Browsing Lists and Panning
+
+Browsing Lists:
+
+nline Rectangle
+
+1. To scroll down the browsing lists, drag from bottom to top.
+
+2. To scroll up the browsing lists, drag from top to bottom.
+
+
+Panning:
+
+nline Rectangle
+
+This allows your to change the view to another location by dragging on the screen, without changing its magnifi cation.
+
+View another location on a map or a zoomed in image without changing its magnifi cation by using the panning function.
+
+# Notifi cation
+
+Notifi cations from an application are shown in the form of a popup on the Infotainment screen. Tapping on a notifi cation launches the associated app. If untouched, the notifi cation automatically gets dismissed.
+
+# Notifi cation Types
+
+There are fi ve different types of notifi cations:
+
+|     |     |
+| --- | --- |
+| Notification | Description |
+| Volume Indicator | Indicates volume level of all programs, including Media, Voice Assistance, Parking, and Phone in thevehicle(includes Mute and Minimum variations). |
+| Banner | Provides information of an in-progress event. (Options may be provided related to the event). |
+| ADAS Prompts | Drive Assist related messages/notifications with recommended actions.(may also provide instructions directly related to current driving conditions). |
+| Dialog | Messages notiy of a task and may contain critical information or seek confirmation ordirection from theuser. |
+| Warnings andAlerts | Provides information of a vehicle related issue to the user.They are shown in Car Control Area and can be reviewed at any time via the vehicle alerts page. Vehiclewarnings will be colored depending on importance). |
+
+# Notifi cation Center
+
+This feature provides a list of all non-critical vehicle messages or status indicators.
+
+# nline Rectangle
+
+NOTE
+
+For a list of all active critical vehicle warnings. See $>$ Vehicle Alerts.
+
+To open Notifi cation Center:
+
+1. Slide down from the top status bar of Infotainment screen.
+2. Notifi cation Center window will open directly.
+3. Tap on any notifi cation from the list to view the details.
+
+To clear notifi cations in Notifi cation Center:
+
+1. To clear all notifi cations, tap Clear All.
+2. Swipe left to right on any notifi cation to remove it from the list.
+
+To close Notifi cation Center:
+
+Scroll up from the bottom of the Infotainment screen to Close the Notifi cation Center.
+
+# nline Rectangle
+
+# NOTE
+
+Notifi cation center cannot be accessed while driving or when valet or guest profi le mode is activated.
+
+# nline Rectangle
+
+# WARNING
+
+Do not read detailed information or perform other tasks on Infotainment screen while driving. It can cause distraction, leading to a vehicle collision, injury, or death.
+
+# User Profi les
+
+Using this feature you can create a profi le unique to your likes and preferences. The vehicle will automatically recall the saved settings when the appropriate profi le is selected.
+
+Primary profi le of the vehicle is linked with a VinFast account. The account must be created on the cloud and approved by the owner before binding to the vehicle.
+
+Secondary profi le of the vehicle is linked with a VinFast account. The account must be created on the cloud and approved by the Primary driver before binding to the vehicle.
+
+Examples of vehicle settings that may be saved against a profi le:
+
+Sound Settings Language and System Settings Device Connection Settings Light Settings Navigation Favorites
+
+# nline Rectangle
+
+# NOTE
+
+Maximum 11 different profi les can be created, including profi les for Primary driver, Secondary driver, Guest, Valet, and 7 Customer profi les.
+
+Creating new profi les or switching profi les is disabled when the vehicle is not in Park (P).
+
+A profi le can’t be duplicated.
+
+To create a new Customer Profi le:
+
+nline Rectangle
+
+# 1\. Tap Profi le Name
+
+nline Rectangle
+
+# $>$ Create New.
+
+2. Select Profi le type if required.
+
+3. Enter a name in the text fi eld.
+
+4. Tap Next.
+
+5. After confi rmation, the newly created profi le will be saved, and a notifi cation will pop up on Infotainment screen.
+
+
+To delete a Profi le:
+
+nline Rectangle
+
+1. Tap Profi le Name $>$ My Profi le.
+
+2. Tap All Profi les
+
+
+nline Rectangle
+
+3. Tap Three Dot
+
+nline Rectangle
+
+icon.
+
+4. Tap Delete Profi le
+
+nline Rectangle
+
+5. Tap Delete to confi rm.
+
+# nline Rectangle
+
+NOTE
+
+Only Primary driver can create, edit, delete, or duplicate profi les.
+
+# Profi le Settings
+
+Use Profi le Settings to edit the following settings:
+
+Personal Info Authentication Remote Control
+
+To access Profi le Settings:
+
+Tap Profi le Name
+
+nline Rectangle
+
+$>$ My Profi le
+
+nline Rectangle
+
+# Personal Info
+
+This page displays the following information about the user profi le:
+
+Full name Phone number VinFast account Avatar image
+
+To edit Name, Profi le picture:
+
+nline Rectangle
+
+Tap Edit nline Rectangle
+
+icon.
+
+To login VinFast Account:
+
+nline Rectangle
+
+1. Tap Link now nline Rectangle
+
+2. Enter valid VinFast Account Email
+
+
+nline Rectangle
+
+3. Tap Link inline Rectangle
+
+To unlink VinFast account :
+
+nline Rectangle
+
+Tap Unlink nline Rectangle
+
+icon.
+
+To edit Avatar Image:
+
+1. Tap Edit icon near Avatar image.
+
+2. Select from available images.
+
+
+OR
+
+Tap Image from USB.
+
+3. Select an image from the available images on the USB.
+
+4. Edit avatar image with Rotate/Flip icons.
+
+5. Tap Save.
+
+
+# Authentication
+
+This page provides access to the following settings:
+
+PIN Key Fob Linking (if equipped)
+
+To set PIN:
+
+nline Rectangle
+
+1. Tap Set Up
+
+nline Rectangle
+
+2. Enter 6 Digit PIN.
+
+To reset/delete a PIN:
+
+nline Rectangle
+
+1. Tap Reset/Delete PIN.
+
+2. Enter the PIN to confi rm.
+
+
+To link a Key Fob:
+
+nline Rectangle
+
+1. Tap Link Key Fob
+
+nline Rectangle
+
+2. Place the Key Fob in cup holder See $>$ Starting the Vehicle - Low Key Fob Battery.
+
+# 3\. Tap Link Key Fob.
+
+To Edit and Remove Key Fob Linking (if equipped):
+
+nline Rectangle
+
+1. Open Profi le settings $>$ Authentication
+
+2. To activate/deactivate Key Fob Linking, tap Activate/Deactivate
+
+3. To unlink key fob, tap on Unlink
+
+
+# Remote Control (if available)
+
+To link VinFast App:
+
+1. Tap Remote Control $>$ Start Linking.
+2. Scan QR Code.
+3. After confi rmation, a notifi cation will pop up on the Infotainment screen.
+
+# nline Rectangle
+
+# NOTE
+
+Only one phone can be paired at a time. Customer and Guest profi les cannot be paired with the VinFast App.
+
+To unlink VinFast app:
+
+1. Tap Unlink
+
+nline Rectangle
+
+icon.
+
+2. Tap Unlink to confi rm.
+
+Remote Control Settings
+
+If available, this page may provide access to the following settings:
+
+Link/Unlink Device ON/OFF Remote Control Settings Toggle Remote Control Features
+
+Scroll down to see more Remote Control Features.
+
+# Personalization
+
+This allows the driver to save/set side mirror position to a profi le. These settings will be available upon the next profi le login.
+
+To set/save a mirror positions:
+
+nline Rectangle
+
+1. Tap Personalization
+
+nline Rectangle
+
+2. To save a mirror position, tap Save New
+
+nline Rectangle
+
+3. To delete a saved position, tap Delete.
+
+# Valet Mode
+
+If available, Valet Mode disables certain system features and functions preventing unintended use by another person or access to personal information. Make sure the vehicle is in Park (P) before activating Valet Mode.
+
+The following features are enabled, when the Valet Mode is turned ON:
+
+IPC ASIL information (including Passenger Airbag ON/OFF status) Clock Battery SOC Climate controls Mirrors controls Lighting controls Auto Light/ Light ON/ Parking Light ON/ Light OFF
+
+Front Fog (if eqipped)
+
+Rear Fog (if eqipped) Camera Open Charging Door Sunroof control (if eqipped) Steering wheel (if eqipped) Heads-Up Display (if eqipped)
+
+Other functions or entry points to other functions will be hidden from Valet user.
+
+# Activation
+
+Valet mode can be activated by any of the following methods:
+
+Changing profi le to Valet.
+
+To activate Valet Mode by changing Profi le
+
+nline Rectangle
+
+1. On the status bar, tap Profi le Name
+
+nline Rectangle
+
+2. To activate Valet Mode, tap on Valet
+
+nline Rectangle
+
+nline Rectangle
+
+NOTE
+
+Guest profi les cannot activate Valet Mode.
+
+# Valet Mode Settings Overview
+
+Following settings can be adjusted:
+
+Valet PIN - Edit Valet PIN.
+
+Speed Limit - Limit the maximum speed of the vehicle.
+
+To access Valet Mode settings:
+
+1. Tap App Library
+
+nline Rectangle
+
+on the Infotainment Screen.
+
+2. Tap Settings
+
+nline Rectangle
+
+$>$ Security Settings
+
+inline Rectangle
+
+$>$ Valet Mode.
+
+nline Rectangle
+
+# NOTE
+
+The speed limit can be adjusted in the range of 80-145km/h (50-90mph).
+
+# Deactivation
+
+Valet Mode can be deactivated by any of the following methods:
+
+By using Valet Mode PIN.
+
+To deactivate by using Valet Mode PIN:
+
+1. Tap Valet mode $>$ Exit Valet Mode. OR Tap Exit Valet Mode.
+2. Enter a valid PIN.
+
+# Camp Mode
+
+If available, use Camp Mode to extend use of the Infotainment Screen to access music, web surfi ng, and, watch media fi les in the vehicle without the vehicle accessory power shutting down.
+
+# Activation
+
+Camp mode can be activated by using quick controls
+
+Preconditions for camp mode activation:
+
+The vehicle must be in Park (P).
+
+The Electric Parking Brake must be applied.
+
+Battery state of charge must be greater than $25 %$ .
+
+To activate Camp Mode:
+
+1. Tap Car mode
+
+nline Rectangle
+
+on the Infotainment Screen.
+
+2. From vehicle mode selection list, tap Camp Mode
+
+nline Rectangle
+
+# Deactivation
+
+To deactivate/exit Camp Mode:
+
+nline Rectangle
+
+Tap Exit Camp Mode
+
+nline Rectangle
+
+on the Car Control Area.
+
+nline Rectangle
+
+# NOTE
+
+The vehicle cannot be started when in Camp Mode. All the infotainment features will be functional.
+
+Camp mode cannot be accessed if the battery percentage is below $25 %$
+
+Camp Mode will be automatically deactivated if battery percentage is below $15 %$ .
+
+Unfasten the seat belts before activating the mode.
+
+The touchscreen will be locked automatically if no user activity is detected.
+
+# Wash Mode
+
+If available, Wash Mode prepares the vehicle for an automatic car wash by closing all the windows, locking all the doors, folding the side mirrors, locking the charge port door, and disabling the windshield wipers.
+
+Preconditions for Wash Mode activation:
+
+The vehicle must be in Park (P) Hood must be closed Charging port must be closed Liftgate must be closed Doors must be closed
+
+To activate Wash mode:
+
+1. Tap Car mode nline Rectangle on the Infotainment Screen.
+
+2. From vehicle mode selection list, tap Wash Mode
+
+
+nline Rectangle
+
+3. Make sure all the pre-conditions are met to start Wash Mode.
+
+4. If any of the pre-conditions are not met the $\\pmb { \\mathrm { x } }$ icon will be displayed on Infotainment screen.
+
+5. Tap Start Wash Mode.
+
+6. The vehicle systems will check a list of additional conditions which are required to be compliant for Wash Mode activation.
+
+
+# nline Rectangle
+
+# NOTE
+
+Ensure that the car wash is suitable as per the vehicle dimensions.
+
+Side Mirrors can be folded/unfolded based on the type of washer.
+
+# nline Rectangle
+
+# WARNING
+
+Apply brake carefully after washing. Washing may reduce the vehicle’s braking system effectiveness. Braking system will be restored after a few minutes of driving.
+
+# nline Rectangle
+
+# CAUTION
+
+Ensure the vehicle remains in Wash Mode until the vehicle car wash process is complete.
+
+Automatic car wash machines can damage the vehicle. Such damages are not covered under Manufacturer Warranty.
+
+To deactivate Wash Mode:
+
+1. Tap Exit Wash mode.
+
+# nline Rectangle
+
+# NOTE
+
+Wash Mode will be automatically deactivated if the driver engages Drive (D) and vehicle speed is greater than 16km/h (10 mph).
+
+# Pet Mode
+
+If available, use Pet Mode to leave pets unattended in the vehicle by creating and maintaining a comfortable environment. A notifi cation is displayed on the Infotainment screen when this feature is activated.
+
+![](https://vinfastowners.org/manuals/images/e2700a1ec05ec70606035d877db5dc143188a4ede82cda7a687b370e6b28094f.jpg)
+
+# nline Rectangle
+
+# WARNING
+
+Do not leave children unattended in the vehicle as Pet Mode is not intended for people.
+
+Always stay in close proximity to the vehicle when using Pet Mode.
+
+Always comply with the country’s laws and regulations for any restrictions on leaving pets unattended in vehicle before using Pet Mode.
+
+Do not completely rely on Pet Mode. Do not leave pets in the vehicle unattended for long period.
+
+Constantly monitor the vehicle temperature from the VinFast App.
+
+Always monitor battery state of charge from the VinFast App, since a low battery state of charge will deactivate Pet Mode.
+
+# Activation
+
+Preconditions for activating Pet Mode
+
+Pet mode is activated only if the vehicle’s battery state of charge is greater than $25 %$ .
+
+Vehicle Gear position must be in Park (P) and seatbelt should be unfastened.
+
+Pet mode can be activated by any of the following methods:
+
+Via the VinFast app. Via the Infotainment screen
+
+To activate Pet Mode using Quick Controls:
+
+1. Tap Car mode
+
+nline Rectangle
+
+on the Infotainment screen.
+
+2. From vehicle mode selection list, tap Pet Mode
+
+# nline Rectangle
+
+# Deactivation
+
+Pet mode will be deactivated automatically if:
+
+Climate control is turned off.
+
+When Park (P) is disengaged.
+
+The vehicle’s battery state of charge is less than $5 %$ .
+
+To deactivate Pet Mode
+
+Tap Exit pet mode
+
+To change the default message:
+
+1. Tap Edit
+
+nline Rectangle
+
+icon.
+
+2. Enter the message in text fi eld, E.g. phone number.
+
+3. Tap Change.
+
+
+nline Rectangle
+
+# WARNING
+
+When the battery state of charge reaches $20 %$ , $15 %$ and then $10 %$ , notifi cations will be sent to the owner via the VinFast app. When the battery level reaches $5 %$ the system will send another warning to the VinFast app and Pet Mode will be deactivated.
+
+# 7.2. Infotainment
+
+# Infotainment Overview and Key Features
+
+The infotainment system can be controlled by using the Infotainment screen, the steering wheel controls, or the voice assistant function (if available). It is used for playing various types of media sources.
+
+Radio - Use Radio to listen to FM radio frequency band. See $>$ Infotainment $>$ Radio. Bluetooth Audio - When connected to a valid Bluetooth device you can listen to stored or streamed audio via Bluetooth Media. See $>$ Infotainment > Bluetooth Audio.
+
+USB Media - When connected to a valid USB device you can listen to available audio and video via USB Media. See $>$ Infotainment > USB Media.
+
+Podcast - Use Podcast to listen to audio fi les on a variety of topics. See $>$ Infotainment > Podcasts. Browser - Use Browser to browse the Internet from the vehicle’s Infotainment screen Display. See $>$ Infotainment > Browser.
+
+Video Streaming - See $>$ Infotainment $>$ Video Streaming.
+
+Games.
+
+# nline Rectangle
+
+# NOTE
+
+Video is disabled and only audio is enabled when the vehicle is in motion.
+
+# nline Rectangle
+
+# WARNING
+
+Do not use the Infotainment screen when driving for extended period of time as prolonged distraction from road can cause accident leading to serious injury and death.
+
+# Media widget
+
+When you tap on a Media Widget, the associated media source will open in full screen.
+
+Widget overview:
+
+nline Rectangle
+
+|     |     |
+| --- | --- |
+| inlinRectangle | Thumbnail |
+| inlineRectangle | Heading (song name, channel etc.) |
+| inlineRectangle | Sub Heading (Artist name) |
+| inlineRectangle | Media Controls (Previous, Play/Pause, Next) |
+| nlineRectangle | Media Source Information |
+
+Media widget list:
+
+Radio FM Bluetooth USB Media Android Auto Apple CarPlay Voiz FM VNE Podcast
+
+# Radio
+
+Listen to Radio App using FM radio frequency bands or third party apps available in infotainment screen. The Radio can also be accessed via HD Radio (if available) and internet radio apps (if available) - iHeartRADIO and TuneIn. You can fi nd them on the Infotainment screen.
+
+# Operating the Radio
+
+Radio Overview
+
+nline Rectangle
+
+|     |     |
+| --- | --- |
+| nline Rectangle | Favorites toggle |
+| nline Rectangle | Media source: Radio/USB/Bluetooth/.. |
+| nline Rectangle | Seek/scan/station skip |
+
+Launching the Radio App
+
+Radio can be accessed using any of following methods:
+
+1. Tap App Library
+
+nline Rectangle
+
+on the Infotainment screen.
+
+2. Tap Media
+
+nline Rectangle
+
+$>$ Radio
+
+inline Rectangle
+
+3. Press SOURCE button on the steering wheel controls and select Radio
+
+nline Rectangle
+
+# nline Rectangle
+
+# NOTE
+
+Any media selected from the rear Infotainment screen media player will also be shown and can be controlled from the front Infotainment screen.
+
+When media is selected and starts playing from the rear Infotainment screen any previously played content from the front Infotainment screen will stop.
+
+# Station List
+
+The radio station list is automatically updated with nearby stations for each radio frequency band. If available, the station name and radio frequency is displayed on the screen. The Radio Bar below the list of stations allows the seek/scan and station skip functions.
+
+To manually search a station:
+
+1. Tap Search
+
+nline Rectangle
+
+icon on top right corner.
+
+2. Enter station frequency in Search fi eld.
+
+3. Matching stations will appear below the search fi eld. Select your preferred station.
+
+
+# nline Rectangle
+
+# NOTE
+
+The station list will automatically refresh after a period of time.
+
+To control the radio via the steering wheel controls:
+
+See $>$ Steering Wheel > Functions
+
+# Radio Favorites
+
+Favorites can be saved from FM stations lists.
+
+To save a Favorites station:
+
+1. From FM station list tap the heart icon next to the station you wish to add as a Favorites.
+2. The Heart icon will illuminate.
+3. The station will now appear in Favorites list.
+
+To view Favorites:
+
+To view the list of Favorites Stations, tap Favorites in the Radio App.
+
+To remove/rename a Favorites station:
+
+From Favorites list, tap Three Dot icon next to a Favorites and select Unfavorite OR To remove from Favorites, from the main station list tap the Heart icon.
+
+To rename a favorite station:
+
+1. Select the favorite station to be renamed and tap Three Dot icon.
+2. Tap Rename.
+3. Change name.
+4. Tap Done.
+
+To rearrange favorite Stations:
+
+1. Tap and hold the station to rearrange in the station list.
+2. Drag the station to desired position.
+3. Release station. The Favorites station will drop and snap into highlighted position.
+
+# nline Rectangle
+
+# NOTE
+
+The Favorites list will be sorted in sequential order with the most recently added station at the top.
+
+Some radio stations may be out of range. These stations will remain stored under Favorites but will not be visible in the Station list.
+
+The maximum number of characters allowed when renaming a station is 16.
+
+# nline Rectangle
+
+# WARNING
+
+Continuous use of Infotainment screen controls when driving may lead to distraction causing an accident, leading to serious injuries or death.
+
+Sustained exposure to high sound levels greater than 85 decibels may cause hearing damage.
+
+# Bluetooth Audio
+
+Use Bluetooth to connect to a valid Bluetooth device and listen to stored or streaming audio/video via Bluetooth Media.
+
+Bluetooth Media is available as part of the Music App.
+
+For more information about Bluetooth connections. See $>$ Settings $>$ Device Connect.
+
+Bluetooth Audio Overview
+
+nline Rectangle
+
+|     |     |
+| --- | --- |
+| inline Rectangle | Current Track/Artist |
+| inline Rectangle | Device Switch |
+| inline Rectangle | Progress bar |
+| nline Rectangle | Play/Pause/Track skip |
+
+# Playing Media
+
+To launch Bluetooth Media:
+
+To launch Bluetooth Media:
+
+Bluetooth Media can be accessed by any of the following:
+
+# 1\. Tap App Library
+
+nline Rectangle
+
+on the Infotainment screen.
+
+2. Tap Media
+
+nline Rectangle
+
+$>$ Bluetooth Media
+
+nline Rectangle
+
+OR
+
+1. Press SOURCE button on the steering wheel controls and switch to Bluetooth Media
+
+nline Rectangle
+
+To change Bluetooth devices:
+
+nline Rectangle
+
+# 1\. Tap Drop down arrow
+
+nline Rectangle
+
+2. Select available Bluetooth device from the list
+
+nline Rectangle
+
+To change track:
+
+1. To change track, use Controls
+
+nline Rectangle
+
+2. You can change track via connected Bluetooth device
+
+OR
+
+![](https://vinfastowners.org/manuals/images/155718a18e6150a6e5636048dccea20da9b39a7fccc0e3a99df3067ba64575ea.jpg)
+
+# nline Rectangle
+
+# WARNING
+
+Do not operate a mobile device while driving. This can cause distraction leading to accident.
+
+# nline Rectangle
+
+# NOTE
+
+When Bluetooth is selected and sound is inaudible, check the volume of the infotainment system and mobile device.
+
+# USB Media
+
+Connect to a valid USB storage device to play the available audio and video content. USB Media is available as part of the Music App.
+
+For more information about USB connections, see $>$ USB Ports & Power Outlets.
+
+To launch USB Media:
+
+1. Insert a USB containing Media content in the front USB Data Port.
+
+2. Tap App Library
+
+
+nline Rectangle
+
+on the Infotainment screen.
+
+3. Tap Media
+
+nline Rectangle
+
+$>$ USB Media
+
+nline Rectangle
+
+OR
+
+1. Press the Source button on the steering wheel controls and switch to USB Media
+
+nline Rectangle
+
+Supported USB Media fi le types:
+
+Music: M4A, AAC, AMR, WAV, MP3, OGG, FLAC Video: MP4, TS, WEBM, MKV, 3GP
+
+# USB Media Player
+
+Media Player Overview
+
+The USB media player provides details of the current playing media and media playback controls.
+
+nline Rectangle
+
+|     |     |
+| --- | --- |
+| inlineRRectangli | Expand Icon |
+| inlineRectangli | Album Title |
+| inlineRectangli | Song Title/Artist Name |
+| nlineRectangli | Song Progress Bar |
+| nlineRectangli | MediaControls-Shuffe, Previous, Play/Pause, Next, Repeat |
+| inlineectangli | Show/Hide Track Queue |
+
+To access USB Media Player:
+
+nline Rectangle
+
+Tap the ‘currently playing’ song bar at the bottom of the USB Media page
+
+nline Rectangle
+
+or swipe up anywhere on the Media Player Bar.
+
+# USB Media tabs
+
+On main screen of USB Media you may fi nd:
+
+Recents Artist Genres Videos Folder
+
+# Recents
+
+This page shows a list of recently played media through the USB Media device.
+
+To open Recents page:
+
+To open Recent window, tap Recent tab.
+
+nline Rectangle
+
+# NOTE
+
+Recents shows maximum of 20 recently played songs.
+
+# Artists
+
+This page shows a list of available Artists on the USB Media device.
+
+To open Artists page:
+
+1. Tap Artists tab.
+2. Tap any Artist name from the list.
+
+Artist page Overview
+
+nline Rectangle
+
+|     |     |
+| --- | --- |
+| inlineRectangle | Exit Icon |
+| inlineRectangle | Play All |
+| inlineRectangle | Back Icon |
+| inlineRectangle | Currently playing song |
+| inlineRectangle | Play album |
+| inlineRectangle | Open USB Media Player |
+
+# Genres
+
+This page shows a list of available music Genres on the USB Media device.
+
+To open Genres page:
+
+1. Tap Genres tab.
+2. Tap any Genre name from the list.
+
+Genre page overview
+
+nline Rectangle
+
+|     |     |
+| --- | --- |
+| inlineRectangle | Back IconShuffle Play All |
+| inlineRectangle |
+| inlineRectangle | Genre Name |
+| inlineRectangle | Add track to Queue |
+| inlineRectangle | Media Controls - Previous, Play/Pause, Next |
+
+# Videos
+
+This page shows a list of available Video fi les in the USB Media device. To open Videos page:
+
+1. Tap Videos tab.
+
+2. Tap any Video fi le from the list.
+
+
+Videos page overview
+
+nline Rectangle
+
+|     |     |
+| --- | --- |
+| inlineReectangli | Expand Icon |
+| inlineRectangl | Video player queue |
+| inlineectangli | Show/Hide Track Queue |
+| inlineRectangl | Folder Name |
+| nlineReectangli | Full-screen Mode |
+| nlineRectangli | Video Title |
+| inlineRectangli | Video progress bar |
+| nlineRectagl | Media Controls - Shuffle, Previous, Play/Pause, Next, Repeat |
+
+# nline Rectangle
+
+# NOTE
+
+In full screen mode, the media controls time out after 5 seconds of inactivity. When you touch the screen again, the video will be paused and media controls will appear.
+
+Video is disabled while driving.
+
+# Folders
+
+This page shows a list of available Folders that contain media fi les on the USB Media device.
+
+To open Folders page:
+
+1. Tap Folders tab.
+
+2. Tap any Folder name from the list.
+
+
+# inline Rectangle
+
+NOTE
+
+Only Folders containing media fi les are displayed on screen.
+
+Folder page overview
+
+nline Rectangle
+
+|     |     |
+| --- | --- |
+| inlineRectange | Back Icon |
+| inlin eRectangle | Shuffle Play All |
+| inlineRectangle | Add Track to Queue |
+| inlineRectangle | Media Controls - Previous, Play/Pause, Next |
+| inlineRectangle | Currently playing song |
+
+# USB Search
+
+This feature can be used to search for any media content in the USB media device by pressing the Search icon.
+
+To Search a fi le in USB Media:
+
+1. Tap Search
+
+inline Rectangle
+
+icon.
+
+2. Type Media name in the Search fi eld.
+
+3. Tap Search.
+
+
+# nline Rectangle
+
+NOTE
+
+Search icon and keyboard will be disabled while driving.
+
+# Podcasts
+
+Use this feature to download and listen to Podcasts in digital audio fi les on a variety of topics.
+
+To launch VNE Podcasts:
+
+1. Tap App Library
+
+nline Rectangle
+
+on the Infotainment screen.
+
+# 2\. Tap VNE Podcast
+
+nline Rectangle
+
+1. Press the Source button on the steering wheel controls and select VNE Podcast
+
+nline Rectangle
+
+nline Rectangle
+
+|     |     |
+| --- | --- |
+| inlineRectangli | Podcast Topic, Release Date, Title |
+| inlineRectangl | Playback Speed |
+| inlineRectan | Progress Bar |
+| inlineRectangl | Download Podcast |
+| inlineRectangli | Media Controls - Previous, Rewind, Play/Pause, Forward, Next |
+| inlineRectangli | Queue List |
+| inlineRRectangli | Auto Play Toggle |
+| inlineRectangl | Exit Icon |
+| inlineRectangli | Expand Icon |
+| nlineRecangli | Queue Icon |
+|  |
+
+# Library
+
+Downloaded podcasts are saved in the Library.
+
+To open Podcast Library:
+
+nline Rectangle
+
+Tap Library
+
+nline Rectangle
+
+To change Library View:
+
+Tap Change View
+
+nline Rectangle
+
+icon.
+
+To delete a Podcast:
+
+Tap Delete
+
+nline Rectangle
+
+icon on the top right corner of VNE Podcast player.
+
+Tap Delete.
+
+# Recents
+
+The list of Podcasts that have been played will automatically be saved in Recents.
+
+To view recently played Podcasts:
+
+nline Rectangle
+
+Tap Recents
+
+inline Rectangle
+
+To clear recently played Podcasts:
+
+Tap Clear All History
+
+nline Rectangle
+
+# Podcast Search
+
+To Search for Podcasts:
+
+1. Tap Search
+
+nline Rectangle
+
+icon .
+
+2. Type name of the podcast in the Search fi eld.
+
+3. Tap Search.
+
+
+# Browser
+
+If available, use the Browser to browse the Internet from the vehicle’s Infotainment screen. To launch the browser, the vehicle must be connected either to a Wi-Fi access point or have an active eSIM subscription.
+
+nline Rectangle
+
+# NOTE
+
+The Web Browser requires a Wi-Fi or cellular connection, local carrier charges will apply.
+
+If the gear mode is in Park (P), you can use the web browser in full screen.
+
+If the gear mode is in Drive (D), Neutral (N) or Reverse (R), you cannot use the web browser.
+
+To launch the Browser/Internet App:
+
+1. On the touchscreen, tap App Library
+
+nline Rectangle
+
+2. Tap Internet
+
+nline Rectangle
+
+# FPT Video Streaming (VN Only)
+
+If available, use FPT Play App to view Media and Video content. Available viewable content may include:
+
+Live Television Sports Leagues Movies Online Learning Courses Shows
+
+Music Videos
+
+Preconditions for FPT video streaming:
+
+Vehicle should be in Park.
+
+To watch Media or Video using FPT Play app:
+
+# 1\. Tap App Library
+
+nline Rectangle
+
+. on the Infotainment screen.
+
+2. Tap FPT Play
+
+nline Rectangle
+
+3. Tap on any Show or Movie.
+
+nline Rectangle
+
+# NOTE
+
+Video Streaming should not be opened and played in full screen while vehicle is in motion.
+
+For more information on FPT Play app, see $>$ [https://fptplay.vn/](https://fptplay.vn/)
+
+# Games
+
+The Infotainment system may include some fun games (if available) to enjoy while in Camp mode or while waiting for the vehicle to charge. Games will be listed in the App Library and when launched the games will be displayed on the front Infotainment screen with sound provided by the vehicle’s sound system. Examples of games that may be included:
+
+nline Rectangle
+
+Baja Big Air nline Rectangle
+
+Nancy Drew nline Rectangle
+
+Sugar Pop Paradise
+
+Detail on how to play each game can be found inside each App once launched.
+
+To launch a game:
+
+1. Tap App Library nline Rectangle on the Infotainment screen.
+
+2. Tap the game you wish to launch.
+
+
+# nline Rectangle
+
+# WARNING
+
+Always ensure the vehicle is parked safely, the vehicle park brake is engaged and Park (P) is selected before launching a Game App.
+
+# nline Rectangle
+
+# NOTE
+
+Details on how to play each game can be found inside each app once launched.
+
+Availability of games on the infotainment system may vary depending on the car variant and market region.
+
+# Voice Assistant
+
+If available, this feature allows the user to activate and use many of the vehicle functions by using their own voice. The user can use specifi c terms to get certain activities done by the system. Using Voice Assistant ensures the drivers attention is focused on the road.
+
+To Trigger Voice Assistant
+
+inline Rectangle
+
+Voice Assistant can be triggered by any of the following methods:
+
+1. By using the term “Hey VinFast”.
+2. Short pressing VA button
+
+nline Rectangle
+
+on the steering wheel.
+
+3. In the status bar, tapping the VinFast logo.
+
+To trigger mirrored phone’s Voice Assistant:
+
+Mirrored Phone’s Voice Assistant can be triggered by any of the following methods:
+
+1. By using the term “Hey Siri” / “Hey Google”.
+2. Long pressing the VA button on the steering wheel.
+
+# nline Rectangle
+
+# NOTE
+
+Mirrored Phone’s Voice Assistant (VA) can only be accessed if CarPlay or Android Auto is connected.
+
+Only one Mirrored Phone’s Voice Assistant can be used at a time.
+
+To end a Voice Assistant session:
+
+1. Short press the VA button on the steering wheel.
+2. Press anywhere around the VinFast logo in the status bar.
+3. Use the term “Exit” or “Cancel”.
+
+To access command list Help (VinFast Voice Assistant):
+
+1. Use the term “Hey VinFast” and ask about “Help”, “Guide” etc.
+2. Command list will be displayed on touchscreen.
+3. Scroll down to see all available options.
+4. Tap any option to expand it.
+
+# nline Rectangle
+
+# NOTE
+
+Command list Help is only shown when the vehicle is in Park (P).
+
+A voice prompt is provided to guide the user if the car is in Drive.
+
+Examples of Voice commands:
+
+|     |     |
+| --- | --- |
+| Category | Command |
+| Apps | Open Settings appOpen EV appOpen ADAS app |
+| Phone | Call James, Call MomRedial last dialed numberMake an e-call |
+| Navigation | Take me to The Coffee House |
+| Media | Turn on music from bluetooth |
+| Climate control | Increase temperatureDecrease temperatureTurn off the air conditioner |
+| Calendar | List appointments |
+| Settings | Open lighting settingsOpen Wi-Fi settingsOpen display settings |
+| General | What can you do ?How to control musicWhat day is today |
+
+To access Voice Assistant settings:
+
+To access Voice Assistant Settings, see $>$ Settings $>$ Voice Assistant to key vehicle controls. Car Control Area replaces many of the displays and controls traditionally supplied by a driver’s instrument cluster or physical switches and buttons. The Car Control Area display is dynamic and will change view mode depending on the current vehicle state, gear selected or feature or function activated. Key features of Car Control Area are listed in Display Overview.
+
+# Display Overview
+
+# nline Rectangle
+
+|     |     |     |
+| --- | --- | --- |
+| inlinRectangli | Gear Selected | A indicator will display on status bar on the top of Car Control Area |
+| inlineRectangli | Power and Regen Gauge |  |
+| inlineRectangl | Odometer | Odometer reading of vehicle |
+| inline Rectangli | Time |  |
+| inlineR Rectangli | Battery State of Charge / Vehicle Range | Touch to access EV Battery App |
+| nline Rectangli | Speedometer | Current speed of the vehicle in km/h or mph |
+| inline Rectangli | Car Control Zone |  |
+| nline Rectangl | Quick Control | Tap to adjustment the liftgate, Hood, Sunroof Open/Closed and Wiper. |
+| inlineRectangli | Ergonomic control | Tap to access adjustment the HUD, Mirror, Steering wheel |
+| inlinRectangl | Lighting Controls | Tap to access exterior lighting controls including headlights |
+| inlineRectangli | Car mode | Tap to access adjustment the car mode and regen level |
+
+# Car Controls
+
+If equipped, depending on the view mode, access to control and adjustment of certain vehicle features is provided. When control is available a round touch target will appear alongside the vehicle feature. Tapping on the touch target will open the controls card.
+
+# Viewing Modes
+
+Depending on vehicle speed and selected Gear the Car Control Area will automatically change the vehicle view mode.
+
+In addition, following dynamic representations are also shown in Car Control Area:
+
+Liftgate
+
+Headlights and Tail lights Charge Handle and Charging Status Active ADAS features
+
+Car Control Area Chase Me View
+
+Chase Me View will be displayed whenever the vehicle is in motion. In Chase Me View access to rear cargo compartment, hood and steering wheel adjustment control cards will be disabled. Depending on which features or functions are currently active the following may be displayed:
+
+Lane assist guidelines
+
+Forward Collision Warning System status and Gap Setting
+
+Adaptive Cruise Control System status
+
+Highway Assist and Auto Lane Changing Assist status
+
+Car Control Area Parked View
+
+Parked View will be displayed whenever the vehicle is stationary. In Park View the following car controls will become available:
+
+Camera Turn warning sound on/off Parking assistance (if equipped)
+
+# Warning Lights and Indicators
+
+All important vehicle system related warnings and alerts are shown on the Infotainment screen display in the lower section of Car Control Area. Tap on the pop-up to view further detail of each warning. See $>$ Vehicle Alerts.
+
+In addition to a warning notifi cation, a corresponding telltale may also illuminate in the upper section of Car Control Area. Telltales will stay illuminated until the vehicle fault is repaired or resolved.
+
+Telltale Icons:
+
+|     |     |
+| --- | --- |
+| nlineRectangle |  |
+| Airbag Malfunction |
+| nlineRectangle | Seatbelt Reminder |
+| nineRectangle | ABS Malfunction |
+| niineRectangle | Automatic Emergency Braking (AEB) OFF |
+| nlineRectangle | Automatic High Beam |
+| nlineRectangle | HighBeam |
+| inliineRectangle | Child Presence Detection OFF ed |
+| nineRectangle | ESC/TCS OFF |
+| ineRectangle | EV System Malfunction |
+| nlineRectangle | Brake System Faults |
+| @ | Parking Brake Applied |
+| ! | TPMS Malfunction |
+| - | Low Power mode |
+| E0OE | Position Lights |
+| A | Park Brake Malfunction |
+| READY | Vehicle Ready to Drive |
+| : | Safety Warnings |
+| Turn Indicator/Hazard Lights |
+
+# Trip Information
+
+The Trip Information App calculates key driving statistics about each vehicle journey and displays them on the Infotainment screen.
+
+A summary of Trip Information is displayed in the status bar above Car Control Area and a more detailed summary of Trip History and Driving Statistics can be found in Trip History. See $>$ Economy & Environment $>$ Trip History.
+
+# Trip Type
+
+There are four different Trip meters available:
+
+1. ODO
+2. A
+3. B
+4. AUTO
+
+A summary of the above information is shown in the status bar.
+
+# Trip Information Page
+
+To open the detailed Trip Information Page:
+
+![](https://vinfastowners.org/manuals/images/d0d59dcdd9dd73df39c953bfb3a3bc3063e4a5d2fb1716fe7c35dc8cd7f3d240.jpg)
+
+1. Tap on the ODO (odometer) reading on the Infotainment screen.
+
+OR
+
+2. Press Trip
+
+![](https://vinfastowners.org/manuals/images/dd46f76806e934c09d171bb011ef7a1027c3a55e7b4e3dcdc91e80d0e2146b95.jpg)
+
+on the left stalk.
+
+To select a Trip Meter:
+
+![](https://vinfastowners.org/manuals/images/6f26c20389db6002444362246814055c7850a6089682852e0c79a7a2333cd11d.jpg)
+
+Tap to select the desired Trip A, B or AUTO
+
+![](https://vinfastowners.org/manuals/images/81e31976d99e2000a1a8b04837c66b4f2291fc07a41d8673a7f8976112200794.jpg)
+
+on the left stalk to Reset.
+
+NOTE ODO (odometer) cannot be reset.
+
+# Tire Pressure Monitoring System
+
+Tire Pressure Monitoring System (TPMS) technology monitors the air pressure in the tires and sends the reading to the receiver in the vehicle. When one or more tires are under infl ated, a Low Tire Pressure telltale
+
+is illuminated on Infotainment screen. When the low tire pressure telltale illuminates, stop the vehicle, check the tires and infl ate them to specifi ed pressure as soon as possible. Driving on a signifi cantly under-infl ated tires causes the tire to overheat and can lead to tire failure. Under-infl ation also reduces fuel effi ciency and tire tread life, and may affect vehicle’s handling and stopping ability.
+
+See $>$ Vehicle Alerts.
+
+If the vehicle loses the connection with a tire sensor, a Sensor Connection Lost warning be displayed. For more information, see $>$ Maintenance $>$ Wheels and Tires $>$ Tire Pressure Monitoring System.
+
+Tire Pressure Monitoring System Overview
+
+Each tire, including the spare (if provided), should be checked monthly when the tire is cold and infl ated to the correct infl ation pressure as recommended by VinFast. The infl ation pressures can be located on the vehicle place-card or the tire infl ation pressure label.
+
+Please note that the TPMS is not a substitute for proper tire maintenance, and it is the driver’s responsibility to maintain correct tire pressure even if under-infl ation has not reached the level to trigger illumination of the TPMS Low Tire Pressure telltale.
+
+The vehicle is also equipped with a TPMS malfunction indicator to indicate when the system is not operating properly. The TPMS malfunction indicator is combined with the Low Tire Pressure telltale. The indicator will continue to be illuminated upon subsequent vehicle start-ups until the malfunction is corrected. When the malfunction indicator is illuminated. The system may not be able to detect or signal low tire pressure as intended.
+
+To view Tire Pressure from the Vehicle Status page:
+
+1. Tap App Library on the Infotainment screen.
+
+2. Tap Service $>$ Vehicle Status
+
+
+![](https://vinfastowners.org/manuals/images/4a0a76be8756a264e4ee43290d65f7fa861688c670404f179727438d16266d90.jpg)
+
+# Q
+
+$>$ Tire Pressure.
+
+# Tire Pressure Warnings
+
+The TPMS system warns the driver if the tire pressure is below or above the recommended pressure. If an issue or missing sensor signal is detected a TPMS alert symbol
+
+will be displayed on the Infotainment screen. In addition an alert pop-up will be shown on the screen and an audible chime will be generated at the same time.
+
+For more details, see $>$ Maintenance $\\geq$ Wheels and Tires > Tire Pressure Monitoring System.
+
+![](https://vinfastowners.org/manuals/images/a90ec869cd3f1fb94f4d87b01eb70ebe57426465ccab9fdd8b56ba53770329f2.jpg)
+
+# NOTE
+
+Tire pressures should be checked regularly, using an accurate pressure gauge when the tires are cold. Infl ate the tires to the recommended pressure as specifi ed by VinFast on the vehicle place-card or Tire infl ation pressure label.
+
+# WARNING
+
+Do not drive with incorrectly infl ated (s)(s) as this can affect the vehicle handling, steering, and braking. This can lead to an accident, causing serious injury or death.
+
+Always adopt the correct tire pressure in accordance with the driving condition and vehicle load. Overloading can lead to loss of vehicle control and increase the risk of an accident.
+
+# TPMS Failure
+
+TPMS failures can occur due to various reasons including the installation of replacement or alternative tires or wheels, that may prevent the TPMS from functioning properly. After replacing one or more tires or wheels on the vehicle, always check the TPMS malfunction indicator light to ensure that the replacement tires or wheels allow the TPMS to continue to function correctly.
+
+# Vehicle Alerts
+
+The Vehicle Alerts page shows all vehicle related alerts and warning messages that are currently present on the vehicle. The Vehicle Alerts page also provides additional information or recommended user actions associated with each vehicle warning.
+
+When a vehicle alert is triggered, it is displayed as a notifi cation below the Car Control Area, along with a matching telltale light
+
+To view Vehicle Alerts:
+
+1. Tap the Popup Notifi cation below the Car Control Area
+
+2. Tap App Library
+
+
+on the Infotainment screen.
+
+2. Tap Service
+
+$>$ Vehicle Status $>$ Alerts.
+
+3. Tap Collapse icon to view details of alerts.
+
+# 7.4. Head Up Display
+
+# Head Up Display
+
+If equipped, Head Up Display or HUD enables the display of necessary information on the vehicles windshield without the need for the driver to look away from the road ahead.
+
+Head Up Display shows the following information:
+
+1. Navigation
+2. Speedometer, Gear position and Range
+3. ADAS Contents
+4. Notifi cations and Alerts
+
+![](https://vinfastowners.org/manuals/images/e0609e5562289c8717104dd67f348dae07ddc3ec5ba582bc76adf539e00f7c28.jpg)
+
+# NOTE
+
+Unfavorable lighting conditions may affect the visibility of the display.
+
+Visibility of the HUD might be affected if you are wearing a pair of sunglasses.
+
+It is recommended to stop the vehicle before adjusting the HUD settings.
+
+# CAUTION
+
+Do not tint or add metallic coatings to the front windshield glass This can obscure the Head Up Display image.
+
+Do not attach any objects to the windshield glass or place anything on the crash pad.
+
+In case of damage, install only an approved VinFast windshield glass. Failure to comply may cause distortion of details on the windshield.
+
+# Head Up Display Adjustment Settings
+
+If equipped, The following information can be adjusted on the Head Up Display (HUD):
+
+![](https://vinfastowners.org/manuals/images/7b75e647c38fe2b3126f58f3cd306f5b6414e8d764482d9d05297221440f33ab.jpg)
+
+|     |     |
+| --- | --- |
+| 1 | Head Up Display Turn ON/OFF |
+| ② | Edit Position |
+| ③ | Head Up Display Overview |
+| ④ | Adjust Brightness |
+| ⑤ | Colour Option |
+| 0 | Content |
+
+To access Head Up Display Settings:
+
+Tap Head Up Display
+
+in the Car Control Area area of the Infotainment screen.
+
+To turn OFF Head Up Display:
+
+Tap Turn OFF
+
+To adjust Head Up Display Brightness:
+
+Use Slider
+
+![](https://vinfastowners.org/manuals/images/3e84be3686cc5de9a5c98b39e7df9eee03ea254517c923dcf24f6a5391ac0244.jpg)
+
+# Head Up Display Text Colour
+
+You can change the colour of the text displayed on the Head up display using Head Up Display settings.
+
+Available colour options are:
+
+White Cyan reen
+
+To change colour:
+
+Select Colour
+
+![](https://vinfastowners.org/manuals/images/273c28be1c0eaeebb186f40da1c8c3822db6e754f895533a64e171f588f465ee.jpg)
+
+![](https://vinfastowners.org/manuals/images/5c9416d20b0a49868dcf4298b16996fac8e5638ab4e143a699b4313a0f95f5e1.jpg)
+
+# NOTE
+
+It is recommended to stop the vehicle before adjusting the Head Up Display settings.
+
+# Content Options
+
+Use Head Up Display Settings to customize the content displayed on the Head Up Display.
+
+The following content options are available in Head Up Display Settings:
+
+Navigation Drive Aids
+
+To enable/disable content in the Head Up Display:
+
+Check/Uncheck the box beside the content option in Head Up Display Settings
+
+![](https://vinfastowners.org/manuals/images/9b0ba752dea995c9ca8c4b09d355734650c67257aa6a0abc4411f1c58dd17ef2.jpg)
+
+# Height and Rotation
+
+You can adjust the Head Up Display position on the windshield to suit your driving position from the Head Up Display Settings.
+
+To adjust Head Up Display height:
+
+1. Tap Edit Position
+
+![](https://vinfastowners.org/manuals/images/d986937d5f1c7cef812a92de4a31bd7f446e28afe12dfb6a8c43c098832f6b6e.jpg)
+
+2. Press Up $( + )$ or Down $( - )$ buttons on the steering wheel controls to adjust the height of Head Up Display.
+
+To adjust Head Up Display Rotation:
+
+Press Left $\\left( < \\right)$ or Right $( > )$ arrow buttons on the left steering wheel controls to adjust rotation of Head Up Display.
+
+# 7.5. Navigation
+
+# Navigation Overview
+
+and Head Up Display (HUD). Navigation instructions can also be supported by voice guidance.
+
+Use Navigation App to navigate to a selected destination. Route information is displayed on the Infotainment screen
+
+To open Navigation App:
+
+1. Tap App Library
+
+on the Infotainment screen.
+
+2. Tap Maps
+
+3. Tap Navigation widget on the Home Screen.
+
+
+Navigation Page Overview
+
+![](https://vinfastowners.org/manuals/images/b8fa8d25c3e499f2337d64f1f5dc5913e595c37824776c8b51dec9bbd47f0524.jpg)
+
+|     |     |
+| --- | --- |
+| 1 | Search for a Destination |
+|  | Point Of Interest |
+| 3 | Recents |
+| 4 | Favorites |
+| 5 | aisplaconiultatelvlbleTra vlbleT |
+| 6 | Navigation Settings |
+
+Before using the Navigation System carefully read and understand the following warning.
+
+# WARNING
+
+Be aware of all local traffi c laws and road characteristics of your region. It is always your responsibility to determine the safety of the route being suggested. Drive the vehicle appropriately according to current road and environmental conditions.
+
+Always follow road traffi c rules and regulations even when driving with the assistance of the Navigation System. The Navigatio system is not a substitute for safe driving.
+
+# Destination Search
+
+The user can Search for a destination using the Search box, Point Of Interest (POI)/ Category, and Saved destinations.
+
+To search for a Destination:
+
+1. Tap on Search fi eld.
+2. Enter Name of the destination.
+3. Tap on Search.
+
+# WARNING
+
+Do not use Search feature while vehicle is in motion, as it can cause distraction and lead to accidents causing serious injuries or death.
+
+# Search by Category
+
+Destinations can be searched by category.
+
+To search by Category/Point Of Interest (POI):
+
+1. Tap Search
+
+![](https://vinfastowners.org/manuals/images/eac424395e307af20ca5a9de1167b0372c501d1d8ce4569dda48b259060030cc.jpg)
+
+icon.
+
+2. Select desired Category from the available options.
+
+# Place Detail Card
+
+The Place Detail Card will be displayed on the Infotainment screen after selecting a destination. The Place Detail Card shows detailed information about the selected destination including (when available):
+
+![](https://vinfastowners.org/manuals/images/c8cd1d9917e95a8fe016a47fc92b7339c382493ddfe82d80f678774437fcc0e1.jpg)
+
+NOTE
+
+You can also make a call by tapping on phone number displayed on the Place Detail Card.
+
+# Saved Places
+
+Places can be saved as Favorites, Home or Work.
+
+To save a Place:
+
+1. Tap Heart icon on the Place Detail Card to save a place as Favorite. OR
+2. Long press Heart icon to open Saving Options.
+3. Select an option from the list to save/set a place as Favorite /Home/ Work.
+
+To remove Saved Places:
+
+1. Tap on Favorites.
+2. Select the desired Saved place from the list.
+
+   Long press the saved place and tap Delete favorite.
+
+OR
+
+Tap Home icon then tap Remove Home.
+
+# 0
+
+# NOTE
+
+Only one place can be saved as Home/Work. Also, same place cannot be saved in both Home and Work category, at the same time.
+
+The Navigation App requires a cellular connection for some functionality. Local carrier fees will apply.
+
+# Route Preview
+
+A Route Preview is displayed on the My Route card when a destination has been selected.
+
+To open My Route Card:
+
+Tap Directions.
+
+# Alternative Route
+
+All the available routes are displayed in My Route card. Select the route according to your preference.
+
+To select a Route:
+
+Tap any of the available Route options.
+
+# Route Details
+
+This shows detailed information of a selected route. It displays the information on Travel Time, Current Battery State of Charge, Remaining distance to the Destination, Approximate Battery State of Charge Upon Reaching the Destination and Turn by Turn Navigation on the selected route.
+
+# Navigational Route Preference
+
+Use Route Preference to select specifi c route types and route options. Some of the available route preferences are:
+
+Auto -Add Charging
+
+Route type - Fastest, Shortest
+
+Route options such as - Avoid Toll roads, Avoid Highways
+
+To add a Stop on a Route:
+
+1. Tap Add Stop.
+2. Enter destination name in the Search fi eld or select a Category from the list.
+3. Select the place from the list or category.
+4. Tap Add Stop.
+
+To Remove a Stop:
+
+1. Select any place from the list.
+2. Tap Remove Stop.
+
+To change Route order:
+
+1. Tap Edit Route on the Route Details card.
+2. Tap and hold Three Dash icon to move it up or down.
+3. Tap Finish.
+
+To delete Route:
+
+Tap Delete icon.
+
+# Navigation Guidance View
+
+Navigation Guidance View and turn by turn navigation information is displayed on the Infotainment screen once a navigation route is selected. If another native App is opened, the turn by turn navigation information is displayed on Head Up Display (HUD).
+
+![](https://vinfastowners.org/manuals/images/321666e832645156b96139e77b876e98de8696c3125c51c1b8591c4ddd329ab3.jpg)
+
+|     |     |
+| --- | --- |
+|  | Maneuverer Panel |
+| 2 | Search a stop |
+| 3 | Trip Overview |
+| 4 | Remaining distance/Time remaining/Estimated Time of Arrival |
+| 5 | Battery Remaining (at arrival) |
+| 6 | End guidance mode |
+
+To add a stop in the route:
+
+1. Tap Search a stop
+
+2. Select any Category.
+
+3. Select a place from the list.
+
+
+# 4\. Tap Add Stop.
+
+To remove a stop:
+
+Tap Remove Stop.
+
+# Navigating with an EV
+
+The Navigation system is equipped with a series of unique features specifi cally designed to support driving and navigating with an Electric Vehicle.
+
+# Charging Station Finder
+
+You can fi nd and add a charging station as a destination using Destination Search. See $>$ Navigation $\\geq$ Destination Search.
+
+Automatic Addition of Charging Stations along a Route
+
+The system automatically adds charging stations to a selected route if it determines the battery state of charge is not be suffi cient to complete the journey or satisfy the minimum state of charge settings as selected by you.
+
+To enable Automatic addition of charging stations to the route:
+
+![](https://vinfastowners.org/manuals/images/147f3ead091556bfa5039b90d0d881cbb7e3c11550efb2d6889e8684427b4163.jpg)
+
+1. Tap Navigation Settings
+
+$>$ Route Preferences
+
+![](https://vinfastowners.org/manuals/images/b86a12bf8757e880cafa4678e21c88d8e3c013a6cf09d8eff42daafb9a1fcc33.jpg)
+
+2. Toggle Auto Add Charging Station
+
+![](https://vinfastowners.org/manuals/images/f4cb35659aefcf8414bf002dceb7bd510b063f8e54c7e22f05dc84b9f7e16534.jpg)
+
+to turn ON/OFF automatic addition of charging stations to the route.
+
+# Specifi c EV Settings
+
+EV Settings allows driver to set:
+
+Charge limits
+
+Preferred charging methods
+
+For more detail, see $>$ Navigation $\\geq$ Navigation Settings.
+
+# VinFast App and Navigation
+
+Prior to a journey, the driver can create a navigational route on the VinFast App and send it to the Vehicle’s Navigation System. The Vehicle Navigation System will then use this route to complete the journey.
+
+To send a Navigation Route to the vehicle:
+
+1. Select a destination in the VinFast app using the Navigation System.
+2. Tap Share to Vehicle.
+3. The Navigation route will be sent to the vehicle.
+4. On Infotainment screen, tap Navigate Now to accept the route on the Infotainment screen.
+5. The vehicle’s Navigation system will then guide the driver to the destination.
+
+# Navigation Settings
+
+The Navigation Settings page consists of the following settings:
+
+Navigation - Settings for navigating a journey.
+
+EV Settings - Specifi c Settings for navigating with an EV. Maps - Settings for customizing map.
+
+About - Map software stored data and version information.
+
+To access Navigation Settings:
+
+![](https://vinfastowners.org/manuals/images/7970fffa9460d559f5ac474db2e7e9a8ba5385ea620b465fa2b6f98fae26de4b.jpg)
+
+1. Tap App Library on the Infotainment screen.
+
+2. Tap Maps > Settings
+
+
+![](https://vinfastowners.org/manuals/images/4e36d3393e685452726469b70e215a56979303e1c1998be44b5a6efec04bf60e.jpg)
+
+![](https://vinfastowners.org/manuals/images/be0c99e4a64e08b21c440e64ae6d33e855a09819f5237670e293964bd618f303.jpg)
+
+# Navigation
+
+You can set Route Preferences and Guidance Options through Navigation Settings.
+
+![](https://vinfastowners.org/manuals/images/0c454cff9736b4871c07e94cd62003a445ce343c33b5a537f5dab19c14d44c2a.jpg)
+
+NOTE
+
+Route preferences will be applied to all route maps.
+
+# EV Settings
+
+Use EV settings to select the minimum state of charge allowed for the EV Battery at the end of a journey. The navigation system proposes a navigation route that ensures the minimum state of charge is maintained once the destination is reached.
+
+Upon reaching a waypoint or destination
+
+The system allows you to select an appropriate battery percentage for remaining journey before reaching a waypoint or destination.
+
+Tap any of the available options to set what battery percentage is to be remaining upon reaching a waypoint or destination.
+
+Upon reaching a Charging Station
+
+The system allows you to select an appropriate battery percentage for the remaining journey before reaching a charging station.
+
+Tap any of the available options to set a battery percentage to be remaining upon reaching a charging station.
+
+At a Charging Station
+
+The system allows you to set a charging percentage so that the battery is at a desired level upon arrival at a charging station.
+
+Tap any of the available options to set a target for the battery to charge to a desired level.
+
+# Map
+
+Following settings can be accessed in Map tab:
+
+Offl ine Maps POI Categories Theme
+
+Offl ine Maps:
+
+The Navigation system relies on Internet connection to cache and present map information on the Infotainment screen. This ensures map data is always up to date. However, you may select to download maps offl ine directly to the Infotainment system. Offl ine maps can be benefi cial in areas of poor or no Internet connectivity and can be enabled automatically if previously downloaded.
+
+To download a new Offl ine Map:
+
+1. Tap Map tab $>$ Offl ine Map.
+2. Tap Select map from catalogue.
+3. Select Continent from the list.
+4. Select Country/Region from the list.
+5. Tap Download icon.
+
+POI Categories
+
+Point of interest categories can be customized, this feature allows driver to select specifi c POI categories which will be displayed on the map.
+
+Following POI categories are available:
+
+Charging Station
+
+Map Select map from catalogue Parking
+
+About Food & Drink Service Center
+
+Shopping
+
+Hospital
+
+To select POI Categories:
+
+1. Tap Map tab $>$ POI Categories.
+2. Choose categories to display on springboard.
+
+Theme:
+
+This allows driver to change map themes as per requirement.
+
+To change theme:
+
+1. Tap Map tab $>$ Themes.
+2. Select desired theme to set.
+
+# About
+
+This page displays Software Version number. Also, you can delete history and all data from app. Default settings can also be restored from about page.
+
+To Clear History:
+
+1. Tap About tab $>$ Clear history $>$ Clear.
+
+To Clear all data:
+
+1. Tap About tab $>$ Delete all my data $>$ Delete.
+
+To Restore default settings:
+
+1. Tap About tab $>$ Restore default settings $>$ Restore.
+
+![](https://vinfastowners.org/manuals/images/b8ed3e0636ceeb6c8be9e50d704d0f6468d6ef18f2d62757051800c4519a3075.jpg)
+
+# NOTE
+
+If there is no historical data available or historical data has just been deleted. The delete option or delete icon will be disabled.
+
+# 7.6. Phone & Projection
+
+# Phone
+
+controls allows hands-free calling and receiving of phone calls.
+
+The Bluetooth capable Infotainment system in conjunction with the embedded Virtual Assistant and steering wheel
+
+A compatible Bluetooth phone must be connected to use the phone app.
+
+![](https://vinfastowners.org/manuals/images/dab959842df8738e90f8ac1fe583ccff0027540d4bd9cc344890b81112fe6971.jpg)
+
+# NOTE
+
+Not all Bluetooth phones support all functions.
+
+# CAUTION
+
+In order to minimize driver distraction, prior to driving and while the vehicle is parked:
+
+1. Complete all pairing of mobile devices.
+
+2. Familiarize yourself with all system functionality and controls.
+
+3. Organize contact and call lists clearly and avoid duplicates.
+
+
+To Launch the Phone App:
+
+1. Tap App Library
+
+on the Infotainment screen.
+
+2. Tap Phone App
+
+![](https://vinfastowners.org/manuals/images/b202d468c19ae0c492702906e69eaaaea6b58d6d4848edcebd5f6dd5cdc9721f.jpg)
+
+Using the Phone App:
+
+The following tabs/pages are available on the phone app:
+
+Recents – Shows all call history when phone connected Contacts – Lists all available contacts from phone Keypad – Allows manual entry and dialing of phone numbers
+
+![](https://vinfastowners.org/manuals/images/7cb7789efc4f553850e1856773e174fd4de0b411681d62508ba98a49a15a4c57.jpg)
+
+# NOTE
+
+Upon initial connection, please allow time for all contacts to be synced from phone.
+
+Steering Wheel phone button behavior:
+
+![](https://vinfastowners.org/manuals/images/58d6e8a423f102cf74742057cd867d0a833bac870acc77c62e8b80080d67fa8f.jpg)
+
+Certain Phone app functions can be controlled via the steering wheel Phone button
+
+. Based on which Phone app screen is currently active the phone button may perform a different task summarized below:
+
+|     |     |
+| --- | --- |
+| Function | Phone Button |
+| RecentContactsSearchKeypad | Short/Long press |
+| Incoming call | Short press to Accept callLong press to Reject call |
+| During an Active call/ Single call | Short/Long press to End Active Call |
+| 2 Active calls | Short/Long press to End Current Call & Switch to second call |
+| During an Outgoing call | Short / Long press to End Outgoing Call |
+| 1 Active call + 1 Incoming call | Short press to Accept Incoming Call and put 1 st Call on Hold.Long press to Reject 2 nd call |
+
+Phone App General Overview:
+
+# Phone
+
+![](https://vinfastowners.org/manuals/images/d6ffbbb619d3286f846c57d43229cef3dd761d8c446079ee664d8935900c47a6.jpg)
+
+|     |     |
+| --- | --- |
+| 1 | Recents |
+| ② | Contacts |
+| ③ | Keypad |
+| 4 | Setting (i available) |
+
+![](https://vinfastowners.org/manuals/images/28574189643ae9eafe81973dd52e4fb0c46c1721df171de765d613cbfa0e7c5e.jpg)
+
+# NOTE
+
+If DND is on, incoming calls are not allowed and are diverted as per phone settings.
+
+# Recent
+
+The Recent tab lets the user see past calls from their phone. The recent call list can be viewed by tapping on the Recent tab at the Phone app window. Tapping on any entry in the Recent list will initiate a call to that number.
+
+Types of call icons:
+
+|     |     |
+| --- | --- |
+|  | Incoming Call |
+|  | Declined or Missed Call |
+|  | Outgoing Call |
+|  |  |
+
+# Contacts
+
+Phone contacts can be viewed by tapping on the Contacts tab on the Phone app window. Contacts stored in the memory of a paired phone will be synced to the vehicle’s contact list. The contact list is synced each time the phone is connected to the system.
+
+![](https://vinfastowners.org/manuals/images/1eae3ce806f35a292146f556bdefac1dd35823ee169649c8469d7242ef4b88fd.jpg)
+
+# NOTE
+
+The search box appears in its disabled state if there is data indexed but the car is in motion and keyboard use is not permitted.
+
+To search for a contact:
+
+1. Tap Search
+
+![](https://vinfastowners.org/manuals/images/f546f3483c7405fac9c08ebae90720dc9b9c6f75d526cb0a2b883f1e62321ba5.jpg)
+
+icon on the contacts page.
+
+2. Enter Contact Name/Number in the Search fi eld.
+
+3. Tap Search.
+
+
+![](https://vinfastowners.org/manuals/images/2d9df5aa5e9cf82d998cd40fbda57866dd204ab8b82d353793f035bb234c8b8e.jpg)
+
+# NOTE
+
+Previously searched contacts will be displayed in Recent searches.
+
+Up to 10 recent searches are displayed in the recent list below the search text fi eld.
+
+# Keypad
+
+Dial the phone number manually using the keypad.
+
+To call a number, enter the phone number using the keypad. If the number entered matches with a saved contact, it will show the contact details on the screen.
+
+![](https://vinfastowners.org/manuals/images/0d3d22cdc0f0d393260dbba310fb4d360c338a513eb801516868f9e1ba991bfe.jpg)
+
+# NOTE
+
+Pressing and holding ${ } ^ { \\mathfrak { a } }$ will enter $^ { \* } + ^ { \* }$ in the text box.
+
+# Incoming Call
+
+During an incoming call, the caller ID will appear on the Infotainment screen. If the contact is saved in the user’s phone then the person’s name and number is also displayed. To answer an incoming call, tap on the green Accept button on the screen or short press the Phone button on the steering wheel. To Decline a call, tap on the Red Decline button on the screen or long press the Phone button on the steering wheel.
+
+The following options are available during a call
+
+Full Incoming Call Window
+
+![](https://vinfastowners.org/manuals/images/d755726548c84201196e6e3826bb6046462c48feb4b7e062f366c3a43ed0ac95.jpg)
+
+|     |     |
+| --- | --- |
+| 1 | Contact Avatar (if available) |
+| 2 | Contact Name and Number |
+| ③ | Reject Call |
+| 4 | Accept Call |
+
+Incoming Call Banner
+
+![](https://vinfastowners.org/manuals/images/5bca4fb764065a68679163c41a4c96dd024bbdf02f692e284d71fa903f3e4a48.jpg)
+
+When a new incoming call is present an Incoming Call notifi cation will appear on the Infotainment screen. The notifi cation will contain a caller ID, Accept and Decline options. Taping on the notifi cation will take the user to the incoming call window.
+
+![](https://vinfastowners.org/manuals/images/5df5874ae9307292aca5ae7f4d2ddc62aa3f8f65c3a16307219278e42149e469.jpg)
+
+# NOTE
+
+If the Do Not Disturb (DND) function is ON, incoming calls are not allowed and are diverted according to the mobile phone settings.
+
+Active call / Single Call:
+
+While a call is active the call duration and contact details will be shown.
+
+![](https://vinfastowners.org/manuals/images/e9f30888eae434c9d624d06ddba0f61d9eeb33f01dac385e62955c00ac2a7843.jpg)
+
+|     |     |
+| --- | --- |
+| 1 | Call Duration |
+| ② | Expand Keypad |
+| 3 | End Call |
+| 4 | Mute Call |
+| 5 | Switch to Handset Device |
+| 6 | Exit - Active Call Window. |
+
+![](https://vinfastowners.org/manuals/images/b3b699f3d330abbdf071c9b373e10eb955381b8a478523279b3bc02733c85cbc.jpg)
+
+# NOTE
+
+When the user exits the Active call window to use other apps or go to the home screen, the active call window minimizes and docks a card on top of the Infotainment screen.
+
+Incoming Call over an Active Call:
+
+![](https://vinfastowners.org/manuals/images/46ead1bf3e01ca9e80b4d4e8b2b6cada47296c73f24c0e0e2ac57be615398865.jpg)
+
+Accepting a second call will put the active call on Hold and switch to the new call. The call on hold will be displayed on the righ side of the Active Call window.
+
+Tap on the Caller ID to switch back to the call on Hold. This will put the second call on hold and it will be displayed on the right side of the Active Call window.
+
+# USB Ports & Power Outlets
+
+# USB Ports
+
+The vehicle is equipped with USB ports:
+
+Two USB ports are located on the Center Console beside the Cup holder.
+
+If equipped, three USB ports are located in the Rear of the Center Console below the Rear AC Vents.
+
+Front USB Ports
+
+![](https://vinfastowners.org/manuals/images/40aacd32b9ae4f85ab724899d721e011cf6407dcb74f4caeb118aac4a0f5686f.jpg)
+
+2x Type – A USB Ports.
+
+![](https://vinfastowners.org/manuals/images/c02bd535ab5384cac77aebb060d00a222ce222619bf4b1b563271312728b5c5a.jpg)
+
+# NOTE
+
+The port on the driver’s side can be used to transfer data (i.e. play music, connect Android Auto & Apple CarPlay) and charge devices.
+
+The port on the front passenger side can be used only for charging (capable of fast charging).
+
+Rear USB Ports (if equipped)
+
+![](https://vinfastowners.org/manuals/images/eaa4a1b032f79d71ac8119ea70f343d4bc9b3fdcd4b442218a842c6d590d3771.jpg)
+
+2x Type - A USB Ports.
+
+1x Type - C USB Port (90W).
+
+# 0
+
+# NOTE
+
+All rear USB ports are for charging devices only.
+
+Always disconnect the USB cable after use.
+
+The single USB Type-C port is rated at 90 W.
+
+![](https://vinfastowners.org/manuals/images/7c9223f66ebe5ef348775defdfea52c594d37798c9322086f3c53a9cfe484fe8.jpg)
+
+# CAUTION
+
+Connecting multiple devices using a USB hub is not recommended. This can prevent connected devices from charging or from being recognized by the Infotainment System.
+
+Unplug all accessories when not in use to prevent an electrical short if the unconnected end contacts another power source or liquid.
+
+![](https://vinfastowners.org/manuals/images/6774b1ba30b215498231f0b42d343dccb8ad3f65175a6163bc5416aed91fd428.jpg)
+
+# WARNING
+
+It is recommended to connect an input device only when the vehicle is stationary. Trying to connect an input device while driving may cause distraction and lead to an accident.
+
+# Power Outlet
+
+![](https://vinfastowners.org/manuals/images/4975a851c4df826c37ed24712eba6c39b5686867b020f1deef318fea738d66e4.jpg)
+
+The vehicle is equipped with a power outlet, located on the right side of the Center Console. To access the Low Voltage Outlet, remove the protective cap. The power outlet is suitable for accessories requiring up to a maximum of 12V / 120W.
+
+# CAUTION
+
+Only use 12V electric accessories which consume less than 120W.
+
+Some electronic devices and accessories can cause electronic interference when plugged into a Vehicle’s Power Outlet. These devices may cause excessive audio static and malfunctions in other electronic systems or devices used in the vehicle.
+
+Use devices equipped with batteries with reverse current protection. The current from the battery may fl ow into the vehicle’s electrical system and may cause system malfunction.
+
+Leaving electrical equipment plugged in for an extended period of time while the vehicle is off will drain the battery.
+
+Always unplug electrical equipment when not in use.
+
+# WARNING
+
+Close the Power Outlet cap when not in use.
+
+Do not allow children to use or play with the Power Outlet. Children may get seriously injured.
+
+Never use the Power Outlet for electric heaters while sleeping. Doing so can cause serious injury or death.
+
+Never insert foreign objects into the Power Outlet. Doing so can cause serious injury or death.
+
+Never use faulty electrical appliances. Doing so can cause serious injury or death.
+
+Never insert inappropriate or badly fi tting plugs into the Power Outlet. Doing so can cause serious injury or death.
+
+Never jump start a vehicle using the 12V Power Outlet.
+
+The power socket and an accessory’s connector can become hot. Touching hot surfaces may cause burning.
+
+# Wireless Charger
+
+If equipped, the wireless charger provided in the front console of the vehicle can charge Qi compatible devices wirelessly, providing output up to 15W. Place a Qi compatible device on to the charging pad to start charging. The wireless charger can be set to ON or OFF depending on the user’s preference.
+
+The charger will show charging status and any relevant notifi cations of the phone on the Infotainment Screen.
+
+![](https://vinfastowners.org/manuals/images/d8613bd4c80dc0391d8ab4b29c23cff6fd7a0ad30b8f37678afd55815098211d.jpg)
+
+# NOTE
+
+The vehicle must be on and all doors closed to enable wireless charging.
+
+![](https://vinfastowners.org/manuals/images/f9e3ea5421b6c7ef4fe7e8db0ec272b8ec5032a454a244d32441ddba6b310894.jpg)
+
+![](https://vinfastowners.org/manuals/images/d21b9d19d5b22722a72aa31f6cb5102d07d10225974ee57f032229cba1c13010.jpg)
+
+# NOTE
+
+To correctly charge the phone it must be in direct contact with the wireless charger.
+
+![](https://vinfastowners.org/manuals/images/fa1fcae10841f47cf6907c04da158f52892e080c6b5795c59c78c24652707977.jpg)
+
+# CAUTION
+
+Do not place objects between the phone and the charger (for example, credit cards, key cards, coins, keys, metal objects, etc.).
+
+Placing foreign objects such as coins, cards, keys etc on the wireless charger pad will trigger foreign object detection warning and cut of power supply to the charger.
+
+Near Field Communication (NFC) enabled cards may get damaged if kept on the wireless charger pad.
+
+Avoid spilling water or other liquids on the wireless charger, as excessive or repeated spillage can cause malfunction.
+
+The Lightning Bolt
+
+![](https://vinfastowners.org/manuals/images/ab98c3f98ef3231aca08a4360a7c052c2d1a69a4bd8e6c6df2ea3bc89867a4f8.jpg)
+
+icon in the status bar indicates when wireless charging is active.
+
+![](https://vinfastowners.org/manuals/images/7fba188bf86f00cf3ee8252b417087170bbf204cba51956bf0bffd63771286f6.jpg)
+
+NOTE
+
+When the device is completely charged the Lightning bolt icon disappears.
+
+To turn ON/OFF Wireless Charging :
+
+![](https://vinfastowners.org/manuals/images/70b53bcc9e5493c61ae4c51f9b1707cb2b198f5a18e404a5aa87d18e171eaa02.jpg)
+
+1. Tap the App Library
+
+icon on the Infotainment Screen.
+
+2. Tap Settings
+
+![](https://vinfastowners.org/manuals/images/8d5c9b987de4a0647890c18e7441d5bf2fba1c808b09b31c7807ff67c3c4347d.jpg)
+
+$>$ Vehicle Settings
+
+$>$ Wireless Charging
+
+3. Toggle to turn OFF/ON wireless charging
+
+![](https://vinfastowners.org/manuals/images/d652cb698b4104a69dbbe5ec77714d76ca7af0a9d9e05c6fd438f3a9d7d9b213.jpg)
+
+Wireless Charging Fault
+
+If there is a fault with the wireless charging system, a corresponding warning will be shown as a notifi cation on the Infotainment Screen. Contact a VinFast Service Center for resolution.
+
+# Android Auto™
+
+If available, Android Auto™ is used to mirror features of an Android device, such as a smartphone, on the vehicle’s Infotainment screen. Android Auto™ can be launched on the Infotainment screen when a compatible device is connected.
+
+![](https://vinfastowners.org/manuals/images/79a158fc042fcb970d6ead806ce98886dffc5efcc0c94ae017afc98b1049ec62.jpg)
+
+# NOTE
+
+Android Auto™ is provided by Google and is subjected to Google’s terms and conditions. Local data plan rates may apply.
+
+# Connecting to Android Auto™
+
+Android Auto™ can be launched by connecting a compatible device either via a USB cable or Bluetooth. For more information about connecting your device for the fi rst time, see $>$ Settings $\\geq$ Device Settings.
+
+![](https://vinfastowners.org/manuals/images/80cbefc8d31eaf285fc0c99cba95dd7ecd7c71a69f1e39d82993dc0b7fe51a1b.jpg)
+
+# NOTE
+
+Setup of Android Auto™ can be done only when the vehicle is in Park (P).
+
+To launch Android Auto™:
+
+1. Connect the android device to the vehicle via a USB cable or Bluetooth.
+2. Tap App Library
+
+on the Infotainment screen.
+
+3. Tap Android Auto™
+
+![](https://vinfastowners.org/manuals/images/85bb21c1c0c5ed14b7dc5613e65b492c81ea1d6aace2dbcf0db74885dbe8eb19.jpg)
+
+OR
+
+4. Long press the Voice Assistant (VA) button on the steering wheel controls.
+
+5. Follow the on-screen instructions to connect via USB or Bluetooth.
+
+
+If multiple audio sources including Android Auto™ are active and playing media then:
+
+Press the Source button on the steering wheel controls to switch to Android Auto™
+
+Android Auto™ can be launched by any of the following methods:
+
+Via pop-up after connecting with USB
+
+Via pop-up after connecting with Bluetooth Via Voice Assistant
+
+Via Device Settings
+
+Connecting via USB Cable:
+
+![](https://vinfastowners.org/manuals/images/33ae6e7ae73456c4487a77898a4bb9a5573f0e48d30f4cf57323342a79cc5583.jpg)
+
+6. Connect a compatible device to the vehicle via a USB cable.
+
+7. Tap Start
+
+
+to launch Android Auto™.
+
+Connecting via Bluetooth:
+
+![](https://vinfastowners.org/manuals/images/0cc7a4a6b7dd08a8eab7fe2556a94456e892f6d7fa3856043dc057792d9af9cc.jpg)
+
+8. Turn ON Bluetooth in your compatible device.
+
+9. Tap a Device Name
+
+
+![](https://vinfastowners.org/manuals/images/301438717cf4ad8d42f926a59dc9d6b920317bbe0525a71c7d561f788757cc38.jpg)
+
+in the Bluetooth list to start the pairing process.
+
+10. Tap on the Green check icon on the popup notifi cation.
+
+![](https://vinfastowners.org/manuals/images/cf1042135e46b2a7ecf328e9649b4483aa590c3e9d09db0671a5906f9118ddcc.jpg)
+
+11. Tap Pair in your device.
+
+12. Now your device will be displayed in the connected Devices list.
+
+13. A Pop-up card will automatically prompt to launch Android Auto™ for the paired device.
+
+14. Tap Start to launch Android Auto™.
+
+
+Launching via Device Settings:
+
+![](https://vinfastowners.org/manuals/images/356815aab7599e454ca4d3f68a9d1e803f8bb7ddf0654b9a64edc0ee2b98df8f.jpg)
+
+15. Tap App Library on the Infotainment screen.
+
+16. Tap Settings $>$ Device settings
+
+
+![](https://vinfastowners.org/manuals/images/af46be3eb50c76f8103dc6ddf8ffae90e629b9b47ad8f4f7863820ff8bd105d5.jpg)
+
+17. Tap Device list
+
+18. Tap Three dots
+
+
+![](https://vinfastowners.org/manuals/images/271066b292efa74b90b8d3087ac8addffaf0e6b1b6f75aad58289ada10f52014.jpg)
+
+icon.
+
+19. Tap Start Android Auto™
+
+![](https://vinfastowners.org/manuals/images/fcb30e2ba22f1947a229c9a8fc62b42a383e82713a72bb9b089f0451a2a27848.jpg)
+
+To disconnect Android Auto™:
+
+20. Disconnect the USB cable from the phone or the vehicle.
+
+21. Disconnect Bluetooth device from Bluetooth settings.
+
+22. Disconnect from Device Settings, see $>$ Settings $\\geq$ Device Settings.
+
+
+To use Google Assistant™ when Android Auto™ is connected :
+
+Long Press the Voice Assistant button on the steering wheel to wake up Google Assistant™.
+
+# Apple CarPlay™
+
+If available, Apple CarPlay™ is used to mirror features of an iOS device, such as a smartphone, on the vehicle’s Infotainment screen. Apple CarPlay™ can be launched on the Infotainment screen when a compatible device is connected.
+
+![](https://vinfastowners.org/manuals/images/57c6200e02b3bfeab0980b56d47759be0101e485b1239bea758c81c870574fe0.jpg)
+
+NOTE
+
+Apple CarPlay™ is provided by Apple and is subject to Apple’s Terms and Conditions. Local data plan rates may apply.
+
+# Connecting to Apple CarPlay™
+
+Apple CarPlay™ can be launched by connecting a compatible device via Bluetooth. For more information about connecting your device, see $>$ Settings $\\geq$ Device Settings.
+
+![](https://vinfastowners.org/manuals/images/9ff601d5a98da23f871d76665db256da67f4f40cf270fc337066b986ef6cce8d.jpg)
+
+# NOTE
+
+The setup of Apple CarPlay™ can be done only when the vehicle is in Park (P).
+
+To launch Apple CarPlay™:
+
+1. Connect the iOS device to the vehicle via Bluetooth.
+2. Tap App Library
+
+![](https://vinfastowners.org/manuals/images/50cbfdfc730d7ee9dda686c63263025bf95b3ae2b0b2459a9e99ee6b0049cf19.jpg)
+
+on the Infotainment screen.
+
+3. Tap Apple CarPlay™
+
+![](https://vinfastowners.org/manuals/images/d2e38735bd066adff64262e78ec218b6e8629e3f206ee5b74115fffa974ff838.jpg)
+
+OR
+
+1. Long press the Voice Assistant (VA) button on the steering wheel controls.
+
+2. Follow the on-screen instructions to connect via Bluetooth.
+
+
+Apple CarPlay™ can be launched by any of the following methods:
+
+Via pop-up after connecting with Bluetooth
+
+Via Voice Assistant
+
+Via Device Settings
+
+Connecting via Bluetooth:
+
+![](https://vinfastowners.org/manuals/images/c92ed61d604db59939d1b4b8b627ed87e7f61426d4c2b4dd4230179683a7185a.jpg)
+
+1. Turn ON Bluetooth in your compatible device.
+
+2. Tap a Device Name
+
+
+![](https://vinfastowners.org/manuals/images/e202b469e370b7bbb82fef290e40673aaa6a52851fd9ea877e89818dfd4c6746.jpg)
+
+in the Bluetooth list to start the pairing process.
+
+3. Tap on the Green check
+
+![](https://vinfastowners.org/manuals/images/1f8111c728f35e9712c263558748a706d181c6b0d0af842a784cf9828c7cd725.jpg)
+
+icon on the popup notifi cation.
+
+4. Tap Pair in your device.
+
+5. Now your device will be displayed in the connected Devices list.
+
+6. A Pop-up card will automatically prompt to launch Apple CarPlay™ for the paired device.
+
+7. Tap Start to launch Apple CarPlay™.
+
+
+Launching via Device Settings:
+
+![](https://vinfastowners.org/manuals/images/922bb7196e4e47f30be4e39d3c4c4911148bcd86615c354cdf87182ac7afd6c5.jpg)
+
+1. Tap App Library
+
+on the Infotainment screen.
+
+2. Tap Settings
+
+![](https://vinfastowners.org/manuals/images/64a980d84b7257381d3921005cf3b8bebff4adba5c7c49dc6657b165198c464d.jpg)
+
+$>$ Device settings
+
+3. Tap Device list
+
+4. Tap Three dots
+
+
+![](https://vinfastowners.org/manuals/images/56f9dfad60dbd5923f2f90853683ec8bf1bc628f28f9c60a1077e5fee64e913f.jpg)
+
+icon.
+
+5. Tap Start Apple CarPlay™
+
+![](https://vinfastowners.org/manuals/images/19e8ba90f9f374e2363004e8c7315b1035ca61b18f7dc0a97dd1606765d714dc.jpg)
+
+To disconnect Apple CarPlay™:
+
+1. Disconnect Bluetooth Device from Bluetooth Settings.
+
+2. Disconnect from Device Settings, see $>$ Settings $>$ Device Settings.
+
+
+To use SIRI™ when Apple CarPlay™ is connected :
+
+Long Press the Voice Assistant button on the steering wheel to wake up SIRI™.
+
+# 7.7. VinFast App
+
+# Overview and Key Features
+
+The VinFast App is a mobile application that provides various useful services for VinFast vehicles.
+
+The information about the VinFast App’s features in this user guide is for reference only. The actual interface and functions may vary depending on the region, vehicle model, and release time.
+
+Some of the highlights of the VinFast App may include:
+
+Viewing battery charging status and vehicle condition.
+
+Using remote control features such as the air conditioning system, door locks, etc.
+
+Searching for charging station information, scheduling service appointments, or requesting roadside assistance. Planning trips and sending them directly to the vehicle (if available).
+
+Viewing the current vehicle status.
+
+Accessing the user manual.
+
+# CAUTION
+
+The VinFast App requires either a WiFi or cellular connection. Data fees may apply.
+
+# Registration and Sign In
+
+To use the VinFast App, you need to download the app and register an account.
+
+To download the App:
+
+1. Visit the Apple App Store (iOS) or Google Play Store (Android).
+2. Search for and download the VinFast App.
+
+To register:
+
+1. Open the app and tap Sign Up on the login page.
+2. Read and agree to the Terms & Conditions.
+3. Enter a Username (email address) and create a password.
+4. Check your inbox for a verifi cation email and confi rm your registration.
+5. Set up Fingerprint / Face ID (optional).
+
+To Sign In:
+
+1. Tap the VinFast icon on your phone to open the app.
+2. Enter your registered email and password.
+
+Forgotten Password:
+
+If you forget your password, you can reset it by:
+
+1. Tapping Forgot Password at the bottom of the login page.
+2. Entering your registered email address.
+3. Tapping Reset Password.
+4. Checking your email and following the instructions to create a new password.
+
+# Vehicle and User Management
+
+# Guest Homepage
+
+Before owning a VinFast vehicle, you can use the app to explore detailed specifi cations and services. When you launch the app and register, the guest home page will appear.
+
+# Linking VinFast App with a vehicle
+
+Vehicle Owner
+
+When purchasing a VinFast vehicle, the dealer will assist you in creating a VinFast ID, which identifi es you as the vehicle owner.
+
+Use the email address registered with your VinFast ID when creating your account in the VinFast App for automatic linking to your vehicle.
+
+If the vehicle information does not sync automatically in the app or if your vehicle is not linked to your account, please contact your VinFast dealer for support.
+
+For Secondary Drivers
+
+You can also add or remove secondary drivers to use the VinFast App.
+
+1. Contact the vehicle owner and ask to be added as a driver.
+2. The owner will use Role Management to add the additional driver’s ccount to their vehicle.
+3. The additional driver should provide the same email address they used to register the VinFast App.
+4. The vehicle owner will send an invitation for the additional driver to add a vehicle.
+
+The additional driver may:
+
+Access and control owner’s vehicle using the VinFast App.
+
+Add / Remove one additional driver account.
+
+1. Home - VinFast ID. Tap on General Info on the Guest Homepage for more information.
+
+# Overview of the Owner’s Home Page
+
+The home page provides users with key features, including:
+
+Current vehicle information
+
+Remote control (if available) Battery and charging status Driving assistance (if available) Vehicle settings
+
+Vehicle services
+
+Notifi cations
+
+Switching between owned vehicles
+
+# Current Vehicle Information
+
+Displays an overview of the vehicle, including:
+
+Battery capacity Estimated driving range Vehicle status (parked or in motion) Total mileage
+
+![](https://vinfastowners.org/manuals/images/cb59261f9c8eb77bb1d1d1b0df6f2a045397ef232865753faf0aef3583e0ab40.jpg)
+
+NOTE
+
+These details may vary depending on the vehicle model or market.
+
+# Remote Control (if available)
+
+If supported, this feature allows quick access and control of certain vehicle settings, such as: Air conditioning control, door locking/unlocking...
+
+NOTE
+
+Features may differ based on the vehicle model or market.
+
+# Battery and Charging
+
+The VinFast App provides battery and charging status to help you monitor and manage your vehicle effi ciently.
+
+To access Battery and Charging details: Tap Battery & Charging from the home page
+
+Battery & Charging Page Displays:
+
+Charging target
+
+Battery level $( % )$ Charging status
+
+Battery leasing information (if applicable)
+
+Nearby charging stations and availability
+
+To change the charging target (if available):
+
+1. Tap Charging Level.
+2. Use the slider to set a new target.
+3. Tap Save.
+
+Battery leasing (if available):
+
+VinFast offers a battery leasing option for customers. This feature allows you to track leasing details.
+
+Charging History:
+
+Tap Charging History to view past charging sessions by date.
+
+Each session includes:
+
+Charging date & time Charging cost
+
+# Driving Assistance (if available)
+
+This feature is only applicable to vehicles equipped with advanced driver assistance systems (ADAS).
+
+# Vehicle Settings
+
+Some features may not be available depending on your vehicle version and region.
+
+Features include:
+
+Software updates (if available) Vehicle information Virtual assistant (if available) Driving data
+
+Vehicle Software Updates
+
+You will receive a notifi cation when a new software update is available. Check notifi cations or go to Vehicle Software Updates for details.
+
+Virtual Assistant (if available)
+
+The virtual assistant allows you to control the vehicle using voice commands.
+
+Open the Virtual Assistant section. Add a new command or select a suggested command.
+
+Vehicle Information
+
+Provides details related to your vehicle.
+
+Driving statistic
+
+Driving statistic includes:
+
+Distance
+
+Energy
+
+Energy electricity
+
+# Services
+
+Some vehicle support services may not be available, depending on your vehicle version and market.
+
+Available services:
+
+Service booking Roadside assistance Vehicle alert Test drive
+
+Service booking
+
+The VinFast App allows easy scheduling of service appointments.
+
+To book a service:
+
+1. Tap Book Service in the Vehicle Services section.
+
+2. Fill in the required information and follow the instructions.
+
+3. A confi rmation notifi cation will appear in the app.
+
+
+Your request details will be stored in the Notifi cations section.
+
+Roadside Assistance
+
+The VinFast App allows you to request roadside assistance directly from your mobile device.
+
+To request roadside assistance
+
+1. Tap Roadside Assistance in the Vehicle Services section.
+2. Tap Create A Request.
+3. Fill in the required information and follow the instructions.
+
+A confi rmation notifi cation will be displayed in the app.
+
+Vehicle Alerts
+
+You can check for any vehicle warnings in the VinFast App. Even if someone else is driving the car, you will receive alerts about any detected issues.
+
+Based on the type of warning, the app may suggest:
+
+Booking a service appointment Requesting roadside assistance Referring to the user manual with a direct link
+
+To check for vehicle alerts:
+
+1. Tap Vehicle Alerts in the Vehicle Services section.
+2. A list of current alerts will appear (if any).
+3. Tap an alert for more details.
+4. Follow the prompts to book a service, request roadside assistance, or view the relevant user manual section.
+
+All actions related to vehicle alerts will be synced with your vehicle.
+
+Test Drive
+
+The app provides an interface for booking test drives for VinFast vehicles.
+
+# Notifi cations
+
+Please note that app functionality may vary depending on your country, vehicle model, or app updates. The VinFast App may send notifi cations and messages at any time.
+
+Notifi cation Types:
+
+Vehicle alerts Transaction activities Messages from VinFast
+
+To access notifi cations:
+
+1. From the Home Page, tap the notifi cations icon.
+
+![](https://vinfastowners.org/manuals/images/40ac8748582d08776365d29b4ed3a32a5e44a832ef3094b913befc2818b59299.jpg)
+
+2. Use the search bar to fi nd specifi c notifi cations or browse the list.
+3. Filter notifi cations by type.
+
+# Switching Between Owned Vehicles
+
+This feature allows users to switch between multiple owned vehicles and view their details.
+
+To switch vehicles: Tap the switch icon in the top corner of the screen.
+
+# Maps
+
+# Maps overview
+
+![](https://vinfastowners.org/manuals/images/e2893ee8e69bd55711f0cb7cc188234f44a47e7121f964cf6a5f4171b6cbfbd1.jpg)
+
+|     |     |
+| --- | --- |
+|  | Search bar |
+| 2 | Quick search |
+| 3 | Find my car |
+| 4 | Location tracking |
+| 5 | Map view |
+
+# Find location
+
+Search for your destination by entering an address in the search bar or selecting from quick search suggestions.
+
+# Find My Car
+
+To locate your vehicle, tap the Find My Car button. The app will pinpoint its location and display key details about your car.
+
+# Map View
+
+In addition to the default view, you can select additional map features such as:
+
+Satellite view Traffi c conditions Dark mode
+
+# Shopping
+
+This section provides information about:
+
+Your orders
+
+Current VinFast vehicle models
+
+Car accessories
+
+You can easily track your order status, explore the latest VinFast models, and fi nd suitable accessories for your vehicle.
+
+# Account
+
+This section provides key features such as:
+
+Promotional offers Payments Settings Help & Support My Vehicles
+
+# Payments
+
+You can choose to pay via credit card or ATM card.
+
+To add a payment card:
+
+1. Go to Payment Methods.
+2. Tap Add Card.
+3. Select your card type.
+4. Enter the required details.
+5. Tap Save.
+
+# NOTE
+
+You can add multiple cards and set a primary payment card.
+
+To make a payment:
+
+1. Tap Bill List.
+2. Select an invoice to pay (Charging / Battery subscription).
+3. Tap Pay and follow the instructions.
+4. A confi rmation notifi cation will be sent after successful payment.
+
+![](https://vinfastowners.org/manuals/images/073f5e360cd545c752d95b2eba4b5669fd28b577a880af6e35d4b38637897072.jpg)
+
+# NOTE
+
+If you have a pending invoice, a payment reminder will appear on the home screen.
+
+# Settings
+
+Users can customize and access the following key functions:
+
+|     |     |
+| --- | --- |
+| Feature | Description |
+| Setting | Customize language, measurement units, notifications |
+| Driver Management | Transfer vehicle ownership, add secondary drivers |
+| Account Information | Edit owner name and phone number |
+| Password & Security | Reset password, delete account, login options |
+
+# Help & Support
+
+This section includes:
+
+FAQs
+
+Support Requests About App Owner Manual
+
+Terms & Conditions
+
+# 7.8. Climate Control System
+
+# Climate Controls
+
+The climate control system cools, heats, fi lters and dehumidifi es the air in the passenger compartment. Generally, the system works most effi ciently when the windows are closed.
+
+# Climate Control Overview
+
+To open Climate Control Menu:
+
+Climate Control Menu can be accessed by any of the following methods:
+
+Tap Fan button icon on the Climate Control Bar.
+
+Front Zone Controls
+
+Below is an overall description of all the functions that can be equipped on the vehicle. Therefore, depending on the market and vehicle variant ,the display of some functions may vary or may not be available on your vehicle.
+
+![](https://vinfastowners.org/manuals/images/c31cc249868f8deca4e788868918f25c99bd81a4034cae0e2add68f3d99d2c0e.jpg)
+
+|     |     |
+| --- | --- |
+|  | On/Off AC |
+|  | Auto mode |
+| 3 | Maximum air conditioning ON / OFF |
+|  | Ar oniff |
+| 5 | cirulationAut/nside/Outside:OfAuto/Inside/Outside: |
+| 6 | Defrost toggle ON/OFF |
+|  | Temperature controls (Passenger zone) |
+| 8 | Fan button (To open climate screen) |
+| 9 | Temperature controls (Driver zone) |
+| 10 |  |
+| 11 | futol. |
+|  | Sync temperature of all zones off/on |
+| (13) | Control heated steering wheel (if available) |
+| 14 | Temperature controls (Driver zone) |
+| 15 | Seat controls (Control cooling & heating level) (if available) |
+| (16) | Temperature controls (Passenger zone) |
+|  | Fan speed adjustment |
+
+# Cooling / Air-Conditioning
+
+To turn on/off the Air Conditioning system:
+
+1. Tap on the A/C button to turn the air conditioning On. 2. Tap on the A/C button again to switch Off air conditioning.
+
+![](https://vinfastowners.org/manuals/images/321a73aa322d66dd01534ffef298a2ae7728fef27d07fb7d7326c4f518ae5ad9.jpg)
+
+# NOTE
+
+Water may drip from underneath the vehicle when it is in cooling mode. Traces of water on the ground are normal and are not a sign of leakage or malfunction.
+
+If no cooling is required, switch off the A/C cooling system to increase range effi ciency.
+
+Under certain conditions when the vehicle is charging, the A/C cooling performance may be reduced. For example, when using Fast Charging while in hot ambient conditions, the vehicle prioritizes the battery cooling, to ensure optimum life and performance of the battery.
+
+# Maximum Cooling
+
+To turn on/off the Maximum Cooling:
+
+2. Tap again to turn it Off.
+
+3. Tap on Max A/C icon to activate maximum cooling mode.
+
+
+Air Vents
+
+![](https://vinfastowners.org/manuals/images/2f84e0295dadd6ab82eaa70da368fb1b4b5bb22c1068d6e66a17c4e50b9f0dfd.jpg)
+
+|     |     |
+| --- | --- |
+|  | Windscreen Defog Vents |
+|  | Front Side Windows Defog Vents |
+| 3 | Front Side Air Vent |
+| 4 | Front Central Air Vent |
+| 5 | Front Footwell Air Vent |
+| 6 | Rear Air Central Vent |
+
+![](https://vinfastowners.org/manuals/images/580d8e05522d160c781e57d1228bd13751ed619f89e10bd61ddf95eaad0f4143.jpg)
+
+# NOTE
+
+The air distribution can be adjusted by pressing the appropriate buttons on the Infotainment screen, see $>$ Climate Control System $>$ Air Temperature, Speed and Distribution.
+
+# Adjustable Vents
+
+Adjustable air vents are provided on the dashboard and rear
+
+![](https://vinfastowners.org/manuals/images/5c141c4fc7d781ebdc0d7742428f7142c7031d2c0db967c7224cb87120ffab66.jpg)
+
+![](https://vinfastowners.org/manuals/images/30acd5d53a513543c8b890659b92f2114779be1d8f7d2686e12f25c2daf45da6.jpg)
+
+To adjust Air Vents:
+
+Move the knob on the air vent (left/right/up/down) in the desired direction.
+
+![](https://vinfastowners.org/manuals/images/082d4bdd6ecedc71dc4f681eedac1b17c77a3fc2cdd42cafd50ad12f6ec8e30c.jpg)
+
+# NOTE
+
+The Climate Controls can be switched ON only if the blower is ON and the e-motor is running.
+
+# CAUTION
+
+Do not place objects over the air vents.
+
+Ensure the air intakes at the base of the windshield are clear of ice, snow or any other debris such as leaves. Blockage of the intakes may prevent air fl ow into the vehicle affecting the performance of the climate controls.
+
+# Air Temperature, Speed & Distribution
+
+# Temperature
+
+The driver and passenger can adjust the cabin temperature to suit their individual comfort needs.
+
+Temperature settings can be adjusted from both front and rear (if equipped) Infotainment screens.
+
+To adjust the cabin temperature:
+
+![](https://vinfastowners.org/manuals/images/a29fb405876cfba75c49ef89af1dfe3a43543259ec97fb4c95d7b92f347899ad.jpg)
+
+1. To decrease the temperature, tap $( > )$
+
+2. To increase the temperature, tap $( < )$
+
+3. Use button
+
+
+![](https://vinfastowners.org/manuals/images/fe442435af04a56cc54daadc026ba07b8f37a0092546df5e24a225f16ca8eb70.jpg)
+
+to adjust driver side area temperature.
+
+4. Use button
+
+![](https://vinfastowners.org/manuals/images/3ef40d9118a09936eeda0401c999000ea2e0b67ea5e6297172d060b38536b87b.jpg)
+
+to adjust passenger side area temperature.
+
+5. To adjust the temperature for the third row, select the third-row control button and adjust the temperature in the same manner as the front row.
+
+![](https://vinfastowners.org/manuals/images/b322f3deb806d215e1486057b7876f922f4e64a82425e3e76db6cf7b12939029.jpg)
+
+# NOTE
+
+In cold conditions it will take few minutes for the heater to warm up and reach a desired temperatures.
+
+# Air Flow
+
+To adjust the air fl ow following options are available:
+
+![](https://vinfastowners.org/manuals/images/a862a188cc7268b631cbf7bdf6163a8baeed317ed8807d0fbd8d9aaaf30464d4.jpg)
+
+To open Climate Control card, tap Fan icon
+
+To change fan speed, tap or Press & Swipe
+
+![](https://vinfastowners.org/manuals/images/af1c97ab3a2780e5ed8d62408cd04d3e42c435874b2bacc41b77a70d6b06473b.jpg)
+
+![](https://vinfastowners.org/manuals/images/f0f218063133a3b5a790f826b4d545b5d7d53825724f218c559ede6aab42d43c.jpg)
+
+Alternatively, Press and Hold the fan icon then move the slider left OR right to adjust fan speed.
+
+If the fan is switched OFF the Climate Control is also Deactivated.
+
+# Air Distribution
+
+To adjust Air Distribution throughout the cabin:
+
+![](https://vinfastowners.org/manuals/images/7fdcf040237ec1961edf9ac05310543ecfe2438a767f1ce4288cff9b31bfc022.jpg)
+
+# Automatic Operation
+
+The Climate Control System controls the fan speed, air distribution, temperature, and recirculation. In addition, it also governs the operating temperature cycles of the air conditioning system. When AUTO mode is activated, the system makes changes in the cabin according to the ambient temperatures.
+
+To activate AUTO mode:
+
+1. Open Climate Controls drawer.
+2. Tap AUTO
+
+icon.
+
+# 0
+
+# NOTE
+
+The climate control system will switch from AUTO Mode to Manual Mode, if the fan speed, blower direction, A/C, Max A/C, or defog mode are changed manually.
+
+Recirculation may be automatically selected in hot ambient conditions, to increase the speed of cooling of the cabin and to reduce energy consumption.
+
+For convenience and comfort the following is recommended:
+
+Tap AUTO.
+
+Open all air vents, for optimized air distribution.
+
+Set desired temperature for best comfort.
+
+# Manual Operation
+
+The driver can control and adjust all climate control settings manually.
+
+To activate manual mode when auto mode is activated:
+
+1. Manual mode is activated when any of the following settings are manually changed; fan speed, blower direction, Windshield mode, A/C, Max A/C.
+
+The following settings can be controlled when the MANUAL mode is activated:
+
+![](https://vinfastowners.org/manuals/images/71a5fff146e61449274e38558852c4cbc8fd7ecd00870a2b961cd3e6c77ed197.jpg)
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| Function | State On / Off | Description |
+| A/C |  | A/C | A/C | Turn A/C ON and OFF. |
+| Max A/C | Max A/C Max AC | Turn Max A/C ON and OFF. |
+| Recirculation | <A | Tap to switch between different recirculation modes. |
+| Air Flow Distribution |  |  |
+|  | > | Tap to change air flow mode. |
+| ^j | 7 | V |
+| Temperature / Air Flow | Swipe left/right to Temperature increase/decrease temperature. |
+| \\* \\* Fan speed |
+
+![](https://vinfastowners.org/manuals/images/b5cff3c9ed2d504a3967db020605d50b76e37a45f3dff7c15cabd88ceffccd16.jpg)
+
+# Front Windshield Defog
+
+Use this feature to defog the Front Windshield.
+
+To turn ON front windshield Defog:
+
+1. Tap Front Defog icon.
+2. The icon will illuminate
+
+![](https://vinfastowners.org/manuals/images/d79511b24c494a30e72e120f456b497095ef70f0b398d4dad8deab3c77031ac9.jpg)
+
+to indicate that Front Defog Mode is active.
+
+To turn OFF front windshield Defog:
+
+Tap Front Defog icon to deactivate.
+
+![](https://vinfastowners.org/manuals/images/3d3ff01e244502a952c142cb99335a83a672b921304b7339b979d4b95f4a445f.jpg)
+
+# NOTE
+
+In warm and very humid ambient air conditions, the windshield may mist up from the outside when cold air is directed at it.
+
+If the windshield mists up from the outside, activate both windshield wiper and defrost at the same time.
+
+![](https://vinfastowners.org/manuals/images/bbb6e3452ddf2acc2ea1c9ebb9ea87eabd272b9b648c3f9861c925b6e3f47015.jpg)
+
+# CAUTION
+
+Always use defrost/defog function to melt the ice. The windshield and/or wiper blade may be damaged if wipers are used with ice or snow accumulation.
+
+An ice/snow scraper can also be used to clean the windshield. Be gentle in using the scraper so as not to damage the
+
+![](https://vinfastowners.org/manuals/images/8022193edd6186a29a5b8249608c5aab5be35e774cedc9c4d70ce704f03199c6.jpg)
+
+# WARNING
+
+Do not defog the windshield using cold air directed towards the windshield. This may lead to fogging up of the windshield and cause poor vision, which may result in an accident, serious injuries, or death.
+
+# Cabin Filtration
+
+The Climate Control System fi lters the incoming air to remove dust, pollen, and contaminants. Replace the Cabin Air Filter as per the specifi ed maintenance schedule, for better performance. See $>$ Cabin Air Filter for replacement instructions.
+
+While driving through very dusty or polluted air, it is recommended to use the Recirculation mode to reduce the amount of contaminants entering the vehicle cabin.
+
+# Air Ionizer
+
+If equipped, the Air Ionizer is a feature that adds ions to the air to trap air contaminants. Harmful particles and germs in the air can be reduced by ionization. This helps to improve air quality for individuals in the passenger compartment and aids in cabin fi ltration.
+
+To activate the Air Ionizer:
+
+![](https://vinfastowners.org/manuals/images/2da5aa394352cd77c5247505d99350ce00569f4a95ce7496b49cf796c9ed330e.jpg)
+
+1. Open the Climate Controls drawer.
+2. Tap Air Ionizer icon.
+
+![](https://vinfastowners.org/manuals/images/37d385f66b54dcf708338dd4ede9e1a3bf1510edc6eacca1497fffd17887dd22.jpg)
+
+# NOTE
+
+Regular cleaning of the vehicle interior is recommended, as this will help maintain the Cabin Air Filter and Climate Control System.
+
+# Recirculation Mode
+
+Recirculation mode circulates air within the vehicle’s cabin.
+
+Following modes are available for air circulation:
+
+|     |     |     |
+| --- | --- | --- |
+| Type of Mode | Icon | Description |
+| OUTSIDE | D | When OUTSIDE mode is selected, fresh air from outside is drawn intothe vehicle cabin. |
+| INSIDE |  | When Inside/Recirculation mode is selected, the air inside the vehiclecabin is filtered and recirculated. |
+| AUTO C | When Auto mode is selected, Recirculation mode is controlledautomatically. |
+
+To change Recirculation mode:
+
+1. Open the Climate Controls drawer.
+2. Tap Recirculation
+
+icon.
+
+# 0
+
+# NOTE
+
+Recirculation mode will turn OFF automatically after a set period of time.
+
+To ensure optimal performance of the climate controls system, keep the exterior air intake vents clean at all times.
+
+Switch OFF Recirculation mode when it is no longer required.
+
+# CAUTION
+
+You should not use the outside air intake mode when it’s raining, as there is a risk of bringing moisture or water into the car.
+
+Do not continuously use Recirculation mode in Normal Conditions, as less fresh air is not drawn into the cabin and the quality of air inside the cabin can deteriorate with time.
+
+![](https://vinfastowners.org/manuals/images/42bc0b1b28097f0a3b086845b54f2aed56643155a5a7a263488c629d43b6c54c.jpg)
+
+# WARNING
+
+Avoid keeping Recirculation mode ON and Cooling OFF as it will increase the humidity inside the vehicle cabin causing the windshield and windows to fog up. This will result in bad visibility which may result in an accident causing severe injuries.
+
+# Climate Control System Maintenance
+
+![](https://vinfastowners.org/manuals/images/06acd5ab235be872da5dbe2de3c22b83786304c897bb0a9cfc42cfba3b7ca332.jpg)
+
+# Air Intake
+
+The exterior air intake vents located in front of the windshield must be kept clean to allow air fl ow into the Climate Control System. Remove leaves, debris, dirt and snow.
+
+Passenger compartment air fi lter maintenance
+
+The cabin air particle fi lter removes pollen, dust, and soot particles from the air inside the vehicle. The fi lter should be replaced as part of routine maintenance. Refer to the Vehicle Maintenance Schedule, see $>$ Maintenance Schedule $>$ Maintenance Schedule Overview.
+
+For instructions on how to replace the cabin air fi lter, see $>$ Fluids, Lubricants and Parts $>$ Cabin Air Filter.
+
+![](https://vinfastowners.org/manuals/images/a2b552fc83f3525b2211e4fd0c4a714ac015847215006678235203cd25d2bdad.jpg)
+
+# NOTE
+
+If the vehicle is driven in highly polluted or dusty conditions, it is recommended to inspect and replace the fi lter more often.
+
+Regular operation of the AC System
+
+The air conditioning (AC) needs to be used for a few minutes each month, regardless of the weather and time of the year. This is to ensure that components within the Climate Control System remain lubricated.
+
+Servicing of the Climate Control System
+
+In order to obtain the best performance from the Climate Control System, it must be maintained properly and periodically. Refer to the Vehicle Maintenance Schedule for details, see $>$ Maintenance Schedule > Maintenance Schedule Overview.
+
+The maintenance includes the following:
+
+Heating and cooling performance check. Inspection for any leakage. Replacement of the refrigerant and pressure testing, if required. Cleaning of the condenser and evaporator drain tube. Air fi lter replacement, see $>$ Fluids, Lubricants and Parts $>$ Cabin Air Filter.
+
+# CAUTION
+
+Before any connection is disconnected, the refrigerant must be removed and recovered from the system by a trained and certifi ed technician.
+
+Use only the approved refrigerant and air-conditioning compressor oil. Using non approved material may lead to permanent damage to the vehicle.
+
+Venting refrigerants directly to the atmosphere is harmful to the environment and may also create unsafe conditions based on inhalation, combustion, frostbite, or other health-based concerns.
+
+![](https://vinfastowners.org/manuals/images/6c43fbe82205c5ae9df6a661f7c1f97f2d8475567b63add660e426dc42c7d3ae.jpg)
+
+# WARNING
+
+Servicing must be completed by a trained and certifi ed technician. The refrigerant is toxic and must be contained. Failure to follow the above may lead to serious injury or death.
+
+# Rear Defog
+
+The rear windshield and a portion of the rear windows can be defogged using Rear Defog function.
+
+To turn on the rear windshield defog:
+
+1. Tap Rear Defog icon.
+2. The
+
+![](https://vinfastowners.org/manuals/images/eb87c5e792ca53903d27e6fb4317395ad9af30df49962b3931042f26ad80eef7.jpg)
+
+icon will illuminate to indicate that the Rear Defog function is ON.
+
+![](https://vinfastowners.org/manuals/images/abbe962a45586259da3e212150521f6882228c6c654be72063d18c8f80913040.jpg)
+
+# NOTE
+
+The rear defog will automatically turn OFF after approximately 20 minutes of continuous use.
+
+Rear Defog can be turned ON only when the vehicle is in E-motor running state or driver present.
+
+# 7.9. Settings
+
+# Settings Overview
+
+Use Settings App to control and adjust some of the Infotainment and Vehicle features and functions.
+
+Following is the list of available Settings menu:
+
+|     |     |     |
+| --- | --- | --- |
+| 0Device Settings | Manage device connection settings |
+| Wi-Fi | Connect and manage Wi-Fi and Hotspot Settings |
+| Voice assistant (ifavailable | s) | Adjust Voice Assistant preferences |
+| Sound | ) | Adjust sound preferences and volumes |
+| Theme |  | Adjust Wallpaper, Trip and Heads-up display Settings |
+| Security Settings |  | Adjust Geo-Fence, Time-Fence, Valet mode and Theft alert Settings |
+| Vehicle Settings |  | Manage Seat, Mirrors, Doors, Wipers and Wireless Charging Settings |
+| Light Settings |  | Adjust Vehicle Exterior, Interior and Ambient Lighting Settings |
+| General Settings |  | Adjust Date & Time, Language and Unit Settings |
+| About |  | Know your software version, Factory Reset and Adjust eSim settings |
+
+To access the Settings App:
+
+From Home page
+
+1. Tap App Library
+
+on the Infotainment Screen.
+
+2. Tap Settings
+
+![](https://vinfastowners.org/manuals/images/a07d16db39fcc8abb4f664e91b94d23adec168a022cd04b5f2a1c7979e67e8c9.jpg)
+
+# Search Settings
+
+Use the search feature to quickly navigate to a desired settings page by typing a keyword.
+
+To search for a setting:
+
+1. Tap Search
+
+![](https://vinfastowners.org/manuals/images/ac82e85d537295a03710c194211946c59ccd283ebe8cece5fc39784158351d64.jpg)
+
+icon, from the Settings App.
+
+2. Enter Name of Setting in the search fi eld.
+
+3. Tap Search.
+
+
+# Vehicle Settings
+
+Use Vehicle Settings to customize functions of the following:
+
+Seat
+
+Side Mirrors
+
+Doors
+
+• Wipers
+
+Wireless Charging (if equipped)
+
+Extension (if available)
+
+To access Vehicle Settings:
+
+1. Tap App Library on the Infotainment Screen.
+
+2. Tap Settings
+
+
+# Seat
+
+Child Presence Detection (if available): Alerts if a child is left behind in the vehicle.
+
+Warning levels of Child Presence Detection
+
+Level 1:
+
+A warning will be triggered and displayed on the infotainment screen if a child is detected sitting in any seat of the vehicle, all doors are closed, and no adults are present in the vehicle. The warning indicates that there is a child in the vehicle and information about the current temperature in the cabin.
+
+Level 2:
+
+The system will continue to sound warning and send a notifi cation via VinFast App to alert the driver. The HVAC system will automatically turn ON to make the child comfortable.
+
+Level 3:
+
+The system will trigger an eCall warning if the battery state of charge becomes critically low $( < 1 5 % )$ and the climate control system is no longer able to maintain a safe cabin temperature
+
+# Side Mirrors
+
+Auto Fold When Locked: The side mirrors will fold automatically when the doors are locked. Auto Tilt on Reverse: The side mirrors will tilt down automatically when the vehicle is in Reverse (R).
+
+# Doors
+
+Door unlock when vehicle unlock - Select driver door or all doors to be unlocked when the unlock button is pressed on the key fob. Door lock when Park - Enables automatic doors unlocking when the vehicle is in Park (P).
+
+Unlock / Lock Feedback - Select feedback type when vehicle is locked / unlocked - OFF/Light/Horn/Both. Walk - Away lock: Automatically locks the door when driver walks away from the vehicle with key fob - OFF/ON.
+
+# Wipers
+
+Auto Rear Wiper: When required, the rear wipers will be activated automatically - OFF/ON. Wiper Service Mode: Sets windshield wipers in service position to change wiper blades. This feature is only available if the brake is not pressed to start after unlocking the vehicle - OFF/ON.
+
+# Wireless Charging (if equipped)
+
+Wireless Charging: Enable/Disable the wireless charging pads - OFF/ON.
+
+# Extension (if available)
+
+o Trip Button Customization: Customize the trip button on the left stalk to quickly access your preferred functions - Trip/Drive Mode/Regen Level... - You can press the trip button to quickly switch between Trip/Drive modes/Regen Level...
+
+# Device Settings
+
+Use Device Settings to manage connection between the vehicle and portable media devices. Device Settings enables you to:
+
+Search for and pair a new phone or media devices
+
+Switch between connected devices Disconnect or delete existing devices
+
+Manage connection settings for individual devices
+
+To access Device Settings:
+
+1. Tap App Library on the Infotainment screen.
+
+2. Tap Settings $>$ Device Settings.
+
+
+A device can be connected by any of the following methods:
+
+Via Bluetooth - Go to Bluetooth settings on your device and select “VinFast\_VF7”.
+
+Via USB port - See $>$ USB Ports and Power Outlets.
+
+Via Device Connect - Select an available device from Device List.
+
+The system will request confi rmation of a Pass Key between the Bluetooth device and Infotainment screen when pairing a Bluetooth device for the fi rst time. Please check for popups on the device.
+
+0
+
+# NOTE
+
+The default name of the vehicle is “VinFast\_VF7”. To rename, see $>$ Setting $\\geq$ About. To pair a device via Bluetooth, the vehicle should be stationary.
+
+# Device List Overview
+
+Device List will show following:
+
+Connected device Devices available to connect
+
+Previously connected devices Current connection type
+
+To Disconnect a device:
+
+1. Tap Three dot
+
+icon on the right side of device name.
+
+2. Tap Disconnect.
+
+To Forget a device:
+
+1. Tap Three dot
+
+icon on the right side of device name.
+
+2. Tap Forget.
+
+# Advanced Settings Overview
+
+Use Advanced Settings to enable following:
+
+Android Auto - Enables Android Auto for all connected devices.
+
+Pre-shared Key for Wireless Connection - Enables reset of the pre-shared key.
+
+# Wi-Fi
+
+Use Wi-Fi settings to manage Wi-Fi connections between the vehicle and portable media devices or other available networks.
+
+To access Wi-Fi Settings:
+
+1. Tap App Library on the Infotainment screen.
+
+$>$ Wi-Fi Settings.
+
+To turn Wi-Fi ON/OFF:
+
+Toggle Wi-Fi ON or OFF.
+
+To connect to a Wi-Fi network:
+
+1. Select the available network from the list.
+
+2. Tap Settings
+
+3. Enter network Password (if required).
+
+4. After a successful connection is established, the connected network will be shown in the Connected list.
+
+
+To disconnect/forget a Wi-Fi network:
+
+1. Tap Three dot
+
+![](https://vinfastowners.org/manuals/images/5bd993e06596178e5b6ef9ef2424fa8188e65fb0fe85d84322b69a1cce6c9f69.jpg)
+
+icon.
+
+2. Tap Disconnect/Forget.
+
+To connect to a hidden Wi-Fi network:
+
+1. Tap Hidden Network.
+
+2. Select Security type .
+
+3. Enter Network name and Password (if required).
+
+4. Tap Connect.
+
+
+0
+
+# NOTE
+
+Move the device closer to the Infotainment screen if a known Wi-Fi network does not appear in the list.
+
+# Sound
+
+Use the Sound Settings to adjust the following:
+
+Volume
+
+Equalizer Focus
+
+To access the Sound Settings:
+
+1. Tap App Library
+
+on the Infotainment screen.
+
+2. Tap Settings
+
+![](https://vinfastowners.org/manuals/images/5e869e578c6e355032266cd78498826b8b51a045b2fdf08471aaff081b1c41b9.jpg)
+
+$>$ Sound Settings.
+
+# Volume
+
+The Volume settings can be changed for each of the following functions. Adjust the volume by using the slider controls.
+
+To reset Sound Settings:
+
+Tap Reset button.
+
+The Reset soft key will set all Sound settings to default value of 15.
+
+The rotary dial can also be used to adjust volume for the above functions. For example, to adjust Voice Assistant volume adjust the rotary dial while Voice Assistant is speaking.
+
+![](https://vinfastowners.org/manuals/images/4d7c92f708244712a51a581cfd8839c8aba9eb06e782499674eba0b43d4388d7.jpg)
+
+# NOTE
+
+When starting vehicle, if the audio volume is high, the system will automatically decrease the volume to the Start-up Limit value.
+
+It is done to avoid scaring the driver.
+
+The minimum volume of In-call, Start-up limit, Voice Control, Parking is 6.
+
+The volume of the current playing source will be temporarily muted when an incoming phone call is received, or a navigation direction is given.
+
+# WARNING
+
+Always pay attention to road and traffi c conditions while driving.
+
+Avoid extensive use of Infotainment screen while the vehicle is in motion, as it can cause distraction leading to accident.
+
+# Equalizer
+
+Allows the selection of the speaker settings inside your car to optimize the listening experience by selecting predefi ned zones.
+
+![](https://vinfastowners.org/manuals/images/fc61101d18c93b0099c68237bb02643d9c8a8e59002d4839e362bde0fa1c889c.jpg)
+
+# NOTE
+
+Adjusting one of the fi ve frequency levels after selecting a predefi ned sound profi le will automatically switch the equalizer to custom mode.
+
+# Focus
+
+To enhance and optimize the listening experience speaker settings can be selected by predefi ned zones.
+
+![](https://vinfastowners.org/manuals/images/f9c16bd3602dd28c97e35787dd45f5a8a08805b19d28168c55fe92f0bc4d8f3a.jpg)
+
+# NOTE
+
+The default speaker position is all zones.
+
+# General Settings
+
+Use General Settings to manage the following:
+
+Region
+
+Language Date and Time
+
+Units of Measurement
+
+To access General Settings:
+
+1. Tap App Library on the Infotainment screen.
+
+2. Tap Settings $>$ General Settings.
+
+
+![](https://vinfastowners.org/manuals/images/910208e2764a2db7bd98106d4403283457858e8fc850f3a1756c1a8b2c1b8263.jpg)
+
+# Region
+
+Use Region settings to select the region in which you are located.
+
+# Date and Time
+
+Use Date and Time Settings to adjust the following:
+
+|     |     |
+| --- | --- |
+| Auto date/time | Toggle the Auto date/time feature |
+| Current date/time | Current Date and Time (manually editable if Auto Date/Time is OFF) |
+| Auto time zone | Toggle the Auto Time Zone feature |
+| Time zone | Current Time Zone (manually editable if Auto Time Zone is OFF). |
+| Time format | Select preferred Time Format - 12h/24h |
+| Date format | Select preferred Date Format from the drop - down list |
+
+![](https://vinfastowners.org/manuals/images/5db03330ae8d95a2674b75cabccb90b2128f86a4a980c46384cc61faf4408344.jpg)
+
+NOTE
+
+When Auto Date/Time is enabled, the clock and date will update automatically depending on the region.
+
+# Language
+
+Use Language setting to change the system language.
+
+# Units of Measurement
+
+This page enables you to adjust the following:
+
+|     |
+| --- |
+| Temperature - F |
+| Tire Pressure - Bar / kPa / PSI |
+| Battery - Distance (km / mile)/ % |
+|  |
+
+# About
+
+About page may display the following information about the Vehicle:
+
+Model Number
+
+Vehicle Colour
+
+Infotainment System Software Version
+
+Vehicle Odometer Reading
+
+Next service due date
+
+Vehicle Identifi cation Number (VIN)
+
+Extended warranty date
+
+To access About Settings:
+
+1. Tap App Library on the Infotainment screen.
+
+2. Tap Settings
+
+
+# $>$ About Settings.
+
+To change the Vehicle Name :
+
+1. Tap Edit
+
+![](https://vinfastowners.org/manuals/images/2e4de94d1f9a6882f77edf618bb7b79a84bd5f7b8365108d27cba5e055e5b15a.jpg)
+
+icon.
+
+2. Enter preferred vehicle name in the text fi eld.
+
+3. Tap Change.
+
+
+![](https://vinfastowners.org/manuals/images/6bec914f2acc19e8968ee21183b0038a6329bae90af74f0d8f029f5223afe4e4.jpg)
+
+NOTE
+
+A maximum 15 characters are allowed for the vehicle name.
+
+# Firmware
+
+Firmware updates are necessary to keep the software updated. The vehicle fi rmware can be updated directly without visiting a VinFast Service Center.
+
+The fi rmware update can be downloaded either via Wi-Fi or Cellular network data.
+
+Firmware update download
+
+Firmware updates will get automatically downloaded when they become available. The update will get downloaded in the background.
+
+1. Automatic download via Wi-Fi: The vehicle will automatically download updates over Wi-Fi when connected to a Wi-Fi network.
+
+2. Automatic download via cellular data: The car will switch to cellular data to download updates if Wi-Fi is not available.
+
+   Automatic download can be Enabled/Disabled using toggle. By default this setting is Disabled.
+
+
+For more information, see $>$ Connected Services $>$ Remote Software Update.
+
+![](https://vinfastowners.org/manuals/images/800cc69b2f46b1ed398921b0df236d7d62773db8bb381a15fbaf4aeaeb3008eb.jpg)
+
+# NOTE
+
+Downloading and installing a fi rmware update may take some time.
+
+# CAUTION
+
+Firmware updates may contain new safety, security or general vehicle feature improvements that can enhance the overall vehicle operation.
+
+# eSIM (if available)
+
+The data connection for Connected Infotainment services can be made through an embedded SIM card (eSIM card) installed in the vehicle.
+
+For more information, see $>$ Settings > eSIM Settings.
+
+# Geo-fencing and Time-fencing
+
+# Geo-fencing
+
+If available, Geo-fencing creates a virtual geographic boundary around an area by means of GPS technology, the owner will receive a notifi cation on Infotainment screen when the vehicle moves out of the geo-fence area.
+
+Geo-fencing settings are available for the Primary Driver profi les only. Other user profi les can only view if a Geo-fence is active but cannot modify or remove.
+
+This feature is helpful if somebody else is allowed to drive the vehicle and the owner wants to remind them that an agreed driving distance has been exceeded.
+
+To access Geo-fence Settings:
+
+1. Tap App Library
+
+on the Infotainment screen.
+
+2. Tap Settings
+
+![](https://vinfastowners.org/manuals/images/c24d642044777c44313c349691829a2f9f22b7f39b224ae7ff4d186e571c9ece.jpg)
+
+# $>$ Security Settings $>$ Geo-fence.
+
+To set Alert Receiving Device:
+
+Available options for Alert Receiving Devices are:
+
+Phone only Vehicle only Both
+
+1. Tap Toggle to select the preferred Alert Receiving Device.
+
+To create a new Geo-fence:
+
+1. Tap Create new.
+2. Tap Target location and enter a target location name.
+3. Tap Radius(Km/Mile) and enter a valid Radius to set Geo-fence.
+4. Enter a Name for the newly created Geo-fence .
+5. Tap Create.
+6. After creating a new Geo-fence, a message will pop up on the screen.
+
+# 0
+
+# NOTE
+
+A maximum of 10 Geo-fences can be created.
+
+To turn ON/OFF the Geo-fence:
+
+Use Toggle switch on the created Geo-fence to turn it ON/OFF.
+
+To edit/delete a Geo-fence:
+
+1. Tap Three dot
+
+![](https://vinfastowners.org/manuals/images/2c4a33548f8a75c210356946a6d0174c712ff2ad99ef156d009f42af54044b24.jpg)
+
+icon on the created Geo-fence.
+
+2. Tap Edit and Update to confi rm or tap Delete.
+
+Exiting Geo-fence
+
+Upon exiting a Geo-fence, a notifi cation will appear on the screen as per settings.
+
+# Time-fencing
+
+If available, Time-fencing a time-period can be set beyond which if a vehicle is driven a notifi cation is sent by the Infotainment system.
+
+Time-fencing settings are available for the primary driver profi les only. Other user profi les can only view if a Time-fence is active but cannot modify or remove.
+
+This feature is helpful if somebody else is allowed to drive the vehicle and the owner wishes to remind them that an agreed time-period has been exceeded.
+
+To access Time-fence Settings:
+
+1. Tap App Library
+
+on the Infotainment screen.
+
+2. Tap Settings
+
+# $>$ Security Settings $>$ Time-fence.
+
+To set Alert Receiving Devices:
+
+Available options for Alert Receiving Devices are:
+
+Phone only Vehicle only Both
+
+1. Tap Toggle to select the preferred Alert Receiving Device.
+
+To add a new Time-fence:
+
+1. Tap Create New.
+2. Set Time Range.
+3. Toggle between ON/OFF Repeat mode.
+4. Select the Days on which you want the Time-fence to Repeat.
+5. Enter a Name for the newly created Time-fence.
+
+# 6\. Tap Create.
+
+To edit Time Range :
+
+Tap Edit icon.
+
+To turn ON/OFF the Time-fence:
+
+Use Toggle switch on the created Time-fence to turn it ON/OFF.
+
+To edit/delete a Time-fence:
+
+1. Tap Three dot
+
+![](https://vinfastowners.org/manuals/images/01d6406936abe5824dd0967a09f6060a2db3214c93078ce39b530e4adf256bce.jpg)
+
+icon on the created Time-fence.
+
+2. Tap Edit and Update to confi rm or tap Delete.
+
+Moving beyond a Time-fence
+
+Upon moving beyond a Time-fence, a notifi cation will appear on the Infotainment screen.
+
+![](https://vinfastowners.org/manuals/images/196c28b580288a19b23fd587a176a006b676d13ab75414678fcc1ee95b317912.jpg)
+
+NOTE
+
+A maximum 10 Time-fences can be created.
+
+In addition to Infotainment screen, the Geo-fences & Time-fences can also be created/modifi ed/deleted from the VinFast App (see VinFast app on your phone for more details). Any change of settings on Infotainment system related to Geo-fence/Time-fence settings will be synced with the VinFast App and vice-versa.
+
+# eSIM
+
+The eSIM App provides the current status of the cellular connection used to support the Infotainment System. It also provides a QR code to easily facilitate the purchase of additional data.
+
+To access eSIM settings:
+
+1. Tap App Library on the Infotainment screen.
+
+2. Tap Settings $>$ About settings.
+
+
+![](https://vinfastowners.org/manuals/images/052cefa4eb97e1b8f2af5b9e4f0168ea10f6c1c627399ce55a973ce7efb67c36.jpg)
+
+3. Tap on the eSIM tab.
+
+Overview
+
+The following information may be available:
+
+Signal Strength MNO (Mobile Network Operator) Remaining Voice Package Details (Talk Time) Free Package Details (Data) QR Code Top-up Data Package Details
+
+EID (Embedded Identity Document) IMEI (International Mobile Equipment Identity) ICCID (Integrated Circuit Card Identifi er) Reset Button
+
+To reset the eSIM:
+
+Tap on the Reset button .
+
+To purchase additional data:
+
+1. Scan the QR code shown on the Infotainment screen .
+2. Open the LTE Data Purchasing Page via your mobile, follow the instructions on the screen.
+3. After data is purchased, details will be updated on the eSIM page.
+
+# Voice Assistant
+
+If available, to access Voice Assistant Settings:
+
+1. Tap App Library on the Infotainment screen.
+
+2. Tap Settings $>$ Voice Assistant Settings
+
+
+![](https://vinfastowners.org/manuals/images/be66df868825d2b8922e46a916fe0f5dee5952dd7525af2a8cc15d5111d1ceed.jpg)
+
+![](https://vinfastowners.org/manuals/images/44f026a88c53cd4bba9bf7e9f5cd86ab0c67a7aed226b76051db1e4b9d3f4e5e.jpg)
+
+Voice Assistant Settings Overview:
+
+Wake up word - Enables recognition of word “Hey VinFast” to activate the voice assistant. Voice Assistant welcome - Enables voice assistant welcome when starting the vehicle. Follow up mode - Enables the feature to ask follow-up questions without repeating “Hey VinFast”. Continued conversation time - Set continued conversation time by using the slider. Assistant Language - Change voice assistant language. Voice Accent - Change voice accent. Voice Assistant Mode - Change voice assistant mode.
+
+# 8\. Battery & Charging
+
+# 8.1. High Voltage Components
+
+High Voltage Components Overview
+
+![](https://vinfastowners.org/manuals/images/352e931d2cc385cf45132b290dc8775c6395aee933ff3beb76620599b395e042.jpg)
+
+All the following components use, control and/or supply high voltage electricity:
+
+|     |     |
+| --- | --- |
+|  | HV Compressor |
+| 2 | Power Distribution Unit, On Board Charging, DC-DCConverter |
+| 3 | HV Heater (f equipped) |
+| 4 | HV Battery |
+| 5 | HV Battery HV Wiring |
+| 6 | Rear Electric Drive System (EDS) |
+|  | Charge Port |
+| 8 | Front Electric Drive System (EDS) |
+|  |
+
+# 0
+
+# NOTE
+
+For ease of identifi cation, high voltage cables and wiring will have an Orange/Red colour covering together with information labels.
+
+Read and follow all instructions on the labels that are attached to the vehicle. These are provided for your safety.
+
+# WARNING
+
+Avoid contact with any high voltage components even when the battery is low or discharged as this can lead to fi re, electric shock which can cause serious injury or death.
+
+In case of the unlikely event of vehicle fi re, immediately contact local emergency responders.
+
+Do not try to remove or replace any high voltage components, cables or connectors as the high voltage system has no user serviceable parts.
+
+# 8.2. Charging Instructions
+
+# Charging Equipment
+
+The vehicle can be charged via a number of different charging devices. These include Mobile Charger, Charging Stations, Super-Fast DC Charging Stations, and Home Chargers. The charging devices must have the correct charging adapter to plug into the vehicle.
+
+# Charge Plug
+
+The vehicle is equipped with CCS (Combined Charging System) connection. The available CCS connections are:
+
+CCS2 - DC
+
+![](https://vinfastowners.org/manuals/images/f818f5f1d46158eed72e62bc45cf16691b197e780d5c2339a24a16800ea9e2f3.jpg)
+
+![](https://vinfastowners.org/manuals/images/d2cf8e9a0c52c6e7478e809988d1139b6a005dea26bc2aed1c8fe3cd4bafc262.jpg)
+
+# Mobile Charger (Level I 220V charger)
+
+If equipped, mobile charger is located in the rear cargo compartment. This provides slow charging of the vehicle via
+
+A/C electricity.
+
+The table below identifi es the key indicator light status of the mobile charger:
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Charging State | Red | Green | Blue |
+| Power Lost | OFF | OFF | OFF |
+| Power ON | Flashing | Flashing | Flashing |
+| Stand By | OFF | ON | ON |
+| Gun Plug In, Not Charging | OFF | Flashing | Flashing |
+| Charging | OFF | OFF | ON |
+
+To use mobile charger:
+
+1. Plug the mobile charger into the 220V power supply socket.
+
+2. Plug the charging handle into the vehicle’s charging port.
+
+3. The vehicle will start to charge.
+
+
+![](https://vinfastowners.org/manuals/images/8a3f35adddcdedee774ab11153ac44d35880d6c8487d2e00d745ebc3d9f93c71.jpg)
+
+# NOTE
+
+The mobile charger will not work without a ground connection. The wall socket requires a ground pin to connect to the mobile charger. This is required to safely ground the charging system and avoid short circuits.
+
+For all indication light descriptions, refer to the label at the back of the mobile charger or the user guide provided with mobile charger.
+
+# CAUTION
+
+If the desired wall socket does not have a ground connection, please contact a Licenced electrician to have this rectifi ed.
+
+# Charging Stations
+
+The vehicle can be charged at public charging stations. Charging stations may provide either A/C or DC charging at various charging rates. Due to the variability between charging stations, it is critical to familiarize yourself with the operating instructions
+
+![](https://vinfastowners.org/manuals/images/6edd1598695753d6acddc6b408dd68bd276a6141bcda8bc7fbf9d8f540c378b0.jpg)
+
+# WARNING
+
+Failure to use a suitable charge station may lead to damage to the vehicles high voltage battery or charging system.
+
+![](https://vinfastowners.org/manuals/images/9b30b1b0f8ca668b6090ac3c434e589a6317b860d0f910600368a45309e3b6e8.jpg)
+
+# NOTE
+
+The use of Super-Fast Charging Stations should be minimized to ensure the optimal lifetime performance of the battery.
+
+# Home Charger
+
+A home charger can be installed at home or offi ce to provide convenient charging. Typically, these will charge the vehicle quicker than the mobile charger.
+
+Home chargers need to be hard wired to the power supply in the home. Please contact a Licenced electrician for installation.
+
+Please contact a VinFast dealership for information on suitable VinFast wall-mounted home chargers.
+
+Important Safety Warnings regarding Charging
+
+![](https://vinfastowners.org/manuals/images/aaae795c6a8f4d69fb30f8d0f9fb4db2eaa31b61bbf8fa979f402e89eaf6bb80.jpg)
+
+# WARNING
+
+Contact with a high voltage power source can lead to serious injury or death.
+
+Do not touch the contacts on the charging equipment or in the charging port of the vehicle.
+
+Never use damaged, faulty or modifi ed charging equipment.
+
+Never use an extension cord, adapter or power board with charging equipment.
+
+Protect the charging socket and contacts from water or moisture and other liquids.
+
+The charger can generate electromagnetic waves that can affect medical devices such as an implantable cardiac pacemaker.
+
+Always confi rm with the medical team and manufacturer whether charging the electric vehicle will impact the operation of the medical devices such as a cardiac pacemaker.
+
+There should be no water or dust in the charging handle connector and plug. Always make sure they are clean before connecting to the charger and charging inlet. Failure to do so may cause electric shock when connecting the charging handle or even lead to a fi re.
+
+Be careful not to touch or insert anything in the charging outlet holes, charging port holes, and the charging handle holes when connecting the charging handle to the charging port in the vehicle.
+
+Immediately stop charging if abnormal symptoms are detected such as odor or smoke.
+
+If the charge cable outer conduit is damaged then immediately replace the charging cable to prevent electrical shock.
+
+# Charging Instructions
+
+Electric vehicles are powered by batteries and motors which use electrical energy stored in a High Voltage Battery. The High Voltage Battery can be charged by any of the following methods:
+
+Level I : The vehicle is supplied with a Level 1 charger. The vehicle can be charged from a grounded household socket using a Level 1 charger. A household socket connection charges with an alternating current (A/C). In the case of a Level 1 charger, the effi ciency values may differ from those on the energy label.
+
+Level II : Using a special plug, a Level 2 charger allows users to quickly charge at designated Level 2 charging stations. The charging at Level 2 stations is performed using an alternating current (AC). Charging can be completed much faster at a charging station rather than at a household socket.
+
+Level III : The charging at Level 3 stations is performed using direct current (DC) and they are equipped with a permanent DC charging cable. A DC charging station with a higher current connection charges more quickly than a household socket or a Level 2 charging station.
+
+![](https://vinfastowners.org/manuals/images/2458a115b81fbefce33437ba5ad28b2f7d4760d18f6ca66a1b31f33089dfcd7e.jpg)
+
+# NOTE
+
+Time required to charge the vehicle depends on the ambient and battery temperature, the power level of the charger, the charge level of the battery, and the charger type.
+
+The speed of Level III DC super-fast charging may be reduced in some circumstances, particularly when the ambient temperature is high. Hence charging can take more time.
+
+![](https://vinfastowners.org/manuals/images/2c6cff5905b5efc38abc0351679352eed271446233517119946e351314c98b88.jpg)
+
+# WARNING
+
+Chargers generate electromagnetic waves that can seriously affect medical electrical devices, such as implantable cardiac pacemakers. Consult your medical professional or pacemaker manufacturer to ensure the charging of your electric vehicle will not impact the operation of your medical electrical devices.
+
+Do not forcefully pull the charging handle from the charge port. It could result in dangerous electrical arcs, causing serious injury or death. Always follow the charging shut down process of the charging device and vehicle.
+
+To charge the vehicle follow the process below and the instructions of the charging device. Observe all Warnings and Cautions.
+
+Put the vehicle into Park (P) and apply the Park Brake.
+
+Check if the charging device is compatible with the vehicle. Open the charge port door. Fully insert the charging handle into the charge port, ensuring it is connected correctly. Start the charging process at the charging device. The charging handle will be automatically locked in the charge port during charging. Observe the charging status on the vehicle Infotainment screen, and the charging device. Lock the vehicle. To stop charging, unlock the vehicle and follow the instructions on the charging device and on the vehicle Infotainment screen. The locking pin in the charge port will automatically disengage once charging has stopped. This may take some time after charging has been requested to stop. Remove the charging handle from the charge port and return it to the charging device.
+
+Close the charge port door.
+
+Further instructions and important information on charging can be found in this section.
+
+# Charge Port
+
+The charge port door is located at the driver\`s side front fender and locked by the central locking system. Open the charge port door to access the charge port.
+
+![](https://vinfastowners.org/manuals/images/e9798f943a1d6b51af8847ba51fe2183b1d8ea5d28b84b58a54e38db0c1af6b5.jpg)
+
+To Open the Charge Port Door:
+
+To open the charge port door, put the vehicle in Park (P), and unlock the charge port door by.
+
+Tapping the Unlock button in the EV App on the Infotainment screen.
+
+OR
+
+Using Voice Assistant (if available).
+
+OR
+
+Using Mechanical Release cable.
+
+![](https://vinfastowners.org/manuals/images/70f9e838849de183dbf489752b21ced633011e854368b00bd2825154a90c6179.jpg)
+
+# NOTE
+
+The charge port door will automatically lock if not opened within one minute.
+
+Due to freezing weather, it might be diffi cult to open the charge port door. Tap lightly on the door or remove any ice prior to attempting to open. Do not open the charge port door forcefully.
+
+To Open the Charge Port Door via the Infotainment screen:
+
+1. Tap App Library
+
+![](https://vinfastowners.org/manuals/images/3a8b5421c38e052b7bc94c1da7c6739997e05395633fb43b2150986a66f64f3a.jpg)
+
+then EV app
+
+# 0
+
+2. Go to Battery $>$ Unlock Charge Door.
+
+![](https://vinfastowners.org/manuals/images/6e50e0f249347eb9c25daff26f05dd759b4e198413116525bbc820bf90f4c896.jpg)
+
+3. Press on the charge port door as shown above to open.
+
+Charge Port Door - Mechanical Release:
+
+![](https://vinfastowners.org/manuals/images/339b35561c34e2aeddfbe9b9bd3f15e5a2ff4f860157225d915996e56f328f68.jpg)
+
+In case of an electrical malfunction, the charge port door can be released by pulling on the mechanical release cable located on the left side within the front compartment under the hood.
+
+Charge Port Light (if equipped)
+
+This light indicates the vehicle’s charging status as follows:
+
+No charging cable connected: Light OFF.
+
+Charging cable connected, authenticating: Light OFF. Charging in progress: Light BLINKING.
+
+Charging complete: Light ON.
+
+# To plug in a charging handle
+
+To insert the charging handle, hold the cable or plug fi rmly and push into the charge port until you hear a click. Ensure the connector is fully inserted and fl ush with the charge port. A poorly inserted connector may cause prolonged charge sessions or faults.
+
+If you are using the mobile charger, plug it into the power outlet before plugging it into the charge port on the vehicle. Align the charging handle to the charge port and insert fully. A locking pin will hold the charging handle in place and charging will begin automatically.
+
+After plugging in the charging handle:
+
+1. The system will start to authenticate the charging station. The same will also display on the Infotainment screen.
+
+2. After a successful authentication, the vehicle will start charging.
+
+
+# 0
+
+# NOTE
+
+If the battery temperature is high, there may be a slight delay before a charging session begins to allow the battery to cool down.
+
+The charging handle needs to be inserted into the charge port within a minute of opening the charge port door, otherwise the charge port will become inactive. If this occurs re-open the charge port door to reactivate it.
+
+If the vehicle has turned OFF while the charge port door is open, reopen the charge port door to enable charging.
+
+The charging will not start if the charging handle is not fully inserted and the locking pin is not engaged.
+
+Refer to the Charging Faults section below for more information.
+
+# WARNING
+
+Ensure that there is no water, dust, dirt or debris in the charging handle connector and plug. Connecting while there is water, dust, dirt or debris in the charging handle and plug may cause a fi re or an electric shock.
+
+Be careful not to touch or insert anything in the charging outlet holes, charge port holes, and the charging handle holes when connecting to the charge port in the vehicle.
+
+Immediately stop charging, if abnormal symptoms are detected such as an odor or smoke.
+
+If the cable coating is damaged then immediately replace the charging cable to prevent electrical shock.
+
+# CAUTION
+
+Make sure the charging connector and charging plug are always clean and dry. Keep the charging cable away from moisture or water.
+
+# EV Charging Settings
+
+For details on available EV Charge settings see $>$ EV Battery App > EV Settings
+
+# Vehicle Charging Status
+
+The following types of charging status will be shown on the Infotainment screen after plugging in the charger:
+
+![](https://vinfastowners.org/manuals/images/a2e2cb4743618ff613ad7e89060e046119ae30a02a499afcc36ccb7fe514869e.jpg)
+
+1. Time remaining
+
+![](https://vinfastowners.org/manuals/images/7bc865ebcb621067269f6193915a44b620888aa5929685a9a8594dc99bc247ba.jpg)
+
+: The estimated time remaining to charge to the chosen set limit. See $>$ EV Battery App.
+
+2. Battery Status
+
+![](https://vinfastowners.org/manuals/images/4e6a140e3d50116a36ed8ff4508139bd2b739bab4accb279349f254f5217b10e.jpg)
+
+: Current battery state of charge $( % )$ .
+
+3. Expected Range
+
+![](https://vinfastowners.org/manuals/images/54250841f56cd373da745df5f4bed119b45c9827e8f0869886fa1f0a653b6f95.jpg)
+
+: Expected range as per the battery’s current state of charge.
+
+4. Battery Temperature
+
+![](https://vinfastowners.org/manuals/images/c44e06935616755928ac63a5b2befb9f2aace5744e9b9aada689738e8cca856f.jpg)
+
+5. Charge cable status
+
+6. Battery state of charge
+
+7. Stop charging
+
+
+: To stop charging.
+
+# 0
+
+# NOTE
+
+Energy usage by heating/air conditioning, heated/ventilated seats, defroster, and other functions will consume part of the energy provided by the charger. Reducing usage of these vehicle functions will divert more energy to charging the battery.
+
+Charging values are approximate and for information only.
+
+To stop charging from the Infotainment screen:
+
+1. Tap Stop Charging
+
+![](https://vinfastowners.org/manuals/images/676f0e122b850764b7378ba76e8ffb588b70c7cb15d70ea7564e834c468617a2.jpg)
+
+2. Confi rm by tapping Stop Now.
+
+3. A 10 second countdown timer will start. Charging handle can be detached from charge port once the countdown is over.
+
+4. Charging will be stopped.
+
+
+# 0
+
+# NOTE
+
+In order to prevent unauthorised unplugging of the charging handle, the vehicle must be unlocked before the charging handle can be removed.
+
+It is normal to hear sounds from the vehicle cooling system, including pumps and fans during charging; particularly when there is high ambient temperature and high charging current, as the system cools the battery during charging.
+
+Air conditioning performance may reduce in some circumstances during charging, particularly during high ambient temperature and high charging current. This is normal to ensure the battery cooling is optimized to maintain battery longevity.
+
+![](https://vinfastowners.org/manuals/images/57d5e4ddb3eb9652b37a59962d8853bc8e87b198a91eec11ae2011fbcf47f968.jpg)
+
+# WARNING
+
+Hold the charging handle and not the cable when connecting or removing the charging handle. Pulling the cable itself (without using the handle) may cause the internal wires to break, crack or get disconnected. This may cause electrical shock or fi re.
+
+During the charging process, the vehicle will automatically lock the charging handle. Do not use excessive force to pull out a locked charging handle, as this may cause serious injury, death or damage to the vehicle.
+
+Manual Release of the Charging handle:
+
+The charging handle is automatically locked in the charge port by a locking pin to prevent accidental or unauthorised disconnection. If the usual method for releasing the charging handle from the charge port (using the Stop Charging release button) does not work, carefully follow the steps detailed below:
+
+1. Ensure that the vehicle has stopped charging by checking the charging screen on the Infotainment screen. If necessary, tap Stop Charging.
+
+2. Turn the vehicle OFF and remove the key from the vehicle.
+
+3. Open the front compartment.
+
+
+![](https://vinfastowners.org/manuals/images/a84345a02d0472b4df3cdb33dc282a5a005093170e8c83ec14eff6a4a0b047c2.jpg)
+
+4. Using a tool (for example a screwdriver, hook, pliers), pull the charge port’s release cable
+
+![](https://vinfastowners.org/manuals/images/2e575693ad682cdf23b133097083d687e72fcac04e23918441a25d46d42dc70d.jpg)
+
+to release the pin that locks the charging handle.
+
+5. Pull the charging handle from the charge port.
+
+![](https://vinfastowners.org/manuals/images/12b8962d23aef5d129250f3e98488d6f665801a904949c390d0d49df3fb89c53.jpg)
+
+# WARNING
+
+Ensure the vehicle is turned OFF. If the front wiper is turned ON contact with the front wiper motor mechanism may cause serious injury.
+
+To close the Charge Port Door:
+
+![](https://vinfastowners.org/manuals/images/cb7f82fe6ab5290536f26ee7043288d0a61cc3685698d29bb3f384a3c0b6a5df.jpg)
+
+Close the charge port door and press in the location shown above to lock it.
+
+# CAUTION
+
+Ensure the charging handle and cable are put away correctly, so that they do not cause a tripping hazard, or get caught in or damaged by the vehicle.
+
+Do not drop the charging connector (charging handle). The charging connector can be damaged.
+
+Do not remove the wall plug or mobile charger control box from the wall while the vehicle is charging. Doing so may cause the outlet and cord to get damaged.
+
+# Charging Faults
+
+Charging Authentication Fault
+
+An authentication fault may occur after connecting the charging handle to the vehicle. An authentication fault may occur when :
+
+The charge station is not compatible with the vehicle The charging handle or charge station is damaged or not ready to charge
+
+If an authentication fault occurs, a message will be displayed on the Infotainment screen. Disconnecting and reconnecting the charging handle or using an alternate charger may correct the authentication issue. Follow all messages shown on the Infotainment screen.
+
+If charging does not commence once the charging handle is connected to the vehicle, follow below process.
+
+Remove the charging Handle from the charge port Close the charge port door Ensure the vehicle is OFF Lock the Vehicle Wait for 5 minutes for the vehicle to enter Sleep Mode Unlock the Vehicle Open the charge port door Reconnect the charging handle Check Charging Status
+
+If the issue persists, contact the nearest VinFast Service Center.
+
+Charging handle Fails to Release
+
+If the charging handle can not be removed from the charge port after a charging session, the locking pin may not have released from the charging handle. If the charging handle fails to release, a notifi cation will be displayed on the Infotainment screen and instructions will be provided to manually release the locking pin.
+
+For more information, see $>$ Manual Release of the Charging handle.
+
+Battery Leasing Faults (if available)
+
+If an issue exists with a users Battery Leasing account then vehicle charge limits may be reduced until outstanding payments are received. Outstanding invoices can be viewed and actioned via the VinFast app. For further information contact VinFast Customer Support.
+
+# 8.3. Battery Information
+
+# Battery Information
+
+The vehicle has a High Voltage (HV) battery mounted beneath the vehicle’s fl oor and a 12V Low Voltage (LV)
+
+battery located under the hood/in the front compartment area.
+
+If there is an issue with the LV battery, a general telltale
+
+and LV battery
+
+warning will appear in the Car Control Area.
+
+If the 12V or HV battery needs inspection or service, contact your nearest VinFast Service Center.
+
+Ensuring the battery system is in good condition will assist in providing optimum performance of the vehicle.
+
+![](https://vinfastowners.org/manuals/images/9def816078666e6ebe6db0a3014f5f49a827c97053191b1b841daeba889a180a.jpg)
+
+# NOTE
+
+When the vehicle is left to idle and is not connected to an external charger, the HV battery energy will be consumed to perform routine checks of the LV system and to recharge the 12V battery.
+
+# CAUTION
+
+Please charge the vehicle immediately if the high voltage battery state of charge is less than $5 %$ (Red battery icon in status bar).
+
+Avoid discharging the battery to $0 %$ as this may cause the battery health to degrade more quickly.
+
+# Battery Leasing Plan Management (if available)
+
+Information regarding the battery lease plan (if applicable) can be viewed on the VinFast Companion App, or by visiting the VinFast Auto website or the nearest VinFast Service Center.
+
+# EV Battery App
+
+The EV Battery App shows detailed information about the Vehicle’s High Voltage Battery and Charging System.
+
+To access the EV Battery App:
+
+1. Tap App Library
+
+on the Infotainment screen.
+
+2. Tap EV app
+
+0
+
+OR
+
+1. Tap Battery
+
+icon on the status bar.
+
+# Charging Status
+
+Charging status is shown on the EV Battery App as shown below.
+
+![](https://vinfastowners.org/manuals/images/380c636657006fb1db743ef2e1bf56f59f72a0ab9acb91cb564e7d10ecbd6b85.jpg)
+
+|     |     |
+| --- | --- |
+| 1 | Remaining Time |
+| ② | Battery Percentage |
+| 3 | Expected Range |
+| 4 | Temperature |
+| 5 | Charging Handle Status |
+| 6 | Battery State of Charge |
+| ⑦ | Stop Charging |
+
+![](https://vinfastowners.org/manuals/images/57a990d50fc3b9e82403803b0a430011cc7f95b8116f553539bf4e4d2987e610.jpg)
+
+# NOTE
+
+Energy usage by heating/air conditioning, heated/ventilated seats, defroster, and other functions will consume part of the energy provided by the charger. Reducing usage of these vehicle functions will divert more energy to charging the battery.
+
+Charging values are approximate and for information only.
+
+# Charging Settings
+
+To access Charging Settings:
+
+1. Tap App Library
+
+on the Infotainment screen.
+
+2. Tap EV app
+
+0
+
+Settings below may be available:
+
+Charging Target Charge Current Limit Battery Level Reminder
+
+# Charging Target
+
+Charging Target is the maximum state of charge $( % )$ the EV battery is allowed to reach before the charger automatically turns OFF.
+
+To set the Charging Target:
+
+1. Tap App Library
+
+on the Infotainment screen.
+
+2. Tap the EV app
+
+0
+
+# $>$ Battery Settings $>$ Charging.
+
+3. Press and slide the slider left/right to set desired charging target.
+
+# Battery Charge Current Limit
+
+Adjust the maximum current when charging with an A/C charging station. This setting is only available when charging is in process and will be saved by location.
+
+To set the Charge current limit:
+
+1. Ensure that a current A/C charging session is active.
+2. Tap App Library
+
+![](https://vinfastowners.org/manuals/images/530d1f912d05fea0195dc660745bf27284f9fd5093ba24a1455459f2d7dad7d8.jpg)
+
+on the Infotainment screen.
+
+3. Tap the EV app
+
+# 0
+
+$>$ Battery Settings $>$ Charging.
+
+4. Scroll to Charge Current Limit and adjust the setting by tapping $^ +$ / - on the Infotainment screen.
+
+# Battery Level Reminder
+
+Battery level reminder provides a notifi cation on Infotainment screen, once the battery state of charge reaches the set level. The default value for this setting is $20 %$ .
+
+To adjust the Battery Level Reminder:
+
+1. Tap App Library
+
+on the Infotainment screen.
+
+2. Tap the EV app
+
+# 0
+
+$>$ Battery Settings $>$ Charging.
+
+3. Scroll to Battery Level Reminder and use the slider to adjust the warning threshold.
+
+Once reached, a notifi cation will be provided on the Infotainment screen along with an option to fi nd a charging station.
+
+# Battery Leasing (if available)
+
+This page provides information about your battery leasing plan’s duration. Additionally, if you have paid the battery leasing fee but your vehicle is still restricted (limited charging or disabled driving capability) due to a data connection issue, you can perform manual payment verifi cation to temporarily remove the system’s restrictions.
+
+To verify payment and temporarily remove system restrictions, please follow the steps below:
+
+1. Tap the App Library
+
+on the Infotainment screen, then tap the EV app
+
+0
+
+. Or Tap the Battery icon in the vehicle control area on the Infotainment screen.
+
+2. Access Battery Leasing
+
+3. Select Verify Payment.
+
+4. Open the VinFast app $>$ Battery Leasing $>$ Verify Payment.
+
+5. Enter the verifi cation code from the Infotainment screen into the VinFast app for verifi cation.
+
+6. After successful verifi cation, the system will automatically generate an OTP code and send it to your phone.
+
+7. Enter the OTP code into the Infotainment screen to verify payment and temporarily remove system restrictions.
+
+
+# 0
+
+# NOTE
+
+A notifi cation will be displayed on the Infotainment screen upon successful payment verifi cation.
+
+The temporary restriction removal time will vary depending on the vehicle version or market. Please contact VinFast’s customer care center or service workshop for assistance.
+
+After verifi cation and temporary removal of system restrictions, please move the vehicle to a convenient location to reconnect to the server system. If the vehicle remains restricted and cannot connect to the server, please contact VinFast’s customer care center or service workshop for assistance.
+
+# Battery Care
+
+The HV battery is maintenance free. Always pay attention to the battery status and never allow it to fully discharge. Even when the vehicle is not being driven, the battery discharges very slowly to power the on board electronics. On average, the battery discharges at a rate of approximately $1 %$ per day. The discharge rate may vary depending on environmental factors (such as cold weather), confi guration, and selected settings. If the vehicle is not used for long periods of time (approx. 2-3 weeks), ensure that the vehicle’s HV battery is always above $30 %$ (preferable between $30 %$ to $6 0 %$ ).
+
+If the high voltage battery needs to be inspected, tested, or replaced, it should only be done by a trained technician. If the 12- volt or high voltage battery needs to be serviced, contact your nearest VinFast Service Center. They will be able to provide information about how the high voltage battery can be recycled.
+
+Factors Contributing to High Battery Consumption:
+
+Driving at higher speeds.
+
+Extremes in temperature and strong winds. Adjusting cabin temperature through heating or cooling. Driving a steep incline. Frequent starts and stops, typically in heavy traffi c jam conditions. Carrying heavy loads. Driving with opened windows. Improper care of wheels and tires.
+
+Additional accessories or modifi cations that impact aerodynamics.
+
+![](https://vinfastowners.org/manuals/images/9f158b983d1bb76eb31f03b3eec209c796b5507c07be1aecd59b202e7ded0f3a.jpg)
+
+# NOTE
+
+The HV battery SOC shall always be more than $30 %$ for storage
+
+If you plan to store the vehicle for 3~6 months, battery maintenance is recommended i.e., fully discharge 1 cycle the HV battery once.
+
+For optimal life and performance of the battery, minimize the use of super-fast DC charging.
+
+If the vehicle is damaged from fl ood, crash, fi re, or any other event, it may be necessary to have the vehicle inspected, and the battery may need to be replaced. If the battery is involved in a fi re, it may need to be replaced and returned to manufacturer for investigation.
+
+If the vehicle is unresponsive and does not unlock, open, or charge, the 12V battery may be discharged. In this situation, try jump starting the 12V battery. If the vehicle is still unresponsive, contact Vinfast Service Center.
+
+Charge the vehicle HV battery to $100 %$ SOC at least every month. For any concerns, please contact a VinFast Service Center.
+
+![](https://vinfastowners.org/manuals/images/826486153711d24a3973d11e0bd4a543ede52770f55b9f329604d9bb4a35b785.jpg)
+
+# CAUTION
+
+Charge the vehicle immediately if the battery state of charge is less than $5 %$ (Red battery bar on the Infotainment screen).
+
+Never let the battery state of charge reach $0 %$ as this may degrade the battery more quickly.
+
+Storing the vehicle for more than 6 months without carrying out necessary maintenance may permanently damage the HV battery.
+
+Do not store or park the vehicle near heat source due to risk of catching fi re, which can damage the battery and vehicle.
+
+Do not store the vehicle in area which may fl ood as fl ood may damage the battery and the vehicle.
+
+![](https://vinfastowners.org/manuals/images/363630c959936594672eaede44577384b17f64b2e1a262c625fa3b9307cc73ca.jpg)
+
+# WARNING
+
+Maintain a safe distance from the vehicle in case of damage to the high voltage battery or other high voltage components as there is a high risk of electric shock, overheating, or fi re. Failure to comply may cause serious injuries or death.
+
+If the vehicle is damaged from fl ood, crash, fi re, or other event, it should be inspected by an authorised service technician as soon as possible. The vehicle should be kept outside until it has been inspected at a distance of at least 15m (50ft) from any structure or anything that can burn. Open a window or door of the vehicle to allow air to circulate inside.
+
+# Temperature Limits
+
+Avoid exposing the vehicle to ambient temperatures above $4 5 \\mathrm { ^ \\circ C }$ $( 1 1 3 ^ { \\circ } \\mathsf { F } )$ or below $\\scriptstyle - 2 0 ^ { \\circ } \\complement$ (-4°F). Ideally, store the vehicle in a climate controlled garage if extreme ambient temperatures are expected. Failure to follow this temperature recommendation may permanently degrade battery performance.
+
+# Low Power Consumption Mode
+
+To protect against complete HV battery discharge, the vehicle enters a low power consumption mode when the charge level is very low. In this mode, the HV battery stops supporting the on-board electronics to slow the discharge rate. Once this low power consumption mode is active, it is important to charge the vehicle as soon as possible to avoid possible battery damage.
+
+When the low-power consumption mode is active, the 12V battery is no longer charged and can completely discharge.
+
+If this occurs, the 12V battery will need to be charged or replaced before commencing any HV charging of the vehicle.
+
+To conserve energy, select the ECO driving mode from Car Control Area.
+
+To select ECO driving mode:
+
+1. Tap Drive Mode
+
+2. Tap ECO.
+
+
+![](https://vinfastowners.org/manuals/images/c7ce966e9168565b2cdfebbfbc2bf352fdfefde6c794074ae9243c89b81e7055.jpg)
+
+# NOTE
+
+Charge the HV battery at regular intervals.
+
+# CAUTION
+
+Do not allow the HV battery to discharge completely. There is a possibility that the HV battery will no longer charge if left discharged for long periods of time.
+
+# 9\. Maintenance
+
+# 9.1. General Information
+
+# Vehicle Care Overview
+
+To ensure a trouble-free experience with the vehicle, regular maintenance should be carried out as stipulated in the
+
+Owner’s Manual. If any abnormal sounds or vibrations are observed, visit the nearest VinFast Service Center to have the vehicle inspected. Regular maintenance and servicing are recommended to prevent operational problems with the vehicle.
+
+# CAUTION
+
+All service procedures must be carried out by an authorised VinFast workshop.
+
+# 9.2. Fluids, Lubricants and Parts
+
+# Cabin Air Filter
+
+The air conditioner cabin fi lter prevents dust, pollen and other pollutants from entering the vehicle. To achieve the best fi ltering effects, replace the cabin fi lter within the specifi ed maintenance interval specifi ed by VinFast.
+
+The cabin air fi lter should be replaced according to the Maintenance Schedule. If the vehicle is operated in severely air polluted or dusty conditions, inspect and replace the cabin air fi lter more frequently.
+
+![](https://vinfastowners.org/manuals/images/55c640b1ca0f3709ba0d77b04dcde31b2229af77bf0d71bb852c385d77dd0645.jpg)
+
+# NOTE
+
+Filter life depends on atmospheric conditions.
+
+It is recommended that service procedure must be carried out by an authorised VinFast service technician.
+
+# Filter Replacement
+
+To remove the Cabin Air fi lter:
+
+![](https://vinfastowners.org/manuals/images/0acd530da4c2ffafae421a9f42fa7e46cea7dd385c6de64f3e69a2f58f0218a2.jpg)
+
+1. Open the glove box and remove the pin
+
+![](https://vinfastowners.org/manuals/images/5aa73c766b040f073588afaf3422e3cbc1ae21fa0d6745862689b19fdeb25cd0.jpg)
+
+to disconnect the glove box from the dampener.
+
+![](https://vinfastowners.org/manuals/images/c23245da9df0cdb3e08da2eb1b7ab3f4e3dead996eca40344aaabaf48c5043e3.jpg)
+
+2. Carefully push in the sides of the glove box past the two side clips
+
+3. Remove the glove box, by pulling it out.
+
+
+![](https://vinfastowners.org/manuals/images/a799d1de2026ac9d8cd6674368017e00ea3feee0aeecbdeeecd4b820e89d30b7.jpg)
+
+4. Remove the air fi lter cover
+
+![](https://vinfastowners.org/manuals/images/4592081fa39d9beb51d0ce13a52843f097c6478dcd0fca9030301feb1a4ab105.jpg)
+
+by pressing and unclicking the retaining tab on the right side.
+
+![](https://vinfastowners.org/manuals/images/79d6ce53535cfa7b56139c38c731cdcc04b067fba512a8c2b6b1d691bad3cb84.jpg)
+
+5. Remove the air fi lter
+
+, by pulling it out. To install the Cabin Air fi lter:
+
+To install a new air fi lter, reassemble in the reverse order of removal process.
+
+# Coolant
+
+The vehicles cooling system contains coolant fl uid to maintain optimum operating temperature for certain components in the vehicle.
+
+To ensure effi cient cooling is maintained, it is recommended that the cooling system is periodically inspected for coolant leakage and/or damage.
+
+To perform the inspection, the vehicle should be parked on level ground and the coolant and cooling system must be
+
+allowed to cool down.
+
+Use only approved coolant fl uid for electric vehicles. Adding other types of water or antifreeze may damage the vehicle.
+
+The coolant replacement should be carried out by a qualifi ed VinFast technician.
+
+For recommended coolant, see $>$ Technical Specifi cations > Fluids, Lubricants and Parts Overview.
+
+To Top-up the coolant:
+
+![](https://vinfastowners.org/manuals/images/e0f52e86466b550642a1e7cb803cb73f54c44c789cb812ae2e5748755da78d0b.jpg)
+
+1. Park the vehicle on level surface. Turn OFF the vehicle. Allow the front compartment components to completely cool off.
+
+2. Open and secure the hood.
+
+3. Locate the coolant reservoir.
+
+4. Slowly unfasten the fi ller cap
+
+
+by turning it in an anti-clockwise direction, if a “hiss” sound is audible, stop turning the cap and wait until the sound stops and then proceed to remove it.
+
+5. Refi ll the coolant reservoir using Anti-Freeze Pre-Mixed Coolant AF2100 (ASTM D3306) $50 %$ Glycol & $50 %$
+
+Water mixture.
+
+6. The coolant level should be between the MIN and MAX indicator marks as shown on the side of the reservoir.
+
+7. Tighten the fi ller cap by turning it in a clockwise direction.
+
+
+![](https://vinfastowners.org/manuals/images/e16e0e7fb1959278c3fc9073dac7056f64ed2f4a68141e0e1a502b15d5163c04.jpg)
+
+# NOTE
+
+If the coolant level in the reservoir reaches below minimum level, an audible alert will sound indicating low coolant level.
+
+Ensure the cap and reservoir are clean and free from debris before opening the coolant reservoir to prevent any foreign particles from entering the reservoir.
+
+In case of an emergency, a small amount of water can be added to the coolant reservoir to maintain the recommended coolant level.
+
+However, it should be noted that this will weaken the anti-freeze and anti-corrosion protection and reduces the service life of th coolant.
+
+As the vehicle coolant temperature decreases, the radiator fan will automatically turn OFF. This is a normal condition.
+
+# CAUTION
+
+Keep coolant in a sealed container in a safe place.
+
+Do not fi ll the coolant reservoir with excess coolant. Coolant left on a metallic surface for extended periods of time may cause rusting.
+
+![](https://vinfastowners.org/manuals/images/5b2b1f19b57bf82ef6799a9f2e2c85d7501ce97c55eed40bbc8f9aff0945c5c4.jpg)
+
+# WARNING
+
+Do not open the coolant reservoir cap when the vehicle is ON or when the cooling system is still hot. Let the cooling system completely cool before removing the cap. Remove the coolant reservoir cap slowly and cover it with a thick cloth to prevent scalding. Failure to following these instructions may result in a serious injury.
+
+Coolant is extremely toxic and can be fatal if swallowed. Keep coolant bottles sealed and out of reach of children. If a child has accidentally ingested the coolant, seek immediate medical attention.
+
+Handle the coolant carefully and avoid contact with skin and eyes. In case, the coolant comes in contact with skin or eyes, rinse with plenty of water immediately.
+
+Be careful when changing coolant, as there are High Voltage components in this area.
+
+Do not touch heater, radiator, A/C pipes or hoses. They may be very hot and may cause severe burns.
+
+Do not run the vehicle if there is a leak in the coolant reservoir, all coolant could leak out causing a fi re or leading to severe burns. Any leaks must be fi xed by an authorised VinFast Service Center before driving the vehicle.
+
+Keep hands, clothing, and tools away from the rotating fan of the radiator to avoid injury.
+
+# Washer Fluid
+
+Washer Fluid is used for cleaning the windshield with the operation of the windshield wipers. The washer fl uid reservoir is located under the hood of the vehicle. Check the washer fl uid level regularly and add fl uid if required.
+
+When the washer fl uid level is low, a low washer fl uid warning message is displayed on the Infotainment screen to alert the driver.
+
+To Top-up the Washer Fluid:
+
+![](https://vinfastowners.org/manuals/images/0b837a3d1c393e0f9c4367be6506c187245d799a7f41157e9676d262b7fd0b11.jpg)
+
+1. Pull the cap to open the washer fl uid reservoir.
+2. Add washer fl uid to reservoir until the reservoir is full.
+3. Refi t the cap to close the washer fl uid reservoir, ensuring it is fi tted tightly.
+
+# 0
+
+# NOTE
+
+When using concentrated washer fl uid, follow the manufacturer instructions for adding water.
+
+![](https://vinfastowners.org/manuals/images/4b66fce6ea60c1554f5e5b9d9c3a41a444b4d46647a558fc52a78fd87313cd7a.jpg)
+
+# CAUTION
+
+Make sure to use a windshield washer fl uid that is meant for automotive vehicles. The use of other substances, such as untreated water, can lead to bacterial growth within the climate control system, resulting in odours or potential damage to the vehicle.
+
+Add washer fl uid carefully, do not let it splash on to the exterior surface of the vehicle.
+
+Do not turn the wiper ON without using water or washer fl uid as it may scratch or damage the windshield when dry.
+
+The concentration of anti-freeze agent in the washer fl uid must be adjusted to the vehicle operating conditions and the climate. A high concentration may lead to vehicle damage.
+
+Do not mix water with ready-to-use washer fl uid. Water can cause the solution to freeze and damage the washer fl uid tank and other parts of the washer system.
+
+Fill the washer fl uid reservoir only three-quarters full when it is very cold. This allows for fl uid expansion if freezing occurs, which could damage the reservoir if it is completely full.
+
+![](https://vinfastowners.org/manuals/images/b5be3487dbd973016434ad2168f3920d65c7b8e5f1b4e211d5847454f0291632.jpg)
+
+# WARNING
+
+Do not touch any high voltage components near washer fl uid reservoir area.
+
+Washer fl uid can irritate eyes and skin. Read and follow the instructions provided by the washer fl uid manufacturer.
+
+In cold climates where water can freeze, use a washer fl uid with anti-freeze agent. In colder regions, using a washer fl uid without an anti-freeze agent can impair visibility through the windshield.
+
+Washer fl uid is toxic and can be injurious if swallowed. Keep washer fl uid bottles sealed and out of reach of children. If a child has accidentally ingested the washer fl uid, seek immediate medical attention.
+
+Keep washer fl uid away from children and animals.
+
+# Wiper Blades
+
+Windshield Wiper Blades should be regularly inspected for wear or cracking. Contamination of either the windshield or the wiper blades with foreign matter can reduce the effectiveness of the windshield wipers.
+
+Common sources of contamination are:
+
+• Insects
+
+Tree sap
+
+Hot wax treatments used by some commercial car washes
+
+If the wiper blades are not wiping/cleaning the windshield properly, clean both the windshield and the wiper blades with a mild detergent, and rinse thoroughly with clean water.
+
+Wiper blades will degrade over time and eventually require replacement. If water is not suffi ciently cleared from the windshield and blades squeak when in operation, wiper blade replacement may be required.
+
+# Front Wiper Blade Replacement
+
+To remove the front wiper blades:
+
+1. Keep the hood closed.
+2. The vehicle needs to be in ACC power mode.
+3. Wipers need to be in home position, wiper stalk in OFF position and Wash Mode should be deactivated.
+4. Set Wiper Service Mode to On.
+
+![](https://vinfastowners.org/manuals/images/43a21a3747e6fc7c7970189e183e746ce773c103438b2a106d9b7016d5fc10a4.jpg)
+
+5. Lift the wiper arm away from the windshield.
+
+![](https://vinfastowners.org/manuals/images/9b35526c3f4d61fbf8a4c675238c74f7e95ca7fe72d18798c4d635ef74a179cb.jpg)
+
+6. Press the wiper arm in the position shown.
+
+![](https://vinfastowners.org/manuals/images/b9190dcd01b9ad2a67029b438d005554f4e6515039f37a9a2e42795702d3e301.jpg)
+
+7. Pull the wiper blade in the direction of the arrow to remove it from the wiper arm assembly.
+
+![](https://vinfastowners.org/manuals/images/6a6e7aee175335a4e8162a3c6e6f353557994e26fea71c1403d412be27deca30.jpg)
+
+8. Slide the new wiper blade on the wiper arm in the direction shown until it clicks into place on the wiper arm. 9. Place the wiper assembly back on the windshield and check that the wiper blade is properly attached to the wiper arm. 10. Turn Wiper Service mode OFF from the Infotainment screen to return the Wiper back to the home position.
+
+# Rear Wiper Blade Replacement
+
+1. The vehicle needs to be in ACC power mode.
+2. The rear wiper needs to be in home position, wiper stalk in OFF position, and Wash Mode should be deactivated.
+3. Set Wiper Service Mode to On.
+4. Replace the rubber wiper blade.
+5. Place the wiper assembly back on the rear window and check that the wiper is properly attached to the wiper arm.
+6. Turn Wiper Service Mode OFF from the Infotainment screen to return the Wiper back to the home position.
+
+![](https://vinfastowners.org/manuals/images/875b3dfaa6249b739e317d6ede549303e59635a97a4ebe67946888f506e22eaf.jpg)
+
+![](https://vinfastowners.org/manuals/images/89034ae5882fc5d3ad2c3c1095ab3dbb1e4320cec9b7191e6d453d0d081c3645.jpg)
+
+# NOTE
+
+Do not use non genuine products. Using non genuine wiper blades may damage the wiper system and windshield.
+
+Wiper blade replacement should be done by a VinFast Authorised Technician.
+
+# CAUTION
+
+Wiper blades cannot be locked into a lifted position. Do not lift a wiper arm beyond its intended position as it can cause damage to wiper arm.
+
+Do not use or allow wiper arms (front and rear) to touch the windshield without installing wiper blades. This can damage the windshield. Such damage would not be covered by the vehicle warranty.
+
+# Brake Pads & Fluid
+
+Brake pads & brake fl uid are important components of the vehicle’s braking system. To ensure effective braking performance it is important to regularly inspect the brake pads for excessive wear and check the brake fl uid level.
+
+# Brake Pads
+
+Brake pad wear is affected by various vehicle operating conditions and increased pad wear may occur if the vehicle is driven in an aggressive manner with frequent and heavy breaking.
+
+The vehicle is equipped with brake pad wear indicators. The wear indicator is a thin metal strip attached to the brake pad that produces a squealing sound when it makes contact with the brake rotor, indicating that the brake pad material has reached the end of its effective service life.
+
+Please contact your nearest VinFast Service Center to have the vehicle’s braking system inspected if you are facing diffi culties with stopping the vehicle effectively.
+
+![](https://vinfastowners.org/manuals/images/d192572b4be22761600d64da63df92c2e54dab5ff0d23f271730c2ab7d9400b6.jpg)
+
+# NOTE
+
+Always replace brake pads as a set, either both front or both rear sets.
+
+To avoid costly brake repairs, do not continue to drive with worn-out brake pads.
+
+# WARNING
+
+Do not neglect to service the vehicle braking system as it may result in reduced brake system performance, increasing the stopping distance which may lead to an accident.
+
+Do not drive with worn-out brake pads. Damage to the braking system can result in a braking hazard.
+
+The braking effect may get reduced if the brake pads become wet after heavy rainfall or immediately after washing the vehicle. This might require pressing the brake pedal with more force to compensate.
+
+A salt layer on the brake pads may affect the braking performance of the vehicle.
+
+Overheated brakes reduce the braking effect and considerably increase the braking distance.
+
+# Brake Fluid
+
+Brake fl uid is a type of hydraulic fl uid used in hydraulic brake systems to transfer force into pressure.
+
+The brake fl uid level in the reservoir should be checked regularly. Brake fl uid may absorb some amount of moisture from the atmosphere over time. The hydraulic braking system may get damaged if there is too much moisture in the braking fl uid.
+
+To Check the Brake Fluid:
+
+![](https://vinfastowners.org/manuals/images/fba0feeea36e5c24e0fe5af54385238a13cfde8eb28922e4df49da5530c50c4f.jpg)
+
+1. Ensure the vehicle is parked on a fl at surface.
+2. Let the braking system cool down.
+3. Brake fl uid reservoir is located under the cover plate
+
+. Open the cover plate by pulling the plastic tabs on the side of the plate.
+
+4. The fl uid level should be between the MIN and MAX indicator marks as shown on the side of the reservoir.
+
+There are two reasons why the brake fl uid level in the reservoir may go down:
+
+Brake pads normal wear. When new pads are installed, the fl uid level goes back up. Fluid leak in the hydraulic brake system. Have the hydraulic brake system fi xed. With a leak, the brakes will not work well.
+
+Always clean the brake fl uid reservoir cap and the area around the cap before removing and installing the cap.
+
+Do not top off the brake fl uid.
+
+If fl uid is added due to worn pads, when new brake pads are installed there will be too much fl uid. Add or remove fl uid, as necessary, only when work is performed on hydraulic brake system.
+
+![](https://vinfastowners.org/manuals/images/3aba2d20a4300f32351ffd1c07c45043588cfec2b6ad6efa7962938ab0591093.jpg)
+
+# NOTE
+
+The brake fl uid used in this vehicle is DOT 4.
+
+![](https://vinfastowners.org/manuals/images/14b74ace1b150796bab2a547a38c8d25d2b86d8596d6a91df7417c652270927b.jpg)
+
+# CAUTION
+
+Do not mix other types of brake fl uid, otherwise it will cause damage to the braking system and components.
+
+The red brake indicator
+
+![](https://vinfastowners.org/manuals/images/19a7bb77dd2f6f15c7ae3b570b4b77ff702f8e9557ab99da4b2bfb0a01fab65b.jpg)
+
+on the touchscreen will illuminate if the brake fl uid in the reservoir drops below the recommended level. The ABS indicator
+
+![](https://vinfastowners.org/manuals/images/efe2905cb8250504d6f4073ebba2f2fc20587f0d5ede9ab147a744de400dcff3.jpg)
+
+may also illuminate. Please contact your nearest VinFast Service Center immediately to have the vehicle’s braking system inspected.
+
+![](https://vinfastowners.org/manuals/images/a53c5fd475a1885b37c4c56eaf1f87191ca6094395890f67c8b5e72b2bf4487d.jpg)
+
+# NOTE
+
+The brake fl uid level drops slightly during vehicle operation and as the brake pads wear.
+
+![](https://vinfastowners.org/manuals/images/d4e43fec752ef7dc2621682bc8549b4de1824adb6a1ccd2430bfb21d8c7453a0.jpg)
+
+# CAUTION
+
+Use brake fl uid only from a sealed airtight container. Do not use previously used fl uid or fl uid from an opened container, as brake fl uid has a tendency to absorb moisture which decreases braking performance.
+
+Do not allow any brake fl uid to come into contact with the vehicle paint to avoid corrosion.
+
+Contact VinFast Service Center immediately if any increased movement of the brake pedal or a signifi cant loss of brake fl uid is observed. Driving under these conditions can result in extended stopping distances or complete brake failure.
+
+# WARNING
+
+The brake fl uid level must be between MIN and MAX level. Brake fl uid may leak out over the edge of the reservoir if the brake fl uid level is above the MAX indicator and may result in damage to the vehicle.
+
+If the brake light illuminates while driving, stop as soon as safely possible and check the brake fl uid level. If left unchecked, this may prevent effective braking and cause increased movement in the brake pedal and/or complete brake failure.
+
+Brake fl uid is highly toxic. Keep brake fl uid container sealed and out of reach of children. Seek immediate
+
+medical attention if accidentally exposed to any brake fl uid.
+
+Prevent brake fl uid from making contact with skin and eyes. If contact is made, rinse immediately with water. If redness, pain, or discomfort persists, seek immediate medical attention.
+
+Do not touch any of the High Voltage components in the brake fl uid reservoir area.
+
+Do not use unauthorised products. Usage of incorrect or contaminated brake fl uid could result in damaging the braking system. This could result in the loss of braking, leading to an accident.
+
+# Air Conditioner
+
+To ensure continuous and effi cient operation of the air conditioning system, a few minutes of cooling must be regularly performed once a month, regardless of the weather conditions and time of the year.
+
+The air conditioning system in the vehicle is fi lled with R134a refrigerant. The technical details of the air conditioning refrigerant can be found on the label inside the hood of the vehicle. See $>$ Technical specifi cation > Fluids, Lubricants and Parts Overview.
+
+![](https://vinfastowners.org/manuals/images/1b4a48cfa084e942d5c1e7138b8ac427d477ec35f2ea75b953945e746de28800.jpg)
+
+# NOTE
+
+Always use manufacturer authorised refrigerant and air-conditioning compressor oil.
+
+In humid climates, the air conditioning may create water droplets inside the vehicle. It is recommended to use the air conditioner with the windows closed.
+
+Electric vehicles run much quieter than gasoline-powered vehicles, therefore the A/C compressor may be more audible.
+
+# WARNING
+
+Air conditioning systems contain high-pressured refrigerants. Do not open the air conditioner refrigerant system as it may result in serious injuries.
+
+Air conditioning refrigerant systems should only be serviced by an authorised service technician.
+
+# 9.3. Electrical System
+
+# Fuses and Circuit Breakers
+
+The vehicle has fuses and circuit breakers to protect against an electrical system overload. The fuse boxes in the vehicle are located under the front hood on right hand side and on top of 12V battery, behind the dashboard on the driver side, and in the rear cargo compartment. If a fuse/relay gets blown, it is strongly recommended to have electrical fuses changed or inspected only by a VinFast technician.
+
+When a fuse blows, the element inside the fuse is melted or broken. Always replace a fuse with fuse of identical size and rating. If the replaced fuse blows immediately after
+
+replacing, contact the local VinFast Service Center for maintenance as soon as possible.
+
+# CAUTION
+
+A fuse must not be replaced with anything but another fuse of same size and rating.Never try to repair a blown fuse.
+
+Do not use copper wire or aluminum foil as a temporary substitute for a proper fuse. Such substitutes can cause extensive wiring damage, possibly resulting in a fi re.
+
+Avoid using a screwdriver or any other metal objects to remove fuses, as they may cause short circuits.
+
+![](https://vinfastowners.org/manuals/images/b9b5f21e106ea9c4e794594402722859d03e8db85eb3904762d173afc6e23ae3.jpg)
+
+# WARNING
+
+Fuses and circuit breakers are marked with their ampere rating. Do not exceed the specifi ed rating when replacing fuses and circuit breakers. The use of an oversized fuse or circuit breaker can result in a vehicle fi re causing serious injury or death.
+
+Installing fuses that do not meet VinFast’s original fuse specifi cations is dangerous. The fuses could fail, resulting in a fi re causing vehicle damage and/or death.
+
+Spilling liquid on any electrical component in the vehicle may damage it. Always be very careful when working around electrical components.
+
+# IP Fusebox
+
+![](https://vinfastowners.org/manuals/images/fb06123a989f0d10b6606be616979c9739ffa136a0430ec000f6ed999da284d9.jpg)
+
+Instrument Panel fuse box is located in the lower left hand side of the dashboard.
+
+To access Front IP fusebox:
+
+1. Turn the vehicle OFF.
+2. Make sure all switches are in the OFF position.
+3. Remove the fuse panel cover.
+4. Refer to the description provided inside the fuse panel cover to replace the required fuse.
+5. Remove the blown fuse using the removal tool which is provided in the front compartment fuse box.
+6. Check and replace the blown fuse.
+7. Make sure the replaced fuse has the same rating and it fi ts tightly in its place. If in doubt, please contact a
+
+   service technician.
+
+Fuse Details:
+
+![](https://vinfastowners.org/manuals/images/11665aed04af064fa2a05b71049fdba6c45b444c818cbfa0e92cf2bb06fbfbef.jpg)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| IP FUSE & RELAY DETAILS |
+| Fuse Name | Fuse Identification | Type | Rating |
+| VADAS | F1 | FUSE | 20A |
+| SPARE | F2 | FUSE |  |
+| CABIN SUPPLY 1 | F3 | FUSE | 60A |
+| VADAS | F4 | FUSE | 20A |
+| ETG POWER | F5 | FUSE | 30A |
+| APM-2 | F6 | FUSE | 30A |
+| APM-1 | F7 | FUSE | 30A |
+| SPARE | F8 | FUSE | - |
+| CL30s RELAY 1 | F9 | FUSE | 30A |
+| SPARE | F10 | FUSE | - |
+| CABIN SUPPLY 2 | F11 | FUSE | 60A |
+| SPARE | F12 | FUSE |  |
+| CABIN SUPPLY 3 | F13 | FUSE | 50A |
+| IGN RELAY | F14 | FUSE | 30A |
+| CPD/HUD | F15 | FUSE | 5A |
+| BMS | F16 | FUSE | 10A |
+| BLS | F17 | FUSE | 5A |
+| CIR RELAY | F18 | FUSE | 10A |
+| ALCOHOL-LOCK CONT | F19 | FUSE | 10A |
+| 12V PS MID | F20 | FUSE | 15A |
+| • | F21 | FUSE |  |
+|  | F22 | FUSE |  |
+| MHU-2 | F23 | FUSE | 30A |
+| MHU-1 | F24 | FUSE | 30A |
+| SHVU-F-1 | F25 | FUSE | 20A |
+| - | F26 | FUSE |  |
+| XGW | F27 | FUSE | 7.5A |
+| APM/GS/FKS | F28 | FUSE | 5A |
+| SCM/OBD | F29 | FUSE | 10A |
+| • | F30 | FUSE | - |
+| ESC/EPS/VCU/BMS | F31 | FUSE | 5A |
+| CCU/HUD/IONIZER/PTCH | F32 | FUSE | 5A |
+| MCU/PDU | F33 | FUSE | 5A |
+| SHVU F | F34 | FUSE | 5A |
+| ADAS-2/SHVU\_R/USS/YRS/SCAM | F35 | FUSE | 10A |
+| BCM/APM/RVM/XGW/WLC | F36 | FUSE | 7.5A |
+| ALCOHOL INTERLOCK | F37 | FUSE | 5A |
+| CL30C RELAY | F38 | FUSE | 10A |
+| LH H/L LOW BEAM | F39 | FUSE | 7.5A |
+| CCU/DCM/RLS | F40 | FUSE | 10A |
+| MRR/SRR FRONT | F41 | FUSE | 15A |
+| VADAS SRR | F42 | FUSE | 7.5A |
+| RH H/L LOW BEAM | F43 | FUSE | 7.5A |
+| CCU/GS/DCMITSE | F44 | FUSE | 5A |
+| SHVU-F\_2 | F45 | FUSE | 20A |
+| VADAS ECU | F46 | FUSE | 7.5A |
+| BCM CL15 RELAY | R1 | RELAY | 30A |
+| BCM CL.30s RELAY-1 | R2 | RELAY | 30A |
+| CIR RELAY | R3 | RELAY | 30A |
+| CL30C RELAY | R4 | RELAY | 30A |
+
+# Front Compartment Fusebox
+
+![](https://vinfastowners.org/manuals/images/7ddebca3223c8441a8611e22f9f4b39fa1ad607b1426e1c9094d28da7390c4d4.jpg)
+
+To access Front Compartment fuses:
+
+1. Turn the vehicle OFF.
+2. Make sure all switches are in the OFF position.
+3. Open the hood.
+4. Remove the fuse panel cover by pressing the two tabs and pulling upwards.
+5. Refer to the description provided inside the fuse panel cover to replace the required fuse.
+6. Remove the blown fuse out by using the removal tool which is provided in the Front Compartment fuse box.
+7. Check and replace the blown fuse.
+8. Make sure the replaced fuse has the same rating and it fi ts tightly in its place. If in doubt please contact a VinFast
+
+   service technician.
+
+# 0
+
+# NOTE
+
+Remember to securely install the fuse panel cover back, if not securely attached water may enter and cause electrical damage.
+
+Front Compartment Fuse Label:
+
+![](https://vinfastowners.org/manuals/images/bb043f74aefdbc03fec2773dfd90704fee2b131b42396bd05f861b3b33a80abe.jpg)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Front Compartment Fusebox details |
+| Fuse Name | Fuse Identification | Type | Rating |
+| SPARE | F1 | FUSE |  |
+| vCU | F2 | FUSE | 30A |
+| IDB-2 | F3 | FUSE | 40A |
+| IDB-1 | F4 | FUSE | 60A |
+| BCM BEAM LAMP | F5 | FUSE | 30A |
+| ER SUPPLY | F6 | FUSE | 30A |
+| CABIN SUPPLY | F7 | FUSE | 40A |
+| SPARE | F8 | FUSE |  |
+| • | F9 | FUSE |  |
+| • | F10 | FUSE |  |
+| RCU-2 | F11 | FUSE | 40A |
+| • | F12 | FUSE | - |
+| BCM FOG LAMP PWR | F13 | FUSE | 20A |
+| EDS WATER PUMP | F14 | FUSE | 30A |
+| EDS2 | F15 | FUSE | 15A |
+| BATTERY WATER PUMP | F16 | FUSE | 30A |
+| EDS-1 | F17 | FUSE | 15A |
+| • | F18 | FUSE | - |
+| BCM LAMP 1 | F19 | FUSE | 20A |
+| BCM TURN | F20 | FUSE | 15A |
+| BCM FR PWR | F21 | FUSE | 30A |
+| BCM HORN | F22 | FUSE | 15A |
+| BCM DOOR LOCK | F23 | FUSE | 30A |
+| AVAS | F24 | FUSE | 5A |
+| VCU | F25 | FUSE | 5A |
+| - | F26 | FUSE | - |
+| - | F27 | FUSE | - |
+| PDU | F28 | FUSE | 10A |
+| E-VALVE & AGS | F29 | FUSE | 7.5A |
+| VCU RLY COILS | F30 | FUSE | 5A |
+| COMPRESSOR & HEATER | F31 | FUSE | 5A |
+| - | F32 | FUSE |  |
+| COOLING FAN | F33 | FUSE | 50A |
+| • | R1 | RELAY |  |
+| EDS1 WATER PUMP | R2 | RELAY | 35A |
+| BATTERY WATER PUMP | R3 | RELAY | 35A |
+| VCU MAIN RELAY | R4 | RELAY | 35A |
+|  | R5 | RELAY |  |
+|  | R6 | RELAY |  |
+|  | R7 | RELAY |  |
+|  | R8 | RELAY |  |
+|  | R9 | RELAY |  |
+|  | R10 | RELAY |  |
+|  | R11 | RELAY |  |
+|  | R12 | RELAY |  |
+|  | R13 | RELAY |  |
+|  | R14 | RELAY |  |
+|  | R15 | RELAY |  |
+|  | R16 | RELAY |  |
+|  | R17 | RELAY |  |
+| COOLING FAN | R18 | RELAY | 70A |
+
+# 12v Auxiliary Battery Fuse box:
+
+![](https://vinfastowners.org/manuals/images/ce26a70a8228c45e6aceda8b519da8dd58737a7d2b32fb46f71ec0f18fffbe8c.jpg)
+
+To access 12v Auxiliary Battery Fuse box:
+
+1. Turn the vehicle OFF.
+2. Make sure all switches are in the OFF position.
+3. Open the front compartment.
+4. Remove the fuse panel cover.
+5. Refer to the description provided inside the fuse panel cover to replace the required fuse.
+6. Remove the blown fuse out by using the removal tool which is provided in the Front Compartment fuse box.
+7. Check and replace the blown fuse.
+8. Make sure the replaced fuse has the same rating and it fi ts tightly in its place. If in doubt please contact a Vin
+
+   service technician.
+
+Fuse Label:
+
+![](https://vinfastowners.org/manuals/images/0f39e598266e55896394f637bd8a9dc99dba34f8898dec49fabc24723f18fb63.jpg)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| PRE FUSE BOX DETAILS (12V AUX ) |
+| No. | Fuse Name | Type | Rating |
+| 1 | DC-DC | Slow Blow Fuse | 250A |
+| 2 | Cabin Fuse Box | Slow Blow Fuse | 200A |
+| 3 | Engine Fuse Box | Slow Blow Fuse | 200A |
+| 4 | EPS-1 | Slow Blow Fuse | 60A |
+| 5 | Rear Fuse Box | Slow Blow Fuse | 100A |
+| 6 | IDB | Slow Blow Fuse | 60A |
+| 7 | PTC Heater | Slow Blow Fuse | 125A |
+| 8 | Battery Sensor | Fast Blow Fuse | 5A |
+
+# Rear Cargo Compartment Fusebox
+
+![](https://vinfastowners.org/manuals/images/319f403dcde668f6c26e5e0e5e5a33cc0e19bec54d2eaf3004c280546c525560.jpg)
+
+To access Rear Cargo Compartment Fuse box:
+
+The rear cargo compartment fuse box is located behind the access cover on the left side of the compartment.
+
+1. Turn the vehicle OFF.
+
+2. Make sure all switches are in the OFF position.
+
+3. Open the rear cargo compartment.
+
+4. Remove the fuse panel access cover.
+
+5. Refer to the description provided inside the fuse panel cover to replace the required fuse.
+
+6. Remove the blown fuse out by using the removal tool which is provided in the Front Compartment fuse box.
+
+7. Check and replace the blown fuse.
+
+8. Make sure the replaced fuse has the same rating and it fi ts tightly in its place. If in doubt please contact a VinFast service technician.
+
+
+Rear Cargo Compartment Fuse Label:
+
+![](https://vinfastowners.org/manuals/images/908cb4f06d4b5e25b658b652e6d1dae91785fbd4267dfc8dbf2ca69d5fa76d4f.jpg)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Front Compartment Fusebox details |
+| Fuse Name | Fuse Identification | Type | Rating |
+| CL30s LIGHT RELAY | F1 | FUSE | 50A |
+| • | F2 | FUSE | - |
+| - | F3 | FUSE |  |
+| SHVUR | F4 | FUSE | 40A |
+|  | F5 | FUSE |  |
+| • | F6 | FUSE |  |
+| REAR DEFOG | F7 | FUSE | 40A |
+| CL30s RELAY-2 | F8 | FUSE | 60A |
+| - | F9 | FUSE |  |
+| - | F10 | FUSE | - |
+|  | F11 | FUSE |  |
+| • | F12 | FUSE |  |
+| • | F13 | FUSE |  |
+| BLOWER MOTOR | F14 | FUSE | 40A |
+| USB FRONT | F15 | FUSE | 7.5A |
+| INT LIGHT | F16 | FUSE | 7.5A |
+| USB\_C REAR | F17 | FUSE | 20A |
+| - | F18 | FUSE | - |
+| SHUR | F19 | FUSE | 20A |
+| • | F20 | FUSE |  |
+|  | F21 | FUSE |  |
+|  | F22 | FUSE |  |
+|  | F23 | FUSE |  |
+| • | F24 | FUSE |  |
+|  | F25 | FUSE |  |
+| MIRROR HEAT | F26 | FUSE | 7.5A |
+| MHU/INS/SCAM | F27 | FUSE | 5A |
+| - | F28 | FUSE | - |
+| DRIVER SEAT | F29 | FUSE | 30A |
+| SEAT PASS | F30 | FUSE | 30A |
+| • | R1 | RELAY | - |
+| - | R2 | RELAY | - |
+| • | R3 | RELAY |  |
+| • | R4 | RELAY | - |
+| • | R5 | RELAY | - |
+| - | R6 | RELAY | - |
+| • | R7 | RELAY | - |
+| - | R8 | RELAY | - |
+| BLOWER MOTOR | R9 | RELAY | 70A |
+| CL30s LIGHT RELAY | R10 | RELAY | 70A |
+| CL30s RELAY-2 | R11 | RELAY | 70A |
+| REAR DEFOG | R12 | RELAY | 70A |
+
+# Lights
+
+The vehicle is fi tted with Light Emitting Diodes (LED) in all Interior and Exterior Lights. Contact VinFast Service Center for any light replacement. Replacement lights must be of the same type and size as the original lights.
+
+# Exterior Lights
+
+Front Light:
+
+![](https://vinfastowners.org/manuals/images/fa32c0fffb87611b86602c50d8e004f978b23e9ef375f8847959731b4d5a965e.jpg)
+
+|     |     |
+| --- | --- |
+|  | Signature Lights |
+| 2 | Daytime Running Lamp / Turn Signal Indicator |
+| 3 | High and Low Beam |
+| 4 | Turn Signal Indicator |
+
+Rear Lights:
+
+![](https://vinfastowners.org/manuals/images/d519748b6547f09560e8ff834a4e2c4a482f85ed029711ee8788181cabb4ec91.jpg)
+
+|     |     |
+| --- | --- |
+| 1 | Center High Mounted Stop Light (CHMSL) |
+|  | Side Rear Reflector |
+| 3 | Rear Stop Light |
+|  | Rear Signature Lights |
+|  | License Plate Light |
+| 6 | Tail Lights |
+|  | Rear Reflector |
+
+Tail Lights:
+
+![](https://vinfastowners.org/manuals/images/5c46978066b4b2ec59a8cee7b052c2f40b4c5302a5e3d5d95d0c17368eb7bb58.jpg)
+
+|     |     |
+| --- | --- |
+| 1 | Turn Indicator Light |
+| ② | Reverse Lamp |
+
+# CAUTION
+
+If the light is dimmed, cracked, or damaged, replace the LED Light Unit immediately. Dispose of the LED Light Unit carefully, in accordance with local regulations.
+
+![](https://vinfastowners.org/manuals/images/1dc5b6deaa5f22ce260694bd7fbcbc1446210c551fbd7ee7c585e6f4e95a14be.jpg)
+
+# NOTE
+
+The LED lamp is an integrated unit and hence individual elements cannot be replaced individually. The whole unit must be replaced.
+
+# Interior Lights
+
+All interior lights are LED Lights; therefore, it is recommended to visit a VinFast Service Center for any replacement or faults.
+
+![](https://vinfastowners.org/manuals/images/f6017aa775e67a3af4a6e5705bfeb1030dfd946e6fe5e630f11aefd71cf88758.jpg)
+
+# CAUTION
+
+Do not touch the glass portion of the LED Light with bare hands.
+
+If holding the glass portion is unavoidable, hold it using a clean dry cloth to avoid contact with moisture and grease.
+
+# Battery
+
+The vehicle is equipped with a 12V battery that is used to power some of the vehicle’s electrical components.
+
+If the vehicle is not driven for a long period of time, the 12V battery may reach a state of discharge even though the electrical components are switched OFF. Contact an authorised VinFast service facility for more information.
+
+![](https://vinfastowners.org/manuals/images/223fa72eff525a57e47175965c96ddb6d94146ed6acb10e9103c50b7a4abb527.jpg)
+
+# 0
+
+# NOTE
+
+If the vehicle becomes unresponsive and does not unlock, open, or charge, the low voltage battery may be discharged.
+
+Contact a VinFast Service Center.
+
+![](https://vinfastowners.org/manuals/images/2d093a25c30fa2a8722abde7e141dcfc7884c5b6854ed58792518d6d4ec9b2a9.jpg)
+
+# WARNING
+
+When handling a battery, wear correct PPE (Personal protective equipment) to avoid injury from acid that may spill from the battery.
+
+Keep batteries secure and safe from the reach of children.
+
+Battery electrolyte contains sulfuric acid, avoid contact with skin, eyes and clothing.
+
+If a contact is made with battery electrolyte, wash the affected areas with water immediately and seek medical attention if pain or a burning sensation is experienced.
+
+Do not touch any of the electrical system components located near the 12V battery.
+
+The battery has no parts that the owner or a non-VinFast authorised service technician can service. Under no circumstances should the battery be opened or tampered with. Contact an VinFast Service Center to arrange for battery servicing.
+
+Battery Maintenance
+
+To ensure optimum working of electrical components of the vehicle, check the health of the 12V battery regularly.
+
+Ensure the battery is securely mounted.
+
+Ensure the battery is clean and dry, with no visible liquid leaks.
+
+Ensure the battery terminals and connections are always clean and secure.
+
+Battery Replacement
+
+Only use parts authorised by VinFast. It is recommended to replace the original battery with a battery of the same specifi cation. Please contact an VinFast Service Center for more details.
+
+The following functions may need to be reset after the battery has been disconnected:
+
+Climate control settings Clock and Phone settings Infotainment system
+
+# 9.4. Wheels and Tires
+
+# Tires
+
+Following tire options are available depending on the region of sale and variant of the vehicle.
+
+ECO variant: 245/50 R19
+
+PLUS variant: 245/45 R20
+
+Depending on the climate and where the vehicle will be driven, alternative tires may be needed. These are classifi ed as Summer, or All-Season tires. For more information, please visit the nearest VinFast Service Center.
+
+# Tire Care
+
+To ensure the safety of all the passengers and maximize the effi ciency and range of the vehicle, it is recommended to maintain proper tire pressure and stay within the specifi ed load limits of the vehicle.
+
+Any tire that show uneven wear or are damaged must be replaced or repaired as soon as possible. Worn tires can cause loss of traction, braking effectiveness and can affect steering control.
+
+The vehicle is fi tted with All-Season tires which are designed to provide good overall performance on most road surfaces and weather conditions.
+
+The tire size and pressure information can be found on the label attached to the door frame. See $>$ Wheels and Tires > Tire pressure.
+
+# Tire Inspection
+
+Inspect the tire tread and side walls on a regular basis for signs of cut, wear, bulging, distortion, or foreign objects.
+
+![](https://vinfastowners.org/manuals/images/ebbc90b3801c2b5cd268692cdac0222a70cdb64a0fb21bc6bc8c26598106efe7.jpg)
+
+# NOTE
+
+Always replace tire with the same size, type, and tread pattern as originally supplied by the vehicle manufacturer.
+
+Tire pressure indicator telltale
+
+![](https://vinfastowners.org/manuals/images/85b50661151b62a925ca3e147aea4f98b4b6eb1769b5223ba214a30d29518300.jpg)
+
+will illuminate on the touchscreen if the tire is under/over-infl ated.
+
+Parking outside in direct or indirect sunlight may cause a difference in tire pressure. An increase of tire pressure is expected in tires that are warm. In an attempt to maintain recommended air pressure do not release air pressure from a warm tire, this can cause the tire to be under-infl ated.
+
+Please check and make necessary changes to tires that are damaged, excessively worn, or incorrectly infl ated before driving.
+
+# Spare Tire(if equipped)
+
+If equipped, the vehicle has one spare tire located in the rear cargo compartment, under the cargo fl oor mat.
+
+T145/80 R19
+
+The maximum allowable vehicle speed for the spare tire is indicated on a sticker located on the spare wheel. The spare tire is fully infl ated when new, however, it can lose air over time. Check the infl ation pressure regularly. Always correctly stow and inspect the spare tire to ensure it is ready for use when needed.
+
+The damaged or fl at road tire should be repaired or replaced and installed back on to the vehicle as soon as possible so that the spare tire will be available in case it is needed again.
+
+![](https://vinfastowners.org/manuals/images/1784da76ea9ad3f2c391f9140c0ceabdaa3c3c40b1fe03255a6a47b53a5e7c1e.jpg)
+
+# NOTE
+
+A spare tire is for TEMPORARY USE ONLY. Drive carefully when a spare tire is fi tted on the vehicle. Do not exceed speeds more than 80 km/h (or 50 mph).
+
+Always replace the spare tire in the case of abnormal wear & tear, distortions, or bulges.
+
+Non-pneumatic tire are not recommended to be used on the vehicle.
+
+# WARNING
+
+Do not drive the vehicle above the indicated maximum speed shown on the spare tire.
+
+Do not drive if the spare tire is damaged or not properly infl ated. This can cause serious damage to the vehicle and a risk to passenger safety.
+
+The vehicle’s suspension is designed for a specifi c tire and rim size combination. Only fi t tire and wheel combinations as specifi ed by VinFast. Failure to follow this can increase the risk of serious injuries in the event of an accident.
+
+# Tire Pressure
+
+To ensure maximum tire life and safe vehicle performance it is important to regularly check tire pressures and ensure tires are infl ated to the recommend pressures.
+
+All Tire pressures, including the spare tire (if equipped), should be checked when the tires are cold.
+
+The Tire and Loading Information label indicates the original equipment tire fi tted to the vehicle and provides the recommende cold tire infl ation pressure.
+
+# Tire Pressure Placard
+
+The recommended tire pressure is listed on the label attached to the driver’s side center pillar:
+
+![](https://vinfastowners.org/manuals/images/b82ac534520d300fc6b1f48789e85bebc6b06c062d26346e9cc0c14625091240.jpg)
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Vehicle Type | VF7 |
+| Variant | VF 7 ECO | VF7 PLUS | Spare |
+| Tire Dimension | 245/50 R19\* | 245/45 R20\* | T145/80 R19\* |
+| Cold Tire Pressure | Front: 240 kPa/34 psiRear: 240 kPa/35 psi | 250 kPa/36 psi | VF 7 ECO : 413 kPa/60psiVF7 PLUS: 420 kPa/61psi |
+| Wheel rim size | 7.5Jx19 | 8Jx20 |
+| Wheel rim type | Aluminum Alloy | Aluminum Alloy |
+| Wheel Offset (mm) | 45 | 40 |
+| \*If available |
+
+Tire pressure can be monitored by the driver via the Infotainment screen.
+
+Under infl ated tires will produce excessive wear on the inner and outer edges of the tire and may cause the vehicle to display poor handling quality due to excessive tire fl exibility.
+
+Over infl ated tires will produce a reduced contact area with the road surface and may lead to reduced traction.
+
+Tires over infl ated will also exhibit increased wear to the center of the tire resulting in overall increased tire wear.
+
+To check Tire Pressure:
+
+It is recommended to check tire pressures, including spare (if equipped), every 14 days and before undertaking long distance journeys.
+
+Tire pressures can be monitored by the driver via the touchscreen, see $>$ Car Control Area > Tire Pressure Monitoring System (TPMS).
+
+To check Tire pressure manually:
+
+1. Remove the valve cap from the tire valve stem.
+2. Press the tire pressure gauge fi rmly onto the valve to get a pressure measurement. If the cold tire infl ation pressure matches the recommended pressure on the Tire Placard no further adjustment is necessary.
+3. If the tire is under infl ated, add air until the recommended pressure is reached.
+4. If the tire is over infl ated, release air by pushing on the metal stem in the center of the tire valve. Recheck the tire pressure with a pressure gauge.
+5. Put the valve caps back on the valve stems. Without the valve cap, dirt or moisture could get into the valve and cause air leakage. If a valve cap is missing, install a new one as soon as possible.
+6. If a tire is not maintaining pressure, please have the tire inspected at a VinFast Service Center.
+
+![](https://vinfastowners.org/manuals/images/81374d5b247f99a2ed1ad79b54c9ef9c34fddf87559dafe94abbf64400c0d3c9.jpg)
+
+# NOTE
+
+Incorrectly infl ated tires may wear faster and create more road noise.
+
+# WARNING
+
+Driving with an incorrectly infl ated tire can affect the vehicle handling, steering, and braking. This can lead to an accident, causing serious injury or death.
+
+Under-infl ated tires are the most common cause of tire failures and can cause severe tire cracking, tread separation, or blowout, resulting in sudden loss of vehicle control and accidents.
+
+Insuffi cient tire pressure leads to tire sidewall fl exing and an increase of rolling resistance, which results in heat buildup and internal damage. Additionally, it can contribute to tire damage, irregular tire wear and loss of vehicle control. It is possible for a tire to lose up to half of its air pressure and not appear fl at!
+
+# Tire Pressure Monitoring System
+
+Tire Pressure Monitoring System (TPMS) monitors air pressure in the tires. If one or more tires are signifi cantly under infl ated or if the system is malfunctioning, a TPMS warning telltale illuminates. The TPMS system has tire pressure sensors in each wheel which transmits air pressure readings to a receiver located in the vehicle, the readings are displayed on the Infotainment screen, see $>$ Car Control Area > Tire Pressure Monitoring System (TPMS).
+
+# TPMS Sensors
+
+![](https://vinfastowners.org/manuals/images/34352440ee4643fad3cfe197ca7faaa4e9d497089e7070dbc1bcd37fa0a610a3.jpg)
+
+The TPMS system uses sensors in each Tire that transmit real-time information on tire pressure and temperature. The sensors are attached to the valve.
+
+Each sensor has an inbuilt battery and antenna.
+
+![](https://vinfastowners.org/manuals/images/796b5049b367f81106440d56653fd950668ea27e1f871126c00ec79d6ccc615b.jpg)
+
+NOTE
+
+If the TPMS sensor battery gets depleted, then the complete unit needs to be replaced.
+
+# TPMS Warning System
+
+The TPMS system warns the driver if the tire pressure is below or above the recommended pressure. If an issue or missing sensor signal is detected, a TPMS warning telltale
+
+will be displayed on the Infotainment screen. An alert pop up will also be shown on the Infotainment screen with an audible chime, see $>$ Car Control Area $\\geq$ Vehicle Alerts.
+
+Tire pressure status display:
+
+![](https://vinfastowners.org/manuals/images/898966b5b5472e138f38358fe029ce4208497b9bd1bd36b4048ae30d6ff77b56.jpg)
+
+Tire Rapid Air Loss
+
+![](https://vinfastowners.org/manuals/images/396e459be29a333268a6470fc27c31b6475d68eb703308e1644252a727f7b3fe.jpg)
+
+# 24 psi
+
+Quick leakage tire 6
+
+\\* Static IPC telltale
+
+![](https://vinfastowners.org/manuals/images/d59ccd7485510b4046a122df4cfffea01887a64a30f88201b5f6002b22eef82b.jpg)
+
+22 psi
+
+Low tire pressure 6
+
+\\* Static IPC telltale
+
+![](https://vinfastowners.org/manuals/images/025f87853103cb858b92adee90af0992370fe43ffcc0318024148f97b143750b.jpg)
+
+Tire sensor Failure
+
+Blinking IPC telltale for 75s
+
+![](https://vinfastowners.org/manuals/images/54c9da06ec8bcd5086f1937b537fc9d8e18d8e369820248760f74b1c102695f6.jpg)
+
+Re-learning of TPMS Sensors
+
+Each TPMS sensor has a unique identifi cation code. The identifi cation code needs to be matched to a new tire/wheel position after rotating the vehicle’s tires or replacing one or more of the TPMS sensors. For details on TPMS Sensor Relearning, see $>$ Car Control Area > Tire Pressure (TPMS).
+
+# CAUTION
+
+The Spare tire, if equipped, is not fi tted with a TPMS sensor. Under-infl ation of this tire will not be detected by the TPMS system. Check the Spare tire pressure regularly using tire pressure gauge.
+
+If a tire sealant is used for tire puncture repair, the sealant may affect the TPMS sensor performance. In such case, the
+
+![](https://vinfastowners.org/manuals/images/3c8263a765a6cc289c17293ff880cb0c567eff85f38fbce9b255ab5d4688c9fe.jpg)
+
+# WARNING
+
+Check the tire pressure regularly using an accurate pressure gauge, when tires are cold.
+
+Always check tire pressures of all the tires before starting your journey. If a tire pressure alert is displayed on the screen, slow down the vehicle, stop as soon as possible, and get the defect repaired.
+
+If required, use the spare wheel (if equipped) in the rear cargo compartment to replace the defected tire or use a tire repair kit to repair the tire.
+
+If a tire pressure is low, try to avoid any sudden direction changes or hard braking maneuvers.
+
+Driving with under or over infl ated tire can affect the vehicle handling, steering and braking. This can lead to an accident, causing serious injury or death.
+
+Never overload the vehicle. Overloading can lead to loss of vehicle control and can increase the risk of an accident.
+
+TPMS does not substitute the regular tire maintenance. Check and infl ate the tire to the recommended pressure regularly, even if low tire pressure alert is not displayed.
+
+# Tire Wear & Tread Depth
+
+The tire is designed with a tread pattern wear indicator line. If a tire tread is worn down to one sixteenth of an inch $( 2 \\mathsf { m m } )$ , it must be replaced so that the vehicle does not skid or hydroplane. Built-in tread wear indicators, or wear bars, which appear as thin, smooth rubber strips across the tread, will appear once the tread wears. If necessary, a tread depth gauge can be used to measure.
+
+The wear should be even across the tire. The left and right tires should have the same amount of tread depth, to prevent the vehicle from losing control while driving.
+
+# Tire wear
+
+The following situations can increase tire wear:
+
+Infl ation pressure that is too low or high can signifi cantly increase tire wear.
+
+Driving on curved roads at high speeds, rapid acceleration, and heavy braking increases the tire’s wear.
+
+![](https://vinfastowners.org/manuals/images/e0176eaa6441eea9c47e44e74f0dc5354f430cd12649cd4938242f703d0d584b.jpg)
+
+# WARNING
+
+Replace the worn or damaged tire immediately. Worn or damaged tires can cause loss of braking, steering control, and traction.
+
+It is recommended to replace the tires in sets i.e., replace either both front two or rear two tires.
+
+Always replace tires with the same size that was originally supplied.
+
+Driving in hot weather or an overloaded vehicle can cause the tires to wear out faster. Inspect the tires regularly.
+
+The grip of damaged tires is very low, especially on wet roads, which can cause the vehicle to fl oat on the road surface (hydroplaning).
+
+# CAUTION
+
+When the vehicle is in high speed and/or in wet conditions, steering and braking will not perform optimally.
+
+# Tire Rotation
+
+Tires are critical components in ensuring optimum steering, handling and braking performance. This performance can be reduced by uneven tire wear. To ensure optimum performance is maintained it is recommended that tires are rotated on a regular basis. Tire rotation assists in extending tread life and maintaining traction performance in all conditions while contributing to a smooth and quiet ride.
+
+To make the wear of each tire uniform and extend its life, it is recommended that the tires be rotated. During rotation, check the tires for correct balance. If the abnormal wear continues after the rotation, check the wheel alignment.
+
+![](https://vinfastowners.org/manuals/images/07cb5f925ec070a6369f4a565ea83b75f20763647596adfd0127ba9d35ab8641.jpg)
+
+# NOTE
+
+Tire rotation does not include the spare tire(if equipped).
+
+Use below rotation pattern when changing the tire positions:
+
+![](https://vinfastowners.org/manuals/images/4e96b72708878b9a91c0b41d3f4ff53e0427bf2203dfae7f2c4feaff4cdfac6e.jpg)
+
+![](https://vinfastowners.org/manuals/images/1959d77ad4eed22cddf08358bc81cd2cb160e279634768f765f7744ee76ce3be.jpg)
+
+Check whether the tread pattern or the tire sidewall is damaged.
+
+Replace the tire if:
+
+1. The tire tread wear indicators at three or more places around the tire can be seen.
+2. There is cord or fabric showing through the tires rubber.
+3. The tread or sidewall is cracked, cut, or snagged deep enough to show cord or fabric.
+4. The tire has a bump, bulge, or split.
+5. The tire has a puncture, cut, or other damage that cannot be repaired well because of the size or
+
+   location of the damage.
+
+# NOTE
+
+After the tires are rotated, infl ate the front and rear tires to the recommended tire infl ation pressure.
+
+Check that all the wheel mounting nuts are properly tightened to the specifi ed torque.
+
+Calibrate the Tire Pressure Monitoring System to relearn the tires new position, see $>$ Wheels and Tires > Tire pressure monitoring system.
+
+# CAUTION
+
+When rotating tires with asymmetrical tread pattern, always make sure that the “OUTSIDE” marking on the sidewall faces outward.
+
+Please visit a VinFast Service Center to rotate the tires diagonally if needed.
+
+It is necessary to update the sensor settings for the tire pressure monitoring system if the tire label shows different tire pressures for the front and rear tires. The system should always be reset after tire
+
+![](https://vinfastowners.org/manuals/images/5babbf604052a7c5d6fc57b1e20dbf6adf2080e07633c4e40ab4e4c9ec5a0205.jpg)
+
+# WARNING
+
+Do not use the compact spare tire for tire rotation.
+
+Do not mix bias ply and radial ply tires under any condition. This can lead to abnormal handling that can cause the wheels to loosen over time. The wheel may fall off and cause an accident.
+
+Rust or dirt on a wheel, or on the parts to where it is fastened, can cause wheel nuts to become loose over time. The wheel may become detached and cause an accident.
+
+Do not apply grease to the wheel mounting surface, wheel conical seats, or wheel nuts or bolts. Grease applied to these parts can cause a wheel to become loose or come off, resulting in an accident.
+
+# Wheel Alignment and Balance
+
+The wheels and tires on the vehicle are aligned and balanced to give the maximum tire life and optimum performance. In most cases, the wheels and tires do not need alignment and balancing regularly. However, if any abnormal tire wear is observed or the vehicle starts pulling one way or towards one side, then alignment may be needed. Also, if the vehicle is vibrating when driving on a smooth road, the tires and wheels may need to be rebalanced.
+
+Wheels may need to be aligned in following scenarios:
+
+After replacing or repairing the tire in a collision accident.
+
+Observed one-sided wear of front and rear tires.
+
+If the wheels are shaking or the steering wheel is vibrating while driving at a high speeds.
+
+When the vehicle pulls to the left or right, rather than going straight.
+
+![](https://vinfastowners.org/manuals/images/8661b2ffd94c3d873cf1ba92a4de02ca8675fb567e8fc2bab8e72c4b467ffd24.jpg)
+
+# NOTE
+
+Wheels and tires should be aligned by an approved VinFast Service Center.
+
+# !
+
+# CAUTION
+
+Incorrect wheel alignment causes excessive tire wear and may impact vehicle safety.
+
+# 9.5. Vehicle Cleaning
+
+# Exterior Care
+
+Wash and clean the vehicle regularly to preserve the vehicle’s appearance and condition. Frequent cleaning is recommended for vehicles driven in coastal areas and on roads that have salt or antifreeze applied due to an increased risk of metal corrosion due to environmental conditions.
+
+Glass surfaces like windshields, windows and mirrors should be cleaned regularly to ensure good visibility. Ensure that all exterior lights are clean and provide good forward visibility during low ambient driving conditions, and clear view of brake lights and directional indicator lights.
+
+Cleaning Body Panels
+
+Ensure that all the doors and windows are closed properly before washing. Remove any heavy deposits of mud and dirt with a nominal pressurized water spray from a distance of more than 30 cm. In case of hand washing, use approved diluted soap or shampoo in lukewarm water and wipe with a soft microfi ber cloth.
+
+Wash the vehicle with soapy water or non-corrosive mild gel detergents. Rinse with clean water and dry thoroughly using a chamois cloth or a soft microfi ber cloth.
+
+Inspect the vehicle for minor paintwork damage such as stone chips, etc. and where necessary have it rectifi ed immediately to prevent corrosion.
+
+Cleaning Glass Surfaces
+
+Clean windows and mirrors using an approved automotive glass cleaner. Do not use any abrasive cleaning fl uid on any surface.
+
+# CAUTION
+
+Do not use any petroleum based/abrasive cleaning agents or hard/abrasive cleaning tools as they may damage the vehicle’s paint.
+
+Improper vehicle cleaning can cause severe damage to the vehicle. Have stubborn stains removed by a qualifi ed workshop.
+
+Do not wash the vehicle under direct sunlight.
+
+Hold the nozzle at a distance of more than ${ 3 0 } \\mathtt { c m }$ (12 in) away from the surface of the vehicle when using high pressure washer.
+
+Do not aim the high-pressure washer directly at charging port door, parking sensors, cameras, body seals, cables, electronic modules, doors, or the liftgate as these components may get damaged or could freeze up in cold weather conditions.
+
+Do not use excessively hot water to clean the vehicle as it may severely damage the painted surfaces.
+
+Prior to washing the vehicle, ensure the charging port door is closed. Do not spray high pressure water on the charge port as it may result in damage to the charge port door or related charging equipment.
+
+Do not place any stickers or magnetic signs on vehicle components. The paint could get damaged when the stickers or magnets are removed.
+
+![](https://vinfastowners.org/manuals/images/44a0114721963855da4d100335caaf28079589503b7d220bf69d0267e4f7e4aa.jpg)
+
+# WARNING
+
+Vehicle maintenance products may be toxic and hazardous in nature. Keep children away from all cleaning agents and products.
+
+Use cleaning products in well-ventilated rooms or in open area to avoid inhaling any toxic vapors.
+
+Improper care and cleaning of vehicle parts can impair the safety features of the vehicle which can lead to accidents causing serious injuries or death. Follow manufacturer’s instructions to properly clean vehicle parts.
+
+Always use cleaning products that are approved or recommended by the manufacturer.
+
+Improper use or incorrect application of maintenance products may cause burns, accidents leading to severe injuries or poisoning. Do not use turpentine, nail varnish remover or other volatile fl uids for vehicle cleaning. These substances are highly toxic and fl ammable.
+
+Brake performance may get reduced after washing the vehicle. To check if they have been affected by water, test the brakes while driving slowly. If performance is impaired, dry the brakes by engaging them lightly while maintaining a slow speed.
+
+Cleaning the Wheels
+
+The alloy wheels should be cleaned at the same time as the rest of the vehicle using the same solution. Rinse thoroughly with water after washing.
+
+The wheels have a transparent protective layer (paint) to protect the wheel from corrosion and rust. Use of non-suitable cleaners (including some marketed wheel cleaners) or hard brushes can damage the coating. Only use a neutral cleaner and a soft brush or sponge to clean the wheels.
+
+# CAUTION
+
+While driving on a rough road or in off road conditions, be careful not to damage the tires and wheels. Inspect the tires and wheels after driving.
+
+Drive the vehicle slowly while passing over a pothole, speed bump, manhole, or curb stone so as not to damage the tires and wheels.
+
+Cleaning Underbody
+
+Regularly check the underbody for buildup of dirt, grime and debris that may be lodged in unsuspecting areas.
+
+Thoroughly fl ush the vehicle under body and wheel openings with lukewarm or cold water keeping a safe distance, avoid using a high pressure water when cleaning the underbody. The high voltage battery is sealed to prevent water intrusion.
+
+If damage or corrosion is detected, have the vehicle inspected by a VinFast Service Center.
+
+Keep the drain holes at the lower edges of the doors, rocker panels and frame members free from clogging with debris. Any trapped water inside these areas can cause corrosion.
+
+Wash the underside of the vehicle once road salts are stopped being used in the winter season.
+
+# WARNING
+
+When attempting to clean the underbody of the vehicle, the vehicle must be parked on a fl at surface in Park (P) gear with
+
+parking brake engaged and underbody surface must be cold.
+
+Do not touch any orange coloured high voltage cabling when cleaning the underbody of the vehicle.
+
+Always wear protective clothing when cleaning near sharp metal components, for example vehicle underbody.
+
+Automatic Car Wash
+
+It is safe to wash electric vehicles in automatic car wash. The equipment will not damage the electric motor or battery as they are sealed to prevent water intrusion.
+
+It is recommended to use touch-less automatic car washes as no contact is made to the exterior of the vehicle with rotating brushes that have the potential to damage the paintwork.
+
+For using automatic car wash, put the vehicle in Wash Mode.
+
+To enable wash mode, see $>$ Touchscreen $>$ Wash Mode.
+
+![](https://vinfastowners.org/manuals/images/00176452fc6dde7b45b2d9507eeb7be1ed44c45fd2241b17e4fdefe42f9a4031.jpg)
+
+# NOTE
+
+Do not drive the vehicle through an automatic car wash that uses silicon carbide tire wheel cleaning brushes. It may damage the vehicle and the repairs would not be covered by the vehicle warranty.
+
+# CAUTION
+
+In automatic car washes, fold the exterior mirrors so that they do not get damaged.
+
+Check and compare height and width of the car wash with the vehicle so that the vehicle does not get damaged.
+
+Car washes that scan the contours mechanically may damage the vehicle, e.g., spoiler.
+
+# Radar, Sensor, Camera Care
+
+For the Advanced Driver Assistance Systems (ADAS) to function correctly, the camera, radar and sensor must be
+
+kept free of dirt, mud, ice, snow, etc., and should be washed regularly with water and car washing detergent.
+
+Obstructing the camera, radar or sensor can disable or cause limited functionality of the systems, and in some circumstances can show false warnings.
+
+![](https://vinfastowners.org/manuals/images/36a169099482e12f8541489bac315822aa2ae9840a66210dd415ce1d1fb45ec2.jpg)
+
+# NOTE
+
+If a camera, radar or sensor is blocked, a driver assistance warning message will appear on the Infotainment screen.
+
+![](https://vinfastowners.org/manuals/images/d259590e2eb57494769d46d06a30b93882349b51ae8adee73926d6ba214375af.jpg)
+
+Warning messages are summarized as follows:
+
+|     |     |
+| --- | --- |
+| 1 | Windshield Camera Obstructed |
+|  | Left or Right Camera Obstructed |
+| 3 | Front or Rear Ultrasonic Sensors Obstructed |
+| 4 | Front Left or Right Radar Obstructed |
+| 5 | Front Camera Obstructed |
+| 6 | Front Center Radar Obstructed |
+|  | Rear View Cameras Obstructed |
+| 8 | Rear Left or Right Radar Obstructed |
+
+# Cleaning
+
+Clear any dirt or grime build-up by wiping the components with a soft cloth and lukewarm water or by spraying water.
+
+The Advanced Driver Assistance Sytems will function normally after cleaning. If the warning message persists
+
+after cleaning the sensors and cameras, the system may be faulty. Visit the nearest VinFast Service Center to have the system inspected.
+
+If any damage is evident on any of the components or their surrounding parts (bumper or windshield), visit the nearest VinFast Service Center to have the issue rectifi ed.
+
+# CAUTION
+
+Do not clean sensors or cameras with abrasive objects or cleaners that may damage the surface and can lead to reduced functionality.
+
+Do not attempt to remove dirt, grime, debris, etc by wiping an exposed lens with your hands or a dry cloth. The lens can be damaged by micro particles rubbing against the lens surface while wiping.
+
+When washing the vehicle, avoid aiming a high-pressure washer directly at the sensors or cameras.
+
+Do not install or apply objects, such as a bumper sticker, fi lm or a bumper guard on or near the radars and sensors.
+
+![](https://vinfastowners.org/manuals/images/61b1b9fd598b55c9f72a03a521fa1f4a453160a2e5c55c32a14f3f48de4992dc.jpg)
+
+# WARNING
+
+Dirty or damaged radars, sensors or cameras may affect the performance of your Advanced Driver Assistance Systems.
+
+Re-calibration is required if the windshield or radars have been replaced. The re-calibration process must be performed by a trained VinFast technician for optimal ADAS functions.
+
+# Interior Care
+
+Clean the interior of the vehicle regularly to prevent dirt and dust build-up that could cause premature degradation of the interior surfaces.
+
+Clean all the surfaces with microfi ber cloth using approved interior cleaning products. Dry immediately to prevent forming of streaks on the surface.
+
+![](https://vinfastowners.org/manuals/images/f2f2edc5d8a99f606149193b78b62bfa5341dea68b97a1a675b908f148faa5bc.jpg)
+
+# NOTE
+
+Ensure that water or other liquid does not come in contact with electrical or any electronic components inside the vehicle as this may damage them.
+
+Apply all the cleaning agents directly to the cleaning cloth.
+
+When cleaning leather products (steering wheel, seats, etc.) use neutral detergents or low-alcohol content solutions. Usage of high alcohol content solutions or alkaline detergents may cause the colour of the leather to fade, or the surface may get stripped off.
+
+# CAUTION
+
+Do not spray liquid or cleaner directly onto the surface of switches and controls. It can leak into the gaps around switches and controls which can damage the electronics of the vehicle.
+
+To prevent damage to interior surfaces, do not clean them with chemical solvents or strong detergents.
+
+Do not apply excessive pressure while cleaning the vehicle.
+
+Cleaning Seats and Seat belts:
+
+Regularly clean the seat upholstery, to prevent dirt getting ingrained and staining. Clean the seat surfaces using a clean, damp, non-coloured cloth or vacuum with a soft brush attachment. Do not leave excessive water on the surface.
+
+Fully extend the seat belts and clean them with a mild, non-abrasive soap and lukewarm water. After washing thoroughly, sponge the solution out of the belts. Do not allow the belts to retract until they are fully dry.
+
+Regularly inspect the seatbelt webbing for contamination, damage, or fraying.
+
+# CAUTION
+
+Do not use bleach, strong detergents, or an abrasive brush or cloth to clean the seatbelt as it may damage and severely weaken the fabric.
+
+Do not use steamers, brushes with hard bristles, hard sponges etc., to clean the seats as this may damage the seats.
+
+Do not bleach or re-dye the webbing because this may weaken the seat belt.
+
+# WARNING
+
+Any damage identifi ed on a seatbelt should be fi xed immediately at the nearest VinFast Service Center. Do not use a damaged seatbelt.
+
+Do not allow passengers to ride in any area of the vehicle that is not equipped with seats and seat belts.
+
+Do not allow any water, cleaning products or loose fabric from a cloth to enter the seat belt mechanism. Any foreign object may affect the performance of the seat belt in an event of a collision. Damage to the seat belt can greatly reduce its effectiveness in reducing the risk of serious injury or death in the event of a collision.
+
+Do not remove seat belts to clean them.
+
+Airbag Maintenance:
+
+Foreign objects or substances should not enter the areas in the cabin where airbags are located, as it can impact proper operation of airbag system. The areas where airbags are located are marked as AIRBAG (see $>$ Airbags). Gently clean these surfaces without applying too much pressure with a slightly damp cloth.
+
+# WARNING
+
+Any liquid or substance that enters the airbag mechanism may prevent its proper deployment in an event of a collision. A compromised airbag system could result in serious injury or death in the event of an accident.
+
+Cleaning Glass Windows:
+
+Clean the interior glass surfaces regularly using an approved glass cleaner to provide a clear and unobstructed view.
+
+Follow the directions as specifi ed by the glass cleaner manufacturer.
+
+![](https://vinfastowners.org/manuals/images/5203a11e4c2b59a02a7f6eb199a9ceb3fb424405c70b0754d04d782a76e50a6f.jpg)
+
+# CAUTION
+
+Do not scrape or scratch the inside of the window glass, it may damage the thermal fi laments and antenna lines.
+
+Always use manufacturer approved glass cleaning products when washing the inside of the window glass. Use a soft cloth damped with lukewarm water. Gently wipe the thermal fi laments and antenna lines.
+
+Cleaning Infotainment Screen:
+
+Use high quality clean microfi ber cloth to clean the Infotainment screen. Do not use any chemical, household cleaning agents or abrasive materials as the Infotainment screen surface may be affected. Turn OFF the vehicle to avoid accidental activation of any Infotainment features.
+
+# CAUTION
+
+Avoid spilling or splashing liquids on to the Infotainment screen. It may cause it to malfunction.
+
+Switch OFF the Infotainment screen and allow to cool down before cleaning.
+
+When cleaning, make sure no liquids enter the space between the Infotainment screen and panels as this could cause damage.
+
+Cleaning Carpet and Floor Mat:
+
+Regularly clean the carpet and fl oor mats. Remove any unwanted substances and objects that could interfere with the operation of accelerator and brake pedals. Scrub with a weak solution of soap and warm water to remove unwanted ingrained dirt or stains. Replace the fl oor mats if they show signs of heavy wear.
+
+![](https://vinfastowners.org/manuals/images/a02369b7f229a7c0de39e5e17a79b9b7f73a71ae48eb1485b76475942d96863a.jpg)
+
+# WARNING
+
+Unsecured or incorrectly positioned mats can interfere with the operation of the brake and accelerator pedal that could result in an accident leading to serious injury or death. After cleaning, correctly secure the mats before driving.
+
+Do not place a fl oor mat on top of another on the driver’s side.
+
+Do not overlay additional mats or liners over the fl oor mats. If using all weather mats, remove the carpeted fl oor mats before installing them. Only use fl oor mats designed to connect to the anchors.
+
+Remove loose dirt particles with a vacuum cleaner on a regular basis so that the material is not permanently damaged by abrasion.
+
+# 9.6. Maintenance Schedule
+
+# Maintenance Schedule Overview
+
+This section outlines the required maintenance for the vehicle.
+
+To ensure economical and safe vehicle operation, it is of vital importance that all maintenance work is carried out at the prescribed intervals by trained service technicians. It is recommended that this vehicle is maintained and repaired by authorised VinFast Service Centers who will complete the scope of work as set out for the required tasks to sustain the road safety, road worthiness, operational reliability, and the New Vehicle Limited Warranty.
+
+It is the responsibility of the owner to have the required maintenance performed and to retain records. The vehicle is programmed to provide service reminders in the vehicle and on the VinFast App leading up to the schedule interval.
+
+# WARNING
+
+All technical service required to be performed on the vehicle should only be performed by trained and authorised personnel who are certifi ed to work on electric vehicles.
+
+Do not attempt to modify, alter, or replace any high voltage components, cables, or connectors in the vehicle. High voltage cables are coloured orange for easy identifi cation.
+
+A poorly maintained vehicle increases the risk to drivers, passengers, and others on the road. If not maintained correctly, there is a danger of subsequent component damage or injury to individuals.
+
+![](https://vinfastowners.org/manuals/images/f9726e22d16084136ae92091ebcc9cc520b498973a9fb48ee196c6995b6ef9c8.jpg)
+
+# NOTE
+
+The vehicle should not be modifi ed in any way that could adversely affect its performance, safety, or durability as it may violate conditions of the warranties covering the vehicle. For details, read the separate Warranty Information handbook provided with the vehicle.
+
+# Maintenance Schedule
+
+![](https://vinfastowners.org/manuals/images/bf579c6567aaf7c4b0777446e53c2035a5166cd7b43bdd4926e2ca5b9ad1a680.jpg)
+
+|     |     |     |     |     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| VF 7 Maintenance Schedule |
+| Maintenance Schedule | Number years or driving distance, which ever comes first |
+| Inspect and if necessary, adjust.correct, clean or replaceReplace or service | Km | 120000 |  | 0 | R | 0O086 | M | M | N | N | 0 |
+| Years | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+| Cabin Air Filter | . | . |  | . | . | . | . | . |  | . |
+| Ar Conditioning System |  | 0 |  | 0 |  | 0 |  | D |  |  |
+| T-box Battery | Change every 6 years |  |
+| HVBattery / E-Motor Cooling System Fluid |  | 0 |  | 0 |  | 0 |  | 0 |  | . |
+| Brake Fluid | Change every 2 years |
+| General Service Inspection Items |  |
+| Tire (Appearance, Pressure, Tread wear)Wheel (Damage. Crack, Others) | D | 0 | ¤ | 0 | 0 | 0 | 0 | D | 0 | D |
+| Brake Pads and Rotors | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Brake lines, Hoses and Connections | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Electric Drive Unit | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Axle and Suspension Parts | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | D |
+| Drive Shaft and Boots | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Suspension Bull joints | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Steering Gear Linkage and Ball Joints | 0 | 0 | 0 | 0 | 0 | 0 | 0 | D | 0 | 0 |
+| Windscreen Wipers / Washer fluid | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Coolant Hose Inspection | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| High Voltage Buttery | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| High Voltage Cables and Wiring Harnesses | 0 | 0 | 0 | 0 | 0 | 0 | 0 | D | 0 | 0 |
+| Charging Port | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 12V Bottery | 0 | 0 | 0 | 0 | 0 | 0 | 0 | D | 0 | D |
+| Underbody Inpsection | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| "It is recommended to inspect and rotate tires annuallyRepeat Mointenance Schedule every 10 years, 120.00oKm. whichever comes first. |
+
+# Service Reminder (if available)
+
+The owner will be reminded when a service is due, via a message that is displayed on the Infotainment screen.
+
+The notifi cation that a service is due is determined by time since the last service and vehicle mileage.
+
+Service technicians will clear the service reminder when the service is complete.
+
+# Maintenance Schedule Notes
+
+The high voltage battery/E-motor cooling system fl uid is to be replaced every 10 years or when the battery is replaced.
+
+The Electric Drive Unit is sealed for life. No maintenance is required.
+
+# Additional Maintenance and Care
+
+The cabin air fi lter may need replacement more frequently if driving in areas with high traffi c, poor air quality or high dust levels.
+
+The fi lter may also need to be replaced if there is reduced airfl ow, window fogging or bad odors.
+
+See $>$ Fluids, Lubricants and Parts $>$ Cabin Air Filter.
+
+Regularly clean the interior and exterior of the vehicle to maintain the vehicle’s appearance and condition and to prevent premature degradation of the surfaces. For more information, see $>$ Vehicle Cleaning > Interior Care.
+
+Regularly check and maintain the recommended tire pressure to prevent premature wear. See $>$ Wheels and Tires > Tire Pressure.
+
+![](https://vinfastowners.org/manuals/images/7d787d6ebc24b37f646dfc81b00245f2275605ebbaa53d9666a9b4c5231284d7.jpg)
+
+# NOTE
+
+The high voltage battery does not require owner maintenance. For any concerns, please contact a VinFast Service Center.
+
+# CAUTION
+
+Do not allow the vehicle to sit idle for extended periods with a low charging state, otherwise it may not be possible to start or charge the vehicle and may also cause permanent damage to the battery.
+
+Do not park or store the vehicle in areas which may fl ood, as fl ooding may damage the battery or other vehicle components.
+
+Rodents can cause signifi cant damage to your vehicle’s electrical wires, air lines and interior trim resulting in expensive repairs. Consequences of the damage may limit your vehicles functions such as, but not limited to, a no start condition or result in fl uid leaks. Consider taking steps to discourage rodents such as repellent sprays. Any damage, or related component failures caused by rodents are not covered under the New Vehicle Limited Warranty.
+
+# 9.7. Parts and Accessories
+
+# Parts
+
+VinFast parts are designed, tested, and manufactured according to Vinfast’s uncompromising standards. Each part is made specifi cally to deliver optimum performance and
+
+maximize its lifespan. Similarly, Vinfast Genuine Spare Parts are designed and manufactured to the same exacting standards. To maintain and optimize the performance of your Vinfast vehicle always use Vinfast Genuine Spare parts installed at a VinFast Service Center by fully trained VinFast professionals.
+
+# WARNING
+
+Installing non-approved parts and accessories, or performing non-approved modifi cations, can affect the performance of the vehicle and the safety of its occupants.
+
+Any damage caused by using or installing non-approved parts, or by performing non-approved modifi cations, is not covered by the warranty.
+
+VinFast does not accept liability for any ramifi cations that occur due to the use or installation of non-approved accessories or non-approved modifi cations.
+
+# Spare Wheel (if equipped)
+
+Spare Tire Information:
+
+|     |     |
+| --- | --- |
+| Tire Size | T145/80 R19 |
+| Wheel Rim | R19\_4BX19\_ET43 |
+
+The spare wheel is a different size to the standard road tires originally assembled on the vehicle.
+
+It is located in the rear cargo compartment under the fl oor cover.
+
+In the event of a fl at tire, the spare wheel can be fi tted temporarily until the original tire is replaced or repaired. For more information on wheels and tires.
+
+See $>$ Wheels and Tires.
+
+For more information on how to remove a wheel and replace with the spare.
+
+See $>$ Vehicle Recovery $>$ Vehicle Jack & Tire Repair.
+
+# Infl ator Kit (if equipped)
+
+The infl ator kit allows the owner to plug and re-infl ate a punctured tire. The infl ator kit has an inbuilt pressure gauge for monitoring tire pressure. It is powered by a 12v supply from auxiliary socket inside the vehicle. See $>$ Vehicle Recovery $>$ Vehicle Jack and Tire Repair.
+
+Check the tire pressure placard on driver’s side B-Pillar before infl ating tires. See $>$ Wheels and Tires> Tire Pressure.
+
+The infl ator kit is stored in the rear cargo compartment under the fl oor cover.
+
+![](https://vinfastowners.org/manuals/images/cf0db8fc4967fa500354a10688b959fa209b1b6bbe7457b31ded3f2e6239ac5b.jpg)
+
+# Accessories
+
+Genuine VinFast Accessories are specifi cally designed and tested for this vehicle. To buy genuine VinFast Accessories, visit the nearest VinFast Service Center or alternatively visit the appropriate VinFast Auto website: [https://vinfastauto.com/vn\_vi](https://vinfastauto.com/vn_vi)
+
+VinFast does not endorse any unauthorised Third-Party Products or Accessories to be used on the vehicle. VinFast recommends only using genuine accessories.
+
+![](https://vinfastowners.org/manuals/images/9bd9b4c2726e4b0b69ccfe652825d4c49f0aed1d1382dfefe265cabe69c9c3ed.jpg)
+
+# NOTE
+
+VinFast will not be responsible for performance, repair, replacement, damage, or any adverse effect on the vehicle caused by a third-party accessory.
+
+VinFast will only service genuine accessories fi tted to the vehicle.
+
+Accessories may vary depending on market region, vehicle variant and availability of the product.
+
+# WARNING
+
+Any parts, accessories, or modifi cations not approved by VinFast might adversely affect the performance and safety of the vehicle.
+
+Any damage to the vehicle caused by the installation or modifi cation of Non-Approved Parts is not covered by the warranty.
+
+VinFast takes no responsibility for deaths, personal injuries, or damage that may result from the use of non-approved accessories or modifi cations.
+
+# Parcel Shelf
+
+If equipped, the parcel shelf can be used to store small and light objects, located behind the rear back seats. The parcel shelf can also be removed if necessary.
+
+See $>$ Storage $>$ Rear Cargo Compartment.
+
+# CAUTION
+
+The hinges and the dowels on the parcel shelf are not designed to carry heavy loads. Do not apply excessive force while installing or removing the parcel shelf. Using excessive force can break or damage the parcel shelf.
+
+![](https://vinfastowners.org/manuals/images/db02c66787bd458169561ab87307bb247b2a52808f992cffd3e36bfc7f0ebc33.jpg)
+
+# WARNING
+
+Do not keep heavy or hard objects on the parcel shelf. In an event of sudden braking, manoeuvring, or an accident the objects could become airborne and strike an occupant and cause serious injury.
+
+# Floor Mats
+
+If equipped, Floor mats are provided for the front and rear foot well areas. The fl oor mats provide a protective layer to the vehicle’s carpet.
+
+# CAUTION
+
+Floor mats are specifi cally designed to fi t the foot well of the vehicle and are secured to the carpet. Using nonapproved fl oor mats can lead to problems such as hindering pedal movement.
+
+Always make sure that the fl oor mats are securely anchored.
+
+WARNING
+
+Do not use additional mats, carpets or fl oor covers in driver’s foot well, as this can reduce the pedal movement or range and can impair pedal operation.
+
+# 10\. Technical Specifi cations
+
+# 10.1. Fluids, Lubricants and Parts
+
+# Fluids, Lubricants and Parts Overview
+
+The fl uids, lubricants, and parts in the vehicle have been specifi ed to enable owners to enjoy optimum performance from their VinFast vehicle. In order to maintain that performance, it is recommended that only VinFast genuine fl uids, lubricants and parts are used during servicing and maintenance of the vehicle.
+
+The specifi cation of fl uids & lubricants used in the vehicle are as follows:
+
+AC Refrigerant - R134a.
+
+AC Compressor Oil - PAG (SP-A2)
+
+• Brake Fluid - DOT 4 Battery and Motor Coolant - Anti-Freeze pre-mixed coolant AF2100 (ASTM D3306) - $50 %$ Glycol / $50 %$ water Transmission Fluid - CASTROL BOT352\_B1
+
+Low Voltage Battery - 12V Lead Acid Battery
+
+Climate Control Cabin Air Filter - common model
+
+0
+
+# NOTE
+
+For the recommended fl uid, lubricant, part inspection and replacement frequency; refer to the Maintenance Schedule.
+
+See $>$ Maintenance Schedule $\\geq$ Maintenance Schedule Overview.
+
+# WARNING
+
+High voltage and HVAC component servicing must be done by authorised VinFast technicians.
+
+It is recommended that the vehicle is serviced at a VinFast Service Center using genuine VinFast spare parts.
+
+Use VinFast-approved DOT 4 brake fl uid from a sealed container. Do not use fl uid from an open container that may be contaminated which may result in damage to components, or braking loss causing serious injury or death in the event of an accident.
+
+DOT 4 brake fl uid is toxic. Avoid direct contact with eyes and skin. Refer to safety instruction on fl uid container for safe handling and recommendations if contact is made.
+
+Anti- Freeze coolant is toxic and may be fatal if ingested. Avoid Anti- Freeze coolant from making contact with skin and eyes. If contact occurs, rinse immediately with plenty of water and seek medical attention if required.
+
+Washer fl uid can cause irritation to the eyes and skin. If contact occurs rinse immediately with water.
+
+# CAUTION
+
+Using incorrect fl uids, lubricants, parts may damage the vehicle.
+
+Brake fl uid can damage electrical components if it comes in contact with cables, wiring, headlights, plastic components, and painted surfaces. When changing brake fl uid, use rags and suitable containers to prevent fl uid from coming into contact with the vehicle. If brake fl uid comes into contact with painted surfaces wash the area immediately with plenty of water.
+
+# 10.2. Vehicle Identifi cation
+
+# Vehicle Identifi cation Number
+
+VinFast, which is used to register the ownership of the vehicle.
+
+The Vehicle Identifi cation Number (VIN) is a legal identifi er of a vehicle. It is the main identifi cation number provided by
+
+The Vehicle Identifi cation Number (VIN) is located at the following locations:
+
+![](https://vinfastowners.org/manuals/images/9f0185e176c193db711f163b96d3ef5a86d8689ec7f3dc38c65e2458a6267fd4.jpg)
+
+On the Compliance label on the left-hand side B-Pillar
+
+![](https://vinfastowners.org/manuals/images/6b45a46189fb568d798fb6485eaf590a2a2544da3688aa06c48ae0c3f2cc4d26.jpg)
+
+On the lower left side of the windshield frame
+
+![](https://vinfastowners.org/manuals/images/01e0980fc64c201586cf203357b4a9c38aaddad422b198fc2f131f282b7435bd.jpg)
+
+![](https://vinfastowners.org/manuals/images/bf833bfff9e51040a32c1196b045f46b00000a8d4d5471cd6ba9e5819989658c.jpg)
+
+On the Infotainment screen
+
+![](https://vinfastowners.org/manuals/images/3d716a8d9a4b5e00f7584822be2297b382c3006a51beb511126928a2027eca5d.jpg)
+
+. See $>$ Settings $>$ About.
+
+# Compliance Label
+
+The manufacturer’s certifi cation label (Compliance Label)
+
+![](https://vinfastowners.org/manuals/images/2210d316baaca19dca5342dcd448155936e59b6892551c43a262f64177be7d74.jpg)
+
+is located on the left central pillar (B-Pillar).
+
+![](https://vinfastowners.org/manuals/images/f3e70e7360ab8cceaa44ff3cc91fabcfbda071cdb75f26109f0d133c2264054c.jpg)
+
+The following information is provided on the label:
+
+Brand Vehicle type
+
+Year of manufacturing
+
+Name of manufacturer
+
+Vehicle identifi cation number (VIN) Gross Vehicle Weight Rating (GVWR)
+
+# WARNING
+
+Do not overload the vehicle. Vehicle overloading can result in the driver losing control of the vehicle & increase the risk of an accident.
+
+Overloading and high speeds can cause tires to overheat, resulting in a burst tire and loss of control, see $>$ Vehicle Information > Dimensions and Weights.
+
+Overloading can also impair stopping power, damage tires, and shorten the life of the vehicle.
+
+# Vehicle Licence Plate
+
+The front and rear licence plates which are issued by the local authorities need to remain securely fi xed to the vehicle, be clearly visible from a distance and not blocked by any object at all times.
+
+Under no circumstances should a licence plate frame be attached to the perimeter of the plate. Doing so may obstruct the camera, radar or parking sensors affecting their functionality.
+
+# 10.3. Vehicle Information
+
+# Dimensions and Weights
+
+The following tables contain information related to vehicle Dimensions and Weights. All data is accurate at the time of publication.
+
+![](https://vinfastowners.org/manuals/images/230493e22f6ad9b556f388a3188374bb9be02e893612fdc744855965b9138bd7.jpg)
+
+# NOTE
+
+The vehicle specifi c data may deviate from these published fi gures depending on selected options and accessory fi tment.
+
+# Exterior Dimensions
+
+![](https://vinfastowners.org/manuals/images/aa80659216427e13cb7ade936ee6034fd356103710ad78e656bb75579b910a81.jpg)
+
+![](https://vinfastowners.org/manuals/images/b975c310f283fea74eee4e7a35d668a01ecf231583e914d98b11ac94c5048171.jpg)
+
+|     |     |     |
+| --- | --- | --- |
+| Item | Description | Measurement (mm) |
+| A | Vehicle Length | 4550 |
+| B | Vehicle Height | 1590 |
+|  | Vehicle Width | 1893 |
+| D | Wheelbase | 2840 |
+| O | Ground Clearance (No Load) | 190 |
+
+# Weights
+
+|     |     |     |
+| --- | --- | --- |
+| Description | Variant | Weight (kg) |
+| Curb Weight | ECO | 2085 |
+| PLUS | 2187 (glass roof)2175 (metal roof) |
+| Payload | ALL | 375 |
+| Roof load | ALL | 75 |
+
+Calculating Load Limits:
+
+1. Locate the statement “The combined weight of occupants and cargo should never exceed XXX kg.” on the vehicle’s placard.
+2. Determine the combined weight of the driver and passengers that will be riding in the vehicle.
+3. Subtract the combined weight of the driver and passengers from XXX kg.
+4. The resulting fi gure equals the available amount of cargo and luggage load capacity. For example, if the “XXX” amount equals $6 3 5 \\mathsf { k g }$ and there will be fi ve $6 8 \ \\mathsf { k g }$ passengers in the vehicle, the amount of available cargo and luggage load capacity is $2 9 5 \\mathsf { k g }$ (635 - $3 4 0 ( 6 8 \\times 5 ) = 2 9 5 ( k g )$ .
+5. Determine the combined weight of luggage and cargo being loaded on the vehicle. That weight may not safely exceed the available cargo and luggage load capacity calculated in Step 4.
+6. If the vehicle will be towing a trailer, load from the trailer will be transferred to the vehicle. Consult this manual to determine how this reduces the available cargo and luggage load capacity of the vehicle.
+
+Driver Plus One Passenger
+
+|     |     |
+| --- | --- |
+| Description | Total Capacity |
+| Vehicle Capacity Weight | 375 kg |
+| Occupant Weight (2 x (68 kg)) | 136 kg |
+| Available Cargo Weight | 314 kg |
+
+Driver Plus Four Passengers
+
+|     |     |
+| --- | --- |
+| Description | Total Capacity (kg) |
+| Vehicle Capacity Weight | 375 kg |
+| Occupant Weight (5 x (68 kg)) | 340 kg |
+| Available Cargo Weight | 110 kg |
+
+# Subsystems
+
+# Electric Motor
+
+|     |     |
+| --- | --- |
+| Description | Details |
+| Max. Power | VF 7 ECO - 130kW |
+|  | VF 7 PLUS - 260kW |
+
+# Battery - High Voltage
+
+|     |     |
+| --- | --- |
+| Description | Details |
+| Battery Capacity (usable) (kWh) | 59.6 (ECO) |
+|  | 75.3 (PLUS) |
+
+# Battery - 12V
+
+|     |     |
+| --- | --- |
+| Description | Details |
+| Rating | 45Ah |
+| Voltage | 12V |
+
+# Brake System
+
+|     |     |
+| --- | --- |
+| Description | Details |
+| Front Brake | Ventilated disc brake |
+| Rear Brake | Solid disc Brake |
+| Parking Brake | EPB - Electronic Parking brake |
+
+# Steering System
+
+|     |     |
+| --- | --- |
+| Description | Details |
+| Type | Power Steering |
+| Minimum Turning circle diameter(m) | 11.2 |
+
+# Suspension System
+
+|     |     |
+| --- | --- |
+| Description | Details |
+| Suspension - Front | McPherson Independent |
+| Suspension - Rear | Control Blade |
+
+# Air Conditioning System
+
+|     |     |
+| --- | --- |
+| Description | Details |
+| Refrigerant Type | R134a |
+
+# Wheels and Tires
+
+# Wheel Specifi cation (Factory Fitted)
+
+Two different Wheel sizes are available for the VF7 depending on the variant:
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Wheel Diameter | Location | Width | Offset |
+| 19" | Front/Rear | 190.5 mm (7.5 in) | 45mm (1.77 in) |
+| 20" | Front/Rear | 203 mm (8 in) | 40 mm (1.57 in) |
+
+# Tire Specifi cation
+
+|     |     |     |
+| --- | --- | --- |
+| Description | Variant | Details |
+| Size | ECO | 245/50 R19 |
+| PLUS | 245/45 R20 |
+
+The recommended tire pressure is listed on the label attached to the Driver’s Door Frame and is visible when the
+
+Door is open. See $>$ Wheels and Tires $>$ Tires Pressure.
+
+Space Saving Spare Tire Specifi cation (if equipped)
+
+|     |     |     |
+| --- | --- | --- |
+| Description | Variant | Details |
+| Size | ECO | T145/70 R19 |
+| PLUS | T145/80 R19 |
+
+The recommended tire pressure is listed on the label attached to the Driver’s Door Frame and is visible when the Door is open. See $>$ Wheels and Tires $>$ Tires Pressure.
+
+Tire Sidewall Labeling
+
+Regulations stipulate that tire manufacturers are required to place standardized information on the sidewall of all tires. This information identifi es and describes the fundamental characteristics of the tire and provides a U.S. DOT Tire Identifi cation Number (TIN) for safety standard certifi cation and for use in the event of a safety Recall Action by the manufacturer.
+
+![](https://vinfastowners.org/manuals/images/a876a2fe0feb0876af580037d027e59ac66482d18235a8a0f15be8d516e4dcad.jpg)
+
+1. Tire Category: Tire marked P is for Passenger Vehicle.
+
+2. Tire Width: The 3-digit number is the tire width (one sidewall edge to another).
+
+3. Aspect Ratio: The 2-digit number indicates the ’tire’s sidewall height as a percentage of the ’tire’s width. (Example: A tire designated P205/55 will have a tire height that is $55 %$ of the width).
+
+4. Tire Construction: Tire marked R indicates Radial Ply Construction.
+
+5. Wheel Diameter: The 2-digit number is the diameter of the wheel or rim in inches.
+
+6. Load Index: The 2 or 3 digit number indicates the maximum weight a tire can bear at its speed rating when infl ated to its maximum pressure. It is an index and is not stated in pounds or any other unit of measurement.
+
+
+It is used to fi nd the actual rated value in kilograms on a standardized chart.
+
+# NOTE
+
+Not all information may be available on all tires.
+
+7. Speed Rating: The letter indicates the maximum speed at which a tire is designed to be driven for extended
+
+periods of time under a standard condition of load and infl ation pressure.
+
+|     |     |
+| --- | --- |
+| Letter/Symbol | Maximum Speed (mph) |
+| M | 130 km/h (81 mph) |
+| N | 140 km/h (87 mph) |
+| Q | 160 km/h (99 mph) |
+| R | 170 km/h (106 mph) |
+| S | 180 km/h (112mph) |
+| T | 190 km/h (118 mph) |
+| U | 200 km/h (124 mph) |
+| H | 210 km/h (130 mph) |
+| V | 240 km/h (149 mph) |
+| w | 270 km/h (168 mph) |
+| Y | 300 km/h (186 mph) |
+
+# 0
+
+# NOTE
+
+Some tire manufacturers use the letters ZR for tires with a maximum speed rating over 240 km/h (149 mph).
+
+For tires with a maximum speed rating over 300 km/h (186 mph), the letter ZR is compulsory.
+
+8. Load Range: Indicated by SL (Standard Load) or XL (Extra Load), the load range indicates the ’tire’s load
+
+carrying capabilities and its infl ation limits.
+
+![](https://vinfastowners.org/manuals/images/5442deaf88ef1c56ab0050e3be90ae45da5c4a4feb00744256eb62b1f54894cd.jpg)
+
+# NOTE
+
+Replacement tires should be of the same load range.
+
+9. Tire Composition and Materials: Indicates the number of plies or the number of layers of rubber-coated fabric in the tire tread and sidewall. Additionally, tire manufacturers must indicate the materials in the tire and the sidewall, which can include steel, nylon, polyester, etc.
+
+10. Maximum Load: Indicates the maximum load (in kg) which can be carried by the tire.
+
+11. Maximum Permissible Infl ation Pressure: Indicates the tire manufacturers’ maximum permissible air pressure for the tire. Do not exceed the maximum permissible infl ation pressure.
+
+
+# 0
+
+# NOTE
+
+Refer to the Tire and Loading Information label for recommended infl ation pressure.
+
+12. U.S. DOT Tire Identifi cation Number (TIN): Begins with the letters DOT and indicates that the tire meets all federal standards. The next two numbers or letters indicate plant code where the tire was manufactured. Subsequent two numbers indicate Tire Size Code, and last four numbers indicate the week and year of tire manufacturing.
+
+Example: The number 1712 is used to represent the 17th week of 2012. The other numbers are marketing codes used at the manufacturer’s discretion. This information can be used to contact consumers in the event of a safety Recall Action.
+
+13. Tread Wear Grade: This number indicates the ’tire’s wear rate. The higher the tread wear number, the longer it should take to wear down the tread. Example: A tire rated at 400 for instance, lasts twice as long as a tire rated at 200.
+14. Traction Grade: Indicates a ’tire’s ability to stop on wet roads. The traction grades, from highest to lowest are AA, A, B, and C. A tire with a higher grading should allow the vehicle to stop at a shorter distance than a lower graded tire.
+15. Temperature Grade: The temperature grades are A (the highest), B and C, representing the ’tire’s resistance to the generation of heat and its ability to dissipate heat. This grading is provided for a correctly infl ated tire, which is being used within its speed and loading limits.
+
+# WARNING
+
+Tires exhibiting excessive or uneven wear, or signs of damage should be replaced as soon as possible. Failure to replace tires in this condition may result in loss of control of the vehicle or reduced braking effectiveness.
+
+Never exceed the maximum rated speed of the tires. This could cause a buildup of heat resulting in a burst tire and loss of vehicle control.
+
+Always closely monitor the weather and road conditions while driving. Reduce the vehicle’s speed when driving on icy or slippery roads.
+
+Always follow VinFast-approved tire/rim combinations when replacements are required. Different size of tires and wheels can result in unusual handling characteristics, poor vehicle control, or a negative impact on your vehicle’s Anti-Lock Brake System (ABS) resulting in a serious accident.
+
+It is important to repair or replace a damaged tire as soon as possible as the spare tire is not designed for long term use.
+
+Replacing only one tire may negatively affect vehicle handling, therefore it is recommended tires should be replaced in pairs, replacing two front tires or two rear tires at the same time.
+
+It is normal for tires to degrade over time, even when not being used. VinFast recommends replacing tires after six (6) years of normal service, regardless of the remaining tread life.
+
+# 11\. Vehicle Assistance
+
+# 11.1. Connected Services
+
+# Connected Services Overview
+
+If available, VinFast Connected Services technology offers various services to support the running of the vehicle and provides assistance when necessary or in an emergency, depend on the sale area, the connected services may different. Connected services include:
+
+# Emergency Call (e-Call)
+
+Emergency call or an e-Call is an automatically triggered call in the event of an accident or by request of the occupants.
+
+For more information, see $>$ Emergency Call (e-Call).
+
+# Remote Diagnostics
+
+A VinFast Service Technician can connect to the vehicle remotely and access data to help with vehicle diagnosis. For more information, see $>$ Remote Diagnostics.
+
+# Remote Software Update
+
+The owner can update the vehicle software wirelessly with over the air system updates (FOTA) without the need to visit a VinFast Service Center. For more information, see $>$ Remote Software Update.
+
+![](https://vinfastowners.org/manuals/images/626eda5941fb688aa22d860c2575a532810a83f508dd838b06a4780453e61eda.jpg)
+
+# NOTE
+
+Connected car features are subject to acceptable cellular coverage, signal strength, battery power and cellular data availability to fulfi ll connected service request.
+
+# Service Booking
+
+VinFast connected services provides a suitable process to book a service appointment from the comfort of your vehicle.
+
+Service booking may be scheduled by calling Customer Support.
+
+To Book a Service appointment from Customer Support:
+
+![](https://vinfastowners.org/manuals/images/3fe1f27e8fd700a3ff94eaab3d3fb611f0dd8c71f758998ba16d4a3e64f72223.jpg)
+
+1. Tap App Library
+
+![](https://vinfastowners.org/manuals/images/fccdd5ba1b26403f190a8233e59c16c6edb189649389501f1e35cc4aedca26c3.jpg)
+
+on the touchscreen.
+
+2. Tap on Service
+
+$>$ Help Center
+
+![](https://vinfastowners.org/manuals/images/4e4b672acf79bd0397c38a685a38e8d3ff8cfcaaa72f197f89f08eef1634b4c1.jpg)
+
+![](https://vinfastowners.org/manuals/images/513efb0fb24698fc1e409a98603c5a9af38283558f3406b75b179495c37e34d1.jpg)
+
+3. Tap on Call icon
+
+# Roadside Assistance
+
+![](https://vinfastowners.org/manuals/images/70a782dbc08456e7e5db029e49d12ba2475e300c12a4333a4dd2c460ac9924c3.jpg)
+
+In the unlikely event of a vehicle breakdown or an accident, specialized support is available through the local Roadside Assistance service providers to help get you going again.
+
+To call Roadside asistance from Vehicle Alerts page:
+
+![](https://vinfastowners.org/manuals/images/bc2f6f49fad15edce9d38e10c0367552d2669428770e67b08ee9c118a4d1714b.jpg)
+
+1. Tap App Library
+
+on the touchscreen.
+
+![](https://vinfastowners.org/manuals/images/69c07183a6db5c8bb9ea40c1936e33083d6e6953d62a6779998015c3d5ae78de.jpg)
+
+2. Tap on Service
+
+![](https://vinfastowners.org/manuals/images/f1d929db2c90641b0e87cdec0580f699b02c2c701713775446016c51a3823387.jpg)
+
+$>$ Vehicle Satus $>$ Alerts.
+
+3. Tap on Call Roadside Asistant (if available).
+
+To call Roadside asistance from Help Center:
+
+1. Tap App Library
+
+on the touchscreen.
+
+2. Tap on Service
+
+$>$ Help Center.
+
+3. Select support form from Customer Support or Third Party (if available) $>$ Tap to call.
+
+# WARNING
+
+In the event of a minor accident, exit the vehicle if safe to do so, and stand clear until Roadside Support arrives. The trained personnel will isolate the vehicle from any dangers associated with the high voltage components.
+
+# Emergency Call (eCall)
+
+# What is eCall?
+
+Emergency Call (eCall) is a connected service feature that connects the vehicle to a Emergency Call Center in the event of a vehicle collision or an emergency situation. When an eCall is triggered, critical information about the vehicle status and location are automatically provided to the Emergency Call Center. This assists in ensuring the appropriate emergency response can be provided to the vehicle and its occupants.
+
+eCall uses a public cell phone network to initiate a call to the Emergency Call Center
+
+requirements
+
+The system is only capable of operating in areas with a compatible cell phone network and emergency services infrastructurePrivate Emergency CenterPrivate Emergency CenterPrivate Emergency Center local emergency servicesPrivate Emergency Center
+
+To activate eCall:
+
+In serious emergencies (air bag deployment, major collision or accident, front seat belt tensioners are engaged etc.), eCall system may trigger automatically. If the user is not directly involved in an emergency but wants to report one, the SOS button can be used manually. eCall can also be activated using Voice Assistant.
+
+In case of a vehicle collision where airbags are deployed eCall will be triggered automatically. eCall is available 24/7, 365 days a year.
+
+Upon receiving the notifi cation, the Emergency Call Center will attempt to make contact with the occupants of the vehicle to establish the severity of the situation and arrange the appropriate emergency services. The Emergency Call Center will typically remain on the line until the requested support arrives.
+
+Upon detection of a minor collision, the system will provide a fi ve second timer to the passengers before initiating contact with Emergency Call CenterPrivate Emergency Center.
+
+To manually activate eCall:
+
+SOS button is present on the front dome lamp.
+
+![](https://vinfastowners.org/manuals/images/321fb6bf81689e12f8b0069e104dc6ee13cd32446f4bc56c541ca210ab6fa567.jpg)
+
+Press and hold the SOS button for about 3 seconds to activate eCalluntil the notifi cation appears to confi rm activation of the emergency call.
+
+![](https://vinfastowners.org/manuals/images/35c7085ce899e2ae69bca1ba318f75fdf551f7a5b541e242db7d27dbecc1ea00.jpg)
+
+To cancel the eCall in the event of manual activation:
+
+User can say “Cancel” to cancel the call (If available).
+
+OR
+
+Press the SOS button again during a fi ve second timer for activation of the emergency call. Tap on Cancel
+
+![](https://vinfastowners.org/manuals/images/e70415c38bf8ed57711b363549f67184b317756e051517e940ef691545b36d8f.jpg)
+
+to cancel the call.
+
+![](https://vinfastowners.org/manuals/images/13eda0d59770a1bfc2e4bb3fe528ba810fe878dd55d485dab49f89f15ec01c32.jpg)
+
+In the event of a serious vehicle collision, an eCall will be initiated automatically and will not be able to be canceled.
+
+If accidental activation of the eCall occurs, immediately cancel the request or advise the Emergency Call CenterPrivate Emergency Center that it is an accidental call and no assistance is required.
+
+If a standard phone call is active at the time the eCall is triggered, the active call will be terminated to allow the eCall to be placed.
+
+A manual or automatic eCall can be impeded by the following conditions:
+
+The current location of the vehicle has poor or no mobile or GPS reception.
+
+The Emergency Call Center and or the EPrivate Emergency Center is technically unable to receive eCall.
+
+A component in the vehicle that is required to initiate the manual or automatic eCall is broken or does not have the required power.
+
+If there is a critical fault with the eCall system, a warning will be shown to you on the Infotainment screen.
+
+![](https://vinfastowners.org/manuals/images/78742aecb62855c19daf61b7d2daf4155393955750524047256142e9dbfa750d.jpg)
+
+# NOTE
+
+During the period when eCall is activated, the vehicle will not receive any incoming calls.
+
+Manual activation of eCall is only possible when the vehicle is stationary and the ignition is on.
+
+![](https://vinfastowners.org/manuals/images/499d5bfe973f4f130f8f33587a28895bcb6a27f093a063d303beae0619d36766.jpg)
+
+# WARNING
+
+Do not wait for eCall automatic assist when you can make the call by yourself. Press the SOS button immediately to avoid delays that could increase the risk of serious injury or death after a crash.
+
+Be careful when making a manual eCall while driving.
+
+# Remote Diagnostics
+
+In order to assist in Vehicle’s Diagnosis, a VinFast service technician may contact you to establish a Remote Diagnostic connection with your vehicle. The VinFast service technician will guide you through the process of connecting to your vehicle. User permission may need to be granted in order to allow remote diagnosis of the vehicle.
+
+Preconditions to start Remote Diagnostics:
+
+Vehicle ON (Driver present)
+
+HV Battery charge level to be greater than $30 %$ .
+
+12V battery voltage to be greater than 11.5V
+
+Have an Internet connection
+
+Firmware Over The Air (FOTA) Update session must not be active
+
+To Start Remote Diagnostics:
+
+![](https://vinfastowners.org/manuals/images/20bade2e97f82a5d08b931ce0bf2161aa2a72e50ffbf4032e669b1b6c94eca4a.jpg)
+
+1. Tap App Library on the Infotainment screen.
+
+2. Tap Service
+
+
+# $>$ Help Center
+
+![](https://vinfastowners.org/manuals/images/0ab73bb1880fde20150b39fab9fa134b0ecd0592862fa2b981c620f815aed883.jpg)
+
+3. Call Hotline
+
+![](https://vinfastowners.org/manuals/images/9496a8bc1a0177242861605de40d56b84d6d7d6af9b5e621e9c48d2e6be91e2b.jpg)
+
+and ask technician to start remote diagnostics.
+
+Remote diagnostics will be activated and a message will be displayed on the Infotainment screen. An icon along with a timer will also appear on the status bar. After diagnostics is successfully completed, a pop-up message will be displayed on the Infotainment screen.
+
+To Stop Remote Diagnostics:
+
+1. Tap Remote Diagnostics
+
+![](https://vinfastowners.org/manuals/images/55a5d8ff63d02c84f78b0df701cccd900daad9ddb9b5913096ddb78b15b213be.jpg)
+
+icon, on the status bar
+
+2. Tap Stop.
+
+Remote diagnostics will stop and a pop-up message will be displayed on the Infotainment screen.
+
+![](https://vinfastowners.org/manuals/images/fd3217f101ba721c84f9bbdd43f9a6755829e0cecd1c889547f0dc41c1c8e7a5.jpg)
+
+# NOTE
+
+Please ensure the vehicle remains powered ON and stationary at all times when a Remote Diagnostics session is active.
+
+# Remote Software Update
+
+VinFast recommends updating the vehicle’s software whenever new updates are available. This will ensure the vehicle contains the latest features, functionality, and quality improvements. Vehicle software will be updated via Firmware Over the Air (FOTA).
+
+Firmware Over the Air (FOTA) is a mechanism for the manufacturer to deliver software, fi rmware, and confi guration settings to vehicles and transmits software wirelessly between the VinFast Cloud and the vehicle securely.
+
+To check for new updates:
+
+1. Tap App Library
+
+on the Infotainment screen.
+
+2. Tap Settings
+
+# $>$ About $>$ Firmware.
+
+3. Available update will be shown on the screen.
+
+# 0
+
+# NOTE
+
+Notifi cation is displayed on Infotainment screen whenever a new update is available. A notifi cation will be added to the Notifi cations Page.
+
+To download an update automatically:
+
+1. Automatic Download via Wi-Fi: The vehicle will automatically download updates over Wi-Fi if it is connected to a WiFi network. There will be no prompt or confi rmation presented to the user during that time. Enable or disable through respective toggle button.
+
+2. Automatic Download via Cellular Data: The car will switch to cellular data to download updates if Wi-Fi is not available. There will be no prompt or confi rmation presented to the user during that time. Enable or disable through respective toggle button.
+
+
+To download an update manually:
+
+Download an update manually by any of the following methods:
+
+Via notifi cation card Via About settings
+
+To download an update manually by about settings:
+
+1. In the Firmware tab, tap Download. OR
+2. Tap What’s New.
+3. Tap Download.
+
+   The system will start downloading and will show the size of update and time remaining for completion of the update.
+
+To Pause or Stop downloading:
+
+After the download has started, tap Pause or Stop.
+
+![](https://vinfastowners.org/manuals/images/322fbd219210b4e16ed9698a5b8f20f00828c62206ebec6441b5c03b762bc423.jpg)
+
+# NOTE
+
+You can see the current download status on the status bar.
+
+To install/schedule an update:
+
+1. Once the downloading of an update is completed, tap Install.
+2. Read the terms and conditions carefully.
+3. Agree the terms and conditions by tapping on checkbox.
+4. Tap Agree and Start Install.
+
+   OR
+5. Tap Schedule to schedule an install.
+6. Set the time and tap Schedule.
+
+After successful installation, a “New fi rmware installed” notifi cation is displayed on the Infotainment screen.
+
+Installation failure
+
+In the event the FOTA fails to install due to an error, follow the on-screen instructions to rectify the problem.
+
+# 11.2. Vehicle Recovery
+
+# Vehicle Jack & Tire Repair
+
+A punctured tire can be repaired by using a tire Infl ation Kit or replaced using a spare wheel (if equipped). In the case of extensive damage you will need further support from Roadside Assistance.
+
+![](https://vinfastowners.org/manuals/images/fbe58b0768528f11b3ba52cde7bc14127f66c0c9904afcf2baa450fead907f72.jpg)
+
+NOTE
+
+Driving with damaged tires can affect the handling and stopping performance of the vehicle.
+
+# Flat Tire Repair (with Infl ation Kit)
+
+Infl ation Kit is considered temporary and will allow you to stay mobile for a short period of time.
+
+The Tire Infl ation Kit includes a fl uid to seal the damaged tire and a compressor to infl ate the tire. A repair using the Tire
+
+# WARNING
+
+Do not use the infl ation kit to repair any damage to the tire side walls.
+
+For safe operation, please read the instruction label located on the Infl ation Kit.
+
+A damaged or defl ated tire should be repaired or replaced as soon as possible.
+
+![](https://vinfastowners.org/manuals/images/07069d7310e2c268c0b466a794c103d1b65a6e6532ea4ccf67162e8ace9d19f5.jpg)
+
+# NOTE
+
+The infl ation kit can only be used on one fl at tire at a time. Contact VinFast Service Center if the sealant has been used and needs to be replaced.
+
+The sealant has a limited lifespan. There is a label on the bottle that indicates the expiration date. The sealant needs to be replaced before it expires. Contact VinFast Service Center for replacement.
+
+The infl ation kit fl uid is only effective for repairing punctures with a diameter less than $4 \\mathsf { m m }$ . Do not remove the foreign object causing the puncture. Removing the object may widen the opening and make repair with the repair kit impossible.
+
+Prior to commencing the tire repair process the instructions below must be followed:
+
+Ensure the vehicle is at safe location that does not affect normal traffi c and work can be undertaken safely. Place the vehicle in Park (P), engage the parking brake and turn the vehicle OFF.
+
+Setup the warning triangles (if equipped) and turn ON the hazard lights as a safety precaution.
+
+![](https://vinfastowners.org/manuals/images/00850c20204f3138290f032b83ab3658e49b94aa2cd9618959d1878898811de5.jpg)
+
+Follow the following steps to infl ate a tire using the Infl ation Kit:
+
+01. Remove tire valve cap.
+
+02. Move the vehicle so that the tire pressure valve is present in the top half of the tire.
+
+03. Connect and tighten the tire repair fl uid bottle to the tire valve. To improve fi lling effi ciency the fl uid should be at a temperature above $0 \ { } ^ { \\circ } \\mathsf { C }$ .
+
+04. Remove the cap from the end of the sealant bottle.
+
+05. Unravel the air hose from the back of the compressor.
+
+06. Screw the compressor hose onto sealant bottle.
+
+07. Unravel the compressor wiring and connect to the auxiliary socket inside the vehicle cabin.
+
+08. Keep the vehicle ON.
+
+09. Switch ON the compressor.
+
+10. It should take no longer than approximately 4 to 6 minutes to reach an acceptable infl ation pressure.
+
+11. Once the tire pressure reaches an acceptable level as stated on the tire pressure placard (see $>$ Wheels and Tires $>$ Tire Pressure), press the yellow button on the compressor to test the tire pressure. The tire should hold the minimum pressure listed on tire pressure placard. If not the contact Roadside Assistance or the nearest recovery services.
+
+12. Reinstall the valve cap on the tire.
+
+13. Place the tire infl ation kit back to it’s designated location in the rear cargo compartment.
+
+14. To ensure that the sealant is evenly distributed within the tire, drive the vehicle for a minimum of $\_ { 3 \\star \\mathsf { m } }$ (2 miles) at a speed between 20km/h to $6 0 ~ \\mathrm { k m / h }$ (15 mph to $3 4 ~ \\mathrm { m p h }$ ). Check that the tire has remained infl ated and if so, reinfl ate the tire to the value mentioned on the tire placard. You may continue your journey up to a distance of $1 0 0 ~ \\mathsf { k m }$ (62 miles) at speeds less than $8 0 ~ \\mathrm { k m / h }$ (50 mph).
+
+15. If the tire has lost pressure and remains damaged, stop driving, and contact Roadside Assistance.
+
+16. Go to a professional tire repair shop as soon as possible. However, do not exceed a distance of $1 0 0 ~ \\mathsf { k m }$ (62 miles) without having the tire repaired professionally.
+
+17. If at any time after using this product the tire loses pressure, stop driving and contact Roadside Assistance.
+
+
+# 0
+
+# NOTE
+
+Do not drive the vehicle above the indicated maximum speed shown on the spare wheel.
+
+Accelerate, brake and corner gently.
+
+It is recommended to visit a VinFast Service Center as soon as possible.
+
+![](https://vinfastowners.org/manuals/images/a2774d47f368416c1b1a484bccaf002c5c410adaa56437233430a09774e806a0.jpg)
+
+# WARNING
+
+If the tire repair fl uid is splashed on the tire or rim during use, rinse with water or wipe it with a cloth. If it gets in your eyes, rinse immediately with water, and consult a doctor immediately.
+
+Do not drive with a defl ated tire that has not been repaired, even if the puncture has not caused the tire to defl ate. A defl ated tire may suddenly loose tire pressure at any time leading to loss of control of the vehicle or may lead to an accident.
+
+Store the infl ation kit at temperatures between $\\scriptscriptstyle - 4 0 ^ { \\circ } \\mathsf { C }$ to $8 5 ^ { \\circ } \\mathrm { C }$ .
+
+Keep it away from open fl ames.
+
+# Spare Tire Replacement (if equipped)
+
+To Remove the Spare Tire:
+
+![](https://vinfastowners.org/manuals/images/38829d04a285d6448a6488971f84a73b4bc466e40e0c68ae577985722243ae89.jpg)
+
+1. Lift the rear cargo fl oor cover by pulling up on the strap
+
+![](https://vinfastowners.org/manuals/images/210ce36863b83e20de085b76da3aed61f21cdd662a7ffb3fcb801dc940473cd0.jpg)
+
+![](https://vinfastowners.org/manuals/images/6f503c5221ee0f33cc8f4fdd14d9b64def66e2d874f4922231b214f8a199c66c.jpg)
+
+2. Unscrew the wheel retainer
+
+![](https://vinfastowners.org/manuals/images/c01ac18f96a4867d070659fce884d6bb4b4bf228656e123a2b1bc26c7d272f13.jpg)
+
+3. Remove the spare wheel
+
+from the stowage well.
+
+![](https://vinfastowners.org/manuals/images/7c1b1effe46dd14a36f787732465e540a6684f0df5de8288fd970aead2a13cd6.jpg)
+
+# NOTE
+
+Place the fl at tire in a safe & convenient position, so that the fl at tire can be replaced or repaired easily.
+
+![](https://vinfastowners.org/manuals/images/b5d2a0630dc81220ebac4a9c708e96d334f905649f0700e51b533f641de04d96.jpg)
+
+# CAUTION
+
+The spare tire provided with the vehicle is for TEMPORARY USE ONLY. Do not use the spare tire for continuous driving.
+
+Do not drive the vehicle above the indicated maximum speed shown on the spare tire.
+
+# WARNING
+
+While driving with the spare tire, drive slowly, avoid sharp cornering, avoid sudden acceleration, abrupt manoeuvring and sudden braking to ensure safety of the occupants of the vehicle.
+
+The spare tire is not designed for high speed driving. lead to an accident causing death or an serious injury.
+
+To fi t the Spare Tire:
+
+1. Ensure the vehicle is at safe location that does not affect normal traffi c and work can be undertaken safely. Place the vehicle in Park(P), engage the parking brake and turn the vehicle OFF. Setup the warning triangles (if equipped) and turn on the hazard lights as a safety precaution.
+2. Remove the lifting jack, jack-handle crank and take out the spare tire from the stowage well, which is located in the rear cargo compartment under the luggage stowage cover in the vehicle.
+
+![](https://vinfastowners.org/manuals/images/abb7ceb3c0499151f2167539410b2906afc98de4c05d31e7689d358575637600.jpg)
+
+3\. To loosen the wheel studs, use the jack-handle crank
+
+![](https://vinfastowners.org/manuals/images/448e32b228fa3f7da4a6a041e2765618ed943c4ff025f8ad4bdc09b9151124eb.jpg)
+
+, turn the jack-handle crank left (anti clockwise) by hand to loosen the wheel studs. Do not remove the wheels studs entirely at this stage.
+
+![](https://vinfastowners.org/manuals/images/5ea9ad2cdfc761a4e49f500b7b28edd04f6ea34009f3b4e4ea78a4636040e279.jpg)
+
+4. Search the underside of the vehicle to fi nd the jacking points closest to the wheel that needs to be replaced.
+
+5. Place the jack under the jacking point of the body.
+
+6. Match the socket on the jack-handle crank with the hexagonal nut on the jack.
+
+
+![](https://vinfastowners.org/manuals/images/fd5e56b55c68f63af5c2c77fcb2e7eec0969ef340afb88fab344fbeb494e5dbb.jpg)
+
+7. Raise the car body using the jack. Turn the crank to the right (clockwise direction) to raise the vehicle until the tire is clear of the road.
+
+8. Remove the wheel studs entirely then remove the wheel and tire assembly.
+
+
+![](https://vinfastowners.org/manuals/images/d79bc07b5e46fb464a589cff403dc20803a253b54ea6a3f821af3f126363538c.jpg)
+
+![](https://vinfastowners.org/manuals/images/e001bcf47212fc1fe7b56b7cc2de3fba5cccf0a0a67f8be9bf13f790516a6ace.jpg)
+
+![](https://vinfastowners.org/manuals/images/d43f245489186abaaf3ad43268786b7fc6e9996951e3c8c76edaf2f419a2e832.jpg)
+
+9. Wipe off the dirt on the wheel mounting surface and the brake hub with a clean cloth, before installing the spare tire.
+
+10. Install the spare tire and ensure the wheel stud holes on spare tire line up with the stud holes on the hub.
+
+11. Loosely fi t the fi ve wheel studs. Fit all fi ve wheel studs and tighten by hand until snug. This will prevent the tire from falling.
+
+
+Remove dirt and foreign matter from the hub of the wheel.
+
+![](https://vinfastowners.org/manuals/images/2e619934fc950ca4153fab2ba31dd1c178b8edfeb1d69a79729f90720014f2dc.jpg)
+
+12. Turn the jack - handle crank to the left (anticlockwise direction) to lower the vehicle to the ground.
+
+![](https://vinfastowners.org/manuals/images/14dd959ffcdecca23144ff072f3e9ca001abaa06fd1bcfc717600b78070e4584.jpg)
+
+![](https://vinfastowners.org/manuals/images/34bc5123f879c53644d325884f71f9fa00f8c14c277ec3e974ad6dd5aee16ea2.jpg)
+
+13. Tighten the wheel studs using the jack - handle crank according to the order indicated in the fi gure shown above. Double check each wheel studs. Tightening torque: $1 4 0 { \\pm } 2 0 \\mathsf { N } { \\cdot } \\mathsf { m }$ .
+
+![](https://vinfastowners.org/manuals/images/c22c01b09e87c3c6739e6fdaf91fb0b9f5d3a7767936c2e542ae569ee67661f2.jpg)
+
+14. Check the tire pressure. If tire pressure is too high or too low, drive slowly to the nearest service station and adjust them to the recommended pressures. Be sure to refi t the valve cap after checking tire pressures to avoid any air leaks from occurring.
+
+15. Place the jack and other tools in the designated location in the rear cargo compartment.
+
+
+# WARNING
+
+Do not exceed the vehicle’s maximum load carrying capacity when using a spare tire.
+
+Do not use a spare tire for extended period. Replace or repair the original tire as soon as possible.
+
+Do not lift the vehicle on a jack unless all the passengers have safely exited the vehicle.
+
+Always lift the vehicle on a jack where the surface is fi rm and level and ensure the jack is stable.
+
+Position the jack only at the designated jacking points on the vehicle. Failure to comply may cause the jack to slip and cause serious injuries.
+
+Do not work under a raised vehicle.
+
+Use only factory provided jack to lift the vehicle.
+
+Do not touch the disc brakes or the area around the brakes as they can be extremely hot.
+
+# Jump-starting
+
+If the 12V battery is discharged, the vehicle may be jump-started by another vehicle’s battery and jumper cables or by using a low voltage power supply such as a portable jump-starter. If jump-starting from another vehicle, follow the other vehicles manufacturing guidelines for jump-starting.
+
+![](https://vinfastowners.org/manuals/images/b3141e8359577a97bddada4124f33ac204f17aec394d28f411609f5a46d87579.jpg)
+
+# NOTE
+
+Always ensure that only a 12V source is used to jump start the battery.
+
+![](https://vinfastowners.org/manuals/images/a15410f58243fd5dc9ad7f95eb173a7a15cbfdd55303d6ac89d8c5c4e90d6c84.jpg)
+
+# CAUTION
+
+Improper use of 12V batteries can lead to various issues, for the following reasons:
+
+Using the vehicle infrequently, with frequent starts and stops (short trips followed by engine shutdowns, repeated frequently).
+
+Allowing the vehicle to remain unused for extended periods without disconnecting the battery’s negative terminal. Leaving the vehicle unused for extended periods of time can cause the battery to discharge completely.
+
+Operating electrical devices that draw power from the battery when the vehicle is not in use.
+
+Installing non original equipment, electrical accessories from VinFast that may drain the battery’s power.
+
+Regularly discharging the battery due to improper use, such as leaving turn signals or hazard lights on for extended periods of time.
+
+![](https://vinfastowners.org/manuals/images/c722fafd6eed096b399f5d8a728db783f2d112366ac042ae50b8bc01c7f76f3a.jpg)
+
+# WARNING
+
+Always read and follow instructions when handling a battery to avoid serious injury or death.
+
+Wear correct personal protective equipment (PPE) when handling the battery. Failure in following the warning can cause serious injury or death.
+
+Keep all forms of smoke, fl ames, and sparks away from the battery at all times. Failure in following the warning can cause serious injury or death.
+
+Do not allow the jumper cables to make contact with each other or any metal surface other than the correct terminals.
+
+Ensure your vehicle is not connected to a high voltage charger when performing a jump-start. Failure to do so can cause serious injury or death.
+
+Batteries contain sulfuric acid. Avoid contact with eyes, skin, or clothing. Failure to do so may result in serious injury or death.
+
+Hydrogen is present in battery cells, which can ignite. Keep away from fl ames.
+
+The vehicle should not be used to jump start another vehicle as this could cause signifi cant damage to your vehicle.
+
+Do not try to jump start your vehicle if the outside temperatures are extremely low.
+
+Connecting the jumper cables incorrectly can cause damage to the vehicle and potentially lead to a fi re or explosion.
+
+If your vehicle has no 12V power, proceed with the following:
+
+1. Ensure the vehicle is OFF and in Park (P).
+2. Open the hood, see $>$ Front and Rear Compartments $>$ Hood.
+3. Locate the 12V battery.
+4. Connect the red jumper cable to the positive $( + )$ terminal of the vehicle’s battery.
+5. Connect the other end of the red jumper cable to the positive $( + )$ terminal of good battery.
+6. Connect the black jumper cable to the negative (-) terminal of good battery.
+7. Connect the other end of black jumper cable to the negative (-) ground point of the vehicle’s battery.
+8. Start the vehicle with good battery, and then proceed to power on your vehicle.
+
+![](https://vinfastowners.org/manuals/images/da696ae1ff10863d0e6e9eccdb43d64574434bc41c5dfe94dfd7af1565ab2d06.jpg)
+
+![](https://vinfastowners.org/manuals/images/f3c33d05070879573dd1ee353f4a52ad733f172fa14046db68192ce41dda59ab.jpg)
+
+# NOTE
+
+If your vehicle does not start, please contact roadside assistance or have the vehicle checked by authorised VinFast Service Center.
+
+For safe battery disposal please refer to your country’s battery disposal and recycling laws.
+
+Disconnecting jumper cables process:
+
+1. Disconnect black jumper cable from the negative (-) ground point of the vehicle’s battery.
+2. Disconnect the other end of the black negative $( - )$ jumper cable from the good battery.
+3. Disconnect the red jumper cable from the positive $( + )$ terminal of the vehicle’s battery.
+4. Disconnect the other end of the red jumper cable from the positive $( + )$ terminals on the good battery.
+
+# Towing
+
+If the vehicle breaks down and towing is necessary, it is recommended to have any towing conducted by a professional towing service. When towing, all four wheels must not be in contact with the ground. The spinning wheels enable the Regenerative Braking System to generate electricity, which cannot be managed correctly while the vehicle is turned OFF. This may lead to over-heating of the system components.
+
+# CAUTION
+
+Do not transport the vehicle using any method that is not recommended by VinFast.
+
+![](https://vinfastowners.org/manuals/images/5f4468c62ada76fddbb22e77f2fc8a6e14eb52f5ccfe06f189ce94b170103917.jpg)
+
+# WARNING
+
+Do not use your vehicle to tow another vehicle.
+
+If the vehicle has an electrical fault, it may pose a safety hazard. Seek immediate assistance and keep away from the vehicle.
+
+Do not transport the vehicle in a position where the wheels can spin, this may lead to signifi cant damage and overheating of the operating systems. In rare cases of extreme overheating, it may cause the surrounding components to ignite.
+
+# Preparing Vehicle to be Towed
+
+There are two tow eye attachment points. One in the front bumper and another in rear bumper. A tow eye is provided with the vehicle, and it is stored in the toolbox in rear cargo compartment.
+
+Before towing make sure to disengage the parking brake, put the vehicle in neutral and turn the vehicle OFF.
+
+![](https://vinfastowners.org/manuals/images/5c575e09379a0b71d1325aee52b656e203ff2ff6df2a60c91050fc0994223de8.jpg)
+
+# CAUTION
+
+Do not transport the vehicle without using self-loading dollies or tire skates.
+
+![](https://vinfastowners.org/manuals/images/6c1dd2c23ce13ceeeeff4bbf87c81c6504cb9bbba68cf127a0fb2c7ef1ed0403.jpg)
+
+# WARNING
+
+The vehicle is equipped with high voltage components (see $>$ High Voltage Components) that may be damaged in the event of a collision. It is important to assume these components are energized prior to transporting the vehicle.
+
+Always follow high voltage safety precautions (wearing protective gear, etc.) until emergency response professionals have evaluated the vehicle and have confi rmed that all high voltage systems are no longer operational. Failure to comply may result in a serious injury.
+
+EPB Disengaged
+
+![](https://vinfastowners.org/manuals/images/ed504eaa7c5b20a4e4e4bb7347e01dc5c25b95cbe2885c0eaae349c4157aa352.jpg)
+
+To disengage Electronic Parking Brake (EPB) depress the brake pedal and disengage the EPB switch.
+
+# Using the Tow Eye/Hook:
+
+Open the liftgate and raise the cargo fl oor cover from the tab. The tow eye is located under the rear storage fl oor compartment.
+
+How to fi t Front Tow eye:
+
+![](https://vinfastowners.org/manuals/images/096c7a337dc45bea575ff894fd1fcd7c331bf21af1c6a7acd40da4ec8851f253.jpg)
+
+1. Locate the tow eye cover on the front bumper and push the bottom part to release.
+
+2. To access the tow eye mounting point, remove the cover .
+
+3. Install the tow eye
+
+
+![](https://vinfastowners.org/manuals/images/42fae92e69e507c8ba43e0dd912660085d264fb9d4df747b218777482940f8c7.jpg)
+
+by turning it clockwise into the hole until it is fully secured.
+
+4. To remove the tow eye rotate it anti-clockwise until it is loose. Reinstall the cover
+
+How to fi t Rear Tow eye:
+
+![](https://vinfastowners.org/manuals/images/ff1c4df9eb233d1816828b5909c7e4ffaf424cef237058713e88598d06c9f276.jpg)
+
+1. Locate the tow eye cover on the rear bumper and push the bottom part to release.
+
+2. To access the tow eye mounting point, remove the cover.
+
+3. Install the tow eye
+
+
+![](https://vinfastowners.org/manuals/images/f9040a20bbe4d85ab44169aca568a533103d4efe89ec1e7265d0b85ff510e890.jpg)
+
+by turning it clockwise into the hole until it is fully secured.
+
+4. To remove the tow eye rotate it anti-clockwise until it is loose. Reinstall the cover
+
+![](https://vinfastowners.org/manuals/images/6ee9f5d0f8279eb2704de671922234bdff7777ae258a0244ff6e0578ed419073.jpg)
+
+# CAUTION
+
+Ensure the tow eye is properly secured before towing the vehicle.
+
+# Approved Towing Methods
+
+VinFast recommends getting professional help for towing and following the correct towing procedure to prevent damage to the vehicle.
+
+![](https://vinfastowners.org/manuals/images/266e5615fc3f974e353c039db428cba7748161ff972d1c5bb479aeaec06c97a8.jpg)
+
+AWD Variant
+
+![](https://vinfastowners.org/manuals/images/7ec32126b03058b9d3be8e62c5df3d2ae6b708dc9bc2183f24ee68bf810ba54f.jpg)
+
+FWD Variant
+
+A fl atbed truck or similar recovery vehicle is recommended when transporting the vehicle.
+
+Follow the tow eye attachment instruction described above prior to winching the vehicle. Attach the winch cable to the tow eye. Put the vehicle in Neutral (N), disengage the EPB, and turn the vehicle OFF. Pull the vehicle slowly onto the fl atbed truck.
+
+The vehicle’s wheels must be tied down using the eight-point tie down method, to ensure the vehicle is secured properly on the truck bed.
+
+# CAUTION
+
+Do not secure the vehicle using tie-down straps to the chassis, suspension or other parts of the vehicle’s body, this may damage the vehicle.
+
+Do not place tie-down straps over the vehicle’s body or through the wheels.
+
+Ensure that the metal parts of the tie down do not come in contact with the vehicle paint.
+
+If the vehicle cannot be transported on a fl atbed truck and a normal recovery truck is to be used, lift the wheels on to dollies or tire skates to ensure that all four wheels are off the ground. It is recommended to tow the vehicle facing forward so that the front wheels are lifted and the rear wheels are on dollies or tire skates. This method may only be used for a maximum of $5 0 \ \\mathsf { k m }$ (31.06 miles), and must not exceed the manufacturer speed rating of the dollies or tire skates.
+
+# 11.3. Contact
+
+# VinFast Customer Care
+
+VinFast Customer Care representatives are available Monday to Sunday 24 hours a day to assist with any of your vehicle needs. They can be contacted on:
+
+# VinFast Customer Care:
+
+Vietnam : 1900 23 23 89
+
+To Call the VinFast Hotline Support:
+
+1. Tap
+
+icon on the status bar.
+
+2. Tap Call Now.
+
+# 12\. Additional Information
+
+# 12.1. Reference
+
+# Data Storage and Processing
+
+Your vehicle is fi tted with electronic control units. Data is processed and generated by control units based on inputs from sensors. Your vehicle’s control units are used to keep the vehicle safe, support you while driving (driver assistance systems), and to enable convenience and infotainment functions.
+
+In certain circumstances, the data generated or processed by control units can be considered personal data under the law. Depending on the vehicle data available, this data may reveal information about your driving behavior, your location, or your route, as well as your usage patterns.
+
+The vehicle only processes this data locally within its own hardware, and the data does not last beyond the operating time. Control units often contain data storage devices. On a temporary or permanent basis, these record vehicle information, component load levels, maintenance requirements, technical events, and faults.
+
+Within your infotainment screen, you can also confi gure how VinFast Connected Services transmit your data and location.
+
+International personal data transfer
+
+VinFast has offi ces in Vietnam, Europe, United States and some other countries and regions in the world. Depending on your use of VinFast Products, your personal information may be transferred and/or stored in or accessed from multiple countries, including but not limited to Vietnam, Europe, United States, Singapore and other locations where we or our service providers maintain servers with relevant contractual clauses to protect such transfers.
+
+# eCall Data Processing Arrangements
+
+Personal data will be processed in accordance with applicable privacy laws in the jurisdiction or geographic area where the vehicle is being operated.
+
+A public safety answering point (PSAP) designated by the respective public authorities of the country in which you are located will be the recipient of the data processed by the eCall in-vehicle system, for receiving and handling eCalls.
+
+An eCall in-vehicle system is designed to eliminate access to system memory prior to triggering an eCall.
+
+In its normal operation, the eCall in-vehicle system is designed to ensure that it is not traceable or subject to constant tracking.
+
+In the in-vehicle eCall system, no data is stored on the system. All of the data is directly sent to the PSAP. The log of activity data in the eCall in-vehicle system is kept for no longer than necessary for attaining the purpose of handling the emergency eCall and in any case not beyond 13 hours from the moment an emergency eCall was initiated.
+
+Exercising your rights for VinFast Connected Services or for activities where VinFast is the data controller
+
+Your personal data is processed according to applicable data protection law.
+
+In accordance with this, VinFast and third parties have a legal obligation to provide you with comprehensive information free of charge, including a description of services used for the vehicle, and providers of online services. You can request information about what personal data is stored and for what purpose, as well as where the data comes from. Your right to information also may include the transfer of data to other bodies.
+
+VinFast may be required to provide data gathered by VinFast to government agencies according to legal requirements, such as police investigations of criminal offenses.
+
+A government agency may also require access to data from vehicles themselves in individual cases under applicable law. For example, if there is an accident, the airbag control unit may help clarify the situation by providing information.
+
+If you believe your rights have been infringed as a result of the processing of your personal data, you have a right to lodge a complaint with the competent data protection authority.
+
+Data Privacy
+
+We place a high priority on protecting your data privacy. Details about how we manage your data can be found in our Privacy Policy. For requests to manage your data, including requests to delete your data, please refer to our DSR form.
