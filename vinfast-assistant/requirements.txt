@@ -11,3 +11,7 @@ scikit-learn>=1.5.0
 pydantic>=2.10.0
 python-multipart>=0.0.20
 corsanywhere>=0.0.6
+langchain-postgres>=0.0.3
+langchain-huggingface>=0.1.0
+sentence-transformers>=3.0.0
+psycopg-binary>=3.1.0

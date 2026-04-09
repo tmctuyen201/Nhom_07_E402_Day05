@@ -1,47 +1,76 @@
 """
-TF-IDF Embeddings + Cosine Similarity Retrieval
-No external API needed — pure Python with scikit-learn.
+Embedding Retrieval using PGVector + Supabase
 """
-import math
-import re
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
-from .knowledge_base import KNOWLEDGE_BASE, Chunk
+import logging
+import os
+from typing import List, Tuple
+from dotenv import load_dotenv
 
-# Build corpus texts and fit vectorizer once
-_CORPUS = [chunk.content for chunk in KNOWLEDGE_BASE]
-_VECTORIZER = TfidfVectorizer(max_features=500, stop_words="english", ngram_range=(1, 2))
-_MATRIX = _VECTORIZER.fit_transform(_CORPUS)  # shape: (n_chunks, n_features)
+load_dotenv(dotenv_path="./config/.env")
 
-def compute_embedding(text: str) -> list[float]:
-    """Transform query text into TF-IDF vector."""
-    vec = _VECTORIZER.transform([text]).toarray()[0]
-    norm = math.sqrt(sum(v * v for v in vec))
-    norm = norm or 1.0
-    return [v / norm for v in vec]
+logger = logging.getLogger("vinfast")
 
-def cosine_similarity_vec(a: list[float], b: list[float]) -> float:
-    dot = sum(x * y for x, y in zip(a, b))
-    mag_a = math.sqrt(sum(x * x for x in a))
-    mag_b = math.sqrt(sum(x * x for x in b))
-    return dot / (mag_a * mag_b + 1e-10)
+from .db import get_pgvector_store, query_similar_vectors_from_pgvector
+from .knowledge_base import Chunk
 
-def retrieve(query: str, car_model: str | None = None, top_k: int = 5, threshold: float = 0.1) -> list[tuple[Chunk, float]]:
-    """Retrieve top-K chunks above similarity threshold."""
-    query_vec = compute_embedding(query)
-    chunks = KNOWLEDGE_BASE
-    if car_model:
-        chunks = [c for c in chunks if c.car_model.lower() == car_model.lower()]
+_collection_name = os.getenv("COLLECTION_NAME", "vinfast_manual_vectors")
+_vector_store = None
 
-    results: list[tuple[Chunk, float]] = []
-    for i, chunk in enumerate(chunks):
-        chunk_vec = _MATRIX[i].toarray()[0]
-        norm = math.sqrt(sum(v * v for v in chunk_vec))
-        norm = norm or 1.0
-        dense = [v / norm for v in chunk_vec]
-        score = cosine_similarity_vec(query_vec, dense)
-        if score >= threshold:
-            results.append((chunk, score))
+def _get_vector_store():
+    global _vector_store
+    if _vector_store is None:
+        try:
+            _vector_store = get_pgvector_store(_collection_name)
+            logger.info(f"Connected to PGVector collection: {_collection_name}")
+        except Exception as e:
+            logger.error(f"Failed to connect to PGVector: {e}")
+            raise
+    return _vector_store
 
+def retrieve(query: str, car_model: str | None = None, top_k: int = 5, threshold: float = 0.1) -> List[Tuple[Chunk, float]]:
+    """Retrieve top-K chunks from PGVector above similarity threshold."""
+    try:
+        vs = _get_vector_store()
+    except Exception as e:
+        logger.error(f"Vector store unavailable: {e}")
+        return []
+    
+    fetch_k = top_k * 3 if car_model else top_k * 2
+    
+    results_with_scores = query_similar_vectors_from_pgvector(
+        query=query,
+        vector_store=vs,
+        top_k=fetch_k
+    )
+    
+    if not results_with_scores:
+        logger.warning(f"No results found for query: {query[:50]}")
+        return []
+    
+    results: List[Tuple[Chunk, float]] = []
+    for doc, score in results_with_scores:
+        similarity = 1 / (1 + score)
+        
+        if similarity < threshold:
+            continue
+        
+        metadata = doc.metadata or {}
+        chunk_car_model = metadata.get("car_model", "")
+        
+        if car_model and chunk_car_model.lower() != car_model.lower():
+            continue
+        
+        chunk = Chunk(
+            id=metadata.get("id", ""),
+            page_number=metadata.get("page_number", 0),
+            chapter=metadata.get("chapter", ""),
+            section=metadata.get("section", ""),
+            content=doc.page_content,
+            car_model=chunk_car_model,
+            category=metadata.get("category", "")
+        )
+        results.append((chunk, similarity))
+    
     results.sort(key=lambda x: x[1], reverse=True)
+    logger.info(f"Retrieved {len(results)}/{fetch_k} chunks (top_k={top_k}, car_model={car_model})")
     return results[:top_k]
