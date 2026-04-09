@@ -1,47 +1,42 @@
 """
-FastAPI Server — VinFast Car Assistant Backend
+VinFast Car Assistant — FastAPI entry point.
+Routes only. Business logic lives in core/, tools/, rag/, llm/.
 """
 import logging
 import sys
-from fastapi import FastAPI, HTTPException, Header, Request
+import uvicorn
+from fastapi import FastAPI, HTTPException, Header
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel, Field
 from typing import Optional
-import uvicorn
 
-# ── Structured logging setup ──────────────────────────────────
+# ── Logging ───────────────────────────────────────────────────
 logger = logging.getLogger("vinfast")
 logger.setLevel(logging.INFO)
-_handler = logging.StreamHandler(sys.stdout)
-_handler.setFormatter(logging.Formatter(
-    "%(asctime)s | %(levelname)-7s | %(message)s",
-    datefmt="%H:%M:%S"
-))
-logger.addHandler(_handler)
-
-# Suppress noisy uvicorn access log (we keep startup + error only)
+_h = logging.StreamHandler(sys.stdout)
+_h.setFormatter(logging.Formatter("%(asctime)s | %(levelname)-7s | %(message)s", datefmt="%H:%M:%S"))
+logger.addHandler(_h)
 logging.getLogger("uvicorn.access").setLevel(logging.WARNING)
 
 from .config import LLM_MODEL, LLM_PROVIDER, PORT
-from .agents import run_orchestrator
-from .knowledge_base import KNOWLEDGE_BASE
+from .core.orchestrator import run_orchestrator
+from .rag.db import db_stats
+from .tools.location import find_nearby_stations
 
-app = FastAPI(title="VinFast Car Assistant API", version="1.0.0")
+app = FastAPI(title="VinFast Car Assistant API", version="2.0.0")
+app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
-# ── Request / Response models ─────────────────────────────────
+# ── Models ────────────────────────────────────────────────────
 class AgentRequest(BaseModel):
     query: str = Field(..., min_length=1, max_length=500)
-    car_model: str = Field(default="VF8", pattern="^(VF[0-9]|VF 9|VF 8)$")
+    car_model: str = Field(default="VF8", pattern="^(VF[0-9]|VF 9|VF 8|VF 7)$")
     image_data: Optional[str] = None
     conversation_history: list[dict] = Field(default_factory=list)
+    user_profile: Optional[dict] = None  # {name, car_variant, current_km}
+
+class IntentRequest(BaseModel):
+    query: str = Field(..., min_length=1, max_length=500)
 
 class AgentResponse(BaseModel):
     text: str
@@ -50,124 +45,142 @@ class AgentResponse(BaseModel):
     confidence: float
     is_safety_warning: bool = False
     category: Optional[str] = None
+    tool_action: Optional[dict] = None   # signals frontend to run a tool
+
+class NearbyStationsRequest(BaseModel):
+    lat: float
+    lng: float
+    station_type: str = Field(default="charging", pattern="^(charging|service)$")
+    radius_km: int = Field(default=15, ge=1, le=50)
+
+class SearchPlacesRequest(BaseModel):
+    lat: float
+    lng: float
+    keyword: str = Field(..., min_length=1, max_length=100)
+    limit: int = Field(default=5, ge=1, le=20)
+
+class DirectionsRequest(BaseModel):
+    destination: str = Field(..., min_length=1, max_length=200)
 
 class FeedbackRequest(BaseModel):
     message_id: str
     query: str
     ai_answer: str
-    correction: Optional[str] = None
     thumbs_up: bool = False
     thumbs_down: bool = False
     car_model: str = "VF8"
-    category: Optional[str] = None
 
-# ── In-memory feedback storage (replace with DB in production) ──
 _feedback_logs: list[dict] = []
 
 # ── Routes ────────────────────────────────────────────────────
+
 @app.get("/api/health")
 async def health():
-    logger.info("GET /api/health")
-    return {
-        "status": "ok",
-        "service": "VinFast Car Assistant",
-        "provider": LLM_PROVIDER,
-        "model": LLM_MODEL,
-        "knowledge_chunks": len(KNOWLEDGE_BASE),
-    }
+    stats = db_stats()
+    return {"status": "ok", "provider": LLM_PROVIDER, "model": LLM_MODEL, "db": stats}
+
+
+@app.post("/api/intent")
+async def classify_intent_endpoint(req: IntentRequest, authorization: Optional[str] = Header(None)):
+    """Fast intent classification — frontend calls this before executing tools."""
+    import os
+    from .core.intent import classify_intent
+    api_key = (authorization.replace("Bearer ", "") if authorization else os.getenv("OPENAI_API_KEY", "")).strip()
+    if not api_key:
+        raise HTTPException(401, "API key required.")
+    logger.info(f"POST /api/intent | '{req.query[:60]}'")
+    result = await classify_intent(req.query, api_key)
+    return result
+
 
 @app.post("/api/agent", response_model=AgentResponse)
-async def agent(
-    req: AgentRequest,
-    authorization: Optional[str] = Header(None)
-):
+async def agent(req: AgentRequest, authorization: Optional[str] = Header(None)):
     import os
-    api_key = (
-        authorization.replace("Bearer ", "") if authorization
-        else os.getenv("OPENAI_API_KEY", "")
-    ).strip()
-
-    logger.info(f"POST /api/agent | query='{req.query[:60]}' car_model={req.car_model}")
-
+    api_key = (authorization.replace("Bearer ", "") if authorization else os.getenv("OPENAI_API_KEY", "")).strip()
     if not api_key:
-        logger.warning("401 — missing API key")
-        raise HTTPException(status_code=401, detail="OpenAI API key required. Set OPENAI_API_KEY env var or pass Bearer token.")
+        raise HTTPException(401, "API key required. Set OPENAI_API_KEY or pass Bearer token.")
 
-    try:
-        result = await run_orchestrator(
-            query=req.query,
-            car_model=req.car_model.replace(" ", ""),  # "VF 8" -> "VF8"
-            image_data=req.image_data,
-            conversation_history=req.conversation_history,
-            api_key=api_key,
-        )
-        logger.info(f"  → answer (conf={result.confidence:.2f}, cat={result.category})")
-        return AgentResponse(
-            text=result.answer,
-            agent="orchestrator",
-            sources=result.sources,
-            confidence=result.confidence,
-            category=result.category
-        )
-    except Exception as e:
-        logger.error(f"500 — {e}")
-        raise HTTPException(status_code=500, detail=str(e))
+    logger.info(f"POST /api/agent | '{req.query[:60]}' model={req.car_model}")
+    result = await run_orchestrator(
+        query=req.query,
+        car_model=req.car_model.replace(" ", ""),
+        image_data=req.image_data,
+        conversation_history=req.conversation_history,
+        api_key=api_key,
+        user_profile=req.user_profile,
+    )
+    return AgentResponse(
+        text=result.answer,
+        sources=result.sources,
+        confidence=result.confidence,
+        category=result.category,
+        tool_action=result.tool_action,
+    )
+
+
+@app.post("/api/nearby-stations")
+async def nearby_stations(req: NearbyStationsRequest):
+    """Find charging stations or service centers near a GPS coordinate."""
+    from .config import SERPAPI_KEY
+    logger.info(f"POST /api/nearby-stations | type={req.station_type} lat={req.lat:.4f} lng={req.lng:.4f}")
+    result = await find_nearby_stations(
+        lat=req.lat, lng=req.lng,
+        station_type=req.station_type,  # type: ignore
+        radius_km=req.radius_km,
+        serpapi_key=SERPAPI_KEY,
+    )
+    return result
+
+
+@app.post("/api/search-places")
+async def search_places_endpoint(req: SearchPlacesRequest):
+    """Search nearby places by keyword (food, coffee, store, etc.)."""
+    from .config import SERPAPI_KEY
+    from .tools.places import search_places
+    logger.info(f"POST /api/search-places | keyword='{req.keyword}' limit={req.limit} lat={req.lat:.4f} lng={req.lng:.4f}")
+    result = await search_places(
+        lat=req.lat, lng=req.lng,
+        keyword=req.keyword, limit=req.limit,
+        serpapi_key=SERPAPI_KEY,
+    )
+    return result
+
+
+@app.post("/api/directions")
+async def directions_endpoint(req: DirectionsRequest):
+    """Geocode a destination via Nominatim and return a Google Maps directions URL."""
+    from .tools.places import geocode_destination
+    logger.info(f"POST /api/directions | destination='{req.destination}'")
+    result = await geocode_destination(req.destination)
+    return result
+
 
 @app.post("/api/feedback")
 async def feedback(req: FeedbackRequest):
-    logger.info(f"POST /api/feedback | msg_id={req.message_id} thumbs={'up' if req.thumbs_up else 'down' if req.thumbs_down else 'none'}")
-    _feedback_logs.append({
-        "message_id": req.message_id,
-        "query": req.query,
-        "ai_answer": req.ai_answer,
-        "thumbs_up": req.thumbs_up,
-        "thumbs_down": req.thumbs_down,
-        "car_model": req.car_model,
-        "timestamp": __import__("datetime").datetime.now().isoformat()
-    })
-    return {"status": "ok", "total_logs": len(_feedback_logs)}
+    import datetime
+    _feedback_logs.append({**req.model_dump(), "timestamp": datetime.datetime.now().isoformat()})
+    return {"status": "ok", "total": len(_feedback_logs)}
+
 
 @app.get("/api/feedback/export")
 async def export_feedback():
-    logger.info(f"GET /api/feedback/export | {len(_feedback_logs)} logs")
-    return JSONResponse(content={"logs": _feedback_logs[-100:]})
+    return JSONResponse({"logs": _feedback_logs[-100:]})
+
 
 @app.get("/api/knowledge/stats")
 async def knowledge_stats():
-    logger.info("GET /api/knowledge/stats")
-    from collections import Counter
-    cats = Counter(c.category for c in KNOWLEDGE_BASE)
-    models = Counter(c.car_model for c in KNOWLEDGE_BASE)
-    return {
-        "total_chunks": len(KNOWLEDGE_BASE),
-        "by_category": dict(cats),
-        "by_model": dict(models),
-    }
+    return db_stats()
 
-# ── CLI crawler endpoint ──────────────────────────────────────
-from .crawler import crawl_url
 
-@app.post("/api/crawl")
-async def crawl_manual(url: str, car_model: str = "VF8"):
-    logger.info(f"POST /api/crawl | url={url} car={car_model}")
-    from .crawler import crawl_vinfast_manual, CrawlResult
-    result: CrawlResult = await crawl_vinfast_manual(url, car_model)
-    logger.info(f"  → {len(result.chunks)} chunks, {result.total_pages} pages, {len(result.errors)} errors")
-    return {
-        "chunks_found": len(result.chunks),
-        "pages_crawled": result.total_pages,
-        "errors": result.errors,
-        "preview": [
-            {"page": c.page_number, "chapter": c.chapter, "content": c.content[:200]}
-            for c in result.chunks[:5]
-        ]
-    }
+@app.post("/api/ingest")
+async def trigger_ingest():
+    import asyncio
+    from .rag.ingest import run_ingest
+    loop = asyncio.get_event_loop()
+    await loop.run_in_executor(None, run_ingest)
+    return {"status": "ok", "db_stats": db_stats()}
 
-# ── Run ─────────────────────────────────────────────────────
+
+# ── Run ───────────────────────────────────────────────────────
 if __name__ == "__main__":
-    logger.info("=" * 52)
-    logger.info(f"  VinFast Car Assistant API")
-    logger.info(f"  http://localhost:{PORT}")
-    logger.info(f"  chunks: {len(KNOWLEDGE_BASE)} | provider: {LLM_PROVIDER} | model: {LLM_MODEL}")
-    logger.info("=" * 52)
-    uvicorn.run("main:app", host="0.0.0.0", port=PORT, reload=False)
+    uvicorn.run("backend.main:app", host="0.0.0.0", port=PORT, reload=False)

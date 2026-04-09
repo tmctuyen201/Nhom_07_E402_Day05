@@ -1,16 +1,48 @@
 import { useState, useCallback, useRef, useEffect } from 'react';
-import type { AgentMessage } from '../types/agent';
+import type { AgentMessage, ToolCallResult } from '../types/agent';
 import {
-  getOrCreateSessionId,
-  saveChatHistory,
-  loadChatHistory,
-  clearChatHistory,
-  buildLLMHistory,
-  saveSessionMeta,
+  getOrCreateSessionId, saveChatHistory, loadChatHistory,
+  clearChatHistory, buildLLMHistory, saveSessionMeta,
 } from '../lib/memory';
+import { saveSession } from '../lib/memory/sessions';
+import { loadUserProfile, profileToApiPayload } from '../lib/memory/userProfile';
 
 const MAX_RETRIES = 3;
 const RETRY_DELAY_MS = 1500;
+
+// ── LLM-based intent classification (replaces all regex) ──────
+async function classifyIntent(query: string, apiKey: string): Promise<{ intent: string; params: Record<string, unknown> }> {
+  try {
+    const res = await fetch('/api/intent', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${apiKey}` },
+      body: JSON.stringify({ query }),
+    });
+    if (!res.ok) return { intent: 'car_assistant', params: {} };
+    return await res.json();
+  } catch {
+    return { intent: 'car_assistant', params: {} };
+  }
+}
+
+// ── Greeting response — no API call needed ────────────────────
+function buildGreetingReply(carModel: string): string {
+  const profile = loadUserProfile();
+  const name = profile?.name ? ` ${profile.name}` : '';
+  const car = profile?.carVariant || carModel;
+  return `Chào${name}! 👋 Mình là VinFast AI, trợ lý đồng hành cùng chiếc ${car} của bạn.
+
+Mình có thể giúp bạn:
+- 🔋 Tính phạm vi di chuyển theo % pin
+- ⚠️ Giải thích đèn cảnh báo trên taplo
+- 🤖 Hướng dẫn tính năng ADAS
+- 🔧 Kiểm tra lịch bảo dưỡng theo số km
+- 📍 Tìm trạm sạc / trung tâm dịch vụ gần nhất
+- 🍜 Tìm quán ăn, cà phê, ATM gần đây
+- 🧭 Chỉ đường đến bất kỳ địa điểm nào
+
+Bạn cần mình giúp gì hôm nay?`;
+}
 
 interface UseAgentOptions {
   apiKey: string;
@@ -23,8 +55,13 @@ interface UseAgentReturn {
   error: string | null;
   rateLimitCountdown: number;
   sessionId: string;
+  currentSessionId: string;
   sendMessage: (query: string, imageData?: string) => Promise<void>;
   clearChat: () => void;
+  loadSession: (id: string, sessionMessages: AgentMessage[]) => void;
+  runChargingStationTool: (toolMsgId: string, stationType?: 'charging' | 'service') => void;
+  runPlaceSearchTool: (toolMsgId: string, keyword: string, limit: number) => void;
+  runDirectionsTool: (toolMsgId: string, destination: string) => void;
 }
 
 export function useAgent({ apiKey, carModel }: UseAgentOptions): UseAgentReturn {
@@ -50,8 +87,16 @@ export function useAgent({ apiKey, carModel }: UseAgentOptions): UseAgentReturn 
         carModel,
       });
       messageCountRef.current = messages.length;
+      // Auto-save to multi-session store
+      saveSession({
+        id: sessionId,
+        carModel,
+        createdAt: Date.now(),
+        lastAt: Date.now(),
+        messages,
+      });
     }
-  }, [messages, carModel]);
+  }, [messages, carModel, sessionId]);
 
   // ── Init session metadata ────────────────────────────────
   useEffect(() => {
@@ -69,8 +114,177 @@ export function useAgent({ apiKey, carModel }: UseAgentOptions): UseAgentReturn 
     messageCountRef.current = 0;
   }, []);
 
+  const loadSession = useCallback((id: string, sessionMessages: AgentMessage[]) => {
+    setMessages(sessionMessages);
+    saveChatHistory(sessionMessages);
+    setError(null);
+    messageCountRef.current = sessionMessages.length;
+  }, []);
+
+  // ── Tool: find charging stations ──────────────────────────
+  const runChargingStationTool = useCallback(async (toolMsgId: string, stationType: 'charging' | 'service' = 'charging') => {
+    const updateTool = (patch: Partial<ToolCallResult>) =>
+      setMessages(prev => prev.map(m =>
+        m.id === toolMsgId ? { ...m, toolCall: { ...m.toolCall!, ...patch } } : m
+      ));
+
+    if (!navigator.geolocation) {
+      updateTool({ status: 'error', error: 'Trình duyệt không hỗ trợ định vị GPS.' });
+      return;
+    }
+
+    updateTool({ status: 'requesting_location', stationType });
+
+    navigator.geolocation.getCurrentPosition(
+      async pos => {
+        const { latitude: lat, longitude: lng } = pos.coords;
+        updateTool({ status: 'searching', userLocation: { lat, lng }, stationType });
+        try {
+          const res = await fetch('/api/nearby-stations', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ lat, lng, station_type: stationType, radius_km: 15 }),
+          });
+          if (!res.ok) throw new Error(`Server error ${res.status}`);
+          const data = await res.json();
+          updateTool({ status: 'done', stations: data.stations ?? [], source: data.source, userLocation: { lat, lng }, stationType });
+        } catch (e) {
+          updateTool({ status: 'error', error: e instanceof Error ? e.message : 'Lỗi tìm trạm.', stationType });
+        }
+      },
+      err => {
+        const msgs: Record<number, string> = {
+          1: 'Bạn đã từ chối quyền truy cập vị trí.',
+          2: 'Không thể xác định vị trí. Kiểm tra kết nối mạng.',
+          3: 'Hết thời gian chờ định vị. Thử lại.',
+        };
+        updateTool({ status: 'error', error: msgs[err.code] ?? 'Lỗi định vị.', stationType });
+      },
+      { timeout: 10000, maximumAge: 60000, enableHighAccuracy: false }
+    );
+  }, []);
+
+  // ── Tool: search nearby places ────────────────────────────
+  const runPlaceSearchTool = useCallback((toolMsgId: string, keyword: string, limit: number) => {
+    const updateTool = (patch: Partial<ToolCallResult>) =>
+      setMessages(prev => prev.map(m =>
+        m.id === toolMsgId ? { ...m, toolCall: { ...m.toolCall!, ...patch } } : m
+      ));
+
+    if (!navigator.geolocation) {
+      updateTool({ status: 'error', error: 'Trình duyệt không hỗ trợ định vị GPS.' });
+      return;
+    }
+    updateTool({ status: 'requesting_location' });
+
+    navigator.geolocation.getCurrentPosition(
+      async pos => {
+        const { latitude: lat, longitude: lng } = pos.coords;
+        updateTool({ status: 'searching', userLocation: { lat, lng } });
+        try {
+          const res = await fetch('/api/search-places', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ lat, lng, keyword, limit }),
+          });
+          if (!res.ok) throw new Error(`Server error ${res.status}`);
+          const data = await res.json();
+          updateTool({ status: 'done', places: data.places ?? [], source: data.source, userLocation: { lat, lng }, keyword, error: data.error });
+        } catch (e) {
+          updateTool({ status: 'error', error: e instanceof Error ? e.message : 'Lỗi tìm kiếm.' });
+        }
+      },
+      err => {
+        const msgs: Record<number, string> = { 1: 'Bạn đã từ chối quyền truy cập vị trí.', 2: 'Không thể xác định vị trí.', 3: 'Hết thời gian chờ.' };
+        updateTool({ status: 'error', error: msgs[err.code] ?? 'Lỗi định vị.' });
+      },
+      { timeout: 10000, maximumAge: 60000, enableHighAccuracy: false }
+    );
+  }, []);
+
+  // ── Tool: get directions ──────────────────────────────────
+  const runDirectionsTool = useCallback(async (toolMsgId: string, destination: string) => {
+    const updateTool = (patch: Partial<ToolCallResult>) =>
+      setMessages(prev => prev.map(m =>
+        m.id === toolMsgId ? { ...m, toolCall: { ...m.toolCall!, ...patch } } : m
+      ));
+
+    updateTool({ status: 'geocoding', destination });
+    try {
+      const res = await fetch('/api/directions', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ destination }),
+      });
+      if (!res.ok) throw new Error(`Server error ${res.status}`);
+      const data = await res.json();
+      updateTool({
+        status: 'done',
+        destination,
+        display_name: data.display_name,
+        maps_url: data.maps_url,
+        directions_found: data.found,
+      });
+    } catch (e) {
+      updateTool({ status: 'error', error: e instanceof Error ? e.message : 'Lỗi geocoding.' });
+    }
+  }, []);
+
   const sendMessage = useCallback(async (query: string, imageData?: string) => {
     if (!query.trim()) return;
+
+    // ── Classify intent via LLM (no regex) ──
+    const { intent, params } = await classifyIntent(query, apiKey);
+
+    if (intent === 'greeting') {
+      const userMsg: AgentMessage = { id: `user-${Date.now()}`, role: 'user', content: query, timestamp: Date.now(), carModel };
+      const replyMsg: AgentMessage = {
+        id: `assistant-${Date.now()}`, role: 'assistant',
+        content: buildGreetingReply(carModel),
+        timestamp: Date.now(), carModel, agentType: 'orchestrator', confidence: 1.0,
+      };
+      setMessages(prev => [...prev, userMsg, replyMsg]);
+      return;
+    }
+
+    if (intent === 'find_charging_stations' || intent === 'find_service_centers') {
+      const stationType = intent === 'find_service_centers' ? 'service' : 'charging';
+      const userMsg: AgentMessage = { id: `user-${Date.now()}`, role: 'user', content: query, timestamp: Date.now(), carModel };
+      const toolMsgId = `tool-${Date.now()}`;
+      setMessages(prev => [...prev, userMsg, {
+        id: toolMsgId, role: 'assistant', content: '', timestamp: Date.now(), carModel, agentType: 'tool',
+        toolCall: { tool: 'find_charging_stations', status: 'requesting_location', stationType },
+      }]);
+      runChargingStationTool(toolMsgId, stationType);
+      return;
+    }
+
+    if (intent === 'search_places') {
+      const keyword = String(params.keyword ?? query);
+      const limit = Number(params.limit ?? 5);
+      const userMsg: AgentMessage = { id: `user-${Date.now()}`, role: 'user', content: query, timestamp: Date.now(), carModel };
+      const toolMsgId = `tool-${Date.now()}`;
+      setMessages(prev => [...prev, userMsg, {
+        id: toolMsgId, role: 'assistant', content: '', timestamp: Date.now(), carModel, agentType: 'tool',
+        toolCall: { tool: 'search_nearby_places', status: 'requesting_location', keyword },
+      }]);
+      runPlaceSearchTool(toolMsgId, keyword, limit);
+      return;
+    }
+
+    if (intent === 'get_directions') {
+      const destination = String(params.destination ?? query);
+      const userMsg: AgentMessage = { id: `user-${Date.now()}`, role: 'user', content: query, timestamp: Date.now(), carModel };
+      const toolMsgId = `tool-${Date.now()}`;
+      setMessages(prev => [...prev, userMsg, {
+        id: toolMsgId, role: 'assistant', content: '', timestamp: Date.now(), carModel, agentType: 'tool',
+        toolCall: { tool: 'get_directions', status: 'geocoding', destination },
+      }]);
+      runDirectionsTool(toolMsgId, destination);
+      return;
+    }
+
+    // intent === 'car_assistant' → normal LLM flow
 
     // Build LLM context from last 20 non-error messages
     const llmHistory = buildLLMHistory(messages);
@@ -130,6 +344,7 @@ export function useAgent({ apiKey, carModel }: UseAgentOptions): UseAgentReturn 
             car_model: carModel,
             image_data: imageData,
             conversation_history: llmHistory,
+            user_profile: profileToApiPayload(loadUserProfile()),
           }),
           signal: controller.signal,
         });
@@ -170,6 +385,36 @@ export function useAgent({ apiKey, carModel }: UseAgentOptions): UseAgentReturn 
           return [...withoutTyping, assistantMessage];
         });
 
+        // If LLM triggered a tool_action, inject a tool message
+        if (data.tool_action?.__tool_action__) {
+          const action = data.tool_action;
+          const toolType = action.tool;
+          const toolMsgId = `tool-${Date.now()}`;
+
+          if (toolType === 'find_nearby_stations') {
+            const stationType: 'charging' | 'service' = action.station_type ?? 'charging';
+            setMessages(prev => [...prev, {
+              id: toolMsgId, role: 'assistant', content: '',
+              timestamp: Date.now(), carModel, agentType: 'tool',
+              toolCall: { tool: 'find_charging_stations', status: 'requesting_location', stationType },
+            }]);
+            runChargingStationTool(toolMsgId, stationType);
+          } else if (toolType === 'battery_range') {
+            // Render battery range widget directly — data already computed
+            setMessages(prev => [...prev, {
+              id: toolMsgId, role: 'assistant', content: '',
+              timestamp: Date.now(), carModel, agentType: 'tool',
+              toolCall: { tool: 'battery_range', status: 'done', ...action },
+            }]);
+          } else if (toolType === 'maintenance_schedule') {
+            setMessages(prev => [...prev, {
+              id: toolMsgId, role: 'assistant', content: '',
+              timestamp: Date.now(), carModel, agentType: 'tool',
+              toolCall: { tool: 'maintenance_schedule', status: 'done', ...action },
+            }]);
+          }
+        }
+
         setIsLoading(false);
         retryCountRef.current = 0;
         return; // Success — exit
@@ -207,5 +452,5 @@ export function useAgent({ apiKey, carModel }: UseAgentOptions): UseAgentReturn 
     setIsLoading(false);
   }, [messages, carModel]); // eslint-disable-line react-hooks/exhaustive-deps
 
-  return { messages, isLoading, error, rateLimitCountdown, sessionId, sendMessage, clearChat };
+  return { messages, isLoading, error, rateLimitCountdown, sessionId, currentSessionId: sessionId, sendMessage, clearChat, loadSession, runChargingStationTool, runPlaceSearchTool, runDirectionsTool };
 }

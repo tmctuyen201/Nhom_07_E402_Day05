@@ -15,5 +15,8 @@ TOP_K               = int(os.getenv("TOP_K", "3"))  # Return top-3 chunks to syn
 SIMILARITY_THRESHOLD = float(os.getenv("SIMILARITY_THRESHOLD", "0.3"))
 MAX_TOKENS          = int(os.getenv("MAX_TOKENS", "800"))
 
+# ── SerpAPI config ──────────────────────────────────────────
+SERPAPI_KEY = os.getenv("SERPAPI_KEY", "")
+
 # ── Server config ───────────────────────────────────────────
 PORT = int(os.getenv("PORT", "8000"))
