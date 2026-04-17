@@ -1,0 +1,9 @@
+# Nixpacks configuration for VinFast Assistant
+[phases.setup]
+nixPkgs = ["python311", "gcc", "gxx", "postgresql", "libpqxx"]
+
+[phases.install]
+cmds = ["pip install -r requirements.txt"]
+
+[start]
+cmd = "python -m uvicorn vinfast-assistant.backend.main:app --host 0.0.0.0 --port $PORT"
