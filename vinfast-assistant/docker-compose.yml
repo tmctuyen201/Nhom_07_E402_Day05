@@ -1,0 +1,100 @@
+# ============================================================
+# VinFast Car Assistant — Docker Compose Stack
+#
+# Services:
+#   1. vinfast-agent  — FastAPI backend (scales to 3 replicas)
+#   2. redis          — Session storage, rate limiting, cost tracking
+#   3. nginx          — Load balancer + reverse proxy
+#
+# Usage:
+#   docker compose up --scale vinfast-agent=3   # with load balancing
+#   docker compose up                            # single instance
+#   docker compose down
+#
+# Ports:
+#   80   — Nginx (HTTP, public entry point)
+#   6379 — Redis (internal only)
+# ============================================================
+
+version: "3.9"
+
+services:
+
+  # ──────────────────────────────────────────────
+  # VinFast Agent — AI backend (scalable)
+  # ──────────────────────────────────────────────
+  vinfast-agent:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - ENVIRONMENT=staging
+      - PORT=8000
+      - REDIS_URL=redis://redis:6379/0
+    env_file:
+      - .env.local
+    depends_on:
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c",
+             "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 20s
+    restart: unless-stopped
+    deploy:
+      replicas: 1
+      resources:
+        limits:
+          cpus: "0.5"
+          memory: 512M
+    networks:
+      - vinfast-net
+    # Don't expose 8000 directly — only via nginx
+
+  # ──────────────────────────────────────────────
+  # Redis — Stateless state storage
+  # ──────────────────────────────────────────────
+  redis:
+    image: redis:7-alpine
+    command: redis-server --maxmemory 256mb --maxmemory-policy allkeys-lru
+    volumes:
+      - redis_data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+    restart: unless-stopped
+    networks:
+      - vinfast-net
+
+  # ──────────────────────────────────────────────
+  # Nginx — Load Balancer & Reverse Proxy
+  # ──────────────────────────────────────────────
+  nginx:
+    image: nginx:alpine
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      - vinfast-agent
+    restart: unless-stopped
+    networks:
+      - vinfast-net
+
+# ──────────────────────────────────────────────
+# Volumes — Persistent data
+# ──────────────────────────────────────────────
+volumes:
+  redis_data:
+
+# ──────────────────────────────────────────────
+# Network — Internal isolation
+# ──────────────────────────────────────────────
+networks:
+  vinfast-net:
+    driver: bridge

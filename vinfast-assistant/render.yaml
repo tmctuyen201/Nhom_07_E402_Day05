@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: vinfast-assistant
+    runtime: docker
+    region: singapore
+    plan: starter
+    healthCheckPath: /api/health
+    autoDeploy: true
+    envVars:
+      - key: ENVIRONMENT
+        value: production
+      - key: APP_VERSION
+        value: "2.0.0"
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: SERPAPI_KEY
+        sync: false
