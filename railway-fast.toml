@@ -1,0 +1,15 @@
+[build]
+builder = "NIXPACKS"
+buildCommand = "echo 'Using Nixpacks for faster builds'"
+
+[deploy]
+startCommand = "python -m uvicorn vinfast_assistant.backend.main.light:app --host 0.0.0.0 --port $PORT"
+healthcheckPath = "/api/health"
+healthcheckTimeout = 30
+restartPolicyType = "ON_FAILURE"
+restartPolicyMaxRetries = 3
+
+# Request larger build instance
+[build.resources]
+cpu = "2"
+memory = "4GB"

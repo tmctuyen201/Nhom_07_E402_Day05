@@ -6,4 +6,4 @@ nixPkgs = ["python311", "gcc", "gxx", "postgresql", "libpqxx"]
 cmds = ["pip install -r requirements.txt"]
 
 [start]
-cmd = "python -m uvicorn vinfast-assistant.backend.main:app --host 0.0.0.0 --port $PORT"
+cmd = "python -m uvicorn vinfast-assistant.backend.main.light:app --host 0.0.0.0 --port $PORT"
