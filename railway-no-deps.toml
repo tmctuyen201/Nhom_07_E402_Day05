@@ -1,0 +1,10 @@
+# Ultra-minimal Railway config - no dependencies
+[build]
+builder = "NIXPACKS"
+
+[deploy]
+startCommand = "python server.py"
+healthcheckPath = "/api/health"
+healthcheckTimeout = 10
+restartPolicyType = "ON_FAILURE"
+restartPolicyMaxRetries = 3

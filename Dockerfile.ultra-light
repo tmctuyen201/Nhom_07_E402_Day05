@@ -1,0 +1,29 @@
+# Ultra-light Dockerfile for Railway 4GB limit
+FROM python:3.11-alpine
+
+WORKDIR /app
+
+# Install minimal system dependencies
+RUN apk add --no-cache gcc musl-dev
+
+# Copy minimal requirements
+COPY requirements.ultra-light.txt ./requirements.txt
+
+# Install Python dependencies
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
+
+# Copy minimal application code
+COPY vinfast-assistant/backend/main.light.py ./main.py
+
+# Set environment variables
+ENV PYTHONPATH=/app
+ENV PYTHONUNBUFFERED=1
+
+EXPOSE 8000
+
+# Simple health check
+HEALTHCHECK --interval=30s --timeout=10s --start-period=5s --retries=3 \
+    CMD python -c "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/health')" || exit 1
+
+CMD ["python", "-m", "uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]

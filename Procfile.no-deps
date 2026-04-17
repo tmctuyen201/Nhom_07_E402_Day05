@@ -1,0 +1,2 @@
+# No dependencies version
+web: python server.py
